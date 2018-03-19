@@ -1,0 +1,159 @@
+@0    = ~Je te tiens à tes mots, Elue de Tyr. Cherche Gunshain, avant que mon coeur succombe définitivement.~ [SAERI168]
+@1    = ~Bienvenue, Elue de Tyr! Es tu venue te moquer du Déchu?~ [SAERI169]
+@2    = ~Non, Kesevar le Déchu! Il n'est pas question de moquerie. Je suis venue t'apporter la justice de Tyr.~ [SAERI170]
+@3    = ~Justice? Es tu venue pour la justice et non par vengeance?~
+@4    = ~Je ne suis pas une servante de Shevarash. Mais tu as versé du sang selon le jugement sacré.~
+@5    = ~Pour que ta vie et ton âme soient défaites.~
+@6    = ~Retiens ta main, Elue de Tyr! Je t'en supplie--et c'est justice que je demande!~
+@7    = ~(Les mains de Saerileth, qui s'étaient refermés autour du parchemin qu'elle porte toujours, se relâchent.)~
+@8    = ~Que veux tu dire? Parle, Kesevar le Déchu.~
+@9    = ~(Le visage du puissant deva devant vous s'éclaircit.) Tu acceptes de m'écouter? Alors Tyr n'a pas complètement oublié son serviteur!~
+@10   = ~Il n'y a pas plus vrai du fait que j'ai versé le sang selon le jugement sacré, mais si je ne l'avais pas fait je me serais senti encore plus coupable.~
+@11   = ~Une femme est venue ici, me suppliant de lui venir en aide. Les gardiens de la mort de Bhaal l'ont poursuivi dans le Grand Anneau, et a appelé Tyr pour l'aider.~
+@12   = ~Elle était avec son enfant, un garçon d'environ un an, et les gardiens de la mort ont convoité leur vie. J'ai sorti mon épée en son nom, et j'ai occis ceux qui l'ont poursuivi.~
+@13   = ~C'est alors que les pères saints me sont tombés dessus, et je suis devenu maudit. J'ai été chassé de mon foyer, et j'ai fui la colère des prêtre et de l'Elue.~
+@14   = ~Je me suis réfugié ici, pour que mon innocence soit prouvé.~
+@15   = ~Et comment peut il en être? (Les yeux de la jeune paladin se troublent, et pour la première fois depuis que vous l'avez connu, incertains.)~
+@16   = ~Cherche la femme et son enfant. J'ai appris que les années dans le Plan primaire passaient différemment, et l'enfant est désormais un home et a terminé de grandir.~
+@17   = ~J'ai entendu son nom, et il habite dans l'enceinte des murs de la Tour de garde. Les murs sont imperméables aux Plans, et je ne peux pas y entrer moi-même.~
+@18   = ~Chercheras tu Gunshain, Elue de Tyr? Ou accompliras tu le jugement sans justice?~
+@19   = ~(Saerileth se tourne vers vous.) <CHARNAME>, mon coeur me dit que Kesevar dit la vérité. Pourtant je doute moi-même.~
+@20   = ~Peut être qu'il est seulement de mon propre désir que Kesevar soit racheté, qui donne à mon coeur ce sentiment.~
+@21   = ~Qu'en penses tu?~
+@22   = ~Tu peux pas prendre le risque de tuer un ange--innocent. Tu dois vérifier s'il dit la vérité.~
+@23   = ~Tu ne peux pas prendre le risque à ce qu'il t'échappe. C'est pour cela que tu es venue à Toril. Tue le maintenant!~
+@24   = ~Pour cela je te remercie, Elue de Tyr, et vous, Enfant de Bhaal.~ [SAERI171]
+@25   = ~J'attendrai ici ton jugement, après que tu aies entendu la vérité de la part de Gunshain.~
+@26   = ~Alors je me soumettrai à mon destin. Je ne peux pas endurer plus longtemps de vivre à l'écart de Tyr.~ [SAERI172]
+@27   = ~Ah, <CHARNAME>, c'est presque contre ma conscience de le tuer--~
+@28   = ~Il t'influence! Tu ne peux pas prendre le risque. Tue le maintenant!~
+@29   = ~Peut être que tu as raison. Nous devrions vérifier cette histoire.~
+@30   = ~(Le deva tend sa splendide tête de défaite.)~
+@31   = ~(Saerileth prend le parchemin et lit les mots de la condamnation de Kesevar.)~
+@32   = ~As tu rencontré Gunshain?~ [SAERI173]
+@33   = ~Oui, Kesevar, et ton jugement de Tyr a été donné entre mes mains.~ [SAERI174]
+@34   = ~Et que déclares tu? (Un mélange de peur et d'espoir s'affiche sur le splendide visage du deva devant vous.)~
+@35   = ~Je déclare que tu es innocent, et que tu seras restauré par la grâce of Tyr.~
+@36   = ~(Saerileth prend le parchemin et le déchire en deux.)~
+
+
+
+@5000 = ~Le Deva Déchu
+
+J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+
+@5001 = ~Le Deva Déchu
+
+J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle semble assez emballée avec moi. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+
+@5002 = ~Saerileth Enlevée
+
+Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Premièrement nous devons chercher Jharak dans la cité de Sigil, de manière à obtenir de lui le sceptre de Tyr.~
+
+@5003 = ~Saerileth Enlevée
+
+Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immédiatement.~
+
+@5004 = ~Saerileth Enlevée
+
+Saerileth a été enlevée par un puissant seigneur démon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissé à son sort.~
+
+@5005 = ~Saerileth Enlevée
+
+Nous avons trouvé Jharak, mais il nous a envoyé rapporter une clé avant de nous dire la localisation du sceptre de Tyr.~
+
+@5006 = ~Saerileth Enlevée
+
+Nous avons trouvé la clé, et nous allons retourner voir Jharak avec elle de suite.~
+
+@5007 = ~Saerileth Enlevée
+
+Jharak nous a envoyé parler avec le tavernier, qui possède le Sceptre.~
+
+@5008 = ~Saerileth Enlevée
+
+Nous avons obtenu le Sceptre de Tyr. L'âme de Saerileth est en danger, et nous devons nous dépêcher de rejoindre Edorem aussi vite que possible.~
+
+@5009 = ~Saerileth Secourue
+
+Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+
+@5010 = ~Saerileth Secourue
+
+Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. J'ai sorti Saerileth de mon groupe, et elle est restée dans les Plans. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+
+@5011 = ~Le Deva Déchu
+
+Nous avons trouvé Kesevar le Déchu, mais il affirme que sa punition est imméritée. Il a été envoyé à la recherche de la seule personne qui peut témoigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
+
+@5012 = ~Le Deva Déchu
+
+Gunshain, comme cela s'est produit, a révélé le nom de Kesevar, mais il a aussi tenté de nous tuer! Nous l'avons expédié, et nous devons retourner voir Kesevar rapidement.~
+
+@5013 = ~Le Deva Déchu
+
+Saerileth a déclaré Kesevar innocent, et sa proclamation a fait immédiatement effet. Le déva a repris sa splendeur, et Saerileth reste en ma compagnie.~
+
+@5014 = ~Le Deva Déchu
+
+Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+
+@5015 = ~Le Deva Déchu
+
+Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+
+@5016 = ~Delilah la Courtisane
+
+Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sérieux scrupules à propos des hommes qui sont allés la voir.~
+
+@5017 = ~Delilah la Courtisane
+
+Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sérieux scrupules à propos des hommes qui sont allés la voir.~
+
+@5018 = ~Delilah la Courtisane
+
+J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! Mon adultère a brisé le coeur de Saerileth, et elle est morte. La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+
+@5019 = ~Delilah la Courtisane
+
+J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+
+@5020 = ~Delilah la Courtisane
+
+Saerileth m'a assuré que cette Delilah est un démon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple où nous pouvons être capable de trouver de l'aide pour dissiper les illusions démoniaques.~
+
+@5021 = ~Delilah la Courtisane
+
+J'ai refusé de venir en aide à ceux qui se sont fait attrapé par l'étreinte du démon. Ils ont apporté leur destin sur eux mêmes. Saerileth est attristée, mais approuve que leur punition est juste.~
+
+@5022 = ~Delilah la Courtisane
+
+J'ai reçu du prêtre de Waukyne un parchemin qui possède la capacité de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorénavant visible.~
+
+@5023 = ~Delilah la Courtisane
+
+La magie du parchemin a été un véritable succès. Qu'il s'agisse de la magie du parchemin ou des prières de Saerileth, je n'en suis pas certain. Cependant, cela a marché, et les démon a été forcé d'abandonner leur plan et de retourner aux Abysses.~
+
+@5024 = ~Vaincre Khalabaxin
+
+J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+
+@5025 = ~Vaincre Khalabaxin
+
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+
+@5026 = ~Vaincre Khalabaxin
+
+Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+
+@5027 = ~Vaincre les vampires
+
+Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+
+@5028 = ~Vaincre les vampires
+
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+
+@5029 = ~Les vampires vaincus
+
+Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~

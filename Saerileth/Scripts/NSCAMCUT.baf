@@ -1,0 +1,8 @@
+IF
+         True()
+THEN
+RESPONSE #100
+         CutSceneId("NSCAMB02")
+         Wait(1)
+ActionOverride("NSCAMB02",StartDialogueNoSet("NSPREY01")
+END

@@ -1,0 +1,254 @@
+@0    = ~Saerileth Romance Mod (BG2:SoA & TOB NPC) created by nethrin and Sillara~
+@1    = ~Saerileth~
+@2    = ~Hail, godchild. Art thou not the child of Bhaal of whom I have heard?~ [SAERI001]
+@3    = ~Undying shame falleth upon me!~ [SAERI002]
+@4    = ~'Tis good to journey in such company as this.~ [SAERI003]
+@5    = ~If thou dost not amend thy ways, I shall leave thy company.~ [SAERI004]
+@6    = ~I see the darkness filling thy heart. Cast it from thee!~ [SAERI005]
+@7    = ~Henceforth thou and I are enemies!~ [SAERI006]
+@8    = ~I shall lead ye in Tyr's path.~ [SAERI007]
+@9    = ~No more can I go on. I needs must rest.~ [SAERI008]
+@10   = ~'Tis wrong to waste time so. There are those who need our aid.~ [SAERI009]
+@11   = ~In Tyr's name I strike thee!~ [SAERI010]
+@12   = ~For Tyr's glory!~ [SAERI011]
+@13   = ~Justice!~ [SAERI012]
+@14   = ~Tyr!~ [SAERI013]
+@15   = ~The Hammer falls on thee!~ [SAERI014]
+@16   = ~Aaahhh!~ [SAERI015]
+@17   = ~To Tyr I return.~ [SAERI016]
+@18   = ~My blood is spilt for justice.~ [SAERI017]
+@19   = ~Tall are these trees, yet they speak not.~ [SAERI018]
+@20   = ~The only city I had seen ere coming here was Sigil. This is better.~ [SAERI019]
+@21   = ~I could wish that I were once more in Sigil.~ [SAERI020]
+@22   = ~Daylight doth bring comfort to mine eyes.~ [SAERI021]
+@23   = ~Darkness is oft a cloak for foul deeds.~ [SAERI022]
+@24   = ~What wouldst thou with me?~ [SAERI023]
+@25   = ~Speak, for I do hear thee.~ [SAERI024]
+@26   = ~I listen for thy voice.~ [SAERI025]
+@27   = ~Give thy commands.~ [SAERI026]
+@28   = ~Saerileth awaits thy word.~ [SAERI027]
+@29   = ~Aye?~ [SAERI028]
+@30   = ~In Tyr's name shall I go.~ [SAERI029]
+@31   = ~So shall it be done.~ [SAERI030]
+@32   = ~May Tyr's justice find thee.~ [SAERI031]
+@33   = ~I follow thee at Tyr's bidding.~ [SAERI032]
+@34   = ~Duty and desire are one.~ [SAERI033]
+@35   = ~No task is beneath one pledged to serve.~ [SAERI034]
+@36   = ~I shall.~ [SAERI035]
+@37   = ~Death is ever dark, but still it may be noble.~ [SAERI036]
+@38   = ~My life is Tyr's; may he do with it as pleaseth him.~ [SAERI037]
+@39   = ~Justice is blind yet maketh no errors.~ [SAERI038]
+@40   = ~Justice hath thee!~ [SAERI039]
+@41   = ~Thou shalt yet be mine!~ [SAERI040]
+@42   = ~Impervious to my blows thou may be, yet not to justice!~ [SAERI041]
+@43   = ~No more can I carry.~ [SAERI042]
+@44   = ~Tyr forgive me!~ [SAERI043]
+@45   = ~This is not honorable.~ [SAERI044]
+@46   = ~Hiding likes me not.~ [SAERI045]
+@47   = ~I am no thief!~ [SAERI046]
+@48   = ~When asked about her past, SAERILETH tells you she that she was born on Mount Celestia and dwelt there until her fourteenth year. She was raised from childhood in the temple of Tyr on Mount Celestia, and has spent the past year in Sigil, serving the priest of Tyr there. From thence she was sent to Toril, to seek out the Bhaalspawn and request <PRO_HISHER> aid.~
+@49   = ~Kesevar~
+@50   = ~Priest of Tyr~
+@51   = ~Gunshain~
+@52   = ~Edorem~
+@53   = ~Devil~
+@54   = ~Young Mage~
+@55   = ~Astral Deva~
+@56   = ~Alu-Fiend~
+@57   = ~Moon Dog~
+@58   = ~Dustman~
+@59   = ~Zombie Waiter~
+@60   = ~Zombie~
+@61   = ~Harlot~
+@62   = ~Tiefling~
+@63   = ~Planetar~
+@64   = ~Merchant~
+@65   = ~Cambion~
+@66   = ~Barkeep~
+@67   = ~Shady Hive Character~
+@68   = ~Dwarven Commoner~
+@69   = ~Drow Commoner~
+@70   = ~Sigil Commoner~
+@71   = ~Jharak~
+@72   = ~Mon~
+@73   = ~Glourkist~
+@74   = ~Abishai~
+@75   = ~Cornugon~
+@76   = ~Gunshain's Follower~
+@77   = ~Pimp~
+@78   = ~Lord Reginald~
+@79   = ~Kenny~
+@80   = ~Dick~
+@81   = ~Delilah~
+@82   = ~Succubus~
+@83   = ~Saerileth's Holy Symbol~
+@84   = ~This is Saerileth's holy symbol of Tyr. She wears it as a crown among her raven locks, and she never removes it.~
+@85   = ~This is Saerileth's holy symbol of Tyr. She wears it as a crown among her raven locks, and she never removes it. It is imbued with Tyr's power and protects Saerileth's life.
+
+STATISTICS
+Special Abilities:
+Permanent Protection from Evil
+
+Usable By:
+Saerileth~
+@86   = ~Tyr's Judgement~
+@87   = ~Upon this scroll is written the doom of Kesevar.~
+@88   = ~Scepter of Tyr~
+@89   = ~This scepter shines with Tyr's radiance. Edorem claims that its holy power will help defeat Glourkist.~
+@90   = ~Hammer of Tyr~
+@91   = ~This relic of the Order of Tyr was given by Lord Edorem in gratitude for your part in the rescue of Saerileth.
+
+STATISTICS
+Special Abilities:
++2 AC bonus
+10% resistance to crushing damage
+Additional 1 electrical damage
+
+Thac0: +2 bonus
+Damage: 1d4+3 (+1 electrical)
+Damage Type: bludgeoning
+Weight: 5
+Speed Factor: 2
+Proficiency Type: Warhammer
+Type: 1-handed
+Requires: 9 Strength
+Not Usable By:
+Evil-aligned
+Bard
+Mage
+Monk
+Thief~
+@92   = ~Saerileth's Wedding Ring~
+@93   = ~This is the ring with which <CHARNAME> wed Saerileth. It was enchanted by the Elves of Suldanessellar in thanks for <CHARNAME>'s and Saerileth's deeds at the Tree of Life.
+
+STATISTICS
+Special Abilities:
++3 AC bonus
++3 to all saving throws~
+@94   = ~Lock of Hair~
+@95   = ~This lock of hair apparently is the key to open a portal to Ysgaard.~
+@96   = ~Saerileth's Body. She lies unconscious, perhaps dying.~
+@97   = ~Saerileth's Wine~
+@98   = ~This is Saerileth's gift to you, a bottle of wine made from grapes from an Outer Plane.~
+@99   = ~Lover's Necklace~
+@100  = ~This glittering golden necklace was fashioned in Arborea to commemorate the union of Bria and Darian. Who they were is unknown, but though there is no discernible magic on the locket, when opened it glows with a soft red light. Legend says the light burns as a representation of their perfect love.~
+@101  = ~Hermes' Shield +1~
+@102  = ~This shield was forged in honor of a god of Arborea by the name of Hermes. He was apparently a fleet-footed god, for this shield increases the bearer's speed.
+
+STATISTICS
+Special Abilities:
+Increases movement rate
+
+Armor Class Bonus: 2
+Weight: 3
+Requires: 4 Strength
+Not Usable By:
+Bard
+Mage
+Thief
+Monk
+Druid~
+@103  = ~Elemental Shield +4~
+@104  = ~This highly magical shield was forged in the swirling chaos of Limbo, partaking of many elements. It provides some protection from these elements due to sharing their nature.
+
+STATISTICS:
+Special Abilities:
++10% resistance to fire, cold, acid and electricity
+
+Armor Class Bonus: 5
+Weight: 5
+Requires: 12 Strength
+Not Usable By:
+Bard
+Druid
+Mage
+Thief~
+@105  = ~This highly magical shield was forged in the swirling chaos of Limbo, partaking of many elements. It provides some protection from these elements due to sharing their nature.
+
+STATISTICS:
+
+Abilities: +10% resistance to fire, cold, acid and poison
+
+Armor Class Bonus: 5
+Weight: 5
+Requires: 12 Strength
+Not Usable By:
+Bard
+Druid
+Mage
+Thief~
+@106  = ~Scroll of Unveiling~
+@107  = ~This scroll had been kept in the temple of Waukeen for many years. Sold to the temple by an unknown traveler, this item has a profound power which the Waukeenar have been unable to harness.~
+@108  = ~Gathering Dust Bar~
+@109  = ~Saerileth was resistant to all attempts by <CHARNAME> or anyone else to revive her. She was buried outside the Temple of Tyr in Tethyr, and her grave was ever tended by the priests. Tyr eventually clothed Saerileth's spirit again in flesh, and she became his Proxy on the Planes, a mighty warrioress, but blind as the Maimed God himself. Never again did <CHARNAME> see his wife.~
+@110  = ~Saerileth and <CHARNAME> dwelt long and happily in Faerun, and Saerileth bore to her beloved lord seven sons, all as fair of face as their mother, as strong of will as their father. Of their sons, the third, a lad named Kesevar, was one of the Chosen of Tyr. For long, the pair wandered Faerun, battling evil wherever they found it. Twice more Lord <CHARNAME> and Lady Saerileth were called upon to defend Suldanesselar from the drow. Still, in all their years upon Toril, never once did <CHARNAME> and Saerileth go Planewalking, and never had <CHARNAME> seen Saerileth's home. At last, when their long years of service to goodness were nearly complete, Saerileth and <CHARNAME> at last departed Faerun for Mount Celestia, that they might together see the land of Saerileth's birth. They were not seen on Toril again.~
+@111  = ~Saerileth did not long remain in Toril after <CHARNAME>'s ordeal at the Throne of Bhaal. She soon departed for Sigil, and there she was wed to Lord Edorem. Their nuptials were sumptuous, and <CHARNAME> of Candlekeep was there to wish them joy. In the two paladins <CHARNAME> found staunch friends and true allies, and they were ever ready to aid <PRO_HIMHER> at need. Indeed, their second child bore the name of <CHARNAME> in honor of the former Bhaalspawn. There came a day, however, when <CHARNAME>'s call went unanswered, and <PRO_HESHE> knew that at last Saerileth and her beloved Edorem had fallen in Tyr's service.~
+@112  = ~Saerileth, the Chosen of Tyr, had aided <CHARNAME> in <PRO_HISHER> ascension to godhood, but she never abandoned her faith in Tyr. After the former Bhaalspawn had assumed <PRO_HISHER> place amongst the Powers, Saerileth returned to Sigil, and there she wed Lord Edorem. To her beloved lord she bore seven sons, and Tyr granted the pair the joint honor of becoming his Proxies. They were translated out of their mortality, becoming like unto devas. Ever together, Saerileth and Edorem struck down injustice wherever it was found, but both were oftener seen in Toril than other worlds, for the sake of <CHARNAME>, whom both the Chosen honored.~
+@113  = ~Saerileth and <CHARNAME> dwelt long and happily in Faerun, and Saerileth bore to her beloved lord four sons and three daughters, all as fair of face as their mother, as strong of will as their father. Of their children, the first, a daughter named Saerileth, was one of the Chosen of Tyr. For long, the pair wandered Faerun, battling evil wherever they found it. Twice more Lord <CHARNAME> and Lady Saerileth were called upon to defend Suldanesselar from the drow. Still, in all their years upon Toril, never once did <CHARNAME> and Saerileth go Planewalking, and never had <CHARNAME> seen Saerileth's home. At last, when their long years of service to goodness were nearly complete, Saerileth and <CHARNAME> at last departed Faerun for Mount Celestia, that they might together see the land of Saerileth's birth. They were not seen on Toril again.~
+@114  = ~Saerileth and <CHARNAME> dwelt long and happily in Faerun, and Saerileth bore to her beloved lord four sons and three daughters, all as fair of face as their mother, as strong of will as their father. Of their children, the first, a daughter named Alaren, was one of the Chosen of Tyr. For long, the pair wandered Faerun, battling evil wherever they found it. Twice more Lord <CHARNAME> and Lady Saerileth were called upon to defend Suldanesselar from the drow. Still, in all their years upon Toril, never once did <CHARNAME> and Saerileth go Planewalking, and never had <CHARNAME> seen Saerileth's home. At last, when their long years of service to goodness were nearly complete, Saerileth and <CHARNAME> at last departed Faerun for Mount Celestia, that they might together see the land of Saerileth's birth. They were not seen on Toril again.~
+@115  = ~Saerileth and <CHARNAME> dwelt long and happily in Faerun, and Saerileth bore to her beloved lord four sons and three daughters, all as fair of face as their mother, as strong of will as their father. Of their children, the first, a daughter named Arlluvia, was one of the Chosen of Tyr. For long, the pair wandered Faerun, battling evil wherever they found it. Twice more Lord <CHARNAME> and Lady Saerileth were called upon to defend Suldanesselar from the drow. Still, in all their years upon Toril, never once did <CHARNAME> and Saerileth go Planewalking, and never had <CHARNAME> seen Saerileth's home. At last, when their long years of service to goodness were nearly complete, Saerileth and <CHARNAME> at last departed Faerun for Mount Celestia, that they might together see the land of Saerileth's birth. They were not seen on Toril again.~
+@116  = ~Saerileth and <CHARNAME> dwelt long and happily in Faerun, and Saerileth bore to her beloved lord seven sons, all as fair of face as their mother, as strong of will as their father. Of their sons, the first, a lad named Gorion, was one of the Chosen of Tyr. For long, the pair wandered Faerun, battling evil wherever they found it. Twice more Lord <CHARNAME> and Lady Saerileth were called upon to defend Suldanesselar from the drow. Still, in all their years upon Toril, never once did <CHARNAME> and Saerileth go Planewalking, and never had <CHARNAME> seen Saerileth's home. At last, when their long years of service to goodness were nearly complete, Saerileth and <CHARNAME> at last departed Faerun for Mount Celestia, that they might together see the land of Saerileth's birth. They were not seen on Toril again.~
+@117  = ~Saerileth and <CHARNAME> dwelt long and happily in Faerun, and Saerileth bore to her beloved lord seven sons, all as fair of face as their mother, as strong of will as their father. Of their sons, the first, a lad named Caladus, was one of the Chosen of Tyr. For long, the pair wandered Faerun, battling evil wherever they found it. Twice more Lord <CHARNAME> and Lady Saerileth were called upon to defend Suldanesselar from the drow. Still, in all their years upon Toril, never once did <CHARNAME> and Saerileth go Planewalking, and never had <CHARNAME> seen Saerileth's home. At last, when their long years of service to goodness were nearly complete, Saerileth and <CHARNAME> at last departed Faerun for Mount Celestia, that they might together see the land of Saerileth's birth. They were not seen on Toril again.~
+@118  = ~~
+@119  = ~Broken Soul Reaver~
+@120  = ~<CHARNAME> unwisely gave this unholy sword to Saerileth to hold, and the young paladin called upon the strength of Tyr to aid her in its destruction. All that remains now are these few worthless shards.~
+@121  = ~Hana~
+@122  = ~Black Orchid~
+@123  = ~You bought this flower for Saerileth. In purchasing the black orchid, you wished to flatter her and display something of your appreciation for unusual beauty.~
+@124  = ~Adder's Tongue~
+@125  = ~You bought this flower for Saerileth. In purchasing the adder's tongue, you wished to confess your jealousy for her affections. Perhaps you are simply jealous of her general attentions and want her all to yourself. Or perhaps you are jealous of a certain individual who pops up from time to time.~
+@126  = ~Calla Lily~
+@127  = ~You bought this flower for Saerileth. In purchasing the calla lily, you wished to honor her maiden modesty and praise her beauty.~
+@128  = ~Carnation~
+@129  = ~You bought this flower for Saerileth. In purchasing the carnation, you wished to proclaim your love and faithfulness to her.~
+@130  = ~Daisy~
+@131  = ~You bought this flower for Saerileth. In purchasing the daisy, you wished to honor her innocence and declare your desire to preserve it.~
+@132  = ~Forget-Me-Not~
+@133  = ~You bought this flower for Saerileth. In purchasing the forget-me-not, you wished to declare to her the constancy of your true love.~
+@134  = ~Orchid~
+@135  = ~You bought this flower for Saerileth. In purchasing the orchid, you wished to be playful and flatter her with a beautiful blossom.~
+@136  = ~Pink Rose~
+@137  = ~You bought this flower for Saerileth. In purchasing the pink rose, you wished to communicate to her your feeling that your love must be a secret love. You are a Bhaalspawn and have many hidden enemies. This flower symbolizes your desire to protect Saerileth from harm.~
+@138  = ~Red Rose~
+@139  = ~You bought this flower for Saerileth. In purchasing the red rose, you wished to proclaim your desire to possess her body and become one with her.~
+@140  = ~Violet~
+@141  = ~You bought this flower for Saerileth. In purchasing the violet, you wished to reassure her that you will always be there for her, and that your love will never end.~
+@142  = ~Water Lily~
+@143  = ~You bought this flower for Saerileth. In purchasing the water lily, you wished to tell her that you love her not only for her beauty but also for her inner virtues, especially her purity of heart.~
+@144  = ~White Rose~
+@145  = ~You bought this flower for Saerileth. In purchasing the white rose, you wished to remind her that you are worthy of her love. You also express the innocence of your affections.~
+@146  = ~White Lily~
+@147  = ~You bought this flower for Saerileth. In purchasing the white lily, you wished to praise her youthful innocence.~
+@148  = ~Saerileth did not long remain in Toril after <CHARNAME>'s ordeal at the Throne of Bhaal. She soon departed for Mount Celestia, and there she took up the mantle of a Virgin Daughter of Justice. Saerileth was made a Proxy then, and she was translated out of her mortality, becoming like unto a deva. She was ever an ally to <CHARNAME>, and his call for aid was not ever left unanswered. After <CHARNAME>'s death, never again did Saerileth return to Toril, for the memories of her ill-starred love for <CHARNAME> of Candlekeep were too strong for her. She dwelt alone for all her endless days, mourning him.~
+@149  = ~Saerileth, the Chosen of Tyr, had aided <CHARNAME> in <PRO_HISHER> ascension to godhood, but she never abandoned her faith in Tyr. After the former Bhaalspawn had assumed <PRO_HISHER> place amongst the Powers, Saerileth returned to Mount Celestia, and there she took up the mantle of a Virgin Daughter of Justice. Saerileth was made a Proxy then, and she was translated out of her mortality, becoming like unto a deva. Ever alone, Saerileth struck down injustice wherever it was found, but she was oftener seen in Toril than other worlds, for the sake of <CHARNAME>, whom Saerileth the Chosen of Tyr had so dearly loved.~
+@150  = ~Sir Havun Clarenshide~
+@151  = ~Khalabaxin~
+@152  = ~Bodhi~
+@153  = ~Lim Lim~
+@154  = ~A curious creature.~
+@155  = ~Saerileth and <CHARNAME> dwelt long and happily in Faerun, and Saerileth bore to her beloved lord three sons, all as fair of face as their mother, as strong of will as their father. Of their sons, the first, a lad named Gwalchavad, was one of the Chosen of Tyr. For long, the pair wandered Faerun, battling evil wherever they found it. At last they settled in Suldanesselar, where, though Saerileth was human, the mighty deeds of Lord <CHARNAME> purchased this grace for her. Twice more Lord <CHARNAME> and Lady Saerileth were called upon to defend Suldanesselar from the drow. This they did, quitting themselves with honor. It was after the second such battle that those who watched the pair began to wonder at the Lady Saerileth, for her beauty had not withered with time, nor had she grown old as a human should. Indeed, when at last <CHARNAME> was taken into Arvanaith, old and full of days, Saerileth was at his side, and it was she who closed his eyes. After the death of her lord, Lady Saerileth was granted the full form of a deva, and she went at once to Arvanaith. There she met again her lord, and such was their love that the pair were never more parted.~
+@156  = ~D'aqilar~
+@157  = ~Mysterious Tome~
+@158  = ~Book of Tyr's Holy Influence~
+@159  = ~Book of Tyr's Holy Wisdom~
+@160  = ~Saerileth received this volume from Tyr Himself as a reward for destroying Demogorgon's avatar.~
+@161  = ~This tome will confer upon its reader a small portion of the divine influence of Tyr.
+
+STATISTICS:
+
+Increases Charisma by 1 permanently.
+
+Not Usable By:
+Non-good~
+@162  = ~This tome will confer upon its reader a small portion of the divine wisdom of Tyr.
+
+STATISTICS:
+
+Increases Wisdom by 1 permanently.
+
+Not Usable By:
+Non-good~
+@163  = ~Immediately following <CHARNAME>'s ordeal at the Throne of Bhaal, Saerileth departed Toril to fulfill her word to Lord Edorem. She then became his bride, as <CHARNAME> had commanded. For three years, the two Chosen of Tyr fought on the Maimed God's behalf, and then they were translated out of their mortality, becoming Proxies. Saerileth, like unto a deva in power and beauty, followed Tyr all her endless days, devoted to her lord Edorem, but ever broken-hearted. Her passion for <CHARNAME> of Candlekeep was as unshaken as ever, but she did not will her love to him, in obedience to his wish.~
+@164  = ~Immediately upon <CHARNAME>'s ascension to godhood, Saerileth departed Toril to fulfill her word to Lord Edorem. In Sigil, she wed the Chosen of Tyr, as <CHARNAME> had commanded her during his mortal days. The two Chosen of Tyr were then made Proxies together and translated out of their mortality. Saerileth's bond to Lord Edorem was thus made eternal. When, after countless years, Tyr had cause to send a messenger to the god <CHARNAME>, it was Saerileth whom the Blind God sent. Saerileth appeared, in power and beauty like unto a glorious deva, before the throne of her former love. <CHARNAME> saw at once, with his divine eyes, that her passion for him had never ceased. Yet she denied that she loved him when he spoke of it. "How could it be that I shouldst love thee? Thou didst resign my hand and thus my heart unto Lord Edorem's possession. Thus no longer didst I will to love thee. Nor canst I love thee now. Thus much my message is, and thus do I depart."~
+
+

@@ -1,0 +1,108 @@
+@0 = ~Are you prepared for your journey?~
+@1 = ~Yes, we are.~
+@2 = ~No, not yet.~
+@3 = ~Very well. Let us go at once.~
+@4 = ~Then please return when you have made your arrangements.~
+@5 = ~Please, hurry! Time is most precious.~
+@6 = ~And have you returned victorious?~
+@7 = ~Yes, Sir Clarenshide, we have. Khalabaxin is no more.~
+@8 = ~Yes, though it was most difficult. We are the victors.~
+@9 = ~You have our thanks, <PRO_LADYLORD> <CHARNAME>. You have done a great service to us and to all those innocents upon whom Khalabaxin sought to prey.~
+@10 = ~And in gratitude we would offer you something of value.~
+@11 = ~You seek one captured by the Cowled Wizards--no, we have not spied upon you. Your deeds are too conspicuous to remain unknown.~
+@12 = ~We have, with difficulty, determined the location of those captured: a mage prison called Spellhold.~
+@13 = ~Yes, I would, but I need to replenish my supplies first.~
+@14 = ~Yes, I am ready. Let's go!~
+@15 = ~Very well, my <PRO_LADYLORD>. Return when you have prepared.~
+@16 = ~Then let us go at once.~
+@17 = ~Hail, <CHARNAME>, and well met. I have a request to make of you, if you would hear me.~
+@18 = ~No, I have no desire to speak to the likes of you. Get lost!~
+@19 = ~Speak, man, and quickly if you value your life!~
+@20 = ~Well met, good sir knight. I will happily listen to your request.~
+@21 = ~And you are?~
+@22 = ~I always stand ready to help a fellow warrior of faith.~
+@23 = ~Very well. Go in peace.~
+@24 = ~There is no need for such discourtesy. I understand that you are beset on all sides by bloodthirsty men, but know that I am not your enemy.~
+@25 = ~Indeed, I crave a boon of you. I am called Havun Clarenshide, and I am a servant of the Order of the Radiant Heart. One of our number has discovered the lair of a dreadful wyrm. Twice we have approached it, and both times we were repulsed.~
+@26 = ~So you want me to go take care of this problem for you?~
+@27 = ~You want me to go fight a dragon for you?!~
+@28 = ~Point the way. I will not rest as long as this evil lives!~
+@29 = ~How dare this beast slay random, heavily-armored warriors who come to its lair and disturb its rest for no other reason than to kill it!~
+@30 = ~What kind of dragon is this?~
+@31 = ~I thank you. I crave a boon of you. I am called Havun Clarenshide, and I am a servant of the Order of the Radiant Heart. One of our number has discovered the lair of a dreadful wyrm. Twice we have approached it, and both times we were repulsed.~
+@32 = ~I am called Havun Clarenshide, and I am a servant of the Order of the Radiant Heart. I crave a boon of you. One of our number has discovered the lair of a dreadful wyrm. Twice we have approached it, and both times we were repulsed.~
+@33 = ~I greet you as a likeminded warrior of faith and light. I am called Havun Clarenshide, and I am a servant of the Order of the Radiant Heart. I crave a boon of you. One of our number has discovered the lair of a dreadful wyrm. Twice we have approached it, and both times we were repulsed.~
+@34 = ~The dragon is mighty, but your reputation precedes you. I demand nothing. I only ask for your assistance in ridding the land of a loathesome creature.~
+@35 = ~Very well, I will aid you.~
+@36 = ~I have no desire to battle a dragon. Find someone else.~
+@37 = ~I would like to help, but I am busy. Can this wait a bit?~
+@38 = ~You accept the challenge? The Order will be pleased to hear this! Go, then, to Umar Hills. There, beyond the first river, near the cave, you will find the wyrm, Khalabaxin.~
+@39 = ~He is cunning, so beware his fangs and his breath! When you have slain the great serpent, seek me in the Order's headquarters. I will await you there.~
+@40 = ~You do not understand, <CHARNAME>. We do not indiscriminately destroy creatures, though it may appear so to the uninformed. We protect the weak, shelter the fatherless and the widow, and give aid where we can.~
+@41 = ~This dragon has destroyed several villages in its rampage. Its bloodlust is sated for now, but we do not know how long this will last. It could rouse itself again at any time and resume the slaughter.~
+@42 = ~Very well, <CHARNAME>. Your reluctance to help us is, however, surprising. Go in peace, then.~
+@43 = ~For a while, but time is short. This dragon is at rest now, but it could resume its slaughters at any time.~
+@44 = ~Go, then, when you have time, to Umar Hills. There, beyond the first river, near the cave, you will find the wyrm, Khalabaxin.~
+@45 = ~He is cunning, so beware his fangs and his breath! When you have slain the great serpent, seek me in the Order's headquarters. I will await you there.~
+@46 = ~Its hide is a purplish color. I assume it is some kind of gem dragon, though I do not know which. Perhaps amethyst.~
+@47 = ~You have shown great valor in the face of a powerful evil. Would you be interested in working with the Order on another task?~
+@48 = ~No, thanks. I've had enough of going around and doing your dirty work.~
+@49 = ~Well, I would like to help you, but I need to find my way to Spellhold. My friend is being held captive there.~
+@50 = ~Sure, I would be happy to continue aiding the Order. What do you propose?~
+@51 = ~Very well. That is your choice, and I will importune you no further on the subject. But know that the Order does not have 'dirty work.'~
+@52 = ~We work to uphold the law and serve the greater good.  I am saddened that you considered our mission beneath you.~
+@53 = ~Spellhold? Perhaps the Order can find a way to get you there. We will look further into securing a ship.~
+@54 = ~In the meantime, will you aid us once again?~
+@55 = ~Yes, what is it you need?~
+@56 = ~No, it's not worth any further risk.~
+@57 = ~We have discovered that there is a nest of vampires dwelling here in Athkatla. They live in the crypts beneath the city. The Order requests your aid in destroying these loathsome monsters.~
+@58 = ~Of course! Such evil cannot continue to exist!~
+@59 = ~I will destroy this nest of vampires for the Order.~
+@60 = ~I will do this, but only if I am assured of passage to Spellhold.~
+@61 = ~Vampires? Multiple vampires? Count me out!~
+@62 = ~I understand. May the gods smile upon you in your travels. Good day.~
+@63 = ~Excellent. I am pleased that you have agreed. Very well. Make your way to the graveyard and venture into the crypts below. I will call upon our hireling wizard to meet you there. He has the means to open the door that leads into the monsters' lair.~
+@64 = ~You have my word that we will look into the matter of Spellhold. The Order will bend all of its resources to that end.~
+@65 = ~In the meantime, Make your way to the graveyard and venture into the crypts below. I will call upon our hireling wizard to meet you there. He has the means to open the door that leads into the monsters' lair.~
+@66 = ~Were you successful? Are the vampires destroyed?~
+@67 = ~Yes, we destroyed the vampires, except for their leader, Bodhi. She eluded me.~
+@68 = ~No, the leader of the vampires escaped!~
+@69 = ~That is success indeed, and you have the thanks of the Order.~
+@70 = ~How do *you* know of the existence of Spellhold? I've been trying fruitlessly to learn where they are kept, and now you tell me about some place called Spellhold?~
+@71 = ~The Order has many sources and is ever vigilant. We watch those organizations, such as the Cowled Wizards, which wield great power.~
+@72 = ~Do not ask me how we know of the existence or the location of Spellhold. Were I to tell you, our agents would be revealed.~
+@73 = ~Very well, I respect that. I am ready to go.~
+@74 = ~I see. I will think on your proposal while I gather my supplies.~
+@75 = ~<CHARNAME>, will you aid us in the slaying of this monster?~
+@76 = ~We have chartered a ship for you, should you desire to go to Spellhold.~
+@77 = ~We destroyed the vampires, but their leader had some interesting things to say before she left! You sent me on a suicide mission because I'm a Bhaalspawn!~
+@78 = ~A Bhaalspawn? We had heard such rumors, but they had no bearing on our request. We asked for your aid because of your strength.~
+@79 = ~We also gave heed to your reputation, which is most honored. And we were not wrong to do so, for you have been successful!~
+
+
+
+
+
+@5024 = ~Defeating Khalabaxin
+
+I have accepted Sir Havun Clarenshide's request for aid against the dragon Khalabaxin. I will find him near his newly-acquired lair, the cave beyond the river in the Umar Hills.~
+
+@5025 = ~Defeating Khalabaxin
+
+I have defeated the dragon Khalabaxin. I am now to return to the Order of the Radiant Heart and tell Sir Havun Clarenshide what has transpired.~
+
+@5026 = ~Defeating Khalabaxin
+
+I returned to the Radiant Heart with news of my defeat of the dragon Khalabaxin. The Order's work seems to be never done.~
+
+@5027 = ~Defeating the Vampires
+
+Sir Havun has informed me of the existence of a nest of vampires here in the city. I am to seek it out and destroy it. They live in the crypts beneath the graveyard. The Order will send one of their hireling wizards to aid me in breaching the lair's defenses.~
+
+@5028 = ~Defeating the Vampires
+
+I have destroyed the vampires, but the leader, Bodhi, has eluded me. She had some interesting things to say about me... She knew I was a child of Bhaal! I go now to report the destruction of the vampires to Sir Havun.~
+
+@5029 = ~Vampires Defeated
+
+I returned to the Radiant Heart with news of my defeat of the vampires. The Order has offered me passage to Spellhold as a reward!~

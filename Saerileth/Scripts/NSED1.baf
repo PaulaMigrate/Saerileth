@@ -1,0 +1,89 @@
+IF
+ Global("LeaveWithoutSaerileth","GLOBAL",1)
+ GlobalGT("SaerilethHealed","GLOBAL",0)
+THEN
+ RESPONSE #100
+ SetGlobal("LeaveWithoutSaerileth","GLOBAL",2)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("NSAllGoHome","GLOBAL",1)
+ GlobalGT("SaerilethHealed","GLOBAL",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSAllGoHome","GLOBAL",2)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+  See(NearestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    AttackReevaluate(NearestEnemyOf(Myself),30)
+END
+
+
+
+IF
+ !Range(Player1,5)
+ Global("SaerilethHealed","GLOBAL",0)
+ !See("GLOURKIS")
+ !See("NSMARIL")
+ !See("NSABISH")
+ !See("NSCORNUG")
+THEN
+ RESPONSE #100
+  MoveToObject(Player1)
+END
+
+
+
+IF
+ !Range(Player1,5)
+ Global("SaerilethHealed","GLOBAL",0)
+ OR(2)
+ Dead("NSABISH")
+ Dead("NSCORNUG")
+THEN
+ RESPONSE #100
+  MoveToObject(Player1)
+END
+
+
+
+IF 
+ Global("NSAllDemonsDead","GLOBAL",1)
+ Global("NSGiveSaeriBody","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSGiveSaeriBody","LOCALS",1)
+  GiveItemCreate("NSBODY",Player1,0,0,0)
+  Dialogue(Player1)
+END
+
+
+
+
+IF
+ AreaCheck("NS0162")
+ Global("EdoremSpokeInHell","LOCALS",0)
+THEN
+ RESPONSE #100
+ SetGlobal("EdoremSpokeInHell","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Dead("GLOURKIS")
+ Dead("NSMARIL")
+THEN
+ RESPONSE #100
+ SetGlobal("NSAllDemonsDead","GLOBAL",1)
+END

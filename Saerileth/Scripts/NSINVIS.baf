@@ -1,0 +1,9 @@
+IF
+ NumTimesTalkedTo(0)
+ Detect([PC])
+ Global("NSInvisChallenge","GLOBAL",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSInvisChallenge","GLOBAL",1)
+  StartDialogueNoSet([PC])
+END

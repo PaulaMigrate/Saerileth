@@ -1,0 +1,431 @@
+@0    = ~¡He fallado! ¡Saerileth está perdida, y no he podido evitar su captura!.~ [SAERI143] 
+@1    = ~¿Quién sois vos, y qué estáis haciendo aquí?.~
+@2    = ~¿Dónde está ella? ¡Hablad, hombre!.~ 
+@3    = ~Me alegra vuestro fracaso. Este secuestro me ha librado del problema de echarla a patadas fuera del grupo.~
+@4    = ~¡No tengo tiempo para escuchar vuestros gimoteos! ¡Debemos encontrar a Saerileth ahora!.~ 
+@5    = ~Me llamo Edorem, y sirvo a Tyr. Conozco a Saerileth desde su época en Sigil.~
+@6    = ~Glourkist ha enviado por ella. Él es un poderoso lord de diablos, uno que Saerileth se cruzó durante su época en Sigil.~
+@7    = ~¿Cómo?.~ 
+@8    = ~¡Bien, vayamos buscar a Glourkist!.~
+@9    = ~¡Saerileth fue genial y demás, pero es que no vale la pena oponerse a un 'lord de diablos'!.~ 
+@10   = ~¡Saerileth fue una gran amiga, pero no estoy seguro acerca de ir a enfrentarnos a un 'demonio-lord'!.~
+@11   = ~¿Cómo se supone que llegaremos a Sigil?.~
+@12   = ~Ella explicó a uno de los enemigos de Glourkist el funcionamiento del portal en el templo de Tyr, y al usar este portal, él eludió al demonio-lord.~ 
+@13   = ~En lugar de a su presa perdida, él se ha llevado a Saerileth, por lo que sus planes para ella, nadie los sabe.~
+@14   = ~¡Esperad, temerario! La furia de Glourkist es poderosa, y su alcance es largo. Si vais a enfrentaros a él, necesitaréis ayuda.~ ~¡Esperad, temeraria! La furia de Glourkist es poderosa, y su alcance es largo. Si vais a enfrentaros a él, necesitaréis ayuda.~ 
+@15   = ~Idos a buscar el Cetro de Tyr. Jharak sabe de su paradero, así es que le debemos encontrar y convencerle de que nos lo diga.~
+@16   = ~Recobraré ese Cetro.~
+@17   = ~¡Al demonio con eso! No necesito ninguna ayuda. ¡Derribaré a ese Glourkist por mí mismo!.~ ~¡Al demonio con eso! No necesito ninguna ayuda. ¡Derribaré a ese Glourkist por mí misma!.~
+@18   = ~El tiempo es precioso. Debemos salvar a Saerileth ahora y no debemos perder el tiempo.~ 
+@19   = ~Entonces iré solo y haré lo que pueda. Adiós.~
+@20   = ~Pero hay esperanza en el próximo conflicto. La furia de Glourkist es poderosa, y su alcance es largo. Si vais a enfrentaros a él, necesitaréis ayuda.~ 
+@21   = ~Nah. Tranquilo que no vale la pena.~ 
+@22   = ~Excelente. Vos mostráis gran compasión por vuestra amiga. En el último informe, Jharak había partido rumbo a una casa en la Colmena. Busquémosle allí.~
+@23   = ~Muy bien. Si vos confiáis en vuestra habilidad, hijo de dios, entonces vayamos.~ ~Muy bien. Si vos confiáis en vuestra habilidad, hija de dios, entonces vayamos.~ 
+@24   = ~Soy un caminante del plano con la habilidad para llevaros allí. La furia de Glourkist es poderosa, y su alcance es largo. Si vais a enfrentaros a él, necesitaréis ayuda.~
+@25   = ~Idos a buscar el Cetro de Tyr. Jharak, un residente de la Colmena en Sigil, sabe de su paradero. Buscadle por allí.~
+@26   = ~No creo que ella valga el precio del problema.~
+@27   = ~Ella está en Sigil, una ciudad del plano exterior. Glourkist ha enviado por ella. Él es un poderoso demonio-lord, uno que Saerileth se cruzó durante su época en Sigil.~
+@28   = ~¿A vos no os importa nada el destino de Saerileth? Muy bien, la buscaré a solas.~
+@29   = ~Cruzaría espadas con vos por esta injusticia; pero el tiempo es breve, y debo ir.~
+@30   = ~Os esperaré aquí, <CHARNAME>. Debo mantener la conexión del canal hasta Baator.~
+@31   = ~¡Encontrad a Jharak, aprisa! ¡Traed de vuelta el Cetro de Tyr!.~
+@32   = ~La misma alma de Saerileth está en peligro. ¡No demoréis de esta manera!.~ [SAERI144]
+@33   = ~¡No puedo encontrar a Jharak!.~
+@34   = ~He cambiado de idea. Ella no vale la pena.~
+@35   = ~Me daré prisa.~
+@36   = ~¡Cobarde desleal! ¡Dais vuestra palabra y luego la rompéis!.~
+@37   = ~Pero la justicia de Tyr será servida. Vos no podéis dejar la jaula sin mí, y yo no puedo abandonar mi puesto, manteniendo abierto el conducto para Glourkist.~
+@38   = ~Encontrad a Jharak y el Cetro, o nunca podréis regresar a vuestra casa otra vez.~
+@39   = ~Hacedlo.~
+@40   = ~¡Seguramente en la Colmena encontremos ayuda! Preguntadle a los nacidos en los Planos Superiores.~
+@41   = ~Habéis recobrado el cetro. ¡Corramos a ayudar a Saerileth!.~ [SAERI145]
+@42   = ~Os he devuelto otra vez a vuestro plano. Y ahora devolvedme a la Saerileth de mi amor.~ [SAERI149]
+@43   = ~Os doy las gracias, <CHARNAME>, sinceramente. Y como una pequeña recompensa por lo que vos habéis hecho por Tyr rescatando a su Elegida más amada, os doy esto.~ [SAERI150]
+@44   = ~Es un martillo poderoso, sagrado para Tyr. Usadlo para hacer el bien en nombre de Tyr el Imparcial.~
+@45   = ~(El caballero no puede apartar la vista de Saerileth, pero él continúa dirigiéndoos la palabra.)~
+@46   = ~Os doy las gracias, <CHARNAME>, sinceramente. Y como una pequeña recompensa por lo que vos habéis hecho por Tyr rescatando a su Elegida más amada, os doy esto.~ [SAERI150]
+@47   = ~Es un martillo poderoso, sagrado para Tyr. Usadlo para ayudar a la gente en nombre del Dios Lisiado.~
+@48   = ~Saludos, Saerileth, Elegida de Tyr.~ [SAERI141]
+@49   = ~¡Lord Edorem! (Saerileth vuelve su brillante sonrisa hacia el caballero de cabellos de oro.)~
+@50   = ~Me alegro de veros tan bien.~
+@51   = ~¿Y vos, Saerileth, estáis bien?.~
+@52   = ~(Edorem os mira a vos, y su conducta se altera.) ¿Y vos, el hijo de dios, cuidáis de ella cómo se merece?.~ ~(Edorem os mira a vos, y su conducta se altera.) ¿Y vos, la hija de dios, cuidáis de ella cómo se merece?.~
+@53   = ~Ella no necesita a un guardián.~ ~Ella no necesita una guardiana.~
+@54   = ~¿Por qué me consideráis como eso?.~
+@55   = ~¿Qué estáis haciendo vos aquí?.~
+@56   = ~(Los ojos de Edorem, de color azul como Saerileth, relampaguean de pronto.) ¡Y aun así ella merece ser puesta más alto que un soldado común!.~
+@57   = ~¿Vos no veis eso?.~
+@58   = ~¿Hay una *razón* para que vos estéis aquí?.~
+@59   = ~¿Qué queréis de nosotros?.~
+@60   = ~Desde luego que veo eso.~
+@61   = ~¡La amo! ¡Por supuesto que veo eso!.~
+@62   = ~(Edorem mira hacia abajo rápidamente, luego se vuelve a Saerileth a medida que él contesta.)~
+@63   = ~Traigo un regalo para Saerileth de los sacerdotes de Tyr. (Le da a Saerileth un vial de elixir de curación.)~
+@64   = ~Está bien, Saerileth. (El caballero se inclina ante Saerileth, pero a medida que él desaparece de vuelta a su plano, sus ojos se fijan en vos.)~
+@65   = ~¿Yo? No quiero nada de vos, hijo de dios.( Los ojos de Edorem se vuelven tristes a medida que él mira hacia vos.)~ ~¿Yo? No quiero nada de vos, hija de dios.( Los ojos de Edorem se vuelven tristes a medida que él mira hacia vos.)~
+@66   = ~¿Hasta cuánto veis vos, hijo de dios? (Los ojos de Edorem se fijan en vos con una intensidad peculiar.)~ ~¿Hasta cuánto veis vos, hija de dios? (Los ojos de Edorem se fijan en vos con una intensidad peculiar.)~
+@67   = ~¿Veis vos el valor de su corazón?.~
+@68   = ~No estoy enamorado de ella, si eso es lo que queréis decir.~
+@69   = ~Sé el valor de Saerileth, caballero.~
+@70   = ~¿Qué estáis *haciendo* vos aquí?.~
+@71   = ~¿Vos la amas? (La voz de Edorem es fría.) ¿Vos os *atrevéis* a amarla?.~
+@72   = ~(Con esfuerzo, Edorem sabe dominarse.) Pero no fue para esto para lo que vine.~
+@73   = ~Dudo que lo hagáis. (Edorem se vuelve a Saerileth.)~
+@74   = ~Traigo un regalo para Saerileth de los sacerdotes de Tyr. (Le da a Saerileth un vial de elixir de curación.)~
+@75   = ~¿Sois tan ignorante del pasado de Saerileth que tenéis que preguntar? ¿Sois tan ignorante del tesoro a vuestro cargo?.~
+@76   = ~¡No veis que ella debe ser puesta más alto que un soldado común! ¿No lo veis?.~
+@77   = ~(La cara de Edorem se relaja al momento, pero no puede hablar; Saerileth de inmediato se echa a llorar.)~
+@78   = ~Vos me habéis partido el corazón. (Saerileth retuerce sus manos mientras llora.)~
+@79   = ~(Edorem os mira de reojo e inclina la cabeza hacia Saerileth.) Cuidaré de ella. Sería más conveniente que os fueseis a la cama.~
+@80   = ~(Él se vuelve hacia Saerileth y pone sus brazos alrededor de ella. Ella continúa sollozando desesperadamente contra su pecho.)~
+@81   = ~(Edorem os hace rígidamente una reverencia, y él le alarga su mano a Saerileth.) ¿Saerileth, Elegida de Tyr, está aún vuestro corazón libre de compromiso?.~ [SAERI142]
+@82   = ~(Saerileth se levanta, su innata cortesía resulta evidente a pesar de lo sonrojado de sus mejillas.)~
+@83   = ~No, mi buen señor. No lo estoy.~
+@84   = ~¿Es este engendro de Baal entonces quién ha tomado vuestro corazón, Saerileth? ¡Si es así, entonces él os ha engañado!.~
+@85   = ~Miradlo bien, ¡este perdedor que miente a una dama! (Edorem alarga su mano a vos y os quita la magia que aumenta el carisma que sus ojos Planares han visto.)~
+@86   = ~¡Miradlo, Saerileth!.~
+@87   = ~¿Qué es esto? ¿Lord Edorem por qué es tan descortés? (Saerileth se vuelve hacia vos.)~
+@88   = ~Por favor, mi amor, perdonad...~
+@89   = ~(Los ojos de Edorem os miran con fuego.)~
+@90   = ~¿Perdón? ¿¡Cómo puedo perdonar tal insolencia!?.~
+@91   = ~Por el bien de Saerileth perdonaré esta afrenta.~
+@92   = ~¡Por Tyr! ¡Vos también estáis enamorado de ella!.~
+@93   = ~(La cara de Edorem palidece repentinamente.) ¡Vos - vos no la engañasteis! Vos sois verdaderamente como afirmasteis serlo, a pesar de la magia que os rodea.~
+@94   = ~(El caballero se arrodilla en señal de honor y respeto ante vos.) Os he acusado injustamente, <CHARNAME>, hijo de Baal.~ ~(El caballero se arrodilla en señal de honor y respeto ante vos.) Os he acusado injustamente, <CHARNAME>, hija de Baal.~
+@95   = ~Si el combate es lo requerido para lavar la mancha de mi acusación, así sea. Si no, me iré y no os molestaré más.~
+@96   = ~¡Pondré vuestro corazón en una pica por esto!.~
+@97   = ~(Edorem se levanta e inclina su cabeza formalmente.) Nombrad vuestras condiciones, pues será como vos deseáis.~
+@98   = ~(Hay una sonrisa vanidosa en la cara del caballero, y él os ignora completamente.)~
+@99   = ~¡Contemplad, Saerileth, al canalla que os ha hechizado! ¡La belleza del hijo de dios, su fuerza de carácter, ambas son falsas, falsas!.~
+@100  = ~¡Él ha usado encantamientos para engañaros! ¡Mirad ahora su verdadera cara!.~
+@101  = ~(El caballero se inclina formalmente ante vos, su cara se retuerce de pesar y horror.) ¡Vos - vos no la engañasteis! Vos sois verdaderamente como afirmasteis serlo, a pesar de la magia que os rodea.~
+@102  = ~Os he acusado injustamente, <CHARNAME>, hijo de Baal. Por vuestro perdón inmerecido, os doy gracias.~ ~Os he acusado injustamente, <CHARNAME>, hija de Baal. Por vuestro perdón inmerecido, os doy gracias.~
+@103  = ~Me iré y no os molestaré más. (Él mira a Saerileth otra vez, sus ojos atormentados siguen el rastro de la figura de su cara a medida que él habla.)~
+@104  = ~Adiós, Saerileth, la más bonita de las hijas de la tierra.~
+@105  = ~(Los ojos de Edorem se fijan en vuestra cara, estupor y horror mezclados con vergüenza en su semblante.)~
+@106  = ~Vos habláis sinceramente,<CHARNAME>, guardián de Saerileth. Mis acciones ahora me horrorizan. Vos sois verdaderamente como afirmasteis serlo, a pesar de la magia que os rodea.~
+@107  = ~Os he acusado injustamente, y si el combate es lo requerido para lavar la mancha de mi acusación, así sea. Si no, me iré y no os molestaré más.~
+@108  = ~¡No, no lo hará! (La cara de Saerileth se enrojece, y en sus ojos afloran las lágrimas.)~
+@109  = ~¡No estoy tan ciega como para no percibir que esta batalla es demasiado para mí por lo que respecta a vuestro orgullo, <CHARNAME>!.~
+@110  = ~No habrá necesidad de luchar por mis sentimientos... ~
+@111  = ~¡No, Saerileth! Simplemente es que estaba enfadado. No le lastimaré.~ ~~
+@112  = ~No lucho por vuestro amor, Saerileth. Peleo por el bien de mi honor.~
+@113  = ~Mantengo que hay necesidad de luchar por vuestro corazón, mi amor, y me enfrentaré a este caballero calumnioso - o cualquier otro - por vuestro propio beneficio.~
+@114  = ~(Saerileth suspira y toma vuestra mano, desahogando sus lágrimas.) Os doy las gracias, amado. Lord Edorem es un Elegido de Tyr, y aunque su cariño para mí es equivocado, no le dañaría.~
+@115  = ~Mi amor es vuestro, como muy bien sabéis. (Todavía estrechando vuestra mano, Saerileth contempla a Edorem, y hay piedad infinita en su mirada.)~
+@116  = ~Ahora comprendo por fin las palabras que vos dijisteis en nuestra partida en Sigil. Yo os compadezco, mi Señor, pero mi corazón no es mío para dároslo.~
+@117  = ~Pertenezco a <CHARNAME>.~
+@118  = ~(Las lágrimas de Saerileth aún caen a medida que ella habla.) Comprendo esto, <CHARNAME>, de veras que lo hago, pero os suplico que tengáis piedad de su vida.~
+@119  = ~(Saerileth se arrodilla ante vos con las manos levantadas, el gesto ritual de un implorante.) Por el bien de vuestro amor por mí, perdonad este crimen.~
+@120  = ~Él es un Elegido de Tyr, y os suplico por su vida.~
+@121  = ~Muy bien, Saerileth. Porque vos lo habéis pedido, tendré piedad de su vida.~
+@122  = ~No, Saerileth, ni aún por vuestro bien se puede disculpar esto. Edorem debe morir.~
+@123  = ~(Saerileth toma vuestra mano, sus lágrimas todavía corren libremente.) Lo tenéis, mi corazón es vuestro, como muy bien sabéis.~
+@124  = ~Por favor, os lo suplico, no hagáis daño a Lord Edorem. Él es un Elegido de Tyr, y es mi deber el defenderle.~
+@125  = ~(Saerileth sonríe por entre sus lágrimas.) Os doy las gracias, amado. (Todavía estrechando vuestra mano, Saerileth contempla a Edorem, y hay piedad infinita en su mirada.)~
+@126  = ~¡Vos le habéis quitado la vida a Saerileth, entonces! Pues mi deber hacia Tyr está por encima incluso de mi amor por vos, corazón de mi corazón.~
+@127  = ~No debo quedarme parada mientras matáis a un sirviente de Tyr.~
+@128  = ~(Saerileth trata de sacar su arma, pero ella cae sin sentido a los pies de Lord Edorem.)~
+@129  = ~¡Entonces, <CHARNAME>, vos habéis destruido la creación más perfecta de los dioses!  ¡Vuestro orgullo que habéis colocado por encima de su corazón y de su vida!.~
+@130  = ~Entonces no fui engañado; aunque vuestra belleza es única, vuestro corazón es negro.~
+@131  = ~(Antes de que podáis reaccionar, el caballero desaparece de vuestra vista, llevándose a Saerileth con él.)~
+@132  = ~(Saerileth pone sus brazos alrededor de vos y se aferra a vos, sus lágrimas caen libremente sobre vuestro pecho.)~
+@133  = ~Ah <CHARNAME>, ¿por qué nuestro amor debe herir a un corazón tan noble? Lord Edorem es un Elegido de Tyr, y él ha sido siempre amable conmigo.~
+@134  = ~Pero mi corazón estaba reservado para vos. (Saerileth acurruca su cabeza en vuestro pecho, y no os suelta hasta que os retiráis.)~
+@135  = ~(Los ojos de Saerileth se abren con espanto, y las lágrimas fluyen desconsoladamente por sus mejillas. Ella alarga sus manos hacia Edorem mientras os habla.)~
+@136  = ~¡No puedo creerlo de vos! ¡Qué vos- vos! en quien confié todo este tiempo... ¡me hayáis engañado!.~
+@137  = ~Vos me habéis hechizado, tal y como mi señor Edorem dijo. (La voz de Saerileth se pierde entre sollozos, y Edorem la envuelve en sus brazos.)~
+@138  = ~¡Saerileth! ¡Os amo! ¿Por qué estáis haciendo esto?.~
+@139  = ~¡Soy todavía el mismo <CHARNAME> que dijisteis que amabais! ¿Es vuestro corazón tan cambiante, Saerileth?.~
+@140  = ~¡Sí vos sois así de caprichosa, no os quiero! ¡Edorem os puede acoger!.~
+@141  = ~Ya veo. ¿Así es que se trataba de esto? ¿vos ya no me queréis?.~
+@142  = ~¿Yo? ¡Yo no engaño, <CHARNAME>! Sois vos el que me ha engañado. No puedo confiar más en vos, y así mi amor por vos morirá.~
+@143  = ~(Saerileth continúa sollozando, y Edorem acaricia su pelo.) ¿Es ese vuestro deseo, Saerileth, que deje vuestro lado? ¿O aún desearíais tenerlo por compañero a pesar de esto?.~
+@144  = ~Saerileth, no os vayáis. Quiero intentar ganar vuestra confianza otra vez.~
+@145  = ~¡Sí, id! ¡Mejor que no volváis! ¡No quiero volver a veros!.~
+@146  = ~Ya veo. Os mantendría a mi lado, Saerileth, aunque nuestro amor nunca puede ser.~
+@147  = ~¿Mi corazón? ¿Qué podéis saber vos de mi corazón? (Los ojos de Saerileth se llenan de lágrimas, y su voz es suave, quebrada con sollozos.)~
+@148  = ~En el amor debe haber confianza. ¿Cómo puedo confiar en alguien que usaría encantamientos para engañarme? No puedo seguir confiando en vos, y así mi amor por vos morirá.~
+@149  = ~(Saerileth no dice nada y continúa llorando.)~
+@150  = ~¿Amaros? ¿Qué podéis vos saber del amor? (Los ojos de Saerileth se llenan de  lágrimas, y su voz es suave, quebrada con sollozos.)~
+@151  = ~Eso no puede ser, <CHARNAME>, al menos no como vos esperáis. Si alguna vez puedo volver a confiar en vos, ya será muy tarde para que os ame.~
+@152  = ~No puedo hablar más. ¿Qué decís?.~
+@153  = ~¡Sí, id! No quiero volver a veros otra vez.~
+@154  = ~(Saerileth inclina la cabeza sin hablar.)~
+@155  = ~Como vos se marchita. (Saerileth no puede hablar más y continúa llorando contra el pecho de Edorem.)~
+@156  = ~Y lo haré, engendro infernal. (La cara de Edorem está excitada por la victoria.)~
+@157  = ~Ni vos la veréis otra vez. Saerileth regresará conmigo. (La cara de Edorem está excitada por la victoria.)~
+@158  = ~¿Entonces es este engendro de Baal a quién lleváis en vuestro corazón, Saerileth? ¿Cómo puede ser?.~
+@159  = ~¿Vos no recordáis las palabras que os dije cuando partimos?.~
+@160  = ~Las recuerdo bien, Lord Edorem. Pero os dije entonces que mi corazón aún no era vuestro.~
+@161  = ~Vos dijisteis que vuestro corazón no era aún mío, pero vos no negasteis que podría venir a conquistarlo con el tiempo.~
+@162  = ~(La  hermosa cara del caballero está afligida, pero su voz, queda y apasionada, no deja traslucir ninguna debilidad.)~
+@163  = ~De tiempo no he tenido nada. El dios Imparcial os empujó al Primario, y allí parece que os he perdido.~
+@164  = ~Vos no podéis perder lo que fue nunca vuestro. (Saerileth presiona vuestra mano.)~
+@165  = ~¿Es eso así, <CHARNAME>, hijo de Baal? ¿Es Saerileth vuestro único amor verdadero?.~
+@166  = ~Sí, Edorem. Saerileth es mi único amor. Lo siento por vos.~
+@167  = ~Amo a Saerileth, pero no es correcto apartarla de vos. Renunciaré a mi pretensión de ella por vos.~
+@168  = ~¡Ella es mía, y vos no la podéis tener!.~
+@169  = ~Me gusta Saerileth, sí, pero no puedo decir que ella sea mi amor verdadero.~
+@170  = ~No desprecio la lástima cuando viene de forma bondadosa... y es necesaria. Y he visto a Saerileth, la criatura más bonita de este y otros mundos.~
+@171  = ~Por ello he sentido mayor júbilo que el que cualquier mortal podría siquiera desear.~
+@172  = ~¿Podréis hacerlo? (En la cara de Edorem parece haber incluso mayor asombro que alegría.)~
+@173  = ~¿Me entregaréis a Saerileth?.~
+@174  = ~Que así sea entonces. (Edorem se inclina hacia vos y hacia Saerileth.) Al menos pude ver a Saerileth, la más bella criatura de este y otros mundos.~
+@175  = ~¿No lo es? ¿Pensáis acaso que podéis encontrar doncella más hermosa? (Edorem casi suelta un resoplido.)~
+@176  = ~Aun así, por ello os doy las gracias, pues por estas palabras habéis liberado a Saerileth de vuestro yugo.~
+@177  = ~¿Vos... vos me entregaríais a Lord Edorem? (La cara de Saerileth palidece de angustia.)~
+@178  = ~¿Cómo? ¿De qué modo os he fallado, mi amor? Pero vos no sois mi amor, pues me habéis dado de lado.~
+@179  = ~Todavía en esto os obedezco, pues mis labios jamás os han mentido. Si vos me entregaseis a Lord Edorem, entonces de Lord Edorem seré.~
+@180  = ~¿Vos... vos jamás me amasteis? ¿Vuestras palabras de amor fueron... mentiras? (La cara de Saerileth está blanca, y sus ojos antes azules ahora parecen negros.)~
+@181  = ~¡Saerileth! (La voz de Edorem suena codiciosa y alegre.) ¡Por fin os encuentro!.~ [SAERI151]
+@182  = ~¿Lord Edorem? ¿Qué hacéis aquí? (Saerileth, perpleja, arquea las cejas.)~ [SAERI152]
+@183  = ~¿Acaso no os alegráis de verme? (Edorem vacila repentinamente.)~
+@184  = ~¡No, mi señor! (Saerileth camina involuntariamente hacia él.) No podría haber momento en que no me alegrara de ello.~
+@185  = ~Me alegra oírlo. (Edorem se detiene al lado de Saerileth y reposa la mano en su hombro.)~
+@186  = ~En cuanto a mi cometido aquí, sólo vine para ver cómo os encontráis.~
+@187  = ~Estoy bien, Lord Edorem. (Saerileth intenta sonreír, pero las lágrimas de sus ojos la delatan.)~
+@188  = ~Demostráis gran bondad viniendo desde tan lejos para verme.~
+@189  = ~Cruzaría Baator por vos.~
+@190  = ~Y eso es lo que habéis hecho.~
+@191  = ~(Los dos se alejan unos metros, y dejáis de enteraros del resto de la conversación.)~
+@192  = ~(Cuando Edorem se marcha os dirige la palabra.)~
+@193  = ~<CHARNAME>, os agradezco que cuidarais de Saerileth, y por el momento os la confío.~
+@194  = ~He venido a veros de nuevo, Saerileth.~ [SAERI153]
+@195  = ~¡Lord Edorem! No pensé que volvierais tan pronto. Me siento tremendamente agraciada por ello.~ [SAERI154]
+@196  = ~(El caballero posa su mano en el brazo de Saerileth.) Aquí en el Primario os debe resultar difícil.~
+@197  = ~Es la voluntad de Tyr, Señor.~
+@198  = ~Es verdad, pero nuestras tareas no siempre son fáciles. Sé que habéis perdido los Planos.~
+@199  = ~¿Cómo sabéis eso? (Saerileth eleva la mirada hacia sus ojos, azules al igual que los suyos.)~
+@200  = ~Es cierto, pero jamás os he hablado de ello.~
+@201  = ~No necesitáis hablar, Saerileth. Vuestros ojos lo dicen todo. También me dicen que hay una herida en vuestro corazón, y que no es causada por el Primario.~
+@202  = ~Pensé que había amado, Lord Edorem. Pensé que mi amor era correspondido. Pero mi corazón fue rechazado, y mi confianza quebrada.~
+@203  = ~Ah. Eso mismo pensé. (Edorem os dirige un rápido vistazo, pero continúa mirando a Saerileth.)~
+@204  = ~Saerileth, no habéis hecho nada de lo que debáis avergonzaros.~
+@205  = ~No estoy avergonzada, sino apenada. (Los ojos de Saerileth derraman un par de lágrimas que bajan hasta sus mejillas.)~
+@206  = ~El dolor cederá, Saerileth. Os lo prometo.~
+@207  = ~¿Cómo podéis saber eso? (Saerileth posa sus ojos en vos por un momento.)~
+@208  = ~Porque vuestro corazón sólo está herido, no roto. Vuestro amor no fue tal, sino un capricho solamente.~
+@209  = ~¿Por qué decís eso? ¿Acaso qué podéis saber vos? (No hay cólera en la voz de Saerileth; está escuchando de forma expectante.)~
+@210  = ~Lo sé porque no había confianza en vuestro amor. Siempre hubo duda; el amor no tiene dudas.~
+@211  = ~Espero que sean ciertas estas palabras, pues con ellas encuentro consuelo.~
+@212  = ~Eso es más de lo que esperaba que dijerais, me alegro de haberos ayudado. Volveré por vos, Saerileth. Ahora debo despedirme.~
+@213  = ~Desconocía que hubieseis visto tanto. (Saerileth deja escapar un fuerte suspiro.)~
+@214  = ~Las cicatrices de Baator no se curan fácilmente, pero, Saerileth, vos *no* estáis sola.~
+@215  = ~Perdonadme, Lord Edorem. Me encuentro apenada. (Los ojos de Saerileth derraman un par de lágrimas que bajan hasta sus mejillas.)~
+@216  = ~¿Cómo podéis saber qué así ocurrirá? (La mirada de Saerileth se pierde por un momento.)~
+@217  = ~Porque os ayudaré. No permitiré que os enfrentéis sola a esto.~
+@218  = ~¿De veras... no me abandonaréis?.~
+@219  = ~Como bien sabéis, no se me permite permanecer en el Primario. Pero volveré por vos, incluso mientras permanezcáis aquí.~
+@220  = ~Y cuando seáis liberada del Primario, os estaré esperando.~
+@221  = ~Encuentro gran consuelo en vuestras palabras.~
+@222  = ~Eso es más de lo que esperaba que dijerais. (Edorem se inclina hacia Saerileth como gesto de cortesía.)~
+@223  = ~Pronto volveré, Saerileth. Ahora debo despedirme.~
+@224  = ~(Habéis acampado durante la noche, cuando el crepitar de un conducto planar os despierta. Lord Edorem se aproxima.)~
+@225  = ~¡Lord Edorem! (Saerileth se gira hacia el sonido.)~ [SAERI285]
+@226  = ~¿Os alegráis de verme, Saerileth? (Edorem toma a Saerileth por las manos.)~ [SAERI286]
+@227  = ~Sí, Lord Edorem. (Los ojos de Saerileth toman un brillo que jamás habías visto antes.)~
+@228  = ~¿Pero por qué habéis venido?.~
+@229  = ~Para veros, nada más.~
+@230  = ~(El caballero no suelta las manos de Saerileth, y ella tampoco retira el agarre.)~
+@231  = ~Veros es bálsamo para mi dolido corazón. Me encuentro fatigada a causa del Primario... ¡pero no quisiera estar en otro lugar!.~
+@232  = ~Aquí me protege la voluntad de Tyr Herido.~
+@233  = ~Vuestra devoción... (Interrumpe su frase y envuelve a Saerileth con sus brazos.)~
+@234  = ~Amada Saerileth, he visto la gloria de Tyr en vuestros ojos.~
+@235  = ~(Saerileth, con la cara hundida en el pecho de Edorem, no contesta, pero sus hombros se agitan levemente.)~
+@236  = ~Volveré por vos de nuevo, Saerileth.~
+@237  = ~(Saerileth levanta la mirada.) ¿Debéis marcharos tan pronto?.~
+@238  = ~Si lo deseáis, puedo permanecer con vos hasta que durmáis, para hablaros.~
+@239  = ~Lo deseo.~
+@240  = ~(El crepitar de la apertura de un portal de planos apenas os sobresalta, y la figura de Lord Edorem saliendo del portal no os sorprende en absoluto.)~
+@241  = ~¡Saerileth!.~ [SAERI287]
+@242  = ~Edorem. (Saerileth exhala el nombre.)~ [SAERI288]
+@243  = ~He venido del Templo, y no puedo permanecer mucho tiempo aquí. Debemos partir hacia Acheron.~
+@244  = ~(La cara de Saerileth pierde su color.) Pero... ¿pero debo ir con vos?.~
+@245  = ~No, bella Saerileth. Los sagrados padres han decretado que permanezcáis en el Primario por el momento.~
+@246  = ~(Saerileth inclina la cabeza.) Se haga pues la voluntad de Tyr.~
+@247  = ~(Su voz pierde intensidad mientras habla, y no levanta la mirada del suelo.)~
+@248  = ~¡Os apenáis de verme partir! ¡Apenas podría haberlo supuesto!.~
+@249  = ~¿Por qué debería sorprenderos? Siempre habéis sido muy querido para mí.~
+@250  = ~Pero ahora más, ¿me equivoco?.~
+@251  = ~Me avergüenzo de pensar que mi corazón es tan voluble.~
+@252  = ~Estabais equivocada, Saerileth. Entonces no conocíais el amor. (El caballero de dorada melena os echa un leve vistazo.)~
+@253  = ~Cierto que no es como cualquier cosa que haya sentido antes.~
+@254  = ~Ya sois toda una mujer, Saerileth. Vuestro corazón es...~
+@255  = ~¿De vos?.~
+@256  = ~Todavía no debo preguntároslo. No hasta que regrese de esta batalla.~
+@257  = ~Entonces os esperaré, Edorem, el Elegido de Tyr.~
+@258  = ~(El caballero se inclina y besa a Saerileth en la frente. Después se marcha.)~
+@259  = ~Edorem.~ [SAERI288]
+@260  = ~Nunca había sentido algo así... ¿es acaso amor, Lord Edorem?.~
+@261  = ~Sí, Saerileth. Ya sois toda una mujer, y vuestro corazón es...~
+@262  = ~(La resplandeciente figura de Lord Edorem emerge del portal casi antes de haber aparecido del todo. Corre hacia Saerileth, la cual se dirige rauda al encuentro.)~
+@263  = ~¡Mi señora! ¡Saerileth mía! ¡He venido a reclamaros!.~ [SAERI289]
+@264  = ~(Saerileth inclina su cabeza sobre las manos de Edorem, cubriéndolas de besos.)~
+@265  = ~¿Podré partir con vos?.~ [SAERI290]
+@266  = ~No. (Edorem eleva la cabeza de Saerileth hacia la suya.) Todavía no es posible.~
+@267  = ~La voluntad del Dios Herido es mi deseo, así como el vuestro. ¡Os esperaré hasta que el multiverso desaparezca... mi hermano, mi maestro, mi señor!.~
+@268  = ~Saerileth mía, mi dama y esposa. Aquí me prometo solemnemente hacia vos.~
+@269  = ~(Saerileth presiona sus labios contra los de Edorem.) Y yo a vos, amado Señor, marido y amigo.~
+@270  = ~Volveré por vos en cuanto me sea posible.~
+@271  = ~Si esa es la voluntad de Tyr, os encontraré en Sigil. Si no, esperaré vuestro regreso.~
+@272  = ~Rezo para que sea pronto.~
+@273  = ~Mi alma duele cuando estáis lejos de mí.~
+@274  = ~(El caballero besa a Saerileth una vez más, luego desaparece, dejándola sollozando en la oscuridad.)~
+@275  = ~¡Lord Edorem! ¿Qué hacéis? ¿Dónde está vuestra cortesía? ¿Cómo os *atrevéis* a poner la mano sobre <CHARNAME>?.~
+@276  = ~¿Y qué pensaríais si <CHARNAME> fuera mi amor? ¡Habéis deslustrado vuestro honor y vuestra empresa! ¿Por qué?.~
+@277  = ~Vos, quien fue mi líder al servicio de Tyr Ciego, quien me enseñó...~
+@278  = ~Mirad, Saerileth, ¡mirad bien a este engendro de Baal que ha robado vuestro corazón!.~
+@279  = ~¿Qué veis cuando miráis hacia mí, Saerileth mía?.~
+@280  = ~¡Exijo saber qué ocurre!.~
+@281  = ~Veo a mi amor, igual que siempre ante mis ojos, y beso su mano para honrarle.~
+@282  = ~(Saerileth camina alrededor de Edorem.) Pero vos, ¡hipócrita! ¡Siempre os he amado, tanto como a mis propios hermanos, y habéis deshonrado mi confianza!.~
+@283  = ~¿Por qué habéis hecho tal cosa, tal deshonroso acto de malicia? Fuisteis enseñado, al igual que yo, a mirar por el corazón, ¡no por la herencia!.~
+@284  = ~¡Marchaos de mi vista, y no nos causéis más molestias! ¡Vuestros prejuicios tornan vuestra compañía en no deseada!.~
+@285  = ~(La cara de Lord Edorem palidece, y cae sobre su rodilla.)~
+@286  = ~Perdonadme, <CHARNAME>, ¡os lo ruego! Habéis sido honesto con Saerileth, no hay nada que pueda decir para defender mis actos.~
+@287  = ~No me atrevo a mirar a Saerileth, pero, buen señor, la amo. No era la voluntad de Tyr que me amara, y vos la habéis ganado.~
+@288  = ~De vos, en vuestra dicha de poseer a la más bella criatura del multiverso, me atrevo a esperar perdón.~
+@289  = ~No merezco este perdón, pero mi castigo ya es mucho más grande que mi ofensa.~
+@290  = ~En efecto, Edorem. Ha sido grande vuestra ofensa, pero no podréis poseer a Saerileth. Sin duda es vuestro castigo.~
+@291  = ~No puede haber perdida mayor que perder a Saerileth.~
+@292  = ~¡Este insulto sólo podrá ser limpiado con vuestra sangre!.~
+@293  = ~¡Clavaré vuestro corazón en una lanza por esto!.~
+@294  = ~¿Perderme? ¿Cómo puede alguien perder lo que nunca ha poseído? ¡Volveos a Sigil, Lord Edorem!.~
+@295  = ~(Saerileth da la espalda al caballero, el que tristemente agacha la cabeza.)~
+@296  = ~Que os vaya bien, <CHARNAME>. Sed bueno con ella, os lo suplico. Edorem nunca volverá a causaros molestia alguna.~
+@297  = ~No, mi amor. No mancilléis vuestra espada con su sangre. Podrá ser un bárbaro, pero sigue siendo un campeón de Tyr.~
+@298  = ~El amor que siento por vos sería prohibido por mi Orden si le matarais.~
+@299  = ~(Saerileth se aleja del caballero, dejándoos a solas con Edorem.)~
+@300  = ~Si sólo es mi sangre lo que puede satisfaceros, <CHARNAME>, entonces mi sangre tendréis. Acabaré con mi vida una vez que regrese a Sigil.~
+@301  = ~(Lord Edorem coloca su mano sobre su corazón, y se marcha.)~
+@302  = ~¿Qué es esto? Vos, aquel al que he amado, ¿me habéis engañado? ¿Por qué habéis cometido tal abuso hacia mi confianza?.~
+@303  = ~¡Nunca pudiera haberlo imaginado! Vos, en quien confié todo este tiempo... <CHARNAME>... vos...~
+@304  = ~(Saerileth rompe a llorar, y se seca con sus manos.)~
+@305  = ~(Extendiendo la mano hacia Saerileth.) ¿Qué ocurre?.~
+@306  = ~¿Me amasteis sólo para deshaceros de ese amor basado en algo tan superficial como mi apariencia?.~
+@307  = ~(Dirigiéndose a Edorem.) ¿¡Cuándo dejaréis de interponeros entre Saerileth y yo!?.~
+@308  = ~¡No me toquéis! ¡No sois mi amor! Sois un mentiroso. El amor que sentí por vos no fue nada más que una ilusión.~
+@309  = ~¿Por qué, <CHARNAME>, por qué me habéis embrujado? ¿Pensasteis que no os hubiera amado de otro modo?.~
+@310  = ~Si eso es así, entonces habéis sido engañado, pues jamás podría amar a alguien en quien no confío. Y nunca, nunca podría confiar en quien me ha mentido.~
+@311  = ~¿Podríais perdonarme?.~
+@312  = ~Saerileth, ¡os amo! ¿Por qué hacéis esto?.~
+@313  = ~¿Así que esto es lo que ha ocurrido? ¿Ya no me amáis?.~
+@314  = ~¿Yo, <CHARNAME>? Yo no me he deshecho de nada. ¡Sois vos quien me habéis engañado! En el amor debe haber confianza. ¿Cómo puede ser que haya confiado en alguien que ha usado encantamientos para engañarme?.~
+@315  = ~No puedo confiar más en vos, y por ello mi amor por vos debe morir.~
+@316  = ~(Saerileth sigue sollozando de forma entrecortada.) ¿Es vuestra voluntad que me aleje de vuestro lado? ¿O seguiréis aceptando a Saerileth como compañera después de esto?.~
+@317  = ~Saerileth, no os vayáis. Quiero intentar ganarme vuestra confianza de nuevo.~
+@318  = ~¡Sí, marchaos! ¡Marchaos de una vez! No quiero volver a veros nunca.~
+@319  = ~Entiendo. Jamás os hubiera apartado de mi lado, Saerileth, incluso aunque nuestro amor nunca pudiera existir.~
+@320  = ~Eso no es posible, <CHARNAME>, al menos no como esperáis. Incluso si pudiera aprender a confiar de nuevo en vos, sería demasiado tarde para que pudiese amaros.~
+@321  = ~No hablaré más. ¿Qué obtendríais con ello?.~
+@322  = ~¡Sí, marchad! ¡No quiero volver a ver vuestra cara!.~
+@323  = ~Como deseéis. (Saerileth se dispone a marcharse, todavía llorando.)~
+@324  = ~(Saerileth asiente sin decir una palabra.)~
+@325  = ~Jamás volveréis a verla. Saerileth volverá conmigo. (La cara de Edorem se enardece triunfadora.)~
+@326  = ~Sí, volveré al templo Tyr, allí me dedicaré enteramente a su voluntad.~
+@327  = ~(Saerileth no se percata de la alegría de Edorem mientras toma su mano.) Que os vaya bien, <CHARNAME>. No volveremos a encontrarnos.~
+@328  = ~¡Yo no me he interpuesto! Vos sois quien la ha alejado con vuestros engaños! ¡Preguntádselo a ella, hijo de Baal!.~
+@329  = ~¿Es cierto, Saerileth, que ya no me amáis?.~
+@330  = ~Jamás pensé que fuerais tan superficial, Saerileth. ¿Por esto me habéis rechazado?.~
+@331  = ~¿Olvidaros? Sí, puedo olvidaros, <CHARNAME>, pero nunca jamás podré sentir amor por vos.~
+@332  = ~¿Amaros? ¿Qué podéis acaso saber del amor? (los ojos de Saerileth están cubiertos en lágrimas, y su voz suena débil, quebrada por los sollozos.)~
+@333  = ~En el amor debe haber confianza. ¿Cómo puede ser que haya confiado en alguien que ha usado encantamientos para engañarme?.~
+@334  = ~¿Pero qué tendréis de mí ahora? ¿Es vuestra voluntad que me marche de vuestro lado?.~
+@335  = ~¿Yo, <CHARNAME>? ¡Yo no hice nada! ¡Sois vos quien me habéis engañado! En el amor debe haber confianza. ¿Cómo puede ser que haya confiado en alguien que ha usado encantamientos para engañarme?.~
+@336  = ~(Saerileth se arrodilla ante el apuesto caballero y toma su mano, presionándola contra sus labios.)~
+@337  = ~Por la voluntad de <CHARNAME>, os pertenezco. Cuando mi deber hacia el Dios Mutilado acabe, volveré a Sigil y seré vuestra esposa.~
+@338  = ~¡Entonces que Tyr me perdone, pues he creído y confiado en vos!.~
+@339  = ~Todavía mi deber hacia el Dios Mutilado es más valioso para mí que mi propia vida. Mientras ese deber me retenga aquí, aquí he de permanecer.~
+@340  = ~Adiós, y hasta nunca.~
+@5000 = ~El Deva caído
+
+He acogido a una joven paladín de Tyr llamada Saerileth en mi grupo. Está buscando un deva caído y le han dicho que lo encontraría viajando con el engendro de Baal. No hay más detalles disponibles.~
+@5001 = ~El Deva caído
+
+He acogido a una joven paladín de Tyr llamada Saerileth en mi grupo. Parece muy feliz conmigo.  Está buscando un deva caído y le han dicho que lo encontraría viajando con el engendro de Baal. No hay más detalles disponibles.~
+@5002 = ~Saerileth Secuestrada
+
+Saerileth ha sido secuestra por un demonio-lord. Hemos unido nuestras fuerzas con caballeros de Tyr para intentar rescatarla. Primero debemos buscar a Jharak en la ciudad de Sigil para conseguir el Cetro de Tyr.~
+@5003 = ~Saerileth Secuestrada
+
+Saerileth ha sido secuestra por un demonio-lord. Hemos unido nuestras fuerzas con caballeros de Tyr para intentar rescatarla. Nos hemos puesto en camino hacia Baator inmediatamente.~
+@5004 = ~Saerileth Secuestrada
+
+Saerileth ha sido secuestra por un demonio-lord. Es muy arriesgado intentar rescatarla. La hemos dejado a su destino.~
+@5005 = ~Saerileth Secuestrada
+
+Hemos encontrado a Jharak, pero él nos envió a un portal antes de decirnos la localización del Cetro de Tyr.~
+@5006 = ~Saerileth Secuestrada
+
+Hemos encontrado la llave, una cerradura de pelo, y estamos regresando a Jharak con ella inmediatamente.~
+@5007 = ~Saerileth Secuestrada
+
+Jharak nos ha enviado a hablar con el tabernero, él tiene el Cetro.~
+@5008 = ~Saerileth Secuestrada
+
+Al final hemos conseguido el Cetro de Tyr. El alma de Saerileth está en peligro, y necesitamos llegar a Edorem lo más rápido posible.~
+@5009 = ~Saerileth Rescatada
+
+Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez más. Lord Edorem, el paladín de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
+@5010 = ~Saerileth Rescatada
+
+Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez más. He relevado a Saerileth, y está esperándome en los planos. Lord Edorem, el paladín de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
+@5011 = ~El Deva caído
+
+Hemos encontrado a Kesevar el Caído, pero dice que su castigo no es merecido. Ha mandado la búsqueda del único testigo que puede atestiguar su inocencia: el engendro de Baal de nombre Gunshain.~
+@5012 = ~El Deva caído
+
+Gunshain, ha limpiado el nombre de Kesevar, ¡pero él también ha intentado matarnos! Nos hemos desecho de él, y hemos vuelto a por Kesevar rápidamente.~
+@5013 = ~El Deva caído
+
+Saerileth dijo que Kesevar era inocente, y su proclamación ha tenido efecto inmediato. El deva fue devuelto a su antigua gloria, y Saerileth se queda en mi compañía.~
+@5014 = ~El Deva caído
+
+Parece que Kesevar no es culpable después de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. Mi amor ha vuelto a los Planos para intentar expiar su pérdida. Nunca la volveré a ver.~
+@5015 = ~El Deva caído
+
+Parece que Kesevar no es culpable después de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. La joven paladín ha vuelto a los Planos para intentar expiar su pérdida. Nunca la volveré a ver.~
+@5016 = ~Delilah la Ramera
+
+Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer más hermosa de estas tierras, está vendiendo placeres con su cuerpo en la taberna local. Mi esposa, Saerileth y yo, tenemos graves dudas acerca del destino del hombre que fuera a verla.~
+@5017 = ~Delilah la Ramera
+
+Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer más hermosa de estas tierras, está vendiendo placeres con su cuerpo en la taberna local. Tengo graves dudas acerca del destino del hombre que fuera a verla.~
+@5018 = ~Delilah la Ramera
+
+Sucumbí a los encantos de Delilah, ¡sólo para descubrir que era un súcubo! Mi adulterio rompió el corazón de Saerileth, y ella está muerta. El súcubo ha vuelto al Abismo, y ya no soy el hombre que era antes.~
+@5019 = ~Delilah la Ramera
+
+Sucumbí a los encantos de Delilah, ¡sólo para descubrir que era un súcubo! El súcubo ha regresado al Abismo, y ya no soy el hombre que era antes.~
+@5020 = ~Delilah la Ramera
+
+Saerileth me aseguró que esa Delilah es un demonio, pero no podemos matarla sin destruir al hombre que está con ella. Necesitamos encontrar un templo donde tal vez podamos encontrar en las ilusiones demoníacas penetrantes.~
+@5021 = ~Delilah la Ramera
+
+Me he negado a ayudar a aquellos capturados en el abrazo de los demonios. Les acarrearon su destino. Saerileth está entristecida, pero ella reconoce que su castigo es justo.~
+@5022 = ~Delilah la Ramera
+
+He recibido del sacerdote de Waukin un hechizo con la habilidad de cancelar las ilusiones. Aún está por verse si su poder funciona con las magias del infierno.~
+@5023 = ~Delilah la Ramera
+
+El pergamino tuvo éxito. Si fue el pergamino o los rezos de Saerileth, no lo sé. Sin embargo funcionó, y los demonios fueron forzados a regresar al Abismo.~
+@5024 = ~Derrotando a Khalabaxin
+
+He aceptado ayudar a Sir Havun Clarenshider contra el dragón Khalabaxin. Lo encontraré cerca de su nueva guarida, la cueva después del río en las colinas de Umar.~
+@5025 = ~Derrotando a Khalabaxin
+
+He destruido al dragón Khalabaxin. Ahora voy a volver a la Orden del Corazón Radiante y a contarle a Sir Havun Clarenshide lo que ha ocurrido.~
+@5026 = ~Derrotando a Khalabaxin
+
+He vuelto al Corazón Radiante con noticias de mi victoria contra Khalabaxin. El trabajo de la Orden parece que nunca acabará.~
+@5027 = ~Derrotando a los Vampiros
+
+Sir Havun me ha informado de la existencia de una guarida de vampiros aquí en la ciudad. Tengo que buscarla y destruirla. Viven en las criptas debajo del cementerio. La Orden enviará uno de sus magos expertos para ayudarme en abrir una brecha en las defensas de la guarida.~
+@5028 = ~Derrotando a los Vampiros
+
+He destruido a los vampiros, pero la líder, Bodhi, me eludió. Tiene cosas interesantes que decir sobre mí... ¡Ella sabía que era un engendro de Baal! Ahora voy a contar la destrucción de los vampiros a Sir Havun.~
+@5029 = ~Vampiros Derrotados
+
+He vuelto al Corazón Radiante con las noticias sobre mi victoria contra los vampiros. La Orden me ha ofrecido un pasaje a la Prisión del Hechicero como recompensa.~

@@ -1,0 +1,182 @@
+@0  = ~Trinkt Schierling und sterbt, Planloser!~
+@1  = ~Nun, es sieht so aus, als ob jemandem hier ein paar Manieren beigebracht werden müssen.~
+@2  = ~Ihr seid Mon, oder?~
+@3  = ~Ich suche einen Portalschlüssel. Gebt ihn mir und ich werde Euer Leben verschonen!~
+@4  = ~Ich suche einen Portalschlüssel. Wisst Ihr vielleicht, wo ich einen kaufen könnte?~
+@5  = ~Und Ihr seid heute mein Lehrer, Dussel?~
+@6  = ~Das war's. Zeit zum Sterben, Mistkerl!~
+@7  = ~Vielleicht, aber ich möchte lieber mit Euch handeln.~
+@8  = ~Nein, und darüber könnt Ihr froh sein. Gebt mir einfach den Schlüssel - ich weiß, dass Ihr ihn habt - und ich werde Euch leben lassen.~
+@9  = ~Nein, und darüber könnt Ihr froh sein. Alles, was ich möchte, ist einen Portalschlüssel nach Ysgaard von Euch zu kaufen.~
+@10 = ~Bin ich. Was geht Euch das an, Dussel?~
+@11 = ~Was für ein dusseliger Bastard Ihr seid! Die Waffenstärke regiert nicht den Käfig, Ihr begriffsstuziges Stück Treibgut! Ihr solltet das Geheimnis kennen.~
+@12 = ~Sie mag den Käfig nicht regieren, aber sie wird Euer Leben beenden!~
+@13 = ~Na gut, na gut. Wie viel wollt Ihr für den Portalschlüssel nach Ysgaard?~
+@14 = ~Könnte sein. Wo wollt Ihr hin?~
+@15 = ~Ysgaard. Wie viel verlangt Ihr für den Schlüssel?~
+@16 = ~Zurück nach Hause, nach Toril.~
+@17 = ~Eigentlich habe ich es mir anders überlegt. Ich glaube, ich werde Euch einfach dafür töten.~
+@18 = ~Ihr werdet nur eine weitere Kerbe in meinem Gürtel sein, Planloser!~
+@19 = ~Sehr gut. Was wollt Ihr?~
+@20 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen wunderschönen schwarzen Bogen gebt, den Ihr da habt. Dieser, oder 2500 Gold. Sucht es Euch aus.~
+@21 = ~Gesens Bogen? Also gut, nehmt ihn.~
+@22 = ~Nein, ich werde das Gold bezahlen.~
+@23 = ~Der Preis ist zu hoch. Euer Leben ist weniger wert, also ist es Zeit zum Sterben!~
+@24 = ~Großartig! Und hier ist Euer Schlüssel.~
+@25 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diese interessante anti-magische Axt gebt, die Ihr da habt. Diese, oder 2500 Gold. Sucht es Euch aus.~
+@26 = ~Balas Axt? Also gut, nehmt sie.~
+@27 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen rammbockköpfigen Ring gebt, den Ihr da habt. Diesen, oder 2500 Gold. Sucht es Euch aus.~
+@28 = ~Den Rammbockring? Also gut, nehmt ihn.~
+@29 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen Ring des Roten Todes gebt, den Ihr da habt. Diesen, oder 2500 Gold. Sucht es Euch aus.~
+@30 = ~Den Gnadentöterring? Also gut, nehmt ihn.~
+@31 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen lichtblauen Stab gebt, den Ihr da habt. Diesen, oder 2500 Gold. Sucht es Euch aus.~
+@32 = ~Den Stecken der Heilung? Also gut, nehmt ihn.~
+@33 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diese goldenen und silbernen Armschienen gebt, die Ihr da habt. Diese, oder 2500 Gold. Sucht es Euch aus.~
+@34 = ~Die Armschienen der Bogenschützen? Also gut, nehmt sie.~
+@35 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen komischen Stab gebt, den Ihr da habt. Diesen, oder 2500 Gold. Sucht es Euch aus.~
+@36 = ~Den Stab der Wunder? Also gut, nehmt ihn.~
+@37 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen grünen Morgenstern gebt, den Ihr da habt. Diesen, oder 2500 Gold. Sucht es Euch aus.~
+@38 = ~Den Lindwurmschwanz? Also gut, nehmt ihn.~
+@39 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen vielgezinkten Dolch gebt, den Ihr da habt. Diesen, oder 2500 Gold. Sucht es Euch aus.~
+@40 = ~Den Feenstich? Also gut, nehmt ihn.~
+@41 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir dieses schöne Langschwert gebt, das Ihr da habt. Dieses, oder 2500 Gold. Sucht es Euch aus.~
+@42 = ~Das Rosenschwert? Also gut, nehmt es.~
+@43 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir dieses leichte Kurzschwert gebt, das Ihr da habt. Dieses, oder 2500 Gold. Sucht es Euch aus.~
+@44 = ~Kundane? Also gut, nehmt es.~
+@45 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich von einem trennen, wenn Ihr mir diesen breiten goldenen Gürtel gebt, den Ihr da habt. Den, oder 2500 Gold. Sucht es Euch aus.~
+@46 = ~Den Gürtel der Stumpfheit? Also gut, nehmt ihn.~
+@47 = ~Nun, Portalschlüssel sind einiges wert, hier im Käfig, aber ich würde mich für 2500 Gold von einem trennen. Normalerweise bevorzuge ich einen Tauschhandel, aber Ihr habt nichts, das ich möchte.~
+@48 = ~Ich werde das Gold bezahlen.~
+@49 = ~Sehr gut. Und hier ist Euer Schlüssel.~
+@50 = ~So viel habe ich nicht. Ich werde später zurückkommen.~
+@51 = ~Ich bezweifle, dass Ihr den Klimper schnell genug kriegt. Ich werde den Stock bald verlassen.~
+@52 = ~Pech gehabt, Planloser. Ich möchte gar keinen Schlüssel zur materiellen Ebene! Wenn Euch nicht der Sinn danach steht, in den Ebenen zu bleiben, dann hört auf, mit Eurer Knochenschüssel zu klappern!~
+@53 = ~Das war's! Zeit zum Sterben!~
+@54 = ~Was ist mit Ysgaard? Wie viel würde ein Schlüssel dorthin kosten?~
+@55 = ~Also habt Ihr das Gold, Dussel?~
+@56 = ~Nein, und ich habe entschieden, Euch dafür zu töten!~
+@57 = ~Ja, habe ich. Hier, für Euch.~
+@58 = ~Nein, aber ich werde es bald haben.~
+@59 = ~Sturköpfiger Planloser!~
+@60 = ~Ihr beeilt Euch besser, Dussel. Ich mache mich jeden Moment auf zur Festhalle.~
+
+
+@5000 = ~Der gefallene Deva
+
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+
+@5001 = ~Der gefallene Deva
+
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und scheint sehr angetan von mir zu sein. Sie ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+
+@5002 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Zuerst müssen wir Jharak in Sigil finden, um von ihm das Zepter des Tyr zu erhalten.~
+
+@5003 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Wir brechen sofort nach Baator auf.~
+
+@5004 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Da es zu gefährlich ist, sie zu retten, überließen wir sie ihrem Schicksal.~
+
+@5005 = ~Saerileths Entführung
+
+Wir haben Jharak gefunden, aber er wies uns an, zuerst einen Portalschlüssel zu finden, bevor er uns verrät, wo sich das Zepter des Tyr befindet.~
+
+@5006 = ~Saerileths Entführung
+
+Wir haben den Schlüssel, eine Haarlocke, gefunden und sollten damit sofort zu Jharak zurückkehren.~
+
+@5007 = ~Saerileths Entführung
+
+Jharak sandte uns zu dem Wirt, der angeblich das Zepter hat.~
+
+@5008 = ~Saerileths Entführung
+
+Wir haben endlich das Zepter des Tyr bekommen. Saerileths Seele ist in Gefahr und wir müssen so schnell wie möglich zurück zu Edorem eilen.~
+
+@5009 = ~Saerileths Rettung
+
+Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+
+@5010 = ~Saerileths Rettung
+
+Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Ich stellte sie aus meinem Dienst frei, und sie blieb auf den Ebenen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+
+@5011 = ~Der gefallene Deva
+
+Wir fanden Kesevar den Gefallenen, aber er behauptet, dass seine Bestrafung unverdient sei. Er sandte uns aus, den einzigen Zeugen zu suchen, der seine Unschuld bezeugen kann: ein Bhaalkind namens Gunshain.~
+
+@5012 = ~Der gefallene Deva
+
+Wie es aussieht, hat Gunshain Kesevars Namen wieder rein gewaschen, aber gleichzeitig versuchte er uns zu töten! Wir haben ihn besiegt und müssen jetzt schnell zu Kesevar zurückkehren.~
+
+@5013 = ~Der gefallene Deva
+
+Saerileth erklärte Kesevar für unschuldig, und dies zeigte sofort die gewünschte Wirkung. Der Deva erhielt seine frühere Herrlichkeit zurück. Saerileth wird in meiner Gruppe bleiben.~
+
+@5014 = ~Der gefallene Deva
+
+Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Meine Geliebte ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+
+@5015 = ~Der gefallene Deva
+
+Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Die junge Paladin ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+
+@5016 = ~Die Dirne Delilah
+
+Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Meine Frau Saerileth und ich haben schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+
+@5017 = ~Die Dirne Delilah
+
+Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Ich habe schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+
+@5018 = ~Die Dirne Delilah
+
+Ich erlag dem Charme Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Mein Ehebruch brach Saerileths Herz, und nun ist sie tot. Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+
+@5019 = ~Die Dirne Delilah
+
+Ich erlag dem Charm Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+
+@5020 = ~Die Dirne Delilah
+
+Saerileth versicherte mir, dass diese Delilah ein Dämon ist, aber wir können sie nicht vernichten, ohne dabei die Männer, die bei ihr sind, zu verdammen. Wir müssen einen Tempel finden, in welchem wir auf Unterstützung hoffen, um die dämonischen Illusionen durchdringen zu können.~
+
+@5021 = ~Die Dirne Delilah
+
+Ich werde diesen Wüstlingen, die in den Fängen des Dämons sind, nicht helfen. Sie sind für ihr Schicksal selbst verantwortlich. Saerileth ist betrübt darüber, aber sie stimmt zu, dass deren Bestrafung gerecht ist.~
+
+@5022 = ~Die Dirne Delilah
+
+Ich erhielt von den Priestern der Waukeen eine Spruchrolle, mit der man Illusionen aufheben kann. Ob ihre Kraft gegen die Magie der Hölle wirkt, wird sich noch herausstellen.~
+
+@5023 = ~Die Dirne Delilah
+
+Die Magie der Spruchrolle hat gewirkt. Ob es nun die Kraft der Spruchrolle oder Saerileths Gebete waren, weiß ich nicht sicher. Immerhin hat es funktioniert und die Dämonen wurden gezwungen, ihre Pläne aufzugeben und in den Abyss zurückzukehren.~
+
+@5024 = ~Der Kampf gegen Khalabaxin
+
+Ich habe Sir Havun Clarenshide meine Hilfe im Kampf gegen den Drachen Khalabaxin zugesagt. Der Drache dürfte bei seinem neuen Hort zu finden sein, in der Höhle unter dem Fluss in den Umarhügeln.~
+
+@5025 = ~Der Kampf gegen Khalabaxin
+
+Ich habe den Drachen Khalabaxin besiegt. Ich sollte nun zum Orden des Strahlenden Herzens zurückkehren und Sir Havun Clarenshide davon berichten.~
+
+@5026 = ~Der Kampf gegen Khalabaxin
+
+Ich kehrte mit der Nachricht von meinem Sieg über Khalabaxin zum Orden zurück. Es sieht so aus, als gäbe es noch mehr Arbeit, die ich für den Orden erledigen kann.~
+
+@5027 = ~Das Nest der Vampire
+
+Sir Havun hat mich darüber informiert, dass es hier in der Stadt ein Vampirnest gibt. Ich wurde ausgesandt, um es zu finden und zu zerschlagen. Es soll sich irgendwo in den Krypten unter dem Friedhof befinden. Der Orden wird mir außerdem einen angeheuerten Zauberer schicken, der mich beim Angriff auf die Vampire unterstützen soll.~
+
+@5028 = ~Das Nest der Vampire
+
+Ich habe das Vampirnest zerschlagen, doch ihre Anführerin, Bodhi, ist entkommen. Sie wusste einige interessante Dinge über mich... Sie wusste sogar, dass ich ein Bhaalkind bin! Ich sollte nun zu Sir Havun gehen und von der Vernichtung der Vampire berichten.~
+
+@5029 = ~Das Nest der Vampire
+
+Ich kehrte mit der Nachricht von der Zerschlagung des Vampirnestes zum Orden zurück. Als Belohnung hat man mir die Überfahrt zur Zauberfeste angeboten!~

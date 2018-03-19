@@ -1,0 +1,11 @@
+IF
+  Global("NSVampsaExists","AR0809",0)
+  Global("SaerilethVamped","GLOBAL",1)
+THEN
+ RESPONSE #100
+  SetGlobal("NSVampsaExists","AR0809",1)
+  CreateCreature("NSVAMPSA",[1765.210],2)
+END
+
+
+

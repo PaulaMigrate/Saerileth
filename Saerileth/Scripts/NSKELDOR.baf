@@ -1,0 +1,10 @@
+IF
+InParty(Myself)
+InParty("Saerileth")
+Global("SaerilethRomanceActive","GLOBAL",2)
+Global("NSKeldornAdvice","LOCALS",0)
+THEN
+RESPONSE #100
+SetGlobal("NSKeldornAdvice","LOCALS",1)
+StartDialogueNoSet(Player1)
+END

@@ -1,0 +1,266 @@
+@0   = ~Saerileth (BG2:SvA und TdB NSC) von Nethrin und Sillara~
+@1   = ~Saerileth~
+@2   = ~Seid gegrüßt, Gotteskind. Ihr seid doch das Kind Bhaals, von dem ich gehört habe?~ [SAERI001]
+@3   = ~Unendliche Schande überkommt mich...~ [SAERI002]
+@4   = ~Mir gefällt die Gesellschaft, in der ich reise.~ [SAERI003]
+@5   = ~Solltet Ihr Eure Art nicht ändern, werde ich die Gruppe verlassen.~ [SAERI004]
+@6   = ~Euer Herz füllt sich mit Dunkelheit. Kämpft dagegen an!~ [SAERI005]
+@7   = ~Von jetzt an sind wir Feinde!~ [SAERI006]
+@8   = ~Ich werde Euch im Namen Tyrs führen.~ [SAERI007]
+@9   = ~Ich kann nicht mehr weiter. Ich muss mich ausruhen.~ [SAERI008]
+@10  = ~Wir sollten keine Zeit verschwenden. Denkt an die, die unserer Hilfe bedürfen.~ [SAERI009]
+@11  = ~Im Namen Tyrs strecke ich Euch nieder!~ [SAERI010]
+@12  = ~Für den Ruhm von Tyr!~ [SAERI011]
+@13  = ~Gerechtigkeit!~ [SAERI012]
+@14  = ~Tyr!~ [SAERI013]
+@15  = ~Der Hammer möge Euch treffen!~ [SAERI014]
+@16  = ~Aaahhh!~ [SAERI015]
+@17  = ~Zu Tyr kehre ich zurück.~ [SAERI016]
+@18  = ~Für die Gerechtigkeit vergieße ich mein Blut.~ [SAERI017]
+@19  = ~Wie groß diese Bäume sind. Schade, dass sie nicht sprechen können.~ [SAERI018]
+@20  = ~Die einzige Stadt, die ich bisher kennengelernt habe, ist Sigil. Diese gefällt mir besser.~ [SAERI019]
+@21  = ~Da könnte ich mir auch wünschen, noch einmal in Sigil zu sein.~ [SAERI020]
+@22  = ~Tageslicht bekommt meinen Augen noch am besten.~ [SAERI021]
+@23  = ~Schlechte Taten sind oft in Dunkelheit gehüllt.~ [SAERI022]
+@24  = ~Was wünscht Ihr von mir?~ [SAERI023]
+@25  = ~Sprecht, ich höre Euch.~ [SAERI024]
+@26  = ~Ich folge Eurer Stimme.~ [SAERI025]
+@27  = ~Erteilt Eure Befehle.~ [SAERI026]
+@28  = ~Saerileth erwartet Euer Wort.~ [SAERI027]
+@29  = ~Ja?~ [SAERI028]
+@30  = ~Ich gehe im Namen Tyrs.~ [SAERI029]
+@31  = ~So soll es getan werden.~ [SAERI030]
+@32  = ~Möge Tyrs Recht gesprochen werden.~ [SAERI031]
+@33  = ~Ich folge dem Willen Tyrs.~ [SAERI032]
+@34  = ~Pflicht und Wunsch sind eins.~ [SAERI033]
+@35  = ~Es gibt keine Aufgaben, die nicht erledigt werden können.~ [SAERI034]
+@36  = ~Natürlich.~ [SAERI035]
+@37  = ~Der Tod ist immer finster, doch er kann auch nobel sein.~ [SAERI036]
+@38  = ~Mein Leben gehört Tyr; möge er damit umgehen, wie es ihm beliebt.~ [SAERI037]
+@39  = ~Gerechtigkeit mag blind sein, doch sie macht keine Fehler.~ [SAERI038]
+@40  = ~Das heißt Gerechtigkeit!~ [SAERI039]
+@41  = ~Das nächste Mal gehörst du mir!~ [SAERI040]
+@42  = ~Mein Angriff mag wirkungslos sein, aber der Gerechtigkeit entkommt keiner!~ [SAERI041]
+@43  = ~Ich kann nicht noch mehr tragen.~ [SAERI042]
+@44  = ~Tyr, vergib mir!~ [SAERI043]
+@45  = ~Dies ist nicht ehrenhaft.~ [SAERI044]
+@46  = ~Ich verstecke mich gar nicht gern.~ [SAERI045]
+@47  = ~Ich bin kein Dieb!~ [SAERI046]
+@48  = ~Als Ihr nach ihrer Vergangenheit fragt, erzählt SAERILETH, dass sie auf dem Berg Celestia geboren wurde, wo sie bis zu ihrem vierzehnten Lebensjahr verweilte und in dieser Zeit vom Tempel des Tyr gefördert wurde. Das letzte Jahr verbrachte sie in Sigil, um dort den Priestern des Tyr zu dienen. Von dort wurde sie schließlich nach Toril gesandt, um die Bhaalbrut aufzuspüren und dessen Hilfe zu erbitten.~
+@49  = ~Kesevar~
+@50  = ~Priester des Tyr~
+@51  = ~Gunshain~
+@52  = ~Edorem~
+@53  = ~Teufel~
+@54  = ~Junger Magier~
+@55  = ~Astraler Deva~
+@56  = ~Alu-Scheusal~
+@57  = ~Mondhund~
+@58  = ~Staubmensch~
+@59  = ~Zombie-Kellner~
+@60  = ~Zombie~
+@61  = ~Hure~
+@62  = ~Tiefling~
+@63  = ~Planetar~
+@64  = ~Händler~
+@65  = ~Cambion~
+@66  = ~Wirt~
+@67  = ~Dubioser Stockbewohner~
+@68  = ~Zwergen-Bürger~
+@69  = ~Drow-Bürger~
+@70  = ~Bürger von Sigil~
+@71  = ~Jharak~
+@72  = ~Mon~
+@73  = ~Glourkist~
+@74  = ~Abishai~
+@75  = ~Cornugon~
+@76  = ~Gunshains Anhänger~
+@77  = ~Zuhälter~
+@78  = ~Lord Reginald~
+@79  = ~Kenny~
+@80  = ~Dick~
+@81  = ~Delilah~
+@82  = ~Sukkubus~
+@83  = ~Saerileths Heiliges Symbol~
+@84  = ~Dies ist Saerileths Heiliges Symbol des Tyr. Sie trägt es wie eine Krone um ihre rabenschwarzen Locken und legt es niemals ab.~
+@85  = ~Dies ist Saerileths Heiliges Symbol des Tyr. Sie trägt es wie eine Krone um ihre rabenschwarzen Locken und legt es niemals ab. Es ist durchtränkt mit Tyrs Kraft und beschützt Saerileths Leben.~
+@86  = ~Tyrs Gerechtigkeit~
+@87  = ~Auf dieser Rolle steht das Verhängnis von Kesevar geschrieben.~
+@88  = ~Tyrs Zepter~
+@89  = ~Dieses Zepter strahlt mit dem Glanz Tyrs. Edorem behauptet, dass seine heilige Kraft zu Glourkists Niederlage beitragen wird.~
+@90  = ~Tyrs Hammer~
+@91  = ~Dieses Relikt vom Orden des Tyr wurde Euch von Fürst Edorem gegeben, aus Dankbarkeit für die Rettung von Saerileth.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W4 +3 (Wucht)
+Schadensbonus: +1 (Elektrizität)
+ETW0-Bonus: -2
+RK-Bonus: -2
+Resistenz gegen Wuchtwaffen: +10%
+Gewicht: 5
+Initiativefaktor: 2
+Mindeststärke: 9
+Fertigkeit: Kriegshammer
+Typ: 1-händig
+
+Kann nicht verwendet werden von:
+ bösen Wesen
+ Barden
+ Magiern
+ Mönchen
+ Dieben~
+
+@92  = ~Saerileths Ehering~
+@93  = ~Das ist der Ring, den <CHARNAME> Saerileth gab. Er wurde von den Elfen aus Suldanessalar verzaubert zum Dank für die guten Taten von Saerileth und <CHARNAME> am Baum des Lebens.
+
+EIGENSCHAFTEN:
+
+RK-Bonus: -3
+RW-Bonus: +3~
+
+@94  = ~Haarlocke~
+@95  = ~Diese Haarlocke ist offenbar der Schlüssel, um das Portal nach Ysgaard zu öffnen.~
+@96  = ~Saerileths Körper. Sie liegt dort besinnungslos, vielleicht sogar tot.~
+@97  = ~Saerileths Wein~
+@98  = ~Das ist Saerileths Geschenk für Euch, eine Flasche Wein. Er wurde aus Trauben gepresst, die von einer äußeren Ebene stammen.~
+@99  = ~Halskette der Liebenden~
+@100 = ~Diese glitzernde goldene Halskette wurde hergestellt in Arborea zum Andenken an die Beziehung von Bria und Darian. Wer sie waren ist nicht bekannt. Es scheint so, als ob das Medaillon keine spürbare Magie besitzt, aber wenn man es öffnet, glüht es in einem schwachen roten Licht. Der Legende nach brennt dieses Licht als Zeichen für ihre wahre Liebe.~
+@101 = ~Hermes' Schild~
+@102 = ~Dieser Schild wurde geschmiedet zur Ehre von Hermes, dem Gott von Arborea. Er war vermutlich der Gott der Schnelligkeit, weshalb der Schild die Bewegungsrate des Trägers erhöht.
+
+EIGENSCHAFTEN:
+
+RK-Bonus: -2
+Gewicht: 3
+Mindeststärke: 4
+
+Kann nicht verwendet werden von:
+ Barden
+ Magiern
+ Dieben
+ Mönchen
+ Druiden~
+
+@103 = ~Elementarschild~
+@104 = ~Dieser hochmagische Schild wurde im brodelnden Chaos des Limbus geschmiedet und von vielen Elementen berührt. Er gewährt einen gewissen Schutz gegen diese Elemente, da er teilweise aus ihnen besteht.
+
+EIGENSCHAFTEN:
+
+Resistenzen:
+ +10% gegen Feuer
+ +10% gegen Kälte
+ +10% gegen Säure
+ +10% gegen Elektrizität
+
+RK-Bonus: -5
+Gewicht: 5
+Mindeststärke: 12
+
+Kann nicht verwendet werden von:
+ Barden
+ Druiden
+ Magiern
+ Dieben~
+
+@105 = ~Dieser hochmagische Schild wurde im brodelnden Chaos des Limbus geschmiedet und von vielen Elementen berührt. Er gewährt einen gewissen Schutz gegen diese Elemente, da er teilweise aus ihnen besteht.
+
+EIGENSCHAFTEN:
+
+Resistenzen:
+ +10% gegen Feuer
+ +10% gegen Kälte
+ +10% gegen Säure
+ +10% gegen Gift
+
+RK-Bonus: -5
+Gewicht: 5
+Mindeststärke: 12
+
+Kann nicht verwendet werden von:
+ Barden
+ Druiden
+ Magiern
+ Dieben~
+
+@106 = ~Schriftrolle der Enthüllung~
+@107 = ~Diese Schriftrolle wurde für viele Jahre im Tempel der Waukeen aufbewahrt. Verkauft an den Tempel von einem unbekannten Reisenden, ist sie mit einer tiefen Kraft ausgestattet, die es den Waukeen-Priestern unmöglich machte, sie zu nutzen.~
+
+@108 = ~Zum Staubfänger~
+
+@109 = ~Saerileth widerstand allen Wiederbelebungsversuchen von <CHARNAME> oder anderen Personen. Sie wurde außerhalb des Tyr-Tempels in Tethyr beerdigt, wo ihr Grab seither von den Priestern des Tyr gepflegt wird. Es ist möglich, dass Tyr Saerileths Geist erneut einen Körper gab und sie zu seiner Bevollmächtigten auf den Ebenen machte, einer mächtigen Kriegerin, jedoch blind wie der Entstellte Gott selbst. <CHARNAME> sah seine Frau niemals wieder.~
+@110 = ~Saerileth und <CHARNAME> lebten lange und glücklich in Faerûn, und Saerileth gebar ihrem Liebsten sieben Söhne, die alle ihrer Mutter ähnlich sahen und den starken Willen ihres Vaters geerbt hatten. Der dritte der Söhne, ein Junge namens Kesevar, wurde ein Auserwählter des Tyr. Saerileth und <CHARNAME> wanderten noch lange Zeit als Paar durch Faerûn und bekämpften das Böse, wo sie nur konnten. Noch zwei Mal wurden sie gerufen, um Suldanessalar vor den Drow zu beschützen. In all den Jahren, die sie auf Toril verbrachten, bereisten die beiden nie die Ebenen, auch Saerileths Heimat besuchten sie nicht. Erst als sich die langen Jahre ihrer Dienste für die Götter ihrem Ende neigten, verließen Saerileth und <CHARNAME> Faerûn und reisten zum Berg Celestia, um dort gemeinsam ihren Lebensabend zu verbringen. Sie wurden nie wieder auf Toril gesehen.~
+@111 = ~Saerileth blieb nicht lange auf Toril, nachdem <CHARNAME> beim Thron des Bhaal geprüft wurde. Sie ging zurück nach Sigil und heiratete Fürst Edorem. Die Hochzeit war kostspielig, und auch <CHARNAME> von Kerzenburg war dort und wünschte ihnen Glück. In den zwei Paladinen fand <CHARNAME> treue und wahre Freunde, und sie waren immer dazu bereit, <PRO_HIMHER> zu unterstützen. Ihrem zweiten Kind gaben sie den Namen von <CHARNAME>, um das ehemalige Bhaalkind zu ehren. Schließlich kam der Tag, als der Kontakt zwischen den Freunden abbrach, und <CHARNAME> wusste, dass Saerileth and ihr geliebter Edorem im Dienste Tyrs gefallen waren.~
+@112 = ~Saerileth, die Auserwählte Tyrs, förderte <CHARNAME> bei <PRO_HISHER>er Besteigung des Götterthrons, aber sie verlor nie ihren Glauben an Tyr. Nachdem das ehemalige Bhaalkind <PRO_HISHER>en Platz unter den Mächten übernommen hatte, kehrte Saerileth nach Sigil zurück und heiratete dort Fürst Edorem. Sie gebar ihrem liebsten Fürst sieben Söhne, und Tyr gewährte dem Paar die große Ehre, seine Bevollmächtigten zu sein. Sie wurden aus ihrer Sterblichkeit geholt und stiegen zu Devas auf. Für immer zusammen, bekämpften Saerileth und Edorem jegliche Ungerechtigkeit, der sie gewahr wurden. Beide wurden - vermutlich <CHARNAME> zuliebe - öfter auf Toril gesehen als anderswo.~
+@113 = ~Saerileth und <CHARNAME> lebten lange und glücklich in Faerûn, und Saerileth gebar ihrem Liebsten vier Söhne und drei Töchter, die alle ihrer Mutter ähnlich sahen und den starken Willen ihres Vaters geerbt hatten. Das erste ihrer Kinder, eine Tochter namens Saerileth, wurde eine Auserwählte des Tyr. Saerileth und <CHARNAME> wanderten noch lange Zeit als Paar durch Faerûn und bekämpften das Böse, wo sie nur konnten. Noch zwei Mal wurden sie gerufen, um Suldanessalar vor den Drow zu beschützen. In all den Jahren, die sie auf Toril verbrachten, bereisten die beiden nie die Ebenen, auch Saerileths Heimat besuchten sie nicht. Erst als sich die langen Jahre ihrer Dienste für die Götter ihrem Ende neigten, verließen Saerileth und <CHARNAME> Faerûn und reisten zum Berg Celestia, um dort gemeinsam ihren Lebensabend zu verbringen. Sie wurden nie wieder auf Toril gesehen.~
+@114 = ~Saerileth und <CHARNAME> lebten lange und glücklich in Faerûn, und Saerileth gebar ihrem Liebsten vier Söhne und drei Töchter, die alle ihrer Mutter ähnlich sahen und den starken Willen ihres Vaters geerbt hatten. Das erste ihrer Kinder, eine Tochter namens Alaren, wurde eine Auserwählte des Tyr. Saerileth und <CHARNAME> wanderten noch lange Zeit als Paar durch Faerûn und bekämpften das Böse, wo sie nur konnten. Noch zwei Mal wurden sie gerufen, um Suldanessalar vor den Drow zu beschützen. In all den Jahren, die sie auf Toril verbrachten, bereisten die beiden nie die Ebenen, auch Saerileths Heimat besuchten sie nicht. Erst als sich die langen Jahre ihrer Dienste für die Götter ihrem Ende neigten, verließen Saerileth und <CHARNAME> Faerûn und reisten zum Berg Celestia, um dort gemeinsam ihren Lebensabend zu verbringen. Sie wurden nie wieder auf Toril gesehen.~
+@115 = ~Saerileth und <CHARNAME> lebten lange und glücklich in Faerûn, und Saerileth gebar ihrem Liebsten vier Söhne und drei Töchter, die alle ihrer Mutter ähnlich sahen und den starken Willen ihres Vaters geerbt hatten. Das erste ihrer Kinder, eine Tochter namens Arlluvia, wurde eine Auserwählte des Tyr. Saerileth und <CHARNAME> wanderten noch lange Zeit als Paar durch Faerûn und bekämpften das Böse, wo sie nur konnten. Noch zwei Mal wurden sie gerufen, um Suldanessalar vor den Drow zu beschützen. In all den Jahren, die sie auf Toril verbrachten, bereisten die beiden nie die Ebenen, auch Saerileths Heimat besuchten sie nicht. Erst als sich die langen Jahre ihrer Dienste für die Götter ihrem Ende neigten, verließen Saerileth und <CHARNAME> Faerûn und reisten zum Berg Celestia, um dort gemeinsam ihren Lebensabend zu verbringen. Sie wurden nie wieder auf Toril gesehen.~
+@116 = ~Saerileth und <CHARNAME> lebten lange und glücklich in Faerûn, und Saerileth gebar ihrem Liebsten sieben Söhne, die alle ihrer Mutter ähnlich sahen und den starken Willen ihres Vaters geerbt hatten. Der erste der Söhne, ein Junge namens Gorion, wurde ein Auserwählter des Tyr. Saerileth und <CHARNAME> wanderten noch lange Zeit als Paar durch Faerûn und bekämpften das Böse, wo sie nur konnten. Noch zwei Mal wurden sie gerufen, um Suldanessalar vor den Drow zu beschützen. In all den Jahren, die sie auf Toril verbrachten, bereisten die beiden nie die Ebenen, auch Saerileths Heimat besuchten sie nicht. Erst als sich die langen Jahre ihrer Dienste für die Götter ihrem Ende neigten, verließen Saerileth und <CHARNAME> Faerûn und reisten zum Berg Celestia, um dort gemeinsam ihren Lebensabend zu verbringen. Sie wurden nie wieder auf Toril gesehen.~
+@117 = ~Saerileth und <CHARNAME> lebten lange und glücklich in Faerûn, und Saerileth gebar ihrem Liebsten sieben Söhne, die alle ihrer Mutter ähnlich sahen und den starken Willen ihres Vaters geerbt hatten. Der erste der Söhne, ein Junge namens Caladus, wurde ein Auserwählter des Tyr. Saerileth und <CHARNAME> wanderten noch lange Zeit als Paar durch Faerûn und bekämpften das Böse, wo sie nur konnten. Noch zwei Mal wurden sie gerufen, um Suldanessalar vor den Drow zu beschützen. In all den Jahren, die sie auf Toril verbrachten, bereisten die beiden nie die Ebenen, auch Saerileths Heimat besuchten sie nicht. Erst als sich die langen Jahre ihrer Dienste für die Götter ihrem Ende neigten, verließen Saerileth und <CHARNAME> Faerûn und reisten zum Berg Celestia, um dort gemeinsam ihren Lebensabend zu verbringen. Sie wurden nie wieder auf Toril gesehen.~
+@118 = ~~
+@119 = ~Zerbrochener Seelenschnitter~
+@120 = ~<CHARNAME> gab dieses unheilige Schwert unklugerweise Saerileth, um es zu halten. Die junge Paladin erbat die Stärke von Tyr, um ihr zu helfen, es zu zerstören. Alles, was übrig geblieben ist, ist dieser Haufen Scherben.~
+@121 = ~Hana~
+@122 = ~Schwarze Orchidee~
+@123 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der schwarzen Orchidee möchtet Ihr der jungen Frau schmeicheln und Eure Wertschätzung für ungewöhnliche Schönheit zum Ausdruck bringen.~
+@124 = ~Natternzunge~
+@125 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der Natternzunge möchtet Ihr Eure Eifersucht auf ihre Zuneigung bekennen. Womöglich sehnt Ihr Euch einfach nur nach ihrer Aufmerksamkeit und wollt sie ganz für Euch allein haben. Oder Ihr seid lediglich neidisch auf eine bestimmte Person, die von Zeit zu Zeit auftaucht.~
+@126 = ~Calla-Lilie~
+@127 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der Calla-Lilie möchtet Ihr ihre Jungfräulichkeit ehren und ihre Schönheit anpreisen.~
+@128 = ~Nelke~
+@129 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der Nelke möchtet Ihr Eure Liebe und Treue gegenüber der jungen Frau verkünden.~
+@130 = ~Gänseblümchen~
+@131 = ~Ihr habt diese Blume für Saerileth gekauft. Mit dem Gänseblümchen möchtet Ihr die junge Frau loben und ihr ihre Liebenswürdigkeit bezeugen.~
+@132 = ~Vergissmeinnicht~
+@133 = ~Ihr habt diese Blume für Saerileth gekauft. Mit dem Vergissmeinnicht möchtet Ihr die Beständigkeit Eurer einzig wahren Liebe verkünden.~
+@134 = ~Orchidee~
+@135 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der Orchidee möchtet Ihr Eure Verspieltheit ausdrücken und der jungen Frau mit Schönheit schmeicheln.~
+@136 = ~Rosafarbene Rose~
+@137 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der rosafarbenen Rose möchtet Ihr Eure wahren Gefühle ausdrücken und wollt zugleich sagen, dass Eure Liebe geheim bleiben muss. Ihr seid ein Bhaalkind und habt viele Feinde. Diese Blume symbolisiert, dass Ihr Saerileth vor Gefahren beschützen möchtet.~
+@138 = ~Rote Rose~
+@139 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der roten Rose möchtet Ihr Euer Verlangen nach ihrem Körper zum Ausdruck bringen, und dass Ihr eins mit ihr werden wollt.~
+@140 = ~Veilchen~
+@141 = ~Ihr habt diese Blume für Saerileth gekauft. Mit dem Veilchen möchtet Ihr sie davon überzeugen, dass Ihr immer für sie da sein werdet, und dass Eure Liebe niemals enden wird.~
+@142 = ~Wasserlilie~
+@143 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der Wasserlilie möchtet Ihr Eure Zuneigung nicht nur für ihren Körper, sondern vor allem für ihre inneren Werte, insbesondere die Reinheit ihres Herzens, zum Ausdruck bringen.~
+@144 = ~Weiße Rose~
+@145 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der weißen Rose möchtet Ihr der jungen Frau zeigen, dass Ihr es wert seid, von ihr geliebt zu werden. Ihr wollt außerdem die unschuldige Art Eurer Zuneigung zum Ausdruck bringen.~
+@146 = ~Weiße Lilie~
+@147 = ~Ihr habt diese Blume für Saerileth gekauft. Mit der weißen Lilie möchtet Ihr ihre Unschuld ehren und Euren Wunsch kundtun, diese Unschuld zu bewahren.~
+
+@148 = ~Saerileth blieb nicht lange auf Toril, nachdem <CHARNAME> beim Thron des Bhaal geprüft wurde. Sie reiste schon bald zum Berg Celestia, wo sie sich den Mantel einer Jungfrau der Gerechtigkeit überstreifte. Saerileth wurde zu einer Bevollmächtigten; sie legte ihre Sterblichkeit ab und stieg zu einem Deva auf. Sie blieb für immer mit <CHARNAME> verbündet, und sein Ruf nach Unterstützung blieb niemals ungehört. Nach dem Tod von <CHARNAME> kehrte Saerileth nie wieder nach Toril zurück, denn die Erinnerungen an ihre unglückliche Liebe waren zu stark für sie. Sie verweilte allein für alle Ewigkeit und trauerte um ihn in Einsamkeit.~
+@149 = ~Saerileth, die Auserwählte Tyrs, förderte <CHARNAME> bei <PRO_HISHER>er Besteigung des Götterthrons, aber sie verlor nie ihren Glauben an Tyr. Nachdem das ehemalige Bhaalkind <PRO_HISHER>en Platz unter den Mächten übernommen hatte, kehrte Saerileth zum Berg Celestia zurück und streifte sich dort den Mantel einer Jungfrau der Gerechtigkeit über. Saerileth wurde zu einer Bevollmächtigten; sie legte ihre Sterblichkeit ab und stieg zu einem Deva auf. Für immer allein, bekämpfte sie die Ungerechtigkeit, wo auch immer diese zu finden war. Dennoch wurde sie öfter auf Toril - <CHARNAME> zuliebe - als anderswo gesehen. <CHARNAME> blieb ihre einzig wahre Liebe.~
+
+@150 = ~Sir Havun Clarenshide~
+@151 = ~Khalabaxin~
+@152 = ~Bodhi~
+@153 = ~Lim Lim~
+@154 = ~Eine sonderbare Kreatur.~
+
+@155 = ~Saerileth und <CHARNAME> lebten lange und glücklich in Faerûn, und Saerileth gebar ihrem Liebsten drei Söhne, die alle ihrer Mutter ähnlich sahen und den starken Willen ihres Vaters geerbt hatten. Der erste der Söhne, ein Junge namens Gwalchavad, wurde ein Auserwählter des Tyr. Saerileth und <CHARNAME> wanderten noch lange Zeit als Paar durch Faerûn und bekämpften das Böse, wo sie nur konnten. Schließlich ließen sie sich in Suldanessalar nieder, eine Ehre, die der menschlichen Saerileth nur aufgrund der heldenhaften Taten ihres Fürsten <CHARNAME> gewährt wurde. Noch zwei Mal wurden sie gerufen, um Suldanessalar vor den Drow zu beschützen. Wer das Paar kannte oder beaobachtete, begann sich schon bald zu wundern, dass Saerileth im Laufe der Jahre weder älter wurde, wie es für Menschen üblich ist, noch ihre Schönheit verlor. Als <CHARNAME> schließlich - alt und weise - nach Arvanaith geholt wurde, war Saerileth an seiner Seite, und sie war es auch, die seine Augen schloss. Nach dem Tod ihres Fürsten wurde Saerileth der Aufstieg zu einem Deva gewährt, und sie ging sofort nach Arvanaith. Dort traf sie ihren Fürsten wieder, und ihre unendliche Liebe erblühte aufs Neue.~
+
+@156 = ~D'aqilar~
+@157 = ~Mysteriöser Leitfaden~
+@158 = ~Leitfaden zu Tyrs Heiligem Einfluss~
+@159 = ~Leitfaden zu Tyrs Heiliger Weisheit~
+@160 = ~Saerileth erhielt diese Ausgabe von Tyr persönlich als Belohnung für die Zerstörung von Demogorgons Avatar.~
+@161 = ~Dieser Leitfaden verleiht seinem Leser einen kleinen Teil von Tyrs göttlicher Fähigkeit zur Einflussnahme.
+
+EIGENSCHAFTEN:
+
+Charisma-Bonus: +1 (permanent)
+
+Kann nur verwendet werden von:
+ guten Wesen~
+
+@162 = ~Dieser Leitfaden verleiht seinem Leser einen kleinen Teil von Tyrs göttlicher Weisheit.
+
+EIGENSCHAFTEN:
+
+Weisheits-Bonus: +1 (permanent)
+
+Kann nur verwendet werden von:
+ guten Wesen~
+
+@163 = ~Saerileth blieb nicht lange auf Toril, nachdem <CHARNAME> beim Thron des Bhaal geprüft wurde. Sie heiratete Fürst Edorem, wie <CHARNAME> es befohlen hatte. Drei Jahre lang kämpften die Auserwählten Tyrs im Namen des Entstellten Gottes, und Tyr gewährte dem Paar schließlich die große Ehre, seine Bevollmächtigten zu sein. Sie wurden aus ihrer Sterblichkeit geholt und stiegen zu Devas auf. Saerileth, die nun schönste und mächtigste unter den Devas, folgte Tyr für alle Ewigkeit. Sie blieb ihrem Fürst Edorem treu, und dennoch war ihr Herz gebrochen. Ihre Leidenschaft für <CHARNAME> von Kerzenburg war unerschüttert, doch sie folgte seinem Wunsch und verschwieg ihre Liebe für ihn für alle Zeit.~
+@164 = ~Unmittelbar nachdem <CHARNAME> zum Gott aufgestiegen war, verließ Saerileth Toril und ging nach Sigil. Dort heiratete sie Fürst Edorem, wie <CHARNAME> es befohlen hatte. Tyr gewährte dem Paar schließlich die große Ehre, seine Bevollmächtigten zu sein. Sie gaben ihre Sterblichkeit auf, und Saerileths Verbindung zu Edorem wurde noch fester und inniger. Unzählige Jahre später sandte Tyr einen Boten zu <CHARNAME>, und es war ausgerechnet Saerileth, die der Blinde Gott aussandte. Saerileth war mächtig und schön wie ein prächtiger Deva, als sie vor den Thron ihrer einstigen Liebe trat. <CHARNAME> sah sofort, mit seinen göttlichen Augen, dass ihre Liebe für ihn niemals geendet hat. Doch Saerileth verneinte es, als er danach fragte, und sprach: "Wie könnte ich Euch noch immer lieben? Euch, der Ihr meine Hand weggestoßen und mich in den Besitz von Fürst Edorem übergeben habt. Ich konnte Euch nicht länger lieben. Ich kann Euch auch heute nicht lieben. So lautet meine Nachricht, und so werde ich nun wieder gehen."~

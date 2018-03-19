@@ -1,0 +1,18 @@
+IF
+ True()
+THEN
+ RESPONSE #100
+ CutSceneID(Player1)
+CreateVisualEffect("SPPORTAL",[2724.1143])
+CreateVisualEffect("SPPORTAL",[3280.1348])
+CreateVisualEffect("SPPORTAL",[2929.1562])
+CreateVisualEffect("SPPORTAL",[3071.1172])
+CreateVisualEffect("SPPORTAL",[3094.1695])
+Wait(3)
+CreateCreature("uddeath",[2929.1562],12)
+CreateCreature("uddeath",[2724.1143],12)
+CreateCreature("uddeath",[3280.1348],12)
+CreateCreature("uddeath2",[3071.1172],12)
+CreateCreature("uddeath",[3094.1695],12)
+EndCutSceneMode()
+END

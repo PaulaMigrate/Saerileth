@@ -1,0 +1,191 @@
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",1)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND1")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Global("NSSaerilethDaughter","GLOBAL",0)
+   Global("NSDaughter","GLOBAL",0)
+   Global("NSArlluviaDaughter","GLOBAL",0)
+   Global("NSGorionSon","GLOBAL",0)
+   Global("NSCaladusSon","GLOBAL",0)
+   !Race(Player1,ELF)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND2")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",0)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND3")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",1)
+   !Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND4")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Global("NSSaerilethDaughter","GLOBAL",1)
+   !Race(Player1,ELF)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND5")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Global("NSDaughter","GLOBAL",1)
+   !Race(Player1,ELF)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND6")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Global("NSArlluviaDaughter","GLOBAL",1)
+   !Race(Player1,ELF)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND7")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Global("NSGorionSon","GLOBAL",1)
+   !Race(Player1,ELF)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND8")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Global("NSCaladusSon","GLOBAL",1)
+   !Race(Player1,ELF)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAERAND9")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",3)
+   !Global("SaeriWedsEdorem","GLOBAL",1)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAEAND10")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",1)
+   Global("SaerilethRomanceActive","GLOBAL",3)
+   !Global("SaeriWedsEdorem","GLOBAL",1)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAEAND11")
+END
+
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Race(Player1,ELF)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAEAND12")
+END
+
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",0)
+   Global("SaerilethRomanceActive","GLOBAL",3)
+   Global("SaeriWedsEdorem","GLOBAL",1)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAEAND13")
+END
+
+IF
+   Global("StartEndBios","AR6200",1)
+   InParty("Saerileth")
+   Global("SaerilethBio","GLOBAL",0)
+   Global("PlayerChoseEssence","GLOBAL",1)
+   Global("SaerilethRomanceActive","GLOBAL",3)
+   Global("SaeriWedsEdorem","GLOBAL",1)
+THEN
+   RESPONSE #100
+      SetGlobal("SaerilethBio","GLOBAL",1)
+      TextScreen("SAEAND14")
+END
+

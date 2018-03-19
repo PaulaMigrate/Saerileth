@@ -1,0 +1,174 @@
+@0    = ~Nazdárek, Základníku! Tvùj výraz naprostýho údivu je fakt pohled. Seš tu na jednu?~
+@1    = ~Ne, jsme tu, abychom našli *tebe*.~
+@2    = ~Co tím myslíš "na jednu"?~
+@3    = ~Tìší mì, že se bavíš, kámo. Mùžeme si promluvit obchodnì?~
+@4    = ~Mì? A co byste vode mì asi tak mohli chtít?~
+@5    = ~Hledáme Tyrovo žezlo.~
+@6    = ~Víme, že víš, kde je Tyrovo žezlo. Vydej nám ho!~
+@7    = ~Hej, esli se mnou chcete mluvit obchodnì, tož mi kupte aspoò drink.~
+@8    = ~Koøalka. Alkohol. Chlast. Však víš, dobrej materiál. (Ukáže na svùj džbánek.) A teï odpal!~
+@9    = ~Musíme s tebou mluvit, Jharaku!~
+@10   = ~Kdybych tì nepotøeboval, už bych tì dávno za tvoji drzost vykuchal!~
+@11   = ~Co má nìjaký Bezklíèový co do èinìní s Jharakem z Ysgaardu?~
+@12   = ~Mluv potichu, tupoune! Chceš nás dostat do knihy mrtvejch?~
+@13   = ~Nevadilo by mi, kdyby tam zapsali *tebe*, ale svoji kùži mám rád. Pomùžeš mi, nebo ne? ~
+@14   = ~Co je na tom tak tìžkého? Chceme jen to žezlo a už nás nikdy neuvidíš!~
+@15   = ~Dej si vodstup, Bezklíèovej! Ode mì nedostaneš žádnej drink zadarmo! A teï už na mì pøestaò zírat a vysyp, co máš na srdci!~
+@16   = ~Dobrá tedy! Hledáme Tyrovo žezlo.~
+@17   = ~Inu, život je plný pøekvapení, viï, tupá hlavo. Nehodláš už na mì pøestat zírat, abych ti nemusel dát jednu do nosu?~
+@18   = ~Zkoušíš moji trpìlivost, blázne, ale hledáme Tyrovo žezlo a nemohu si dovolit tu s tebou bojovat.~
+@19   = ~Chlápci, co se dotknou Žezla, vìtšinou zešílej. Kromì toho, Tyrovi potentáti ho hledaj a do toho se já nechci zaplést.~
+@20   = ~Proè by ses mìl bát Tyrových mužù?~
+@21   = ~Zešílí?~
+@22   = ~Jak bych tì mohl pøesvìdèit, aby ses do toho zapletl?~
+@23   = ~Jeden mùj kámoš ho nedávno šlohnul z chrámu. Pak mu ale pøeskoèilo a utekl, nicménì ho døív staèil zašít. Kdyby ale zjistili, že vím, kde je, je po mnì.~
+@24   = ~Jak bych tì mohl pøesvìdèit, abys mi øekl, kde ho ukryl?~
+@25   = ~A kde tedy je?~
+@26   = ~Mám pro tebe špatnou zprávu, kámo. Oni už ví, že víš, a jestli nebudeš mluvit, øeknu jim, kde tì najít!~
+@27   = ~Zblázní. Pøeskoèí mu. Šlehne to s ním. Bude naprosto šílenej. Je to to dost jasný, Bezklíèovej?~
+@28   = ~Dostaò mì pryè z Klece. V Úlu je jeden chlápek jménem Mon, kterej ví o portálu, co by mì mohl dostat domù. Jenže nemá rád Ysgaarïany.~
+@29   = ~Pøineste mi od nìj klíè k portálu a já vám øeknu, kde mùj kámoš schoval Žezlo.~
+@30   = ~To neberu. Tyrovi uctívaèi už ví, že víš nìco o Žezlu, a jestli nebudeš mluvit, povím jim, kde tì najdou!~
+@31   = ~Dobrá, pùjdu si s tím Monem promluvit.~
+@32   = ~Mám pusu na zámek, tupohlavèe. To si myslíš, že se sám obžaluju, nebo co?~
+@33   = ~Radši bys mìl mluvit! Tyrovi uctívaèi už ví, že víš nìco o Žezlu, a jestli nebudeš mluvit, povím jim, kde tì najdou!~
+@34   = ~Urèitì se mùžeme nìjak dohodnout. Jak bych tì mohl pøesvìdèit, abys nám pomohl?~
+@35   = ~Žádnej Základník mi nebude vyhrožovat! Nic na mì nemáš, troubo!~
+@36   = ~Jestli si votevøeš svoji klapaèku pøed tìma nahoøe, tak zmizím. Úl znám dobøe--každou postranní ulièku, každej slepej konec--nikdy mì nenajdeš.~
+@37   = ~Dobrá, dobrá! Urèitì se mùžeme nìjak dohodnout. Jak bych tì mohl pøesvìdèit, abys nám pomohl?~
+@38   = ~Dobrá. Ale pamatuj si, že je to lakomej obr. Hlídej si záda.~
+@39   = ~Copak?~
+@40   = ~Mon chce za klíè 2500 zlatých a já u sebe nemám tolik penìz.~
+@41   = ~Koukej, jestli chceš ten klíè, musíš vysolit nìjaký zlato. 2500! Ani o støíbròák míò!~
+@42   = ~Hej, prachy nejsou problém. Von mi ten klíè jen nechtìl prodat, protože nemá rád Ysgaarïany.~
+@43   = ~Tady máš peníze. A teï bìž sehnat mùj klíè! A nemysli si, že mì nìjak pøechytraèíš!~
+@44   = ~Copak? Víš, co máš dìlat! Tak to udìlej!~
+@45   = ~Máš ten klíè?~
+@46   = ~Jasnì, tady je. Teï nám øekni, kde je Žezlo.~
+@47   = ~Mám klíè, ale nic nedostaneš, dokud mi neøekneš, kde je žezlo!~
+@48   = ~Skvìlé! Teï už se mùžu dostat z týhle díry!~
+@49   = ~Mùj kámoš schoval Žezlo u barmana v tomhle baru. Však víš, pro jistotu.~
+@50   = ~Mìl bych jít.~
+@51   = ~Jak myslíš. Ještì chvilku si s tebou budu hrát.~
+
+
+
+@5000 = ~Padlý Deva
+
+Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Hledá padlého devu a bylo jí øeèeno, že ho jistì najde, pokud bude cestovat s Bhaalovým dítìtem. Další podrobnosti mi nejsou známy.~
+
+@5001 = ~Padlý Deva
+
+Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Zdá se, že se jí docela líbím. Hledá padlého devu a bylo jí øeèeno, že ho jistì najde, pokud bude cestovat s Bhaalovým dítìtem. Další podrobnosti mi nejsou známy.~
+
+@5002 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Spojili jsme své síly s mocným Tyrovým rytíøem, který ji hodlá osvobodit. Nejdøíve musíme do Sigilu, kde musíme vyhledat Jharaka a získat od nìho Tyrovu hùl.~
+
+@5003 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Spojili jsme své síly s mocným Tyrovým rytíøem, který ji hodlá osvobodit. Právì se chystáme vyrazit do Baatoru.~
+
+@5004 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Je pøíliš nebezpeèné pokoušet se ji zachránit. Ponechali jsme ji tedy jejímu osudu.~
+
+@5005 = ~Saerileth unesena
+
+Nalezli jsme Jharaka, ale ten nás poslal otevøít nìjaký portál, potom že nám øekne, kde najdeme Tyrovu hùl.~
+
+@5006 = ~Saerileth unesena
+
+Našli jsme klíè k portálu, pramínek vlasù, a teï se s ním musíme vrátit k Jharakovi. ~
+
+@5007 = ~Saerileth unesena
+
+Jharak nám øekl, a si promluvíme s barmanem, který prý má onu hùl.~
+
+@5008 = ~Saerileth unesena
+
+Získali jsme Tyrovu hùl. Saerilethina duše je v nebezpeèí, musíme si tedy co nejrychleji pospíšit za Edoremem.~
+
+@5009 = ~Saerileth zachránìna
+
+Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+
+@5010 = ~Saerileth zachránìna
+
+Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Propustil jsem Saerileth ze svých služeb a ona zùstala ve sférách. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+
+@5011 = ~Padlý Deva
+
+Nalezli jsme Kesevara Padlého, ale tvrdí, že si trest nezaslouží. Poslal nás hledat jediného svìdka, který mùže dosvìdèit jeho nevinu: Bhaalova zplozence jménem Gunshain.~
+
+@5012 = ~Padlý Deva
+
+Jak se ukázalo, Gunshain skuteènì oèistil Kesevarovo jméno, ale taky se nás pokusil zabít! Postarali jsme se o nìj a teï se musíme rychle vrátit ke Kesevarovi.~
+
+@5013 = ~Padlý Deva
+
+Saerileth prohlásila Kesevara za nevinného a její rozsudek mìl okamžitý efekt. Deva se navrátil zpìt do své døívìjší slávy a Saerileth zùstala po mém boku.~
+
+@5014 = ~Padlý Deva
+
+Ukázalo se, že Kesevar nakonec nebyl vinen. Protože ho znièila, Saerileth ztratila Tyrovu pøízeò. Má milovaná odešla zpìt do sfér, aby se pokusila odèinit své selhání. Už ji nikdy nespatøím.~
+
+@5015 = ~Padlý Deva
+
+Ukázalo se, že Kesevar nakonec nebyl vinen. Protože ho znièila, Saerileth ztratila Tyrovu pøízeò. Mladá paladinka odešla zpìt do sfér, aby se pokusila odèinit své selhání. Už ji nikdy nespatøím.~
+
+@5016 = ~Nevìstka Dalila
+
+Nìjaký èlovìk v Amkethranu prohlašuje, že Dalila, o které tvrdí, že je nejkrásnìjší ženou v celém kraji, prodává potìšení svého lùžka ve zdejší hospodì. Má žena, Saerileth, i já sám si dìláme starosti o osud mužù, kteøí k ní vešli.~
+
+@5017 = ~Nevìstka Dalila
+
+Nìjaký èlovìk v Amkethranu prohlašuje, že Dalila, o které tvrdí, že je nejkrásnìjší ženou v celém kraji, prodává potìšení svého lùžka ve zdejší hospodì. Dìlám si starosti o osud mužù, kteøí k ní vešli.~
+
+@5018 = ~Nevìstka Dalila
+
+Podlehl jsem pùvabùm Dalily, jen abych zjistil, že je sukuba! Mé cizoložství zlomilo Saerileth srdce a v ten okamžik zemøela. Sukuba se vrátila do Abyssu a já jsem menším mužem, než jsem býval.~
+
+@5019 = ~Nevìstka Dalila
+
+Podlehl jsem pùvabùm Dalily, jen abych zjistil, že je sukuba! Sukuba se vrátila do Abyssu a já jsem menším mužem, než jsem býval.~
+
+@5020 = ~Nevìstka Dalila
+
+Saerileth mne ujistila, že Dalila je démon, ale že ji nemùžeme zabít, aniž bychom zatratili muže, kteøí jí propadli. Musíme najít nìjaký chrám, kde by nám mohli pomoct zlomit její démonickou iluzi.~
+
+@5021 = ~Nevìstka Dalila
+
+Odmítl jsem pomoct tìm chlípníkùm, které tak omámilo démonovo objetí. Sami jsou strùjci svého osudu. Saerileth posmutnìla, ale souhlasí, že jejich trest je spravedlivý.~
+
+@5022 = ~Nevìstka Dalila
+
+Od Waukeenina knìze jsem získal svitek, který by mìl mít schopnost zrušit iluzi. Ještì se ukáže, jestli bude jeho moc staèit proti pekelné magii.~
+
+@5023 = ~Nevìstka Dalila
+
+Magický svitek úèinkoval. Nevím jistì, jestli to bylo mocí samotného svitku nebo Saerilethinými modlitbami, ale tak nebo onak, úèinkovalo to a démon byl pøinucen opustit naši sféru a navrátit se do Abyssu.~
+
+@5024 = ~Poražení Khabalaxina
+
+Pøijal jsem žádost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblíž jeho nového doupìte, v jeskyni u øeky v Umaøinì vrchovinì.~
+
+@5025 = ~Poražení Khabalaxina
+
+Porazil jsem draka Khalabaxina. Nyní se musím vrátit do Øádu záøícího srdce a ohlásit siru Havunu Clarenshidovi, co se stalo.~
+
+@5026 = ~Poražení Khabalaxina
+
+Vrátil jsem se do Øádu zaøícího srdce s novinkami o svém vítìzství nad drakem Khabalaxinem. Zdá se, že dílo Øádu není nikdy hotovo.~
+
+@5027 = ~Znièení upírù
+
+Sir Havun mne informoval, že nìkde ve mìstì se nachází vampýøí hnízdo. Mám ho najít a znièit. Bydlí v kryptách pod høbitovem. Øád s námi pošle jednoho ze svých najatých èarodìjù, aby mi pomohl odstranit ochrany, které hnízdo mùže mít.~
+
+@5028 = ~Znièení upírù
+
+Znièil jsem upíry, ale jejich vùdce, Bodhi, mi unikla. Øíkala o mnì nìkolik zajímavých vìcí... mimo jiné vìdìla, že jsem Bhaalùv zplozenec! Teï musím jít ohlásit úspìšné splnìní úkolu siru Havunovi.~
+
+@5029 = ~Upíøi znièeni
+
+Vrátil jsem se do Záøícího srdce s novinkami o porážce upírù. Øád mi nabídl, že mne za odmìnu dopraví do Èarotvrze!~

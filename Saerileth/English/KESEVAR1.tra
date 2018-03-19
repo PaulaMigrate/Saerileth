@@ -1,0 +1,159 @@
+@0    = ~I am glad to see ye well and together. May Tyr richly bless ye.~
+@1    = ~I am glad to see ye well, but what hath become of Saerileth?~
+@2    = ~I will go and seek the Chosen of Tyr, to whom I owe my soul.~
+@3    = ~Hail and well met, godchild! But where is the Chosen of Tyr?~ [SAERI175]
+@4    = ~We desperately need your help! Saerileth has been transformed into an undead!~
+@5    = ~Pardon me for bringing you this ill news, but Saerileth will be lost if you cannot help us!~
+@6    = ~This must not be. The darkness shall not claim her!~
+@7    = ~Then help me! Come with me, back to Athkatla!~
+@8    = ~Well, what are we waiting for? Let us go!~
+@9    = ~Thou speakst in riddles. Be plain in thy speech and tell me what hath befallen her.~
+@10   = ~She has been transformed into an undead!~
+@11   = ~She has been turned into a ghost *and* a vampire!~
+@12   = ~Bodhi's darkness has overshadowed her, and she now lives on in undeath!~
+@13   = ~<CHARNAME>, believest thou that Tyr can heal her through me? That Tyr's might is sufficient to topple the gates of hell and banish this darkness?~
+@14   = ~Yes, of course! Why else would I be here?~
+@15   = ~Yes, I believe.~
+@16   = ~I believe that Tyr can heal his servant.~
+@17   = ~Although in my heart I serve another god, I know Tyr can heal Saerileth.~
+@18   = ~I have my doubts about Tyr's ability to heal the doubly-dead.~
+@19   = ~I have seen many impossible things made possible in my travels, but this feat is too incredible.~
+@20   = ~No, I do not believe.~
+@21   = ~Then go. Thy faith has made her well.~
+@22   = ~What?! You mean you're not going back with us?~
+@23   = ~Just like that? It's that easy?~
+@24   = ~(Say nothing.)~
+@25   = ~Thou dost doubt, godchild, but in thy heart, thou knowest Tyr's power is sufficient. Why else wouldst thou seek me?~
+@26   = ~Very well, I believe.~
+@27   = ~I came because I was desperate, not because I believe. I don't.~
+@28   = ~Then Saerileth is damned.~ [SAERI440]
+@29   = ~Saerileth is whole once more, and I shall return thee to her.~ [SAERI292]
+@30   = ~Why dost thou marvel and stand thus amazed? Thou hast acknowledged Tyr's sovereign power. Why then art thou astonished at its display?~
+@31   = ~(The deva raises his hands, as if in blessing.) Fare thee well, godchild.~
+@32   = ~Thou hast done it, Chosen of Tyr! And the Wounded God hath had mercy on his servant!~ [SAERI176]
+@33   = ~I am glad, Kesevar the Fair, glad indeed that thou hast been returned to favor!~ [SAERI177]
+@34   = ~And thanks also to thee, godchild, for thy mercy and thine aid.~
+@35   = ~If ever there is aught that Kesevar may do for thee, thou hast but to ask it.~
+@36   = ~And now I shall return to the Temple of Tyr in Tethyr, for there may I offer my prayers to the Wounded One for his justice and mercy.~
+
+
+
+@5000 = ~The Fallen Deva
+
+I have taken a young paladin of Tyr named Saerileth into my party. She is searching for a fallen deva and has been told that she will find him by traveling with the Bhaalspawn. No other details are available.~
+
+@5001 = ~The Fallen Deva
+
+I have taken a young paladin of Tyr named Saerileth into my party. She seems quite taken with me.  She is searching for a fallen deva and has been told that she will find him by traveling with the Bhaalspawn. No other details are available.~
+
+@5002 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. We have joined forces with a knight of Tyr to try to rescue her. First we must seek out Jharak in the city of Sigil, to obtain from him the Scepter of Tyr.~
+
+@5003 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. We have joined forces with a knight of Tyr to try to rescue her. We are to set off for Baator immediately.~
+
+@5004 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. It is too dangerous to try to rescue her. We have left her to her fate.~
+
+@5005 = ~Saerileth Abducted
+
+We have found Jharak, but he has sent us to fetch a portal before he will tell us the location of the Scepter of Tyr.~
+
+@5006 = ~Saerileth Abducted
+
+We have found the key, a lock of hair, and we are to return to Jharak with it at once.~
+
+@5007 = ~Saerileth Abducted
+
+Jharak has sent us to speak to the barkeep, who has the Scepter.~
+
+@5008 = ~Saerileth Abducted
+
+We have at last obtained the Scepter of Tyr. Saerileth's soul is in danger, and we must hurry to Edorem as quickly as posssible.~
+
+@5009 = ~Saerileth Rescued
+
+We have rescued Saerileth from the devil-lord Glourkist, and we are safely on Toril once more. Lord Edorem, the paladin of Tyr, has given us a hammer in gratitude for saving Saerileth.~
+
+@5010 = ~Saerileth Rescued
+
+We have rescued Saerileth from the devil-lord Glourkist, and we are safely on Toril once more. I released Saerileth from following me, and she has remained in the Planes. Lord Edorem, the paladin of Tyr, has given us a hammer in gratitude for saving Saerileth.~
+
+@5011 = ~The Fallen Deva
+
+We have found Kesevar the Fallen, but he claims that his punishment is undeserved. He has sent in search of the only witness who can testify to his innocence: a Bhaalspawn by the name of Gunshain.~
+
+@5012 = ~The Fallen Deva
+
+Gunshain, as it turns out, did clear Kesevar's name, but he also tried to kill us! We have dispatched him, and we must return to Kesevar quickly.~
+
+@5013 = ~The Fallen Deva
+
+Saerileth has pronounced Kesevar innocent, and her proclamation has taken immediate effect. The deva is restored to his former glory, and Saerileth remains in my company.~
+
+@5014 = ~The Fallen Deva
+
+It seems that Kesevar was not guilty after all. For destroying him, Saerileth has lost the grace of Tyr. My love has gone back to the Planes to try to atone for her failure. I will never see her again.~
+
+@5015 = ~The Fallen Deva
+
+It seems that Kesevar was not guilty after all. For destroying him, Saerileth has lost the grace of Tyr. The young paladin has gone back to the Planes to try to atone for her failure. I will never see her again.~
+
+@5016 = ~Delilah the Harlot
+
+A man in Amkethran is proclaiming that Delilah, whom he claims to be the most beautiful woman in these lands, is selling the pleasures of her bed in the Inn here. My wife, Saerileth, and I have grave misgivings about the fate of the men who went to see her.~
+
+@5017 = ~Delilah the Harlot
+
+A man in Amkethran is proclaiming that Delilah, whom he claims to be the most beautiful woman in these lands, is selling the pleasures of her bed in the Inn here. I have grave misgivings about the fate of the men who went to see her.~
+
+@5018 = ~Delilah the Harlot
+
+I succumbed to the charms of Delilah, only to discover that she is a succubus! My adultery broke Saerileth's heart, and she is dead. The succubus has returned to the Abyss, and I am less than the man I was before.~
+
+@5019 = ~Delilah the Harlot
+
+I succumbed to the charms of Delilah, only to discover that she is a succubus! The succubus has returned to the Abyss, and I am less than the man I was before.~
+
+@5020 = ~Delilah the Harlot
+
+Saerileth has assured me that this Delilah is a demon, but we cannot slay her without damning the men who are with her. We must find a temple where we may be able to find aid in piercing demonic illusions.~
+
+@5021 = ~Delilah the Harlot
+
+I have refused to help those lechers caught in the embrace of the demons. They brought their fate upon themselves. Saerileth is saddened, but she agrees that their punishment is just.~
+
+@5022 = ~Delilah the Harlot
+
+I have received from the priest of Waukeen a scroll which has the ability to cancel illusions. Whether its power will work against the magicks of hell is yet to be seen.~
+
+@5023 = ~Delilah the Harlot
+
+The magic of the scroll was successful. Whether it was the scroll itself or the prayers of Saerileth, I do not know for sure. Nevertheless, it worked, and the demons were forced to abandon their plans and return to the Abyss.~
+
+@5024 = ~Defeating Khalabaxin
+
+I have accepted Sir Havun Clarenshide's request for aid against the dragon Khalabaxin. I will find him near his newly-acquired lair, the cave beyond the river in the Umar Hills.~
+
+@5025 = ~Defeating Khalabaxin
+
+I have defeated the dragon Khalabaxin. I am now to return to the Order of the Radiant Heart and tell Sir Havun Clarenshide what has transpired.~
+
+@5026 = ~Defeating Khalabaxin
+
+I returned to the Radiant Heart with news of my defeat of the dragon Khalabaxin. The Order's work seems to be never done.~
+
+@5027 = ~Defeating the Vampires
+
+Sir Havun has informed me of the existence of a nest of vampires here in the city. I am to seek it out and destroy it. They live in the crypts beneath the graveyard. The Order will send one of their hireling wizards to aid me in breaching the lair's defenses.~
+
+@5028 = ~Defeating the Vampires
+
+I have destroyed the vampires, but the leader, Bodhi, has eluded me. She had some interesting things to say about me... She knew I was a child of Bhaal! I go now to report the destruction of the vampires to Sir Havun.~
+
+@5029 = ~Vampires Defeated
+
+I returned to the Radiant Heart with news of my defeat of the vampires. The Order has offered me passage to Spellhold as a reward!~

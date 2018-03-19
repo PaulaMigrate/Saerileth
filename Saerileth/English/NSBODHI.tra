@@ -1,0 +1,59 @@
+@0 = ~Hmm... I had hoped it would not come to this, but you are set in your path, aren't you?~ [BODHIX31]
+@1 = ~You are a pawn, a stooge for a group of meddling, self-righteous idiots. Did they deign to inform you that they were sending you to your death?~
+@2 = ~Die, creature of the night!~
+@3 = ~If I am a pawn, then the pawn can take the queen. Look now upon the instrument of your destruction!~
+@4 = ~Oh, I was quite sure this would end in violence. You are too volatile for my purposes. I merely wondered if you knew the extent to which you were being used.~
+@5 = ~No one uses me! I work for the Order willingly!~
+@6 = ~The Order has been honest in its dealings so far.~
+@7 = ~Indeed? Are you certain? What if their interest is more than they have stated? What if they know full well who you are... and what you are?~
+@8 = ~You look surprised. I know what you are, child of Bhaal. Irenicus told me. He might have learned more, awakened your power, but the Thieves interrupted him.~
+@9 = ~What do you know of Irenicus! I owe him a debt for what he has done!~
+@10 = ~What do you know of my capture!~
+@11 = ~I will have what he knows! If you share that knowledge I demand you relinquish it!~
+@12 = ~I know more than your brain could hold in a lifetime.  There is so much beneath your nose; so much you do not see.  Why, even Imoen escaped your notice.~
+@13 = ~Imoen was taken from me! I will find her! And I will find this Irenicus!~
+@14 = ~This Irenicus did not seem the type to have anyone close to him. Why were you there?~
+@15 = ~What did he want with us? What power did he speak of?!~
+@16 = ~You may have done both were circumstances different, but now I am afraid there is only one possible end to this discussion.~
+@17 = ~I grow tired of this conversation. You have asked your questions and made your threats, and I have indulged them both. Now this will end.~
+@18 = ~Good! I am so sick of wordy opponents!~
+@19 = ~There is more I should ask. You could shed so much light on my situation.~
+@20 = ~So you are to destroy me? Has this Irenicus lost interest in me then?~
+@21 = ~Fine with me! Let it end with your blood! And then I will move on to Irenicus!~
+@22 = ~I was there because I chose to be, the duty of any good 'sister'. Of course you are not familiar with such virtues, since those around you fail at them so terribly.~
+@23 = ~Perhaps you are asking the wrong person these questions. It is irrelevant now, of course, as you will not be leaving here alive.~
+@24 = ~There will come a time when you understand the value of words. Of course battle can teach as well. Come then, let us each learn a thing or two.~
+@25 = ~I do not believe I have ever been accused of 'shedding light'. No, I am not here as teacher, though battle educates well. Come, let us both learn a thing or two.~
+@26 = ~There is much to be learned through duress. Such a curiosity you are. Come, let us both learn a thing or two.~
+@27 = ~Well, that certainly was... educational. I have seen enough, and I am done with you... for now.~ [BODHIX32]
+@28 = ~You'll not walk away from me so easy!~
+@29 = ~What manner of creature are you? Is this all a game to you?~
+@30 = ~Crawl back to your master then. I will see him soon enough.~
+@31 = ~Oh yes, yes I will. I see no reason to finish this here. You can still be useful to Irenicus where he is. Fight on; I have seen what I came to see.~
+@32 = ~Perhaps, but games can be deadly serious, especially when I keep the rules to myself. Fight on, and seek your lost Imoen; I have seen what I came to see.~
+@33 = ~Oh, I am not crawling away for fear of your wrath. By all means, coddle, develop and direct it. Fight on, and seek your lost Imoen; I have seen what I came to see.~
+
+
+@5024 = ~Defeating Khalabaxin
+
+I have accepted Sir Havun Clarenshide's request for aid against the dragon Khalabaxin. I will find him near his newly-acquired lair, the cave beyond the river in the Umar Hills.~
+
+@5025 = ~Defeating Khalabaxin
+
+I have defeated the dragon Khalabaxin. I am now to return to the Order of the Radiant Heart and tell Sir Havun Clarenshide what has transpired.~
+
+@5026 = ~Defeating Khalabaxin
+
+I returned to the Radiant Heart with news of my defeat of the dragon Khalabaxin. The Order's work seems to be never done.~
+
+@5027 = ~Defeating the Vampires
+
+Sir Havun has informed me of the existence of a nest of vampires here in the city. I am to seek it out and destroy it. They live in the crypts beneath the graveyard. The Order will send one of their hireling wizards to aid me in breaching the lair's defenses.~
+
+@5028 = ~Defeating the Vampires
+
+I have destroyed the vampires, but the leader, Bodhi, has eluded me. She had some interesting things to say about me... She knew I was a child of Bhaal! I go now to report the destruction of the vampires to Sir Havun.~
+
+@5029 = ~Vampires Defeated
+
+I returned to the Radiant Heart with news of my defeat of the vampires. The Order has offered me passage to Spellhold as a reward!~

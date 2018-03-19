@@ -1,0 +1,105 @@
+@0  = ~Seid Ihr bereit für Eure Reise?~
+@1  = ~Ja, sind wir.~
+@2  = ~Nein, noch nicht.~
+@3  = ~Sehr gut. Lasst uns sofort gehen.~
+@4  = ~Dann kehrt bitte zurück, wenn Ihr Eure Vorkehrungen getroffen habt.~
+@5  = ~Bitte beeilt Euch! Die Zeit ist äußerst kostbar.~
+@6  = ~Und, seid Ihr siegreich zurückgekehrt?~
+@7  = ~Ja, Sir Clarenshide, sind wir. Khalabaxin ist nicht mehr.~
+@8  = ~Ja, obwohl es äußerst schwierig war. Wir gingen als Sieger hervor.~
+@9  = ~Wir sind Euch zu Dank verpflichtet, <CHARNAME>. Ihr habt uns und allen Opfern, die von Khalabaxin als Beute gejagt wurden, einen großen Dienst erwiesen.~
+@10 = ~Und aus Dankbarkeit möchten wir Euch etwas von großem Wert anbieten.~
+@11 = ~Ihr wünscht zur Zauberfeste zu gelangen... und nein, wir haben Euch nicht ausspioniert. Eure Ziele sind zu deutlich, um unerkannt zu bleiben.~
+@12 = ~Wir haben, wenn auch mit einigen Schwierigkeiten, den Aufenthaltsort Eurer Vermissten ermittelt: ein Magiergefängnis, das man Zauberfeste nennt.~
+@13 = ~Ja, das möchte ich, aber ich muss zuerst meine Vorräte auffüllen.~
+@14 = ~Ja, ich bin bereit. Es kann losgehen!~
+@15 = ~In Ordnung. Kehrt zurück, wenn Ihr bereit seid.~
+@16 = ~Dann lasst uns sofort aufbrechen.~
+@17 = ~Seid gegrüßt, <CHARNAME>, schön Euch zu treffen. Ich hätte eine Bitte an Euch, falls Ihr mich anhören wollt.~
+@18 = ~Nein, ich habe kein Verlangen, mit jemandem wie Euch zu sprechen. Verschwindet!~
+@19 = ~Sprecht, Mann, und schnell, falls Euch Euer leben lieb ist!~
+@20 = ~Ich grüße auch Euch, guter Herr Ritter. Ich werde mit Freuden Eurer Bitte zuhören.~
+@21 = ~Und Ihr seid?~
+@22 = ~Ich bin immer bereit, einem Krieger und Bruder im Glauben zu helfen.~
+@23 = ~Sehr gut. Geht in Frieden.~
+@24 = ~Es besteht kein Grund für solche Unhöflichkeiten. Ich verstehe, dass Ihr von allen Seiten von blutrünstigen Männern bedroht werdet, aber wisset, dass ich nicht Euer Feind bin.~
+@25 = ~In der Tat erbitte ich von Euch eine Heldentat. Ich werde Havun Clarenshide genannt und bin ein Diener des Ordens des Strahlenden Herzens. Eine von unseren Gruppen hat die Höhle eines fürchterlichen Drachen entdeckt. Zweimal haben wir uns ihm genähert, und beide Male wurden wir zurück geschlagen.~
+@26 = ~Ihr wollt also, dass mich für Euch um dieses Problem kümmere?~
+@27 = ~Ihr wollt, dass ich für Euch einen Drachen bekämpfe?!~
+@28 = ~Weist mir den Weg. Ich werde nicht ruhen, solange dieses bösartige Wesen lebt!~
+@29 = ~Wie könnt Ihr es wagen, ein Tier willkürlich ermorden zu wollen? Schwergepanzerte Krieger, die in seine Höhle eindringen und seine Ruhe stören, aus keinem anderen Grund, als es zu töten!~
+@30 = ~Um welche Drachenart handelt es sich?~
+@31 = ~Ich danke Euch. Ich erbitte von Euch eine Heldentat. Mein Name ist Havun Clarenshide, und ich bin ein Diener des Ordens des Strahlenden Herzens. Eine von unseren Gruppen hat die Höhle eines fürchterlichen Drachen entdeckt. Zweimal haben wir uns ihm genähert, und beide Male wurden wir zurück geschlagen.~
+@32 = ~Ich werde Havun Clarenshide genannt und bin ein Diener des Ordens des Strahlenden Herzens. Eine von unseren Gruppen hat die Höhle eines fürchterlichen Drachen entdeckt. Zweimal haben wir uns ihm genähert, und beide Male wurden wir zurück geschlagen.~
+@33 = ~Ich grüße Euch als einen gleich gesinnten Krieger des Glaubens und des Lichtes. Ich werde Havun Clarenshide genannt und bin ein Diener des Ordens des Strahlenden Herzens. Eine von unseren Gruppen hat die Höhle eines fürchterlichen Drachen entdeckt. Zweimal haben wir uns ihm genähert, und beide Male wurden wir zurück geschlagen.~
+@34 = ~Der Drache ist gewaltig, aber Euer Ruf eilt Euch voraus. Ich fordere nichts. Ich erbitte nur Euren Beistand dabei, das Land von dieser abscheulichen Kreatur zu befreien.~
+@35 = ~Also gut, ich werde Euch unterstützen.~
+@36 = ~Ich verspüre kein Verlangen danach, gegen einen Drachen zu kämpfen. Findet jemand anderes.~
+@37 = ~Ich würde Euch gerne helfen, aber leider bin ich beschäftigt. Kann dies noch warten?~
+@38 = ~Ihr nehmt die Herausforderung an? Der Orden wird erfreut sein, das zu hören! Geht nun zu den Umarhügeln. Dort, jenseits des ersten Flusses, in der Nähe der Höhle, werdet Ihr den Drachen Khalabaxin finden.~
+@39 = ~Er ist gerissen, und hütet Euch vor seinen Fängen und seinem Odem! Wenn Ihr die große Schlange erschlagen habt, sucht nach mir im Hauptquartier des Ordens. Ich werde Euch dort erwarten.~
+@40 = ~Ihr versteht nicht, <CHARNAME>. Wir vernichten nicht willkürlich Kreaturen, obwohl es dem Unwissenden so erscheinen mag. Wir schützen die Schwachen, bieten den Vaterlosen und Witwen eine Zuflucht und helfen, wo wir nur können.~
+@41 = ~Dieser Drache hat durch sein Herumtoben mehrere Bewohner getötet. Seine Blutlust ist vorerst gesättigt, aber wir wissen nicht, wie lange das anhalten wird. Er könnte jederzeit wieder aufwachen und mit der Metzelei erneut beginnen.~
+@42 = ~Also gut, <CHARNAME>. Eure Ablehnung, uns zu helfen, kommt dennoch überraschend. Geht nun in Frieden.~
+@43 = ~Für eine Weile schon, aber die Zeit drängt. Der Drache ruht sich nun aus, aber er könnte jederzeit mit der Metzelei erneut beginnen.~
+@44 = ~Geht dann, wenn Ihr Zeit habt, zu den Umarhügeln. Dort, jenseits des ersten Flusses, in der Nähe der Höhle, werdet Ihr den Drachen Khalabaxin finden.~
+@45 = ~Er ist gerissen, und hütet Euch vor seinen Fängen und seinem Odem! Wenn Ihr die große Schlange erschlagen habt, sucht nach mir im Hauptquartier des Ordens. Ich werde Euch dort erwarten.~
+@46 = ~Seine Schuppen haben eine violette Farbe. Ich nehme an, dass er so etwas wie ein Edelsteindrache ist, obwohl ich nicht genau weiß, welche Art. Möglicherweise Amethyst.~
+@47 = ~Ihr habt großen Mut gezeigt im Angesicht eines mächtigen Übels. Wärt Ihr daran interessiert, in einer anderen Angelegenheit für den Orden zu arbeiten?~
+@48 = ~Nein, danke. Ich habe genug davon, herumzureisen und für Euch die Drecksarbeit zu erledigen.~
+@49 = ~Nun, ich wäre schon gerne bereit, Euch zu helfen, aber ich muss unbedingt einen Weg in die Zauberfeste finden. Eine Freundin von mir wird dort festgehalten.~
+@50 = ~Natürlich, es wäre mir eine Ehre, mit der Unterstützung des Ordens fortzufahren. Was gibt es denn zu tun?~
+@51 = ~Nun gut. Das ist Eure Entscheidung und ich werde Euch ferner mit meinen Belangen nicht mehr belästigen. Aber wisset, dass der Orden keine "Drecksarbeit" zu vergeben hat.~
+@52 = ~Wir arbeiten dafür, die Ordnung aufrecht zu erhalten und einer größeren Gottheit zu dienen. Ich bin betrübt, dass Ihr unsere Missionen unter Eurer Würde seht.~
+@53 = ~Die Zauberfeste? Vielleicht kann der Orden einen Weg finden, dorthin zu gelangen. Ferner werden wir versuchen, ein Schiff für die Reise zu sichern.~
+@54 = ~Werdet Ihr uns in der Zwischenzeit ein weiteres Mal helfen?~
+@55 = ~Ja, was kann ich jetzt wieder für Euch tun?~
+@56 = ~Nein, das ist es nicht wert, irgendein weiteres Risiko einzugehen.~
+@57 = ~Wir haben entdeckt, dass es ein Nest von Vampiren gibt, die ihren Unterschlupf hier in Athkatla haben. Sie leben in den Krypten unterhalb der Stadt. Der Orden erbittet Eure Unterstützung dabei, diese abscheulichen Monster zu vernichten.~
+@58 = ~Natürlich! Ein solches Übel darf nicht länger existieren!~
+@59 = ~Ich werde dieses Nest von Vampiren für den Orden zerstören.~
+@60 = ~Ich werde das machen, aber nur, wenn mir eine Überfahrt zur Zauberfeste zugesichert wird.~
+@61 = ~Vampire? Ein ganzes Nest? Ohne mich!~
+@62 = ~Ich verstehe. Mögen die Götter über Euch wachen. Guten Tag.~
+@63 = ~Ausgezeichnet. Ich bin erfreut, dass Ihr einverstanden seid. Sehr gut. Geht zum Friedhof und begebt Euch in die Krypten darunter. Ich werde einen unserer angeheuerten Magier auffordern, Euch dort zu treffen. Er wird angewiesen, die Türen zu öffen, die in das Versteck der Monster führen.~
+@64 = ~Ihr habt mein Wort, dass wir uns um die Angelegenheit mit der Zauberfeste kümmern werden. Der Orden wird alle Ressourcen dafür aufbieten.~
+@65 = ~Geht in der Zwischenzeit zum Friedhof und begebt Euch in die Krypten darunter. Ich werde einen unserer angeheuerten Magier auffordern, Euch dort zu treffen. Er wird angewiesen, die Türen zu öffen, die in das Versteck der Monster führen.~
+@66 = ~Wart Ihr erfolgreich? Sind die Vampire vernichtet?~
+@67 = ~Ja, wir vernichteten alle Vampire, bis auf ihre Anführerin Bodhi. Sie konnte entkommen.~
+@68 = ~Nein, die Anführerin der Vampire floh!~
+@69 = ~Das ist in der Tat ein Erfolg und der Orden ist Euch zu Dank verpflichtet.~
+@70 = ~Woher wisst Ihr denn von der Existenz dieses Ortes? Ich habe bisher vergeblich nach Informationen darüber gesucht, und nun erzählt Ihr mir plötzlich von einem Ort namens "Zauberfeste"?~
+@71 = ~Der Orden hat viele Quellen und ist immer wachsam. Wir beobachten viele Organisationen, wie beispielsweise die Verhüllten Magier, die sehr mächtig sind.~
+@72 = ~Fragt mich nicht danach, woher wir die Existenz oder die Lage der Zauberfeste kennen. Würde ich Euch zu viel verraten, würde man unsere Agenten enttarnen.~
+@73 = ~Also gut, ich respektiere das. Wir sind bereit, aufzubrechen.~
+@74 = ~Ich verstehe. Ich denke darüber nach, während wir uns um unsere Vorräte kümmern.~
+@75 = ~<CHARNAME>, werdet Ihr uns im Kampf gegen dieses Monster beistehen?~
+@76 = ~Wir haben ein Schiff für Euch gechartert, falls Ihr Euch zur Zauberfeste begeben wollt.~
+@77 = ~Wir vernichteten die Vampire, doch ihre Anführerin hatte interessante Dinge über mich zu erzählen, bevor sie floh! Ihr habt mir ein Himmelfahrtskommando erteilt, weil ich ein Bhaalkind bin!~
+@78 = ~Ein Bhaalkind? Wir hörten solche Gerüchte, aber sie hatten keine Auswirkungen auf Euren Auftrag. Wir fragten nach Eurer Hilfe, weil Ihr stark seid.~
+@79 = ~Wir vertrauten außerdem auf Euren Ruf, der sehr gut ist. Und wir lagen nicht falsch, denn Ihr wart erfolgreich und habt uns nicht enttäuscht!~
+
+
+@5024 = ~Der Kampf gegen Khalabaxin
+
+Ich habe Sir Havun Clarenshide meine Hilfe im Kampf gegen den Drachen Khalabaxin zugesagt. Der Drache dürfte bei seinem neuen Hort zu finden sein, in der Höhle unter dem Fluss in den Umarhügeln.~
+
+@5025 = ~Der Kampf gegen Khalabaxin
+
+Ich habe den Drachen Khalabaxin besiegt. Ich sollte nun zum Orden des Strahlenden Herzens zurückkehren und Sir Havun Clarenshide davon berichten.~
+
+@5026 = ~Der Kampf gegen Khalabaxin
+
+Ich kehrte mit der Nachricht von meinem Sieg über Khalabaxin zum Orden zurück. Es sieht so aus, als gäbe es noch mehr Arbeit, die ich für den Orden erledigen kann.~
+
+@5027 = ~Das Nest der Vampire
+
+Sir Havun hat mich darüber informiert, dass es hier in der Stadt ein Vampirnest gibt. Ich wurde ausgesandt, um es zu finden und zu zerschlagen. Es soll sich irgendwo in den Krypten unter dem Friedhof befinden. Der Orden wird mir außerdem einen angeheuerten Zauberer schicken, der mich beim Angriff auf die Vampire unterstützen soll.~
+
+@5028 = ~Das Nest der Vampire
+
+Ich habe das Vampirnest zerschlagen, doch ihre Anführerin, Bodhi, ist entkommen. Sie wusste einige interessante Dinge über mich... Sie wusste sogar, dass ich ein Bhaalkind bin! Ich sollte nun zu Sir Havun gehen und von der Vernichtung der Vampire berichten.~
+
+@5029 = ~Das Nest der Vampire
+
+Ich kehrte mit der Nachricht von der Zerschlagung des Vampirnestes zum Orden zurück. Als Belohnung hat man mir die Überfahrt zur Zauberfeste angeboten!~

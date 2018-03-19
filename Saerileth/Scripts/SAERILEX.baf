@@ -1,0 +1,96 @@
+IF
+ Detect(Player1)
+ AreaCheck("NS0162")
+ Global("SaerilethRejoinsBaator","LOCALS",0)
+THEN
+ RESPONSE #100
+ SetGlobal("SaerilethRejoinsBaator","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ See("Korgan")
+ !Dead("Korgan")
+THEN
+ RESPONSE #100
+  EquipMostDamagingMelee()
+  AttackReevaluate(LastSeenBy(Myself),30)
+END
+
+IF
+ AttackedBy([ANYONE],DEFAULT)
+THEN
+ RESPONSE #100
+  Attack(LastAttackerOf(Myself))
+END
+
+IF
+ OR(2)
+  Dead("Korgan")
+  !Detect("Korgan")
+  CombatCounter(0)
+  !Allegiance(Myself,ENEMY)
+  Global("SaerilethKorganFight","GLOBAL",1)
+  See([PC])
+THEN
+  RESPONSE #100
+   SetGlobal("SaerilethKorganFight","GLOBAL",2)
+   StartDialogueNoSet([PC])
+END
+
+IF
+ OR(2)
+  Dead("Korgan")
+  !Detect("Korgan")
+  CombatCounter(0)
+  Global("SaerilethKorganFight","GLOBAL",1)
+  !See([PC])
+THEN
+  RESPONSE #100
+   EscapeArea()
+END
+
+
+IF
+ See("Anomen")
+ !Dead("Anomen")
+THEN
+ RESPONSE #100
+  EquipMostDamagingMelee()
+  AttackReevaluate(LastSeenBy(Myself),30)
+END
+
+IF
+ AttackedBy([ANYONE],DEFAULT)
+THEN
+ RESPONSE #100
+  Attack(LastAttackerOf(Myself))
+END
+
+IF
+ OR(2)
+  Dead("Anomen")
+  !Detect("Anomen")
+  CombatCounter(0)
+  !Allegiance(Myself,ENEMY)
+  Global("NSSaeriAnoFight","GLOBAL",1)
+  See([PC])
+THEN
+  RESPONSE #100
+   SetGlobal("NSSaeriAnoFight","GLOBAL",2)
+   StartDialogueNoSet([PC])
+END
+
+IF
+ OR(2)
+  Dead("Anomen")
+  !Detect("Anomen")
+  CombatCounter(0)
+  Global("NSSaeriAnoFight","GLOBAL",1)
+  !See([PC])
+THEN
+  RESPONSE #100
+   EscapeArea()
+END

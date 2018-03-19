@@ -1,0 +1,122 @@
+IF
+  !Global("SaerilethRomanceActive","GLOBAL",0)
+  !Global("SaerilethRomanceActive","GLOBAL",3)
+  Global("SaerilethMatch","GLOBAL",1)
+  See(Player1)
+  CombatCounter(0)
+OR (6)
+  Global("SaerilethLoveTalk","LOCALS",21)
+  Global("SaerilethLoveTalk","LOCALS",27)
+  Global("SaerilethLoveTalk","LOCALS",29)
+  Global("SaerilethLoveTalk","LOCALS",37)
+  Global("SaerilethLoveTalk","LOCALS",39)
+  Global("SaerilethLoveTalk","LOCALS",47)
+THEN
+ RESPONSE #100
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  IncrementGlobal("SaerilethLoveTalk","LOCALS",1)
+  RealSetGlobalTimer("SaerilethLoveTalkTime","GLOBAL",1)
+  Interact(Player1)
+END
+
+
+
+IF
+  Global("SaerilethRomanceActive","GLOBAL",0)
+  Global("SaerilethFriendMatch","GLOBAL",1)
+  See(Player1)
+  CombatCounter(0)
+  Global("SaerilethFriendTalk","LOCALS",15)
+ THEN
+ RESPONSE #100
+  IncrementGlobal("SaerilethFriendTalk","LOCALS",1)
+  Interact(Player1)
+END
+
+
+
+IF
+  !Global("SaerilethRomanceActive","GLOBAL",0)
+  !Global("SaerilethRomanceActive","GLOBAL",3)
+  Global("SaerilethMatch","GLOBAL",1)
+  See(Player1)
+  CombatCounter(0)
+  Global("FoundKesevar","GLOBAL",5)
+  Global("NSMercyTalk","LOCALS",0)
+THEN
+ RESPONSE #100
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  IncrementGlobal("NSMercyTalk","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+  Global("SaerilethRomanceActive","GLOBAL",0)
+  Global("SaerilethGF","GLOBAL",1)
+  See(Player1)
+  CombatCounter(0)
+  Global("FoundKesevar","GLOBAL",5)
+  Global("NSMercyTalkNoLove","LOCALS",0)
+THEN
+ RESPONSE #100
+  IncrementGlobal("NSMercyTalkNoLove","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+IF
+ InParty(Myself)
+ OR(2)
+ Global("SaerilethRomanceActive","GLOBAL",1)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+ GlobalGT("CHAPTER","GLOBAL",%bg2_chapter_5%)
+ OR(7)
+ AreaCheck("AR1100")
+ AreaCheck("AR1200")
+ AreaCheck("AR1400")
+ AreaCheck("AR1700")
+ AreaCheck("AR1800")
+ AreaCheck("AR1900")
+ AreaCheck("AR2600")
+ Global("SaerilethStarsLT","LOCALS",0)
+THEN
+ RESPONSE #100
+  PlaySong(0)
+  PlaySound("SAERILOV")
+ IncrementGlobal("SaerilethStarsLT","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+
+IF
+	InParty(Myself)
+	RealGlobalTimerExpired("NSEdoremLTTime","GLOBAL")
+	CombatCounter(0)
+	Global("NSEdoremLT","GLOBAL",5)
+        Global("SaeriSeesEd3","LOCALS",0)
+THEN
+	RESPONSE #100
+         SetGlobal("SaeriSeesEd3","LOCALS",1)
+	 StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+	InParty(Myself)
+	RealGlobalTimerExpired("NSEdoremLTTime","GLOBAL")
+	CombatCounter(0)
+	Global("NSEdoremLT","GLOBAL",9)
+        Global("SaeriSeesEd5","LOCALS",0)
+THEN
+	RESPONSE #100
+         SetGlobal("SaeriSeesEd5","LOCALS",1)
+	 StartDialogueNoSet(Player1)
+END
+

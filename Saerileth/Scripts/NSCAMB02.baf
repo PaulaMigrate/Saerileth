@@ -1,0 +1,30 @@
+IF
+ NumTimesTalkedTo(0)
+ Detect([PC])
+ Global("NSTemptedPC","GLOBAL",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSTemptedPC","GLOBAL",1)
+  StartCutSceneMode()
+  StartCutScene("NSCAMCUT")
+END
+
+
+
+IF
+ Global("NSTemptedPC","GLOBAL",3)
+THEN
+ RESPONSE #100
+  SetGlobal("NSTemptedPC","GLOBAL",4)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("NSSucLeave","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSucLeave","GLOBAL",3)
+  ReallyForceSpell("NSCAMB02",DRYAD_TELEPORT)
+END

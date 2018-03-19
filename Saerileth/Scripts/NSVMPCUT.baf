@@ -1,0 +1,46 @@
+IF 
+  True() 
+THEN 
+  RESPONSE #100 
+    CutSceneId("Saerileth") 
+    ReallyForceSpell(Myself,PAIN) 
+    ScreenShake([5.5],5) 
+    ReallyForceSpell(Myself,FAKE_FLAME_STRIKE) 
+    Wait(1) 
+    DropInventory() 
+    Wait(2) 
+    LeaveParty() 
+    MoveGlobal("AR1604",Myself,[203.108]) 
+    Wait(1) 
+END
+
+
+IF
+   True()
+THEN
+   RESPONSE #100
+      CutSceneId("bodhiamb")
+      DialogInterrupt(FALSE)
+      CreateCreatureObject("VAMPIM01",Myself,0,0,0)
+      CreateCreatureObject("VAMPIM01",Myself,0,0,0)
+      CreateCreatureObject("VAMPIM01",Myself,0,0,0)
+      CreateCreatureObject("VAMPIM01",Myself,0,0,0)
+      ReallyForceSpell(Myself,DRYAD_TELEPORT)
+      EndCutSceneMode()
+END
+
+/*IF 
+  True() 
+THEN 
+  RESPONSE #100 
+    CutSceneId("Saerileth") 
+    ReallyForceSpell(Myself,PAIN) 
+    ScreenShake([5.5],5) 
+    ReallyForceSpell(Myself,FAKE_FLAME_STRIKE) 
+    Wait(1) 
+    DropInventory() 
+    Wait(2) 
+    ActionOverride("Saerileth",LeaveParty()) 
+    ActionOverride("Saerileth",MoveGlobal("AR1604","Saerileth",[203.108])) 
+    Wait(1) 
+END*/

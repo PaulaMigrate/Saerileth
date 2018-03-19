@@ -1,0 +1,71 @@
+@85   = ~This is Saerileth's holy symbol of Tyr. She wears it as a crown among her raven locks, and she never removes it. It is imbued with Tyr's power and protects Saerileth's life.
+
+STATISTICS
+Special Abilities:
+Permanent Protection from Evil
+~
+
+@91   = ~This relic of the Order of Tyr was given by Lord Edorem in gratitude for your part in the rescue of Saerileth.
+
+STATISTICS
+Special Abilities:
++2 AC bonus
+10% resistance to crushing damage
+Additional 1 electrical damage
+
+Thac0: +2 bonus
+Damage: 1d4+3 (+1 electrical)
+Damage Type: bludgeoning
+Weight: 5
+Speed Factor: 2
+Proficiency Type: Warhammer
+Type: 1-handed
+Requires: 9 Strength
+~
+
+
+@102  = ~This shield was forged in honor of a god of Arborea by the name of Hermes. He was apparently a fleet-footed god, for this shield increases the bearer's speed.
+
+STATISTICS
+Special Abilities:
+Increases movement rate
+
+Armor Class Bonus: 2
+Weight: 3
+Requires: 4 Strength
+~
+
+@104  = ~This highly magical shield was forged in the swirling chaos of Limbo, partaking of many elements. It provides some protection from these elements due to sharing their nature.
+
+STATISTICS:
+Special Abilities:
++10% resistance to fire, cold, acid and electricity
+
+Armor Class Bonus: 5
+Weight: 5
+Requires: 12 Strength
+~
+
+@105  = ~This highly magical shield was forged in the swirling chaos of Limbo, partaking of many elements. It provides some protection from these elements due to sharing their nature.
+
+STATISTICS:
+
+Abilities: +10% resistance to fire, cold, acid and poison
+
+Armor Class Bonus: 5
+Weight: 5
+Requires: 12 Strength
+~
+
+@161  = ~This tome will confer upon its reader a small portion of the divine influence of Tyr.
+
+STATISTICS:
+
+Increases Charisma by 1 permanently.
+~
+@162  = ~This tome will confer upon its reader a small portion of the divine wisdom of Tyr.
+
+STATISTICS:
+
+Increases Wisdom by 1 permanently.
+~

@@ -1,0 +1,192 @@
+@0  = ~Seid gegrüßt, Gotteskind. (Die junge Frau erblasst plötzlich.) Oh, Ihr seid ja...~ [SAERI047]
+@1  = ~(Die junge Frau hält kurz inne, dann spricht sie weiter.) Ihr seid doch das Kind Bhaals, von dem ich gehört habe?~
+@2  = ~Das bin ich.~
+@3  = ~Wow! Wer seid denn Ihr?~
+@4  = ~Kommt darauf an, was Ihr gehört habt.~
+@5  = ~Mäßigt Eure Stimme, Fräulein! Es ist nicht weise, in diesen Straßen die Wörter "Gotteskind" und "Bhaal" so rauszuposaunen!~
+@6  = ~Geht einen Schritt zurück, wenn Ihr weiteratmen wollt.~
+@7  = ~Warum so blass, und warum zittert Ihr?~
+@8  = ~Ich grüße Euch. Man nennt mich Saerileth, und ich stehe im Dienste Tyrs. Ich habe nach Euch gesucht.~
+@9  = ~Nun, Ihr habt mich gefunden, was also wollt Ihr von mir?~
+@10 = ~Tyr? Was hat er denn mit mir vor?~
+@11 = ~Mit einem Diener Tyrs möchte ich nichts zu tun haben! Verschwindet!~
+@12 = ~Die heiligen Väter des Tempels, in dem ich aufwuchs, sandten mich aus, um einen gewissen Kesevar zu finden und über ihn zu richten. Er war einst einer der Wächter des Tempels und fiel in Ungnade.~
+@13 = ~Die Väter sagten folgendes: "Findet eines von Bhaals Kindern, denn sie gehören zu den Mächtigsten in der Welt, auf der Ihr verweilen werdet. Findet ein Gotteskind, und in seiner Gesellschaft werdet Ihr zu Kesevar geführt werden."~
+@14 = ~"Das Gotteskind ist ein Instrument des Schicksals, in dessen Händen das Verhängnis seiner Generation liegt."~
+@15 = ~Seid Ihr verrückt? Ich habe keine Ahnung, wovon Ihr da redet!~
+@16 = ~Alles klar. Ich denke, Ihr kommt besser mit mir.~
+@17 = ~Ich habe keine Verwendung für ein langatmiges, aufgeblasenes Kind. Lebt wohl!~
+@18 = ~Dann wünscht Ihr also, mit mir zu reisen?~
+@19 = ~Ich bin hier im Auftrag Tyrs. Die heiligen Väter des Tempels, in dem ich aufwuchs, sandten mich aus, um einen gewissen Kesevar zu finden und über ihn zu richten. Er war einst einer der Wächter des Tempels und fiel in Ungnade.~
+@20 = ~Ihr tragt den Makel Eures Vaters in Euch. Ich werde nun gehen und Euch nicht weiter stören.~
+@21 = ~Ich habe auch gehört, dass selbst die Mächtigsten ihr eigenes Ende nicht sehen können. Dennoch seid Ihr die Person, die ich suche.~
+@22 = ~Die Göttlichkeit Eures Vaters singt in Euch, und meine Ohren hören ihre Kraft.~
+@23 = ~Seid Ihr gewillt, mich bei Euch aufzunehmen?~
+@24 = ~Keine Chance. Verschwinde, verrücktes Mädchen!~
+@25 = ~Vielleicht, doch vorher habe ich Fragen.~
+@26 = ~Nein, aber ich wünsche Euch Glück für Euer Unternehmen.~
+@27 = ~Ihr seid einverstanden? Ich danke Euch für Euer Vertrauen. So lange Ihr den Pfad des Guten beschreitet, werde ich Euch begleiten.~
+@28 = ~Das wünsche ich. Seid Ihr gewillt, mich bei Euch aufzunehmen?~
+@29 = ~Ja, seid willkommen.~
+@30 = ~Was möchtet Ihr wissen?~
+@31 = ~Wo kommt Ihr her?~
+@32 = ~Was sind Eure Fähigkeiten?~
+@33 = ~Ihr seht recht jung aus, doch Eure Art zu sprechen klingt sehr erwachsen. Wie alt seid Ihr?~
+@34 = ~Wer genau ist dieser Kesevar, den Ihr erwähnt habt?~
+@35 = ~Eigentlich habe ich doch keine Fragen. Ihr dürft mich gerne begleiten.~
+@36 = ~Möge Tyr Euch segnen. Womöglich finde ich noch ein anderes Gotteskind, das mir hilft.~
+@37 = ~Meine Heimat sind die Hänge des Berges Celestia im Reich von Tyr. Seine Pracht ist das Licht und die Wärme in diesem Land.~
+@38 = ~Verschwinde, verrücktes Mädchen!~
+@39 = ~Ihr kommt aus dem Reich der Götter?!~
+@40 = ~Wenn das so ist, wäre ich froh, wenn Ihr mich begleitet.~
+@41 = ~Tyr stattete mich mit seiner Stärke aus. Ich gehe in den Kampf für seinen Ruhm und mit seinem Namen auf den Lippen.~
+@42 = ~Ich habe keine Verwendung für eine, die so fanatisch ist.~
+@43 = ~In meiner Heimat, an den Hängen des Berges Celestia im Reich von Tyr, bin ich bereits "erwachsen". Ich bin zwar erst fünfzehn Jahre alt, doch ich habe schon sehr viel von den heiligen Vätern gelernt.~
+@44 = ~Kesevar war als Wächter damit betraut, den Tempel vor den dunklen Mächten zu beschützen, die seine Zerstörung anstreben. Doch er erwies sich als treulos und vergoss Blut an jenem heiligen Ort.~
+@45 = ~In seiner Schuld lief er davon. Ich verfolge ihn nun, um Tyrs Recht über ihn zu sprechen.~
+@46 = ~Ja. Wollt Ihr mich nun aufnehmen?~
+@47 = ~So bin ich eben, und so werde ich weiterhin sein. Lebt wohl, Gotteskind.~
+@48 = ~Man nennt mich Saerileth, und ich stehe im Dienste Tyrs. Ich habe nach Euch gesucht.~
+@49 = ~Ich habe gehört, dass ein Kind Bhaals durch die Straßen von Athkatla wandert. Und ich fühle, dass Ihr das seid.~
+@50 = ~Ihr "fühlt" es?~
+@51 = ~Wer seid Ihr?~
+@52 = ~Ja. Man nennt mich Saerileth, und ich stehe im Dienste Tyrs. Ich habe nach Euch gesucht.~
+@53 = ~Vergebt mir. Mein Eifer gewinnt manchmal die Oberhand. In diesem Falle beuge ich mich Eurem Urteil.~
+@54 = ~Wegen Eurer Schönheit, mein Fürst. Meine Augen sahen heute zum ersten Mal, wie ein neues Licht in meiner Welt entzündet wurde.~
+@55 = ~Sprecht Ihr etwa mit allen Fremden so?~
+@56 = ~Auch in meiner Welt sah ich, wie dies geschah. Wie ist Euer Name, meine junge Dame?~
+@57 = ~Ähmm... wer seid Ihr?~
+@58 = ~Schleimt Euch nicht bei mir ein, Fräulein. Sagt mir nur, was Ihr wollt!~
+@59 = ~Nein, nicht mit allen. (Die junge Frau errötet.) Aber mit Euch, Gotteskind, ja, mit Euch muss ich so sprechen.~
+@60 = ~Aber ich vergesse ja ganz meinen Auftrag! Man nennt mich Saerileth, und ich stehe im Dienste Tyrs. Ich habe nach Euch gesucht.~
+@61 = ~(Die junge Frau nimmt Eure Hände.) Meine Freude kennt keine Grenzen! Mein Name ist Saerileth, Auserwählte von Tyr, und in seinem Namen habe ich Euch gesucht.~
+@62 = ~Und Ihr habt mich gefunden. Doch aus welchem Grund sandte Tyr diesen Engel aus, mich zu finden?~
+@63 = ~(Küsst Saerileth.) Meine Liebe, mein Leben.~
+@64 = ~(Ergreift Saerileths Hand.) Dann kommt, schönes Fräulein, und erzählt mir von Tyr und warum Ihr mich sucht.~
+@65 = ~Tut mir Leid, ich vergaß mich vorzustellen! (Die junge Frau errötet.)~
+@66 = ~(Die junge Frau schaut zu Boden.) Dunkle Herzen verbergen sich oft hinter schönen Gesichtern. (Sie atmet tief und langsam ein, bevor sie weiterspricht.)~
+@67 = ~Ich hätte jedoch nicht erwartet, dass das Kind Bhaals, dem ich begegne, auch das schönste Wesen seiner Generation ist.~
+@68 = ~Ihr überrascht mich mit Eurem Kuss.~
+@69 = ~(Saerileth lächelt.) Die heiligen Väter des Tempels, in dem ich aufwuchs, sandten mich aus, um einen gewissen Kesevar zu finden und über ihn zu richten. Er war einst einer der Wächter des Tempels und fiel in Ungnade.~
+@70 = ~Seid gegrüßt, Gotteskind. Ihr seid doch das Kind Bhaals, von dem ich gehört habe?~ [SAERI001]
+
+
+@5000 = ~Der gefallene Deva
+
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+
+@5001 = ~Der gefallene Deva
+
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und scheint sehr angetan von mir zu sein. Sie ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+
+@5002 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Zuerst müssen wir Jharak in Sigil finden, um von ihm das Zepter des Tyr zu erhalten.~
+
+@5003 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Wir brechen sofort nach Baator auf.~
+
+@5004 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Da es zu gefährlich ist, sie zu retten, überließen wir sie ihrem Schicksal.~
+
+@5005 = ~Saerileths Entführung
+
+Wir haben Jharak gefunden, aber er wies uns an, zuerst einen Portalschlüssel zu finden, bevor er uns verrät, wo sich das Zepter des Tyr befindet.~
+
+@5006 = ~Saerileths Entführung
+
+Wir haben den Schlüssel, eine Haarlocke, gefunden und sollten damit sofort zu Jharak zurückkehren.~
+
+@5007 = ~Saerileths Entführung
+
+Jharak sandte uns zu dem Wirt, der angeblich das Zepter hat.~
+
+@5008 = ~Saerileths Entführung
+
+Wir haben endlich das Zepter des Tyr bekommen. Saerileths Seele ist in Gefahr und wir müssen so schnell wie möglich zurück zu Edorem eilen.~
+
+@5009 = ~Saerileths Rettung
+
+Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+
+@5010 = ~Saerileths Rettung
+
+Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Ich stellte sie aus meinem Dienst frei, und sie blieb auf den Ebenen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+
+@5011 = ~Der gefallene Deva
+
+Wir fanden Kesevar den Gefallenen, aber er behauptet, dass seine Bestrafung unverdient sei. Er sandte uns aus, den einzigen Zeugen zu suchen, der seine Unschuld bezeugen kann: ein Bhaalkind namens Gunshain.~
+
+@5012 = ~Der gefallene Deva
+
+Wie es aussieht, hat Gunshain Kesevars Namen wieder rein gewaschen, aber gleichzeitig versuchte er uns zu töten! Wir haben ihn besiegt und müssen jetzt schnell zu Kesevar zurückkehren.~
+
+@5013 = ~Der gefallene Deva
+
+Saerileth erklärte Kesevar für unschuldig, und dies zeigte sofort die gewünschte Wirkung. Der Deva erhielt seine frühere Herrlichkeit zurück. Saerileth wird in meiner Gruppe bleiben.~
+
+@5014 = ~Der gefallene Deva
+
+Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Meine Geliebte ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+
+@5015 = ~Der gefallene Deva
+
+Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Die junge Paladin ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+
+@5016 = ~Die Dirne Delilah
+
+Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Meine Frau Saerileth und ich haben schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+
+@5017 = ~Die Dirne Delilah
+
+Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Ich habe schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+
+@5018 = ~Die Dirne Delilah
+
+Ich erlag dem Charme Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Mein Ehebruch brach Saerileths Herz, und nun ist sie tot. Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+
+@5019 = ~Die Dirne Delilah
+
+Ich erlag dem Charm Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+
+@5020 = ~Die Dirne Delilah
+
+Saerileth versicherte mir, dass diese Delilah ein Dämon ist, aber wir können sie nicht vernichten, ohne dabei die Männer, die bei ihr sind, zu verdammen. Wir müssen einen Tempel finden, in welchem wir auf Unterstützung hoffen, um die dämonischen Illusionen durchdringen zu können.~
+
+@5021 = ~Die Dirne Delilah
+
+Ich werde diesen Wüstlingen, die in den Fängen des Dämons sind, nicht helfen. Sie sind für ihr Schicksal selbst verantwortlich. Saerileth ist betrübt darüber, aber sie stimmt zu, dass deren Bestrafung gerecht ist.~
+
+@5022 = ~Die Dirne Delilah
+
+Ich erhielt von den Priestern der Waukeen eine Spruchrolle, mit der man Illusionen aufheben kann. Ob ihre Kraft gegen die Magie der Hölle wirkt, wird sich noch herausstellen.~
+
+@5023 = ~Die Dirne Delilah
+
+Die Magie der Spruchrolle hat gewirkt. Ob es nun die Kraft der Spruchrolle oder Saerileths Gebete waren, weiß ich nicht sicher. Immerhin hat es funktioniert und die Dämonen wurden gezwungen, ihre Pläne aufzugeben und in den Abyss zurückzukehren.~
+
+@5024 = ~Der Kampf gegen Khalabaxin
+
+Ich habe Sir Havun Clarenshide meine Hilfe im Kampf gegen den Drachen Khalabaxin zugesagt. Der Drache dürfte bei seinem neuen Hort zu finden sein, in der Höhle unter dem Fluss in den Umarhügeln.~
+
+@5025 = ~Der Kampf gegen Khalabaxin
+
+Ich habe den Drachen Khalabaxin besiegt. Ich sollte nun zum Orden des Strahlenden Herzens zurückkehren und Sir Havun Clarenshide davon berichten.~
+
+@5026 = ~Der Kampf gegen Khalabaxin
+
+Ich kehrte mit der Nachricht von meinem Sieg über Khalabaxin zum Orden zurück. Es sieht so aus, als gäbe es noch mehr Arbeit, die ich für den Orden erledigen kann.~
+
+@5027 = ~Das Nest der Vampire
+
+Sir Havun hat mich darüber informiert, dass es hier in der Stadt ein Vampirnest gibt. Ich wurde ausgesandt, um es zu finden und zu zerschlagen. Es soll sich irgendwo in den Krypten unter dem Friedhof befinden. Der Orden wird mir außerdem einen angeheuerten Zauberer schicken, der mich beim Angriff auf die Vampire unterstützen soll.~
+
+@5028 = ~Das Nest der Vampire
+
+Ich habe das Vampirnest zerschlagen, doch ihre Anführerin, Bodhi, ist entkommen. Sie wusste einige interessante Dinge über mich... Sie wusste sogar, dass ich ein Bhaalkind bin! Ich sollte nun zu Sir Havun gehen und von der Vernichtung der Vampire berichten.~
+
+@5029 = ~Das Nest der Vampire
+
+Ich kehrte mit der Nachricht von der Zerschlagung des Vampirnestes zum Orden zurück. Als Belohnung hat man mir die Überfahrt zur Zauberfeste angeboten!~

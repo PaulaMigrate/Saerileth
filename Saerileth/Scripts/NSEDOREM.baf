@@ -1,0 +1,252 @@
+IF
+ Global("LeaveWithoutSaerileth","GLOBAL",3)
+ AreaCheck("AR0900")
+THEN
+ RESPONSE #100
+ SetGlobal("LeaveWithoutSaerileth","GLOBAL",4)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("NSAllGoHome","GLOBAL",3)
+OR(3)
+ AreaCheck("AR0900")
+ AreaCheck("AR1600")
+ AreaCheck("AR2100")
+THEN
+ RESPONSE #100
+ SetGlobal("NSAllGoHome","GLOBAL",4)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Detect(Player1)
+ Global("NSDEMON1ChainReaction","GLOBAL",1)
+ NumTimesTalkedTo(0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDEMON1ChainReaction","GLOBAL",2)
+ Dialogue(Player1)
+END
+
+
+
+IF
+ Detect([PC])
+ Global("MetEdorem","GLOBAL",1)
+ Global("NSGoGetJharak","LOCALS",0)
+ AreaCheck("NS0160")
+THEN
+ RESPONSE #100
+ SetGlobal("NSGoGetJharak","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+IF
+ Detect("Saerileth")
+ Global("NSEdoremConflict","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSEdoremConflict","GLOBAL",3)
+ Dialogue("Saerileth")
+END
+
+
+
+IF
+ Detect("Saerileth")
+ Global("NSEdoremConflict2","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSEdoremConflict2","GLOBAL",3)
+ Dialogue("Saerileth")
+END
+
+
+IF
+ Detect("Saerileth")
+ Global("NSEdoremConflict2b","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSEdoremConflict2b","GLOBAL",3)
+ Dialogue("Saerileth")
+END
+
+
+
+IF
+ Global("NSEdoremCourtship","GLOBAL",1)
+ RealGlobalTimerExpired("NSEdoremLTTime","GLOBAL")
+  Detect("Saerileth")
+  CombatCounter(0)
+OR(5)
+  Global("NSEdoremLT","GLOBAL",1)
+  Global("NSEdoremLT","GLOBAL",3)
+  Global("NSEdoremLT","GLOBAL",5)
+  Global("NSEdoremLT","GLOBAL",7)
+  Global("NSEdoremLT","GLOBAL",9)
+THEN
+ RESPONSE #100
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  IncrementGlobal("NSEdoremLT","GLOBAL",1)
+  StartDialogueNoSet("Saerileth")
+END
+
+
+
+IF
+  RealGlobalTimerExpired("NSEdoremLTTime","GLOBAL")
+  Detect("Saerileth")
+  CombatCounter(0)
+OR(5)
+  Global("NSEdoremLT","GLOBAL",2)
+  Global("NSEdoremLT","GLOBAL",4)
+  Global("NSEdoremLT","GLOBAL",6)
+  Global("NSEdoremLT","GLOBAL",8)
+  Global("NSEdoremLT","GLOBAL",10)
+THEN
+ RESPONSE #100
+   RealSetGlobalTimer("NSEdoremLTTime","GLOBAL",3600)
+   IncrementGlobal("NSEdoremLT","GLOBAL",1)
+END
+
+
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("RING30",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("RING30")
+  DestroyItem("RING30")
+  GiveItemCreate("RING30","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("CLCK07",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("CLCK07")
+  DestroyItem("CLCK07")
+  GiveItemCreate("CLCK07","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("HELM03",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("HELM03")
+  DestroyItem("HELM03")
+  GiveItemCreate("HELM03","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("SW1H40",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("SW1H40")
+  DestroyItem("SW1H40")
+  GiveItemCreate("SW1H40","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("MISC8J",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("MISC8J")
+  DestroyItem("MISC8J")
+  GiveItemCreate("MISC8J","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("WA2PLAT",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("WA2PLAT")
+  DestroyItem("WA2PLAT")
+  GiveItemCreate("WA2PLAT","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("WAAXE",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("WAAXE")
+  DestroyItem("WAAXE")
+  GiveItemCreate("WAAXE","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("CLCK08",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("CLCK08")
+  DestroyItem("CLCK08")
+  GiveItemCreate("CLCK08","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("WA2AMU",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("WA2AMU")
+  DestroyItem("WA2AMU")
+  GiveItemCreate("WA2AMU","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("LEAT16",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("LEAT16")
+  DestroyItem("LEAT16")
+  GiveItemCreate("LEAT16","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("LEAT13",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("LEAT13")
+  DestroyItem("LEAT13")
+  GiveItemCreate("LEAT13","Saerileth",0,0,0)
+END
+
+IF
+ GlobalGT("NSEdStripItems","GLOBAL",0)
+ HasItem("PLAT17",Player1)
+THEN
+ RESPONSE #100
+  TakePartyItem("PLAT17")
+  DestroyItem("PLAT17")
+  GiveItemCreate("PLAT17","Saerileth",0,0,0)
+END
+
+
+
+
+IF
+ Global("NSEdStripItems","GLOBAL",1)
+ Global("NSContinueConflict2","LOCALS",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSContinueConflict2","LOCALS",1)
+ StartDialogueNoSet("Saerileth")
+END
+

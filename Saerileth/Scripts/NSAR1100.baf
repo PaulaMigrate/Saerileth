@@ -1,0 +1,21 @@
+IF
+  InParty("Saerileth")
+  Global("FlowerChickExists","AR1100",0)
+  GlobalGT("Chapter","GLOBAL",%bg2_chapter_5%)
+  Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("FlowerChickExists","AR1100",1)
+  CreateCreature("NSFLOWER",[3712.2870],0)
+END
+
+
+IF
+Global("NSDragonQuest","GLOBAL",1)
+Global("NSDragonExists","AR1100",0)
+THEN
+ RESPONSE #100
+SetGlobal("NSDragonExists","AR1100",1)
+CreateCreature("NSDRAGON",[1633.1399],0)
+END
+

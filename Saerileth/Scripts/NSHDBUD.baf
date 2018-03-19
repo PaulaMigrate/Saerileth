@@ -1,0 +1,16 @@
+IF
+ Detect("Haerdalis")
+ CombatCounter(0)
+ NumTimesTalkedTo(0)
+THEN
+ RESPONSE #100
+Dialogue("Haerdalis")
+END
+
+IF
+ Global("NSBudGoesHome","LOCALS",1)
+THEN
+ RESPONSE #100
+SetGlobal("NSBudGoesHome","LOCALS",2)
+EscapeArea()
+END

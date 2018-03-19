@@ -1,0 +1,10 @@
+IF
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId(Player1)
+    Wait(1)
+    CreateCreatureObject("NSDEMON1","Saerileth",0,0,0)
+    Wait(1)
+    ActionOverride("NSDEMON1",StartDialogueNoSet("Saerileth"))
+END

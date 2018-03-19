@@ -1,0 +1,462 @@
+@0   = ~Ich habe versagt! Saerileth ist weg, und ich konnte ihre Gefangennahme nicht verhindern!~ [SAERI143]
+@1   = ~Wer seid Ihr, und was geht hier vor?~
+@2   = ~Wo ist sie? Sprecht, Kerl!~
+@3   = ~Ich bin froh, dass es Euch misslungen ist. Diese Entführung ersparte mir den Ärger, sie aus der Gruppe zu werfen.~
+@4   = ~Ich habe keine Zeit, mir Euer weinerliches Gerede anzuhören! Wir müssen Saerileth sofort finden!~
+@5   = ~Ich werde Edorem genannt, und ich diene Tyr. Ich kannte Saerileth seit ihrer Zeit in Sigil.~
+@6   = ~Glourkist sandte nach ihr. Er ist ein mächtiger Dämonenfürst, einer, dem Saerileth während ihrer Zeit in Sigil begegnete.~
+@7   = ~Wie?~
+@8   = ~Dann lasst uns aufbrechen und Glourkist finden!~
+@9   = ~Saerileth war zwar großartig und so, aber sie ist es nicht wert, um sie mit einem "Dämonenfürsten" zu kämpfen!~
+@10  = ~Saerileth war eine gute Freundin, aber ich bin mir nicht sicher, ob ich mich mit einem "Dämonenfürsten" anlegen sollte.~
+@11  = ~Wie sollen wir nach Sigil kommen?~
+@12  = ~Sie sorgte dafür, dass einer der Gegner Glourkists erfuhr, wie man das Portal im Tempel des Tyr benutzt, und dadurch entzog er sich dem Dämonenfürsten.~
+@13  = ~An Stelle seiner verlorenen Beute nahm er Saerileth, aber niemand weiß, was er mit ihr vor hat.~
+@14  = ~Halt, Wagemutiger! Glourkists Zorn ist stark und sein Arm reicht weit. Wenn Ihr ihm entgegentreten wollt, benötigt Ihr Hilfe.~
+@15  = ~Sucht das Zepter des Tyr. Jharak weiß, wo es ist, also müssen wir ihn finden und überzeugen, dass er es uns verrät.~
+@16  = ~Ich werde das Zepter zurückholen.~
+@17  = ~Haltet Euch da raus! Ich werde diesen Glourkist alleine bezwingen!~
+@18  = ~Zeit ist Geld. Wir müssen Saerileth sofort retten und haben keine Zeit für solche Sachen.~
+@19  = ~Dann gehe ich alleine und tue, was ich kann. Lebt wohl.~
+@20  = ~Aber es gibt immer noch Hoffnung in dieser aufkommenden Konfrontation. Glourkists Zorn ist stark und sein Arm reicht weit. Wenn Ihr ihm entgegentreten wollt, benötigt Ihr Hilfe.~
+@21  = ~Nee! Sie ist es immer noch nicht wert.~
+@22  = ~Ausgezeichnet. Ihr zeigt großes Mitleid für Eure Freunde. Die letzte Nachricht war, dass Jharak sich ein Zuhause im Stock geschaffen hat. Lasst ihn uns dort suchen.~
+@23  = ~Sehr gut. Wenn Ihr Zuversicht in Eure Kräfte habt, Gotteskind, dann lasst uns gehen.~
+@24  = ~Ich bin ein Ebenenreisender und ich habe die Kraft, Euch dorthin zu bringen. Glourkists Zorn ist stark und sein Arm reicht weit. Wenn Ihr ihm entgegentreten wollt, benötigt Ihr Hilfe.~
+@25  = ~Sucht das Zepter des Tyr. Es ist im Moment in den Fängen Jharaks, eines Feuerriesen. Keiner wagte es, ihm des Zepters wegen entgegenzutreten. Er ist ein sehr tödlicher Gegner.~
+@26  = ~Ich glaube, sie ist all den Ärger nicht wert.~
+@27  = ~Sie ist in Sigil, einer Stadt außerhalb der Ebenen. Glourkist hat nach ihr geschickt. Er ist ein mächtiger Dämonenfürst, dem Saerileth während ihrer Zeit in Sigil begegnete.~
+@28  = ~Ihr sorgt Euch nicht um Saerileths Schicksal? Na gut, dann werde ich sie alleine suchen.~
+@29  = ~Ich würde mit Euch die Klingen kreuzen für diese Ungerechtigkeit; aber ich habe keine Zeit und muss gehen.~
+@30  = ~Ich werde hier auf Euch warten, <CHARNAME>. Ich muss die Portalverbindung nach Baator aufrecht erhalten.~
+@31  = ~Findet Jharak, schnell! Bringt das Zepter Tyrs zurück!~
+@32  = ~Saerileths Seele ist in Gefahr! Zögert nicht!~ [SAERI144]
+@33  = ~Ich kann Jharak nicht finden!~
+@34  = ~Ich habe meine Meinung geändert. Sie ist es nicht wert.~
+@35  = ~Ich werde mich beeilen.~
+@36  = ~Gottloser Feigling! Ihr habt Euer Wort gegeben, und nun brecht Ihr es!~
+@37  = ~Dennoch wird Tyrs Gerechtigkeit Genüge getan. Ihr könnt den Käfig nicht ohne mich verlassen, und ich kann meinen Posten nicht verlassen, da ich die Verbindung zu Glourkist aufrecht erhalten muss.~
+@38  = ~Findet Jharak und das Zepter, oder Ihr werdet niemals wieder in Eure Heimat zurückkehren.~
+@39  = ~Tut es.~
+@40  = ~Sicher gibt es im Stock welche, die uns helfen können! Fragt jene, die auf den oberen Ebenen geboren worden sind.~
+@41  = ~Ihr habt das Zepter zurückgebracht. Lasst uns nun Saerileth zu Hilfe eilen!~ [SAERI145]
+@42  = ~Ich habe Euch ein weiteres Mal auf Eure Ebene zurückgebracht. Und nun kehre ich meiner Liebe wegen zu Saerileth zurück.~ [SAERI149]
+@43  = ~Ich danke Euch von ganzem Herzen, <CHARNAME>. Und als kleine Belohnung dafür, dass Ihr Tyrs meistgeliebte Auserwählte gerettet habt, gebe ich Euch dies hier.~
+@44  = ~Es ist ein mächtiger, Tyr geweihter Hammer. Nutzt ihn, um Gutes zu tun im Namen Tyrs, des Gerechten.~
+@45  = ~(Der Ritter schafft es nicht, seinen Blick von Saerileth abzuwenden, fährt aber fort, mit Euch zu sprechen.)~
+@46  = ~Ich danke Euch von ganzem Herzen, <CHARNAME>. Und als kleine Belohnung dafür, dass Ihr Tyrs meistgeliebte Auserwählte gerettet habt, gebe ich Euch dies hier.~ [SAERI150]
+@47  = ~Es ist ein mächtiger, Tyr geweihter Hammer. Nutzt ihn, um Gutes zu tun im Namen des Verwundeten Gottes.~
+@48  = ~Seid gegrüßt, Saerileth, Tyrs Auserwählte.~ [SAERI141]
+@49  = ~Fürst Edorem! (Saerileth lächelt den blonden Ritter strahlend an.)~
+@50  = ~Ich bin froh, Euch wohlauf zu sehen.~
+@51  = ~Und Ihr, Saerileth, seid Ihr... wohlauf?~
+@52  = ~(Edorem blickt Euch an, und sein Verhalten ändert sich.) Und Ihr Gotteskind, gebt Ihr auch auf sie Acht, in der Weise, wie sie es verdient?~
+@53  = ~Sie benötigt keinen Wächter.~
+@54  = ~Warum seht Ihr mich so an?~
+@55  = ~Was macht Ihr hier?~
+@56  = ~(Edorems Augen, die so blau sind wie die Saerileths, blitzen plötzlich auf.) Trotzdem verdient sie einen höheren Rang als den eines einfachen Soldaten!~
+@57  = ~Seht Ihr das nicht?~
+@58  = ~Gibt es einen Grund dafür, dass Ihr hier seid?~
+@59  = ~Was wollt Ihr von uns?~
+@60  = ~Gewiss sehe ich es.~
+@61  = ~Ich liebe sie! Natürlich sehe ich es!~
+@62  = ~(Edorem blickt schnell zu Boden und zurück zu Saerileth, als er antwortet.)~
+@63  = ~Ich bringe Saerileth ein Geschenk der Priester Tyrs. (Er übergibt Saerileth eine Flasche mit einem Elixir der Heilung.)~
+@64  = ~Gehabt Euch wohl, Saerileth. (Der Ritter verbeugt sich in Richtung Saerileth und kehrt auf seine Ebene zurück, den Blick auf Euch gerichtet.)~
+@65  = ~Ich? Ich will nichts von Euch, Gotteskind. (Edorems Augen sind wie blauer Stahl, als er Euch anblickt.)~
+@66  = ~Wie viel seht Ihr, Gotteskind? (Edorems Blick ist mit besonderer Intensität auf Euch gerichtet.)~
+@67  = ~Seht Ihr den vollen Wert ihres Herzens?~
+@68  = ~Ich bin nicht in sie verliebt, wenn es das ist, was Ihr meint.~
+@69  = ~Ich kenne Saerileths Wert, Ritter.~
+@70  = ~Was macht Ihr hier?~
+@71  = ~Ihr liebt sie? (Edorems Stimme ist kalt.) Ihr WAGT es, sie zu lieben, Ihr, der Ihr vom Tod gezeugt wurdet?~
+@72  = ~(Unter großer Mühe gelingt es Edorem, sich zu beherrschen.) Aber ich kam nicht aus diesem Grund.~
+@73  = ~Das bezweifle ich. (Edorem wendet sich zurück zu Saerileth.)~
+@74  = ~Ich bringe Euch ein Geschenk der Priester Tyrs. (Er übergibt Saerileth eine Flasche mit einem Elixir der Heilung.)~
+@75  = ~Wisst Ihr so wenig über Saerileths Vergangenheit, dass Ihr fragen müsst? Wisst Ihr so wenig über den Schatz in Eurem Besitz?~
+@76  = ~Seht Ihr nicht, dass sie eines höheren Ranges als den eines einfachen Soldaten würdig ist? Könnt Ihr das nicht sehen?~
+@77  = ~(Edorems Gesicht entspannt sich auf einmal, aber er kann nicht sprechen; Saerileth aber bricht plötzlich in Tränen aus.)~
+@78  = ~Ihr habt mein Herz gebrochen. (Saerileth ringt die Hände, während sie weint.)~
+@79  = ~(Edorem wirft einen kurzen Blick auf Euch und nickt in Richtung Saerileth.) Ich werde auf sie aufpassen. Es wäre am besten, wenn Ihr Euch zurückzieht.~
+@80  = ~(Er dreht sich zu Saerileth um und umarmt sie. Sie hört nicht auf zu schluchzen, an seine Brust gelehnt.)~
+@81  = ~(Edorem verbeugt sich steif in Eure Richtung und hält Saerileth die Hand hin.) Saerileth, Auserwählte Tyrs, ist Euer Herz noch frei?~ [SAERI142]
+@82  = ~(Saerileth richtet sich auf, ihre angeborene Höflichkeit ist trotz ihrer erröteten Wangen immer noch erkennbar.)~
+@83  = ~Nein, mein Herr, ist es nicht.~
+@84  = ~Ist es diese Bhaalbrut, die Euer Herz erhalten hat, Saerileth? Wenn es so ist, dann hat er Euch getäuscht!~
+@85  = ~Seht ihn Euch gut an, diesen Bauern, der es wagt, eine Dame anzulügen! (Edorem streckt seine Hand aus und ergreift die magischen Gegenstände, die Euch charismatischer machen und die er mit seinen auf den Ebenen geübten Augen gesehen hat.)~
+@86  = ~Seht ihn Euch an, Saerileth!~
+@87  = ~Was soll das? Fürst Edorem, warum seid Ihr so unhöflich? (Saerileth wendet sich Euch zu.)~
+@88  = ~Bitte vergebt mir, meine Liebe...~
+@89  = ~(Edorems Augen brennen sich in Euch hinein.)~
+@90  = ~Vergeben? Wie kann ich solch eine Frechheit vergeben?!~
+@91  = ~Um Saerileths Gefallen willen werde ich diese Unbeherrschtheit vergeben.~
+@92  = ~Bei Tyr! Ihr seid auch in sie verliebt!~
+@93  = ~(Edorem erbleicht plötzlich.) Ihr... Ihr habt sie nicht getäuscht! Ihr seid tatsächlich so, wie Ihr behauptet zu sein, trotz der Magie, die Euch umgibt.~
+@94  = ~(Der Ritter kniet förmlich vor Euch nieder.) <CHARNAME>, Kind des Bhaal, ich habe Euch zu Unrecht beschuldigt!~
+@95  = ~Wenn es ein Kampf sein soll, um den Fleck meiner Anklage von Euch zu waschen, dann soll es so sein. Wenn nicht, werde ich mich von Euch trennen und Euch keinen Ärger mehr bereiten.~
+@96  = ~Dafür werde ich Euer Herz aufspießen!~
+@97  = ~(Edorem erhebt sich und neigt förmlich seinen Kopf.) Nennt Eure Bedingungen und es soll so geschehen, wie Ihr wünscht.~
+@98  = ~(Wilder Triumph steht in des Ritters Gesicht geschrieben, und er ignoriert Euch völlig.)~
+@99  = ~Saerileth, seht den Schurken, der Euch verhext hat! Die Schönheit des Gotteskindes und seine Charakterstärke sind beide falsch, falsch!~
+@100 = ~Er benutzte Zauberei, um Euch zu täuschen! Seht nun sein wahres Gesicht!~
+@101 = ~(Der Ritter verbeugt sich förmlich vor Euch, in sein Gesicht steht Trauer und Angst geschrieben.) Ihr... Ihr habt sie nicht getäuscht! Ihr seid tatsächlich so, wie Ihr behauptet zu sein, trotz der Magie, die Euch umgibt.~
+@102 = ~<CHARNAME>, Kind des Bhaal, ich habe Euch ungerechterweise beschuldigt. Ich danke Euch für Eure unverdiente Vergebung.~
+@103 = ~Ich werde mich von Euch trennen und Euch keinen Ärger mehr bereiten. (Er blickt noch einmal zu Saerileth. Seine gequälten Augen mustern ihr Gesicht, während er spricht.)~
+@104 = ~Lebe wohl, schönstes aller Kinder der Welt.~
+@105 = ~(Edorems Augen richten sich auf Euer Gesicht. Schock und Angst kämpfen mit Scham in seiner Miene.)~
+@106 = ~<CHARNAME>, Saerileths Hüter, Ihr sprecht wahrhaftig. Meine eigenen Taten erschrecken mich nun. Ihr seid tatsächlich so, wie Ihr behauptet zu sein, trotz der Magie, die Euch umgibt.~
+@107 = ~Ich habe Euch zu unrecht beschuldigt. Wenn es ein Kampf sein soll, um den Fleck meiner Anklage von Euch zu waschen, dann soll es so sein. Wenn nicht, werde ich mich von Euch trennen und Euch keinen Ärger mehr bereiten.~
+@108 = ~Nein, soll es nicht! (Saerileths Gesicht rötet sich, und aus ihren Augen strömen Tränen.)~
+@109 = ~Ich bin nicht so blind, nicht zu sehen, dass Ihr mindestens so sehr für Euren Stolz wie für mich kämpfen wollt, <CHARNAME>!~
+@110 = ~Es ist nicht notwendig, um meine Zuneigung zu kämpfen...~
+@111 = ~Nein, Saerileth! Ich war nur verärgert. Ich würde ihn niemals verletzen.~
+@112 = ~Ich kämpfe nicht für Eure Liebe, Saerileth. Ich kämpfe zum Wohle meiner eigenen Ehre.~
+@113 = ~Meine Geliebte, ich meine, dass es notwendig ist, um Euer Herz zu kämpfen, und ich werde diesen verleumderischen Ritter - und alle anderen - zu Eurem Wohle besiegen.~
+@114 = ~(Saerileth seufzt und ergreift Eure Hand, ihre Tränen versiegen.) Ich danke Euch, Liebster. Fürst Edorem ist einer der Auserwählten Tyrs, und obwohl seine Sorge um mich unangebracht ist, möchte ich nicht, dass ihm etwas zustößt.~
+@115 = ~Wie Ihr wisst, ist meine Liebe Euer. (Saerileth hat immer noch Eure Hand ergriffen und blickt zu Edorem, und es ist unendliches Mitleid in ihrem Blick.)~
+@116 = ~Nun verstehe ich wenigstens die Worte, die Ihr in Sigil gesprochen habt, als wir uns trennten. Ich bemitleide Euch, mein Herr, aber es liegt nicht an mir, Euch mein Herz zu geben.~
+@117 = ~Es gehört <CHARNAME>.~
+@118 = ~(Saerileths Tränen fallen immer noch, als sie spricht.) Ich verstehe es wirklich, <CHARNAME>, aber ich bitte Euch, sein Leben zu verschonen.~
+@119 = ~(Saerileth kniet vor Euch nieder, mit erhobenen Händen, der rituellen Geste eines Bittstellers.) Um Eurer Liebe für mich willen, vergebt dieses Verbrechen.~
+@120 = ~Er ist ein Auserwählter Tyrs, und ich flehe um sein Leben.~
+@121 = ~Nun gut, Saerileth. Weil Ihr darum gebeten habt, werde ich sein Leben verschonen.~
+@122 = ~Nein, Saerileth, nicht einmal um Euretwillen kann ich dies vergeben. Edorem muss sterben.~
+@123 = ~(Saerileth ergreift Eure Hand, ihre Tränen fließen immer noch.) Mein Schatz, mein Herz gehört Euch, wie Ihr sehr wohl wisst.~
+@124 = ~Bitte, ich flehe Euch an, verletzt Fürst Edorem nicht. Er ist ein Auserwählter Tyrs, und ich bin an die Pflicht gebunden, ihn zu verteidigen.~
+@125 = ~(Saerileth lächelt durch ihre Tränen.) Ich danke Euch, Liebster. (Saerileth hat immer noch Eure Hand ergriffen und blickt zu Edorem, und es ist unendliches Mitleid in ihrem Blick.)~
+@126 = ~Dann habt Ihr Saerileth getötet! Meine Pflicht gegenüber Tyr steht sogar über meiner Liebe zu Euch, Herz meines Herzens.~
+@127 = ~Ich werde nicht untätig daneben stehen, wenn Ihr einen Diener Tyrs tötet.~
+@128 = ~(Saerileth versucht, ihre Waffe zu ziehen, aber sie fällt besinnungslos zu Fürst Edorems Füßen.)~
+@129 = ~<CHARNAME>, Ihr habt das vollkommenste Wesen der Götter zerstört! Ihr habt Euren Stolz über ihr Herz und ihr Leben gestellt!~
+@130 = ~Ich bin doch nicht getäuscht worden; obwohl Eure Schönheit Euer Eigen ist, ist Euer Herz schwarz.~
+@131 = ~(Bevor Ihr reagieren könnt, verschwindet der Ritter und nimmt Saerileth mit sich.)~
+@132 = ~(Saerileth umarmt Euch und schmiegt sich an Euch, ihre Tränen fallen auf Eure Brust.)~
+@133 = ~<CHARNAME>, warum muss unsere Liebe nur ein so edles Herz verletzen? Fürst Edorem war ein Auserwählter Tyrs und immer gut zu mir.~
+@134 = ~Mein Herz war schon immer für Euch reserviert. (Saerileth schmiegt ihren Kopf an Eure Brust und lässt nicht eher von Euch ab, bis Ihr Euch zurückzieht.)~
+@135 = ~(Saerileths Augen sind vor Schrecken geweitet, und Tränen fließen unbeachtet ihre Wangen hinab. Sie streckt ihre Hand nach Edorem aus, als er zu Euch spricht.)~
+@136 = ~Ich hätte dies nie von Euch geglaubt! Das Ihr... Ihr, derjenige, dem ich immer vertraut habe, mich getäuscht haben soll!~
+@137 = ~Ihr habt mich verhext, genau wie Fürst Edorem sagte. (Saerileths Stimme verliert sich in ihrem Schluchzen, und Edorem umarmt sie.)~
+@138 = ~Saerileth, ich liebe Euch! Warum tut Ihr soetwas?~
+@139 = ~Ich bin immer noch derselbe <CHARNAME>, zu dem Ihr sagtet, dass Ihr ihn liebt! Saerileth, ist Euer Herz so wechselhaft?~
+@140 = ~Wenn Ihr so launisch seid, will ich Euch nicht! Edorem kann Euch haben!~
+@141 = ~Soweit ist es also gekommen? Liebt Ihr mich nicht mehr?~
+@142 = ~Ich? <CHARNAME>, ich mache überhaupt nichts! Ihr seid es, der mich getäuscht hat. Ich kann Euch nicht mehr vertrauen, und deshalb muss meine Liebe für Euch sterben.~
+@143 = ~(Saerileth schluchzt weiter gebrochen, und Edorem streichelt ihr Haar.) Ist es Euer Wille, dass ich Eure Seite verlasse? Oder wollt Ihr, dass Saerileth Euch auch noch begleitet, nachdem dies alles vorgefallen ist?~
+@144 = ~Saerileth, geht nicht. Ich will versuchen, Euer Vertrauen erneut zu gewinnen.~
+@145 = ~Ja, geht! Geht... und gut, dass wir Euch los sind! Ich will Euch nie wieder sehen!~
+@146 = ~Ich verstehe. Ich würde Euch gerne an meiner Seite behalten, Saerileth, auch wenn unsere Liebe niemals bestehen kann.~
+@147 = ~Mein Herz? Was könnt Ihr schon über mein Herz wissen? (Saerileths Augen sind getrübt mit Tränen, und ihre Stimme ist weich, unterbrochen von Schluchzern.)~
+@148 = ~Wo Liebe ist, da muss auch Vertrauen sein! Wie kann ich jemandem vertrauen, der Zauberei benutzt, um mich zu blenden? Ich kann Euch nicht mehr trauen, und deshalb soll meine Liebe für Euch sterben.~
+@149 = ~(Saerileth schweigt und fährt fort zu weinen.)~
+@150 = ~Euch lieben? Was wisst Ihr schon von Liebe? (Saerileths Augen sind getrübt mit Tränen, und ihre Stimme ist weich, unterbrochen von Schluchzern.)~
+@151 = ~<CHARNAME>, das kann nicht sein, zumindest nicht in der Weise, wie Ihr hofft. Auch wenn ich jemals wieder lernen würde, Euch zu vertrauen, wäre es doch schon zu spät, Euch zu lieben.~
+@152 = ~Ich kann nicht mehr sprechen. Entscheidet Euch.~
+@153 = ~Ja, geht! Ich will Euch nie wieder sehen.~
+@154 = ~(Saerileth nickt, ohne etwas zu sagen.)~
+@155 = ~Wie Ihr wünscht. (Saerileth kann nicht mehr sprechen und fährt fort, sich an Edorems Brust auszuweinen.)~
+@156 = ~Und ich werde sie mitnehmen, Ausgeburt der Hölle. (Auf Edorems Gesicht steht sein Triumph deutlich geschrieben.)~
+@157 = ~Noch sollt Ihr sie je wieder sehen. Saerileth wird mit mir zurückkehren. (Auf Edorems Gesicht steht sein Triumph deutlich geschrieben.)~
+@158 = ~Ist es diese Bhaalbrut, die Euer Herz genommen hat, Saerileth? Wie kann das sein?~
+@159 = ~Erinnert Ihr Euch nicht an die Worte, die ich zu Euch sprach, als wir uns trennten?~
+@160 = ~Ich erinnere mich sehr gut, Fürst Edorem. Ich sagte Euch, dass mein Herz noch nicht Euer sei.~
+@161 = ~Ihr sagtet, dass Euer Herz noch nicht mein sei - aber Ihr lehntet nicht ab, dass ich kommen könnte, um es beizeiten zu gewinnen.~
+@162 = ~(Das Gesicht des Ritters ist von Schmerz gezeichnet, aber seine Stimme ist leise und emotionslos, und lässt keine Schwäche erkennen.)~
+@163 = ~Ich hatte keine Zeit. Der Gerechte befahl Euch auf die Materielle Ebene, und dort, so scheint es, habe ich Euch verloren.~
+@164 = ~Ihr könnt nicht verlieren, was niemals Euer gewesen ist. (Saerileth drückt Eure Hand.)~
+@165 = ~Ist es wirklich so, <CHARNAME>, Sohn des Bhaal? Ist Saerileth Eure einzig wahre Liebe?~
+@166 = ~Ja, Edorem. Saerileth ist meine einzig wahre Liebe. Es tut mir für Euch Leid.~
+@167 = ~Ich liebe Saerileth, aber es wäre nicht richtig, sie Euch zu entreißen. Ich werde auf meinen Anspruch auf sie für Euch verzichten.~
+@168 = ~Sie gehört mir, und Ihr könnt sie nicht haben!~
+@169 = ~Ich mag Saerileth, aber ich kann nicht sagen, dass sie meine einzig wahre Liebe ist.~
+@170 = ~Ich verachte Mitleid nicht, wenn es nett gemeint ist und gebraucht wird. Aber ich habe Saerileth gesehen, das schönste Wesen auf dieser oder jeder anderen Welt.~
+@171 = ~Ich hatte deshalb mehr Freude, als ein Sterblicher hoffen kann.~
+@172 = ~Ihr würdet es tun? (Erstaunen, noch stärker als die Freude, zeichnet sich auf Edorems Gesicht ab.)~
+@173 = ~Ihr würdet mir Saerileth geben?~
+@174 = ~So scheint es. (Edorem verbeugt sich vor Euch und Saerileth.) Aber ich habe Saerileth gesehen, das schönste Wesen auf dieser oder jeder anderen Welt.~
+@175 = ~Ist sie nicht? Ihr denkt dass Ihr eine schönere Dame finden werdet? (Edorem schnaubt fast.)~
+@176 = ~Ich danke Euch dennoch dafür, dass Ihr Saerileth mit diesen Worten aus Eurer Knechtschaft befreit habt.~
+@177 = ~Ihr... Ihr würdet mich an Fürst Edorem übergeben? (Saerileths Gesicht ist weiß vor Qual.)~
+@178 = ~Ah, Fürst Edorem, Ihr habt gut gesprochen, als Ihr sagtet, dass niemand außer Euch mich wahrlich lieben könnte!~
+@179 = ~Hätte ich darauf nur eher gehört! (Saerileth wendet Euch den Rücken zu, und Edorem schließt sie in seine Arme.)~
+@180 = ~Ihr... Ihr habt mich niemals geliebt? All Eure Worte über die Liebe waren... Lügen? (Saerileths Gesicht ist aschfahl, und ihre blauen Augen sind fast schwarz.)~
+@181 = ~Saerileth! (Edorems Stimme ist voller gieriger Freude.) Ich finde Euch wohlauf!~ [SAERI151]
+@182 = ~Fürst Edorem? Was macht Ihr hier? (In ihrer Verwirrung runzelt Saerileth die Stirn.)~ [SAERI152]
+@183 = ~Seid Ihr nicht froh, mich zu sehen? (Edorem zögert plötzlich.)~
+@184 = ~Nein, mein Herr! (Saerileth geht unfreiwillig in seine Richtung.) Es kann niemals sein, dass mich Euer Anblick nicht erfreut.~
+@185 = ~Ich bin froh, das zu hören. (Edorem nähert sich Saerileth und legt ihr die Hand auf die Schulter.)~
+@186 = ~Und was meine Aufgabe hier betrifft, so komme ich nur, um zu schauen, wie es Euch geht.~
+@187 = ~Mir geht es gut, Fürst Edorem. (Saerileth versucht zu lächeln, aber ihre plötzlich feuchten Augen strafen ihre Worte Lügen.)~
+@188 = ~Es ist nett von Euch, so weit zu reisen, um zu sehen, wie es mir geht.~
+@189 = ~Ich würde sogar Baator für Euch durchqueren.~
+@190 = ~Und Ihr habt es getan.~
+@191 = ~(Das Paar geht ein paar Schritte weiter. Euch ist es nicht möglich, den Rest der Konversation zu hören.)~
+@192 = ~(Erst als Edorem im Begriff ist zu gehen, spricht er zu Euch.)~
+@193 = ~<CHARNAME>, ich danke Euch dafür, dass Ihr auf Saerileth aufgepasst habt, und ich vertraue sie für einige Zeit Eurer Obhut an.~
+@194 = ~Ich bin wiedergekommen, um Euch zu sehen, Saerileth.~ [SAERI153]
+@195 = ~Fürst Edorem, ich hätte nie geglaubt, dass Ihr schon so früh zurückkehrt. Ich bin Euch so dankbar dafür.~ [SAERI154]
+@196 = ~(Der Ritter legt seine Hand beschützend auf Saerileths Arm.) Es ist schwer für Euch, hier auf der Materiellen Ebene.~
+@197 = ~Fürst, es ist der Wille Tyrs.~
+@198 = ~Es ist wahr, aber unsere Pflichten sind nicht immer einfach. Ich weiß, dass Ihr die Ebenen vermisst.~
+@199 = ~Woher wisst Ihr das? (Saerileth blilckt in die blauen Augen, die ihren eigenen gleichen.)~
+@200 = ~Das ist wahr, aber ich habe es niemals Euch gegenüber ausgesprochen.~
+@201 = ~Ihr braucht nicht zu sprechen, Saerileth, Eure Augen erzählen mir vieles. Sie erzählen mir auch, dass Euer Herz eine Verletzung erlitten hat, aber nicht auf der Materiellen Ebene.~
+@202 = ~Ich dachte, dass ich liebe, Fürst Edorem. Ich dachte, dass meine Liebe erwidert wird. Aber mein Herz wurde verschmäht, und mein Vertrauen gebrochen.~
+@203 = ~Ah, dachte ich es mir doch. (Edorem wirft einen Blick auf Euch, fährt aber fort, Saerileth anzusprechen.)~
+@204 = ~Saerileth, Ihr habt nichts getan, für das Ihr Euch schämen müsstet.~
+@205 = ~Ich schäme mich nicht... ich bin traurig. (Tränen fließen aus Saerileths Augen und laufen ungehindert ihre Wangen herab.)~
+@206 = ~Saerileth, der Schmerz wird vergehen. Ich verspreche es.~
+@207 = ~Woher wollt Ihr wissen, dass er vergeht? (Saerileths Augen ruhen einen Moment auf Euch.)~
+@208 = ~Euer Herz ist nur verletzt, nicht gebrochen. Eure Liebe war keine Liebe, sondern nur Verliebtheit.~
+@209 = ~Warum sagt Ihr so etwas? Was wisst Ihr davon? (Wut liegt in Saerileths Stimme; abwartend hört sie zu.)~
+@210 = ~Ich weiß es, weil es niemals Vertrauen in Eurer Liebe gab. Es gab immer Zweifel; in der Liebe gibt es keine Zweifel.~
+@211 = ~Ich hoffe, dass Eure Worte wahr sind, denn in ihnen liegt Trost.~
+@212 = ~Das ist mehr, als ich erwartete, von Euch zu hören, und ich bin froh, dass ich Euch geholfen habe. Ich werde zu Euch zurückkehren, Saerileth. Aber nun, lebt wohl.~
+@213 = ~Ich wusste nicht, dass Ihr so viel wisst. (Saerileth seufzt schwer.)~
+@214 = ~Die Narben Baators verblassen nicht schnell, aber Saerileth, Ihr seid nicht allein.~
+@215 = ~Vergebt mir, Fürst Edorem. Ich bin traurig. (Tränen fließen aus Saerileths Augen und laufen ungehindert ihre Wangen herab.)~
+@216 = ~Woher wollt Ihr wissen, dass es so geschehen wird? (Saerileths Augen scheinen ihren Bezugspunkt für einen Moment zu verlieren.)~
+@217 = ~Weil ich Euch helfen werde. Ich werde Euch nicht alleine lassen.~
+@218 = ~Ihr werdet... mich nicht verlassen?~
+@219 = ~Wie Ihr wisst, ist es mir nicht erlaubt, auf der Materiellen Ebene zu bleiben. Aber ich werde zurückkehren, solange Ihr noch hier seid.~
+@220 = ~Und wenn Ihr von der Materiellen Ebene freigestellt werdet, werde ich auf Euch warten.~
+@221 = ~Es ist so viel Trost in Euren Worten.~
+@222 = ~Das ist mehr, als ich erhofft habe, Euch sagen zu hören. (Edorem verbeugt sich in vornehmer Art vor Saerileth.)~
+@223 = ~Ich werde bald zu Euch zurückkehren, Saerileth. Lebt wohl.~
+@224 = ~(Ihr habt Euer Lager für die Nacht aufgeschlagen, als Euch das Knistern eines Portals durch die Ebenen weckt, und Fürst Edorem taucht auf.)~
+@225 = ~Fürst Edorem! (Saerileth begibt sich zum Ursprung des Geräusches.)~ [SAERI285]
+@226 = ~Seid Ihr froh, mich zu sehen, Saerileth? (Edorem nimmt Sarileths Hände in seine.)~ [SAERI286]
+@227 = ~Ja, Fürst Edorem. (Saerileths Augen beginnen zu glühen, wie noch niemals zuvor.)~
+@228 = ~Aber wozu seid Ihr gekommen?~
+@229 = ~Ich bin nur aus dem Grund gekommen, Euch zu sehen.~
+@230 = ~(Der Ritter hält Saerileths Hände immer noch fest, und sie entzieht sie ihm auch nicht.)~
+@231 = ~Euer Anblick ist Balsam für mein verletztes Herz. Die Materielle Ebene erschöpft mich - aber ich würde nirgends anders sein wollen!~
+@232 = ~Der Wille des Verwundeten Tyr hält mich hier.~
+@233 = ~Eure Hingabe - (Er verstummt und schließt Saerileth in seine Arme.)~
+@234 = ~Liebliche Saerileth, ich sah den Glanz Tyrs in Euren Augen.~
+@235 = ~(Saerileth, die ihr Gesicht an Edorems Brust gelehnt hat, gibt keine Antwort, aber ihre Schultern beben leicht.)~
+@236 = ~Ich werde bald wieder zu Euch kommen, Saerileth.~
+@237 = ~(Saerileth blickt auf.) Müsst Ihr schon so früh wieder weg?~
+@238 = ~Wenn Ihr wünscht, werde ich bei Euch bleiben und mit Euch reden, bis Ihr einschlaft.~
+@239 = ~Ja, ich wünsche es.~
+@240 = ~(Das Knistern eines Portals durch die Ebenen erschreckt Euch kaum noch, und Ihr seid nicht erstaunt zu sehen, dass Fürst Edorem aus ihm hervortritt.)~
+@241 = ~Saerileth!~ [SAERI287]
+@242 = ~Edorem. (Saerileth haucht den Namen.)~ [SAERI288]
+@243 = ~Ich komme vom Tempel, und ich bedauere, dass ich nicht lange bleiben kann. Wir müssen nach Acheron gehen.~
+@244 = ~(Saerileths Gesicht verliert alle Farbe.) Nein... und ich soll mit Euch gehen?~
+@245 = ~Nein, schöne Saerileth. Die heiligen Väter haben verfügt, dass Ihr zumindest für jetzt noch auf der Materiellen Ebene bleibt.~
+@246 = ~(Saerileth senkt ihren Kopf.) Möge der Wille Tyrs geschehen.~
+@247 = ~(Ihre Stimme erstirbt, während sie spricht, und sie hebt ihren Blick keinen Moment vom Boden.)~
+@248 = ~Euch tut es Leid, mich gehen zu sehen! Ich konnte es kaum hoffen!~
+@249 = ~Warum sollte es Euch erstaunen? Ihr wart mir immer teuer.~
+@250 = ~Aber es ist mehr, oder nicht?~
+@251 = ~Ich schäme mich, dass mein Herz so wankelmütig ist.~
+@252 = ~Ihr täuscht Euch, Saerileth. Ihr kanntet die Liebe noch nicht. (Der goldblonde Ritter wirft Euch einen kurzen Blick zu.)~
+@253 = ~Es ist wahr, dass dies anders ist als alles, was ich bisher gefühlt habe.~
+@254 = ~Ihr seid eine erwachsene Frau, Saerileth. Euer Herz gehört...~
+@255 = ~Euch?~
+@256 = ~Ich werde Euch noch nicht darum bitten. Nicht, bevor ich aus dieser Schlacht zurückgekehrt bin.~
+@257 = ~Dann werde ich auf Euch warten, Edorem, Auserwählter des Tyr.~
+@258 = ~(Der Ritter beugt sich herab und küsst Saerileth auf die Stirn. Dann verschwindet er.)~
+@259 = ~Edorem.~ [SAERI288]
+@260 = ~Fürst Edorem, ich fühlte so etwas noch nie zuvor. Ist das Liebe?~
+@261 = ~Ja, Saerileth. Ihr seid eine erwachsene Frau, und Euer Herz gehört...~
+@262 = ~(Die strahlende Figur Fürst Edorems tritt aus dem Portal, beinahe noch bevor es vollständig erschienen ist. Er läuft auf Saerileth zu, die sich ihm entgegenwirft.)~
+@263 = ~Meine Dame! Meine Saerileth! Ich bin gekommen, um Euch zu beanspruchen!~ [SAERI289]
+@264 = ~(Saerileth neigt ihren Kopf über Edorems Händen, die sie mit Küssen bedeckt.)~
+@265 = ~Soll ich nun mit Euch kommen?~ [SAERI290]
+@266 = ~Nein. (Edorem wendet Saerileths Gesicht dem seinen zu.) Es ist noch nicht möglich.~
+@267 = ~Der Wille des Verwundeten Gottes ist der meine, so wie er auch der Eure ist. Ich werde auf Euch warten, bis das Multiversum geendet hat... mein Bruder, mein Meister, mein Fürst!~
+@268 = ~Meine Saerileth, meine Ehefrau. Ich gelobe Euch hier meine Treue.~
+@269 = ~(Saerileth presst ihre Lippen auf Edorems.) Und ich Euch, mein geliebter Fürst, Ehemann und Freund.~
+@270 = ~Ich werde zu Euch zurückkehren, sobald es mir möglich ist.~
+@271 = ~Wenn es Tyrs Wille ist, werde ich Euch in Sigil finden. Wenn nicht, werde ich Eure Rückkehr erwarten.~
+@272 = ~Ich bete dafür, dass es bald sein wird.~
+@273 = ~Mein Seele verzehrt sich jedes Mal nach Euch, wenn Ihr von mir getrennt seid.~
+@274 = ~(Der Ritter küsst Saerileth erneut, verschwindet und lässt sie leise weinend in der Dunkelheit zurück.)~
+@275 = ~Fürst Edorem! Was tut Ihr denn da? Wo ist Eure Höflichkeit? Wie könnt Ihr es wagen, Hand an <CHARNAME> anzulegen?~
+@276 = ~Was habt Ihr dagegen, dass <CHARNAME> und ich uns lieben? Ihr beschmutzt Eure Ehre und Euer Amt! Wofür?~
+@277 = ~Ihr, der Ihr mein Führer wart im Dienste Tyrs, des Blinden. Ihr, der Ihr mir alles beigebracht habt...~
+@278 = ~Seht hin, Saerileth, seht ihn Euch genau an - diese Bhaalbrut, die Euer Herz gestohlen hat!~
+@279 = ~Was seht Ihr, wenn Ihr mich anschaut, meine Saerileth?~
+@280 = ~Ich verlange zu wissen, was hier vorgeht!~
+@281 = ~Ich sehe meine Liebe, unverändert in meinen Augen, und ich küsse seine Hand, um ihn zu ehren.~
+@282 = ~(Saerileth schreit Edorem an.) Aber Ihr, Ihr seid ein Heuchler! Ich liebte Euch wie einen Bruder, und nun entehrt Ihr mein Vertrauen!~
+@283 = ~Warum habt Ihr das getan, diesen unehrbaren Akt der Bosheit? Ihr folgt dem Glauben, wie ich es tue, dass man auf das Herz schauen soll, nicht die Herkunft!~
+@284 = ~Geht mir aus den Augen, und belästigt uns nicht mehr! Eure seltsame Auffassung ist in dieser Gruppe nicht erwünscht!~
+@285 = ~(Edorems Gesicht ist leichenfahl, dann fällt er auf die Knie.)~
+@286 = ~Vergebt mir, <CHARNAME>, ich flehe Euch an! Ihr habt Saerileth nicht getäuscht, und ich kann nichts sagen, was meine Taten rechtfertigen würde.~
+@287 = ~Ich wage es nicht, Saerileth zu nahe zu treten, doch, guter Herr, ich liebe sie. Es war nicht Tyrs Wille, dass sie mich auch liebt. Ihr seid es, der ihr Herz gewonnen hat.~
+@288 = ~Von Euch, der das Glück hat, das Herz der schönsten Kreatur im Multiversum zu besitzen, erhoffe ich mir nun Gnade.~
+@289 = ~Eure Gnade habe ich zwar nicht verdient, aber meine Strafe ist schon jetzt größer als mein Vergehen.~
+@290 = ~Ihr sprecht die Wahrheit, Edorem. Euer Vergehen mag groß sein, doch Saerileth könnt Ihr nicht haben. Ihr Verlust ist in der Tat eine Strafe.~
+@291 = ~Es kann keinen größeren Verlust geben, als den Verlust von Saerileth.~
+@292 = ~Diese Beleidigung kann nur mit Eurem Blut aus der Welt geschaffen werden!~
+@293 = ~Dafür werde ich Euer Herz aufspießen!~
+@294 = ~Meinen Verlust? Wie kann mich jemand verlieren, der mich nie besessen hat? Geht nun, Fürst Edorem, zurück nach Sigil!~
+@295 = ~(Saerileth kehrt dem Ritter, welcher vor Scham zu Boden schaut, ihren Rücken zu.)~
+@296 = ~Ich wünsche Euch alles Gute, <CHARNAME>. Ich bitte Euch, seid gut zu ihr. Niemals wieder sollt Ihr von Edorem gestört werden.~
+@297 = ~Nicht doch, mein Liebster. Befleckt nicht Eure Klinge mit seinem Blut. Er führte sich zwar wie ein Rüpel auf, aber er ist noch immer ein Ritter von Tyr.~
+@298 = ~Meine Liebe zu Euch würde mir von meinem Orden untersagt werden, wenn Ihr ihn tötet.~
+@299 = ~(Saerileth entfernt sich von dem Ritter. Sie lässt Euch mit Edorem allein.)~
+@300 = ~Wenn Euch nur mein Blut zufrieden stellen kann, <CHARNAME>, dann sollt Ihr mein Blut haben. Ich werde mir das Leben nehmen, sobald ich wieder in Sigil bin.~
+@301 = ~(Edorem legt seine Hand an sein Herz, und dann verschwindet er.)~
+@302 = ~Was soll das? Ihr, der Ihr mich liebtet, habt mich betrogen? Warum solltet Ihr mein Vertrauen derart missbrauchen?~
+@303 = ~So etwas hätte ich niemals von Euch gedacht! Dass Ihr, dem ich in all dieser Zeit mein Vertrauen gab... <CHARNAME>... Ihr...~
+@304 = ~(Saerileth bricht in Tränen aus und bedeckt ihr Gesicht mit ihren Händen.)~
+@305 = ~(Geh zu Saerileth.) Was stimmt denn nicht?~
+@306 = ~Seid Ihr etwa bereit, Eure Liebe wegzuwerfen, nur aufgrund einer so oberflächlichen Tatsache wie meinem Aussehen?~
+@307 = ~(Wendet Euch Edorem zu.) Wie kommt Ihr dazu, Euch zwischen Saerileth und mich zu stellen?!~
+@308 = ~Fasst mich nicht an! Ihr seid nicht meine Liebe! Ihr seid ein Lügner. Der Mann, in den ich mich verliebt habe, ist nur ein Traum.~
+@309 = ~Warum, <CHARNAME>, warum habt Ihr meine Augen bezaubert? Dachtet Ihr, ich würde Euch sonst nicht lieben?~
+@310 = ~Wenn dem so ist, dann habt Ihr auch Euch betrogen, denn ich kann niemals, niemals lieben, wo ich nicht vertrauen kann. Und niemals, niemals kann ich vertrauen, wo ich betrogen wurde.~
+@311 = ~Könnt Ihr mir nicht vergeben?~
+@312 = ~Saerileth, ich liebe Euch! Warum tut Ihr das?~
+@313 = ~Soweit ist es also gekommen? Liebt Ihr mich nicht mehr?~
+@314 = ~Ich, <CHARNAME>? Ich werfe gar nichts weg. Ihr seid es doch, der mich betrügt! Wo Liebe ist, da muss auch Vertrauen sein! Wie kann ich jemandem vertrauen, der Zauberei benutzt, um mich zu blenden?~
+@315 = ~Ich kann Euch nicht mehr vertrauen, daher soll meine Liebe zu Euch sterben.~
+@316 = ~(Saerileth schluchzt mehrmals.) Soll ich Euch und diese Gruppe nun verlassen, oder wollt Ihr Saerileth weiterhin als Weggefährtin haben, nach allem, was vorgefallen ist?~
+@317 = ~Saerileth, geht nicht. Ich will versuchen, Euer Vertrauen erneut zu gewinnen.~
+@318 = ~Ja, verschwindet! Geht und bleibt fort! Ich will Euch niemals wiedersehen.~
+@319 = ~Ich würde Euch gerne weiterhin an meiner Seite wissen, Saerileth, auch wenn unsere Liebe niemals sein kann.~
+@320 = ~Das geht nicht, <CHARNAME>, nicht, wenn Ihr noch Hoffnung hegt. Sollte ich Euch jemals wieder vertrauen können, wäre es dennoch zu spät, um Euch wieder lieben zu können.~
+@321 = ~Ich kann nicht mehr sprechen. Entscheidet Euch.~
+@322 = ~Also gut, dann geht! Ich will Euer Gesicht niemals wiedersehen!~
+@323 = ~Wie Ihr wollt. (Saerileth wendet sich ab, immer noch weinend.)~
+@324 = ~(Saerileth nickt, ohne etwas zu sagen.)~
+@325 = ~Ihr werdet sie nicht weiter mit Euch zerren. Saerileth wird mit mir zurückkehren. (Auf Edorems Gesicht steht sein Triumph deutlich geschrieben.)~
+@326 = ~Ja, ich werde in Tyrs Tempel zurückkehren und mich seinem Willen gänzlich unterwerfen.~
+@327 = ~(Saerileth ist sich Edorems Freude nicht bewusst, als sie seine Hand ergreift.) Ich gehe dann, <CHARNAME>. Wir werden uns nicht wiedersehen.~
+@328 = ~Ich stelle mich nicht zwischen euch! Ihr habt sie von Euch weggestoßen durch Eure Täuschung! Fragt sie selbst, Sohn des Bhaal!~
+@329 = ~Ist es wahr, Saerileth, dass Ihr mich nicht länger liebt?~
+@330 = ~Ich hätte nicht gedacht, dass Ihr so oberflächlich seid, Saerileth. Ihr verlasst mich nur deswegen?~
+@331 = ~Euch vergeben? Ja, ich kann Euch vergeben, <CHARNAME>, aber nie wieder werde ich fähig sein, Euch zu lieben.~
+@332 = ~Euch lieben? Was wisst Ihr schon von Liebe? (Saerileths Augen sind getrübt mit Tränen, und ihre Stimme ist weich, unterbrochen von Schluchzern.)~
+@333 = ~Wo Liebe ist, da muss auch Vertrauen sein! Wie kann ich jemandem vertrauen, der Zauberei benutzt, um mich zu blenden?~
+@334 = ~Was wollt Ihr jetzt tun? Ist es Euer Wille, dass ich Eure Seite verlasse, nach allem, was vorgefallen ist?~
+@335 = ~Ich, <CHARNAME>? Ich tue gar nichts! Ihr seid es doch, der mich betrügt! Wo Liebe ist, da muss auch Vertrauen sein! Wie kann ich jemandem vertrauen, der Zauberei benutzt, um mich zu blenden?~
+@336 = ~(Saerileth kniet vor dem gutaussehenden Ritter. Sie nimmt seine Hand und presst sie an ihre Lippen.)~
+@337 = ~Der Wille von <CHARNAME> geschehe, ich bin Euer. Wenn meine Pflicht gegenüber dem Enstellten Gott erfüllt ist, werde ich nach Sigil zurückkehren und Eure Braut sein.~
+@338 = ~Tyr möge mir vergeben, dafür dass ich Euch geglaubt habe und dachte, Ihr sprächet die Wahrheit!~
+@339 = ~Noch bedeutet mir die Pflicht im Dienste des Entstellten Gottes mehr als mein Leben. So lange diese Pflicht mich hier hält, werde ich an Eurer Seite bleiben.~
+@340 = ~So lange, aber nicht länger.~
+
+
+@5000 = ~Der gefallene Deva
+
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+
+@5001 = ~Der gefallene Deva
+
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und scheint sehr angetan von mir zu sein. Sie ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+
+@5002 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Zuerst müssen wir Jharak in Sigil finden, um von ihm das Zepter des Tyr zu erhalten.~
+
+@5003 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Wir brechen sofort nach Baator auf.~
+
+@5004 = ~Saerileths Entführung
+
+Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Da es zu gefährlich ist, sie zu retten, überließen wir sie ihrem Schicksal.~
+
+@5005 = ~Saerileths Entführung
+
+Wir haben Jharak gefunden, aber er wies uns an, zuerst einen Portalschlüssel zu finden, bevor er uns verrät, wo sich das Zepter des Tyr befindet.~
+
+@5006 = ~Saerileths Entführung
+
+Wir haben den Schlüssel, eine Haarlocke, gefunden und sollten damit sofort zu Jharak zurückkehren.~
+
+@5007 = ~Saerileths Entführung
+
+Jharak sandte uns zu dem Wirt, der angeblich das Zepter hat.~
+
+@5008 = ~Saerileths Entführung
+
+Wir haben endlich das Zepter des Tyr bekommen. Saerileths Seele ist in Gefahr und wir müssen so schnell wie möglich zurück zu Edorem eilen.~
+
+@5009 = ~Saerileths Rettung
+
+Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+
+@5010 = ~Saerileths Rettung
+
+Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Ich stellte sie aus meinem Dienst frei, und sie blieb auf den Ebenen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+
+@5011 = ~Der gefallene Deva
+
+Wir fanden Kesevar den Gefallenen, aber er behauptet, dass seine Bestrafung unverdient sei. Er sandte uns aus, den einzigen Zeugen zu suchen, der seine Unschuld bezeugen kann: ein Bhaalkind namens Gunshain.~
+
+@5012 = ~Der gefallene Deva
+
+Wie es aussieht, hat Gunshain Kesevars Namen wieder rein gewaschen, aber gleichzeitig versuchte er uns zu töten! Wir haben ihn besiegt und müssen jetzt schnell zu Kesevar zurückkehren.~
+
+@5013 = ~Der gefallene Deva
+
+Saerileth erklärte Kesevar für unschuldig, und dies zeigte sofort die gewünschte Wirkung. Der Deva erhielt seine frühere Herrlichkeit zurück. Saerileth wird in meiner Gruppe bleiben.~
+
+@5014 = ~Der gefallene Deva
+
+Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Meine Geliebte ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+
+@5015 = ~Der gefallene Deva
+
+Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Die junge Paladin ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+
+@5016 = ~Die Dirne Delilah
+
+Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Meine Frau Saerileth und ich haben schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+
+@5017 = ~Die Dirne Delilah
+
+Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Ich habe schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+
+@5018 = ~Die Dirne Delilah
+
+Ich erlag dem Charme Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Mein Ehebruch brach Saerileths Herz, und nun ist sie tot. Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+
+@5019 = ~Die Dirne Delilah
+
+Ich erlag dem Charm Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+
+@5020 = ~Die Dirne Delilah
+
+Saerileth versicherte mir, dass diese Delilah ein Dämon ist, aber wir können sie nicht vernichten, ohne dabei die Männer, die bei ihr sind, zu verdammen. Wir müssen einen Tempel finden, in welchem wir auf Unterstützung hoffen, um die dämonischen Illusionen durchdringen zu können.~
+
+@5021 = ~Die Dirne Delilah
+
+Ich werde diesen Wüstlingen, die in den Fängen des Dämons sind, nicht helfen. Sie sind für ihr Schicksal selbst verantwortlich. Saerileth ist betrübt darüber, aber sie stimmt zu, dass deren Bestrafung gerecht ist.~
+
+@5022 = ~Die Dirne Delilah
+
+Ich erhielt von den Priestern der Waukeen eine Spruchrolle, mit der man Illusionen aufheben kann. Ob ihre Kraft gegen die Magie der Hölle wirkt, wird sich noch herausstellen.~
+
+@5023 = ~Die Dirne Delilah
+
+Die Magie der Spruchrolle hat gewirkt. Ob es nun die Kraft der Spruchrolle oder Saerileths Gebete waren, weiß ich nicht sicher. Immerhin hat es funktioniert und die Dämonen wurden gezwungen, ihre Pläne aufzugeben und in den Abyss zurückzukehren.~
+
+@5024 = ~Der Kampf gegen Khalabaxin
+
+Ich habe Sir Havun Clarenshide meine Hilfe im Kampf gegen den Drachen Khalabaxin zugesagt. Der Drache dürfte bei seinem neuen Hort zu finden sein, in der Höhle unter dem Fluss in den Umarhügeln.~
+
+@5025 = ~Der Kampf gegen Khalabaxin
+
+Ich habe den Drachen Khalabaxin besiegt. Ich sollte nun zum Orden des Strahlenden Herzens zurückkehren und Sir Havun Clarenshide davon berichten.~
+
+@5026 = ~Der Kampf gegen Khalabaxin
+
+Ich kehrte mit der Nachricht von meinem Sieg über Khalabaxin zum Orden zurück. Es sieht so aus, als gäbe es noch mehr Arbeit, die ich für den Orden erledigen kann.~
+
+@5027 = ~Das Nest der Vampire
+
+Sir Havun hat mich darüber informiert, dass es hier in der Stadt ein Vampirnest gibt. Ich wurde ausgesandt, um es zu finden und zu zerschlagen. Es soll sich irgendwo in den Krypten unter dem Friedhof befinden. Der Orden wird mir außerdem einen angeheuerten Zauberer schicken, der mich beim Angriff auf die Vampire unterstützen soll.~
+
+@5028 = ~Das Nest der Vampire
+
+Ich habe das Vampirnest zerschlagen, doch ihre Anführerin, Bodhi, ist entkommen. Sie wusste einige interessante Dinge über mich... Sie wusste sogar, dass ich ein Bhaalkind bin! Ich sollte nun zu Sir Havun gehen und von der Vernichtung der Vampire berichten.~
+
+@5029 = ~Das Nest der Vampire
+
+Ich kehrte mit der Nachricht von der Zerschlagung des Vampirnestes zum Orden zurück. Als Belohnung hat man mir die Überfahrt zur Zauberfeste angeboten!~

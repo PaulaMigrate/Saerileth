@@ -1,0 +1,37 @@
+IF
+	Dead("C6BODHI")
+	Global("SaerilethVamped","GLOBAL",1)
+        Global("SaerilethVampPlea","LOCALS",0)
+THEN
+	RESPONSE #100
+        SetGlobal("SaerilethVampPlea","LOCALS",1)
+	StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+	See([PC])
+	Delay(12)
+	Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		ReallyForceSpellDead([PC],VAMPIRE_DOMINATION)
+END
+
+
+IF
+	Global("SaerilethVamped","GLOBAL",5)
+	Global("SaerilethVampPlea","LOCALS",1)
+	Detect(Player1)
+THEN
+	RESPONSE #100
+        SetGlobal("SaerilethVampPlea","LOCALS",2)
+	StartDialogueNoSet(Player1)
+END
+
+IF
+   Global("SaerilethVamped","GLOBAL",6)
+THEN RESPONSE #100
+   DestroySelf()
+END

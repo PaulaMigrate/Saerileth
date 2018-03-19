@@ -1,0 +1,17 @@
+IF
+NumTimesTalkedTo(0)
+Global("NSToldCleric","GLOBAL",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSToldCleric","GLOBAL",1)
+ Dialogue("Saerileth")
+END
+
+IF
+AreaCheck("AR1700")
+See("Saerileth")
+THEN
+ RESPONSE #100
+SetGlobal("EnteredArea","ar1700",1)
+ StartDialogueNoSet("Saerileth")
+END

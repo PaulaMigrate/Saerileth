@@ -1,0 +1,775 @@
+@0    = ~<CHARNAME>, aè Hectan jest vskutku zlodìjem, èinil tak ze zoufalství. Byla by nespravedlnost dát mu onen svitek bez varování.~
+@1    = ~Vše se, mùj pane, blíží ke konci. (Saerilethiny oèi jsou vážné.) I tvùj osud se nakonec naplnil. Ráda jsem ti stála po boku a modlím se k Tyrovi, aby nám dopøál vítìzství.~
+@2    = ~Nadchází koneèná bitva, <CHARNAME>. Kéž nám Tyr dá vítìzství nad našimi nepøáteli.~
+@3    = ~Láska, již k tobì chovám, nedokáže nalézt lepší slova než tato: tys zloduch!~ [SAERI180]
+@4    = ~<CHARNAME>! Nalezli jsme nejposvátnìjší Tyrovu relikvii na tomto svìtì! Svolíš, abych ji nosila?~
+@5    = ~(Saerilethiny oèi se rozšíøí a s úctou se pøiblíží, aby se dotkla Tyrova oka.)~
+@6    = ~Ano, tady máš, Saerileth. Prozatím si to vezmi.~
+@7    = ~Ne, zatím si to nechám.~
+@8    = ~Dìkuji ti, <CHARNAME>. (Saerileth si vezme Tyrovo oko.)~
+@9    = ~Pak tì žádám, <CHARNAME>, zacházej s Tyrovým okem s úctou, již si zasluhuje!~
+@10   = ~Toto místo skrývá veliké zlo, <CHARNAME>. Tento les jest jen maskou pro nìjakou nepravost.~
+@11   = ~Nevím, co ti pravila ona pøítomnost, ani jakou dohodu jsi s ní uzavøel, abys nás osvobodil z tohoto zajetí, však pochybuji o tom, že zùstane vìrnou.~ [SAERI341]
+@12   = ~Mìli bychom se na to otázat rytíøù. Snad nám mohou vysvìtlit svou zdánlivou zradu.~
+@13   = ~Ty bys to tak nechal? (Saerileth je zjevnì otøesená.)~ [SAERI342]
+@14   = ~I kdybys mohl, já nemohu. Pùjdu, abych uèinila, co bude proti tomuto knížeti démonù v mých silách.~ [SAERI343]
+@15   = ~Jsem tvá manželka a na tom se nic nemùže zmìnit, však tvé srdce se stalo tak temným, že jako Tyrova vyvolená již déle nemohu zùstat po tvém boku.~ [SAERI344]
+@16   = ~Navrátím se na Celestii a tam, v Tyrovì chrámu, se stanu jednou z klášterních sester Spravedlnosti. Ve dne i v noci se budu pøimlouvat za tvou duši a doufat, že tì pøed svou smrtí ještì spatøím.~ [SAERI345]
+@17   = ~Buï sbohem, mùj pane. Mysli na mne èasto.~ [SAERI346]
+@18   = ~Jsem tvá manželka a na tom se nic nemùže zmìnit, však tys padl ze svìtla, poskvrnils svou stezku, a jako Tyrova Vyvolená nemohu zùstat po tvém boku.~ [SAERI347]
+@19   = ~(Ukojil jsi svou vášeò a potichu se vyprostil z pokušitelèiných paží. Rozhlédneš se kolem po svých spoleènících. I pøes zamlžený zrak, pøerývaný dech a naprostou únavu uvidíš Saerileth, jak spí v rohu.)~
+@20   = ~(Pøejdeš k ní, abys ji probudil a vysvìtlil jí, že jsi jen nedokázal odolat svojí vášni.)~
+@21   = ~(Ale když ji obrátíš, její prázdné oèi tì stále obviòují, i když je v nich už jen skelný pohled smrti.)~
+@22   = ~(Má èervené oèi a ty víš, že celou noc proplakala.)~
+@23   = ~<CHARNAME>, dals svou duši pokušitelce! Necítils snad, jak tì opouští život a žes nyní otrokem té sukuby?~ [SAERI348]
+@24   = ~<CHARNAME>, nepøála jsem si o tom hovoøit pøed nimi, však cítím, že jest zde démon a loví smrtelníky. Musíme tìm mužùm pomoci.~
+@25   = ~Démoni?! Tak jdem zpátky a pobijem je!~
+@26   = ~Co mùžeme dìlat?~
+@27   = ~Víš, vùbec se mi nechce pomáhat aspoò jednomu z tìch chlapù. Tomu, co ti dìlal návrhy!~
+@28   = ~Nikoli, <CHARNAME>. Nesmíme! Jejich nebezpeèenství jest vìtší, než tušíš: jejich duše kráèí k zahynutí!~
+@29   = ~Tihle chlapi jsou chlípné bestie. Odmítám jim pomoct.~
+@30   = ~(Saerilethino zklamání je zøetelnì napsáno na její tváøi.) Dobrá tedy, <CHARNAME>. Nemohu popøít, že jejich osud jest spravedlivý, však truchlím pro jejich duše.~
+@31   = ~Budu se modlit, aby se nad nimi Ilmater smiloval.~
+@32   = ~Musíme zjistit, jak zlomit onen pøelud. Jejich moc jest v klamu, a když je odhalíme, budou muset uprchnout, nebo zlomíme jejich moc nad koøistí a obereme je o jejich sílu.~
+@33   = ~Jak to udìláme?~
+@34   = ~To je až *moc* tìžké. Tihle chlapi jsou chlípné bestie a já jim odmítám pomoct.~
+@35   = ~Víš, já *chci*, aby ten chlap, co ti dìlal návrhy, umøel!~
+@36   = ~Naleznìme v této vesnici knìze a vyhledejme jeho pomoc a radu. Jest možné, že v chrámu bude nìco, s èím bychom mohli èelit démonické iluzi.~
+@37   = ~(Saerileth se nahne a políbí tì na tváø.) Tvá starost o mou èest ti sluší, mùj pane, však nebylo by správné, aby pouhá urážka vedla k zatracení všech.~
+@38   = ~Mùj pane, toto nebezpeèenství--v nìmž se nachází oni všichni--jest vìtší, než tušíš. Jejich duše kráèí k zatracení!~
+@39   = ~(Saerileth leží vedle tebe na spoleèné posteli, ale nespí. Cítíš, jak se její tìlo otøásá vzlyky.)~
+@40   = ~Co se dìje, Saerileth?~
+@41   = ~Proè nepožádáš *Edorema*, aby se o tebe postaral?~
+@42   = ~Saerileth, musíme si promluvit.~
+@43   = ~(Obrátit se na druhý bok a spát.)~
+@44   = ~Myslíš, že si lord Edorem skuteènì sáhl na život pro lásku ke mnì?~ [SAERI349]
+@45   = ~(Ryzí bolest v jejím hlase tì chytí za uši.)~
+@46   = ~Proè bych se o to mìl starat, i kdyby ano? A proè by to mìlo zajímat *tebe*?~
+@47   = ~Saerileth, všechno, co ten pøízrak øíkal, byla lež. Jen tì chtìl zranit a oslabit.~
+@48   = ~Pochybuju o tom. Ten pøízrak byl lháø. (Pøivøít oèi.) Ale proè si vybral zrovna Edorema, aby tì zranil?~
+@49   = ~Nemohu snést myšlenku na jeho krev na mých rukou. (Saerileth se posadí a obejme si rukama kolena.)~
+@50   = ~A to je vše? Jen nechceš cítit vinu za jeho smrt? Nic víc?~
+@51   = ~Myslím, že je v tom víc. Øekla jsi pøece, že bys ho milovala, kdybys mohla.~
+@52   = ~Saerileth, i kdyby se kvùli tobì skuteènì *zabil*, nebyla by to tvoje chyba.~
+@53   = ~Pak uspìl, nebo pochybuji o vlastní nevinnosti. Pokud se lord Edorem zahubil kvùli své lásce ke mnì, pak jsem vinna jeho krví!~
+@54   = ~(Saerileth na chvíli utichne a zvažuje tvá slova. Nakonec pokraèuje dál a v jejím hlase je nová obava.)~
+@55   = ~Hovoøil o lordu Edoremovi, nebo vìdìl, že nad ním nemùžeme zvítìzit. Aè jsi prohlédl jeho lsti a spatøil, èím vskutku jsou, pøec zasel nesoulad do našeho manželství.~
+@56   = ~Zvítìzí tedy, aè zahynul.~
+@57   = ~Saerileth, má manželko, tvoje moudrost mì nikdy nepøestane udivovat.~
+@58   = ~Pak udìlal dobrou práci! Musel vìdìt, jak moc Edorema nenávidím!~
+@59   = ~Co mùžeme udìlat?~
+@60   = ~Mùj pane, myslím na lorda Edorema jen jako na Tyrova Spoluvyvoleného. Jednoho dne se stane Tyrovým vyslancem a pro to má mou úctu.~
+@61   = ~Však není v tom nic víc. Vím jistì, že mne miluje. Snad mne miluje i nyní. Pøec však jsi to *ty*, kdo má mou lásku, a mìls ji od prvního okamžiku, kdy jsem tì spatøila.~
+@62   = ~To mì tìší.~
+@63   = ~(Políbit Saerileth.) To rád slyším.~
+@64   = ~Tomu nevìøím, Saerileth. Nemùžu zapomenout na to, co jsi øíkala tomu pøízraku. Jdi pryè. Hned.~
+@65   = ~Nikoli, milovaný! Nehovoø tak! (Saerileth ti položí ruku na ústa.)~
+@66   = ~Tys laskavý, mùj pane. (Saerileth tì náhle obejme.) Miluji tì, navždy, plnì a celým srdcem!~
+@67   = ~Nevìøím, že si lord Edorem vzal život pro svou lásku ke mnì, však i kdyby tak uèinil--nemohla bych jednat jinak, než jsem jednala.~
+@68   = ~Má láska jest navždy tvá, mùj pane.~
+@69   = ~(Pøimhouøit oèi.) Ale jestli to tak je, proè si vybral *Edorema*, aby tì zranil?~
+@70   = ~Jaké ceny jest však moudrost, pochybuješ-li o mé vìrnosti? (Saerilethiny rty se tøesou a pevnì tì obejme kolem pasu.)~
+@71   = ~Prosím, mùj pane, vìø mi! Myslím na Edorema jen jako na Tyrova Spoluvyvoleného. Jednoho dne se stane Tyrovým vyslancem a pro to má mou úctu.~
+@72   = ~Ty nenávidíš lorda Edorema? Z jaké pøíèiny? (Náhlé porozumìní probleskne Saerileth v oèích a pevnì tì obejme.)~
+@73   = ~Jaké ceny jest mùj život, jestliže pochybuješ o mé vìrnosti? (Saerilethiny rty se tøesou a pevnì tì obejme kolem pasu.)~
+@74   = ~(Na tváøích jí schnou slzy a položí si hlavu na tvá ramena.)~
+@75   = ~Mùj pane, tys ke mnì tak dobrý. Naše láska nemùže být otrávena pochybnosti a ani lži samotného pekla neznièí náš svazek.~
+@76   = ~(Saerilethin dech se uklidní a usíná témìø døív, než staèí domluvit.)~
+@77   = ~(Saerileth se zvedne ze svého místa po tvém boku. Stojí tu, obleèená jen v noèní košili, a vlasy jí splývají až na kolena.)~
+@78   = ~(Její obvykle modré oèi jsou témìø èerné, když se ti formálnì ukloní.)~
+@79   = ~Bude to, jak si žádáš, mùj pane. Jsem tvá manželka, na tom se nemùže nic zmìnit. Tys mne však odvrhl a upøel mi místo po tvém boku.~
+@80   = ~Navrátím se tedy na Celestii a tam, v Tyrovì chrámu, se stanu jednou z klášterních sester Spravedlnosti. Ve dne i v noci se budu pøimlouvat za tvou duši, však zùstanu tam až do dne své smrti.~
+@81   = ~Buï sbohem, mùj pane. Mysli na mne èasto a odpus mi, pokud mùžeš.~
+@82   = ~Mùj pane? (Saerilethin je zøejmì pøekvapená.) Èím jsem si zasloužila tvou výtku? Lord Edorem mùže být mrtev mou vinou a ty se my vysmíváš?~ [SAERI350]
+@83   = ~Proè bych se mìl starat, jestli je mrtvý nebo ne? A proè by ses o to mìla starat *ty*?~
+@84   = ~(Pøimhouøit oèi.) Ten pøízrak byl lháø, ale pøemýšlím, proè si vybral *Edorema*, aby tì zranil.~
+@85   = ~Promiò, Saerileth. Jen jsem žárlil, protože tì moc miluju.~
+@86   = ~Žarlil? Z jaké pøíèiny? (V Saerilethinì hlase není žádný hnìv a pevnì se k tobì pøitiskne.)~
+@87   = ~Zavdala jsem ti kdy pøíèiny pochybovat o mé lásce?~
+@88   = ~Ten pøízrak mi dal dùvod. Použil *Edorema*, aby tì zranil. Proè?~
+@89   = ~Ne, nedala jsi mi žádný dùvod, ale ten pøízrak vìdìl, co dìlá. Vìdìl, jak tì zranit a oslabit.~
+@90   = ~Jak bych nežárlil? Vždy mi tu pláèeš nad Edoremem!~
+@91   = ~O èem, mùj pane? (Saerileth se k tobì poslušnì otoèí a otírá si slzy z tváøí.)~ [SAERI351]
+@92   = ~Musíme si promluvit o Edoremovi. Žárlím tak, že skoro nevidím!~
+@93   = ~Proè pláèeš?~
+@94   = ~Chci vìdìt, proè pláèeš pro jiného muže!~
+@95   = ~(Saerilethin pláè se nakonec utiší a ona usne, pevnì pøitisknutá ke tvé hrudi.)~
+@96   = ~(S náhlým zachvìním tì Saerileth obejme a položí ti tváø na hruï.) Jest zde pøíliš tma.~ [SAERI352]
+@97   = ~Nevìdìl jsem, že se bojíš tmy.~
+@98   = ~(Pohladit ji po vlasech.) Neboj se, Saerileth.~
+@99   = ~(Saerileth se na tebe podívá pøes kruh tvých paží a její ustarané oèi jsou jako pùlnoc.)~
+@100  = ~Jest to tímto místem, mùj pane. Jest tvou souèástí, však pøec není *jako* ty. Toto místo jest jako Abyss.~
+@101  = ~Nacházíme se v pekle tvého stvoøení.~
+@102  = ~Já jsem ale tohle místo neudìlal úmyslnì!~
+@103  = ~Pøedpokládám, že tohle se skrývalo v temných hloubkách mého srdce.~
+@104  = ~Zneklidòuje tì, Saerileth, když víš, že tvùj manžel stvoøil peklo a ani o tom nevìdìl?~
+@105  = ~Jest zøejmé, že nikoli! (Saerileth se prudce posadí a nakloní se k tobì, její alabastrová tváø záøí z èerné koruny jejích vlasù.)~
+@106  = ~Tys èistého srdce, mùj pane, a toto místo není tvou souèástí!~
+@107  = ~Ale, Saerileth, já *jsem* syn samotné Vraždy. Toto místo *je* moje sféra.~
+@108  = ~Tohle místo odráží Bhaalovu krev v mých žilách.~
+@109  = ~Tvoje dùvìra mì drží pøi zdravé mysli, Saerileth.~
+@110  = ~Nikoli, mùj pane. (Saerileth se prudce posadí a nakloní se k tobì, její alabastrová tváø záøí z èerné koruny jejích vlasù.)~
+@111  = ~Bylo by neupøímné zapøít, že mne toto místo dìsí. (Saerileth si povzdechne a pomalu se posadí. Nakloní se k tobì a pøejíždí ti prsty po tváøi.)~
+@112  = ~Však tys pøec èistého srdce. Toto místo není tvou souèástí!~
+@113  = ~(Saerilethina tváø potemní a položí ti prst na rty.) Ani tvé nepøátele jsem neslyšela tak pravit.~
+@114  = ~Bhaalova krev jest ve tvých žilách, však toto *není* tvou souèástí.~
+@115  = ~Jenže *je*, Saerileth. Nemùžeme se odsud dostat.~
+@116  = ~Lituješ, že ses pøipoutala k synovi samotné Vraždy?~
+@117  = ~Tvoje oddanost mi dává nadìji, Saerileth.~
+@118  = ~(Saerilethiny rty se zkøiví do malièkého úsmìvu.) Ošklivím si toto místo.~
+@119  = ~(Lehne si vedle tebe a nechá se obejmout.) Tys sám sebou a to jest vše, co potøebuji.~
+@120  = ~(Saerileth si povzdechne.) Ošklivím si toto místo. Nemohu vìøit, že jest tvou souèástí.~
+@121  = ~(Lehne si vedle tebe a nechá se pevnì obejmout.) Tys sám sebou a tys též, koho miluji, bez ohledu na tvou krev. ~
+@122  = ~Nikoli, mùj drahý pane! (Saerileth si lehne vedle tebe a vplete se do tvých paží.) Tys sám sebou, <CHARNAME>, má láska, a má láska patøí tobì, bez ohledu na tvou krev.~
+@123  = ~Nebojím se temnoty, milovaný. (Saerileth se na tebe podívá pøes kruh tvých paží a její ustarané oèi jsou jako pùlnoc.)~
+@124  = ~Nebojím se, milovaný. Èeho bych se bála, když jsi se mnou?~
+@125  = ~Mùj pane? (Saerileth vezme tvou dlaò do jedné ruky a druhou ti odhrne vlasy z oèí.)~
+@126  = ~Zdáš se být nepokojný. Ach, mùj nejdražší, neobávej se nièeho! Nemáš se proè bát zúètování!~ [SAERI353]
+@127  = ~Nic mi není, Saerileth.~
+@128  = ~Jak víš, že se nemám èeho bát?~
+@129  = ~Je milé, že si kvùli mnì poøád dìláš starosti.~
+@130  = ~Nechci o tom mluvit, Saerileth.~
+@131  = ~Odpus mi, <CHARNAME>. Snad jen mým zneklidnìným oèím se zdálo, že v tobì zøí obavy.~
+@132  = ~Když ti nìkdo slibuje zúètování, je to ale stejnì zneklidòující myšlenka.~
+@133  = ~Je milé, že si kvùli mnì poøád dìláš starosti.~
+@134  = ~(Obejmout Saerileth.) Nebojím se zúètování, když mì moje svìdomí miluje.~
+@135  = ~Však, jak jsem ti pravila, nemusíš se ho obávat. Èastos prokázal, jaký jsi, a nemusíš mít obavy.~
+@136  = ~Mùj drahý pane, vìø svému svìdomí. Ono tì nesvede na špatnou stezku.~
+@137  = ~(Obejmout Saerileth.) Máš pravdu. Nemám se proè bát zúètování, když mì moje svìdomí miluje.~
+@138  = ~(Políbit Saerileth.) Ty mì vždycky dokážeš rozveselit, Saerileth.~
+@139  = ~Nu, stejnì s tím nic nenadìlám.~
+@140  = ~(Saerileth se hrdì usmìje.) Jsem tvá paní a manželka. Jest má povinnost tak èinit. Však tato povinnost jest i mým nejvìtším potìšením, mùj jediný!~
+@141  = ~Rád slyším, že jsem tì ještì neomrzel. (Mrknout.)~
+@142  = ~(Povzdechnout si.) Ale když ti nìkdo slibuje zúètování, stejnì je to zneklidòující myšlenka.~
+@143  = ~Pak tì urèitì potìším! Postarám se, abys mìla spoustu vìcí, kvùli kterým se budeš moct strachovat.~
+@144  = ~Pak jsem tedy tvým svìdomím? (Saerileth ti položí hlavu na hruï.) Budu tedy usilovat, abych ti vždy pravila, co jest vskutku pravda.~
+@145  = ~Ulehèit tvé bøímì, nadzvednout tvé jho, to jest má povinnost--a nejvìtší potìšení mého života. (Saerileth tì sladce políbí.)~
+@146  = ~Nepropadej beznadìji, mùj pane. (Saerileth ti stiskne ruku.)~
+@147  = ~Postavíme se i tvému osudu, budeme-li muset. A tvé skutky budou v Síních Rozsudku hovoøit za tebe.~
+@148  = ~Nikoli, mùj dobrý pane. (Saerileth se smìje.)~
+@149  = ~Jsem neukojitelná! Nikdy nemohu být uspokojena a vždy budu jen více toužit pøebývat ve tvé pøítomnosti.~
+@150  = ~(Saerileth se zasmìje a políbí tì na nos.) Aè jest všude kolem tma, tvá láska mi vždy záøí na cestu.~
+@151  = ~Vskutku, mùj pane. (Saerileth zvedne tvoji ruku ke svým rtùm.)~
+@152  = ~Jest to pro tebe tìžké, vím.~
+@153  = ~Tato pole jsou nyní poplenìná válkou, <CHARNAME>, a mohla pøec být tak nádherná!~ [SAERI354]
+@154  = ~Dìlám, co mùžu, Saerileth!~
+@155  = ~Mám radìji mìsta.~
+@156  = ~To je pravda, Saerileth. Lituju ty, kdo tu žijí.~
+@157  = ~A jestli jim máme vrátit jejich krásu, mìli bychom jít.~
+@158  = ~(Saerileth ti podìšenì položí ruce kolem krku a pøivine se k tobì.)~
+@159  = ~Odpus mi, milovaný! Vinit tì nebylo pøec mým úmyslem. Jen truchlím nad tìmi, kdo trpí.~
+@160  = ~Taky s nimi soucítím. Kvùli tomu se je snažím zachránit.~
+@161  = ~Taky je lituju.~
+@162  = ~Je mi líto *tebe*, Saerileth. Uvízla jsi ve válce na podivném svìtì a vdaná za syna samotné Vraždy.~
+@163  = ~Radìji o tom nebudu pøemýšlet. Máme co na práci.~
+@164  = ~A jest dobøe, že tak èiníš. (Saerilethiny oèi zvlhnou, když se rozhlíží kolem.) Snad tìmto polím pøineseme opìt mír.~
+@165  = ~A proto též usiluješ o jejich záchranu. (Saerilethiny oèi zvlhnou, když se rozhlíží kolem.) Snad tìmto polím pøineseme opìt mír.~
+@166  = ~Nikoli, mùj pane! (Saerileth si pøitiskne tvou ruku k srdci.)~
+@167  = ~Tak nehovoø, snažnì tì prosím! Není místa, kde bych dlela radìji, než po tvém boku. Miluji tì více než vlastní život.~
+@168  = ~(Saerileth je pøíliš otøesená, než aby pokraèovala v rozhovoru, a ještì dlouho poté tì pevnì drží za ruku.)~
+@169  = ~Vskutku, mùj pane. (Saerileth pokornì pøijme tvou výtku a prostince ti políbí ruku.)~
+@170  = ~Mìsta jistì trpí též, já však truchlím pro ty, kdo trpí zde.~
+@171  = ~Však tvá lítost není jen pocit. (Saerileth se na tebe obdivnì zadívá.) Tvá vede ke skutkùm.~
+@172  = ~Pokouším se. Lítost mì vede k tomu, abych se je pokusil zachránit.~
+@173  = ~A právì teï mì moje lítost zase vede nìco dìlat--radìji bychom mìli jít, jestli máme nìkomu skuteènì pomoct.~
+@174  = ~Vskutku, mùj pane. (Saerileth ti ještì rychle vtiskne polibek na dlaò.) Pojïme.~
+@175  = ~(Saerileth tì pevnì obejme, i když je unavená a pokrytá krví.)~
+@176  = ~Ach, mùj pane, jest to tìžké, tak tìžké pro tebe! Že sám Kníže lží mohl vstoupit na toto místo! (Tiše pláèe, i když je poøád schopná øeèi.)~ [SAERI355]
+@177  = ~Aè jest toto místo samotné peklo, pøec jest stále *tvé*! A já nemohu než plakat, když vidím, jak tvé kroky stále pronásleduje Bhaal a nyní tì souží i Kníže lží, sám Cyric Temné slunce!~ [SAERI356]
+@178  = ~Utiš se, Saerileth. Jsem tady.~
+@179  = ~(Obejmout ji.) Tiše, Saerileth, utiš se.~
+@180  = ~Není to fér, Saerileth. Máš pravdu.~
+@181  = ~Tohle *není* vhodná doba, Saerileth. Prosím, dej se dohromady.~
+@182  = ~(Saerileth se trhavì nadechne.) Odpus mi, milovaný. Nemìla jsem tomu dát prùchod.~
+@183  = ~To je v poøádku, Saerileth. Je mi dobøe.~
+@184  = ~Potøebuju, abys byla silná, Saerileth.~
+@185  = ~Potøebuju tì, Saerileth. Máš právo být otøesená a ani já nevím, jestli to dokážu unést.~
+@186  = ~Však já bych nemìla èinit tvé bøemeno tìžší svou slabostí, milovaný. (V Saerilethinì tváøi bojuje hanba se stále tekoucími slzami.)~
+@187  = ~Jsem tvá paní a manželka a mìla bych ti být ku pomoci, nikoli pøekážkou.~
+@188  = ~A já jsem tvùj manžel. *Já* bych mìl taky pomáhat *tobì*.~
+@189  = ~To je v poøádku. Tyhle èasy jsou tvrdé pro nás všechny.~
+@190  = ~Tak zkrátka pojïme dál.~
+@191  = ~Vskutku, mùj pane. (Saerilethina štíhlá ramena, na pohled pøíliš køehká i na zbroj, již nosí, se narovnají.)~
+@192  = ~Nezklamu tì. Jsem tvá paní a manželka a mìla bych ti být ku pomoci, nikoli pøekážkou.~
+@193  = ~Mùj drahý pane. (Ze Saerilethiny tváøe náhle zmizí všechna hrùza a zdìšení a jemnì tì pohladí po tváøi.)~
+@194  = ~Ty to však uneseš a já tì nezklamu. Jsem tvá paní a manželka a mìla bych ti být ku pomoci, nikoli pøekážkou.~
+@195  = ~Vskutku, mùj pane, svou nehynoucí láskou. Však neupírej mi právo být ti ku pomoci.~
+@196  = ~Mùžeš èerpat z èehokoli, co mi Jednoruký Tyr svìøil. (Oèi tvé mladé ženy jsou stále vlhké a èervené z pláèe, ale ve tváøi má rozhodný výraz.)~
+@197  = ~Spolu vytrváme ve všem, co jest od nás žádáno.~
+@198  = ~Tìžký vskutku, a já ti jen pøitìžuji svou slabostí. (Saerilethina tváø plane hanbou.)~
+@199  = ~Již však ne více. Mùžeš èerpat z èehokoli, co mi Jednoruký Tyr svìøil. (Oèi tvé mladé ženy jsou stále vlhké a èervené z pláèe, ale ve tváøi má rozhodný výraz.)~
+@200  = ~Dobrá tedy, mùj pane. (Tvoje mladá žena si dlaní otøe oblièej a zaène èistit svou zbroj od následkù bitvy.)~
+@201  = ~Naše smrtelné životy se èasto zdají plné nespravedlnosti, však je-li náš údìl zde vskutku takový, mùžeme si být jisti, že Zlomený Tyr nám neupøe spravedlnost, až nás bude soudit.~
+@202  = ~(Saerileth si povzdechne a její oèi se rozjasní.) Odpus mi, milovaný. Nemìla jsem tomu dát prùchod.~
+@203  = ~Vskutku, mùj pane. (Saerileth tì pustí a její tváø plane hanbou.) Již tì znovu nezklamu.~
+@204  = ~(Tvoje mladá žena si dlaní otøe oblièej a zaène èistit svou zbroj od následkù bitvy.)~
+@205  = ~(Sedíte kolem ohnì, oèi upøené do plamenù. Saerileth se pøisune blíž, poklekne vedle tebe a položí ti ruce kolem krku.)~
+@206  = ~(Odstrèit ji.)~
+@207  = ~(Pøitisknout se k ní.) Saerileth.~
+@208  = ~Potøebuješ nìco, Saerileth?~
+@209  = ~(Zaboøit tváø do jejích vlasù.) Pomoz mi, Saerileth.~
+@210  = ~Mùj pane? (Saerileth tì pustí, ale neodchází pryè.)~
+@211  = ~Milovaný, otevøi mi své srdce, žádám tì. Trpíš pøíliš mnoho a o samotì.~ [SAERI357]
+@212  = ~Nemùžeš nic udìlat, Saerileth. Tohle si musím vyøešit sám.~
+@213  = ~Jdi spát, Saerileth.~
+@214  = ~Je to moje chyba, Saerileth. Jenom moje.~
+@215  = ~Tolik jsem se snažil, Saerileth, a stejnì jsem selhal.~
+@216  = ~Vidím jejich tváøe, slyším výkøiky--všichni, které zabili v Saradushi, na mì køièí.~
+@217  = ~Nikoli, mùj pane. (Saerileth ti pohlédne do oèí a její vlastní jsou velké a tmavé.)~
+@218  = ~Ty pøec nemusíš nést nic sám. Jsem tvá manželka a dle práva jest polovina každého tvého bøemene má.~
+@219  = ~Jen se utiš a jdi spát.~
+@220  = ~(Obejmout ji.) Je to moje chyba, Saerileth, ne tvoje.~
+@221  = ~Mrtví v Saradushi mì obviòují. Co mám dìlat?~
+@222  = ~Poslechnu tì, mùj pane. (Saerileth ti ještì rychle políbí ruku, než se odebere na vaše spoleèné lùžko.)~
+@223  = ~(Ale ani tam se nezdá, že by usnula. Místo toho zaslechneš tiché mumlání jejích modliteb.)~
+@224  = ~(Když tì nakonec pøemùže únava, slyšíš, že se stále modlí a prosí za tebe Tyra.)~
+@225  = ~Kde jest jaká chyba, mùj pane? (Saerilethin hlas je nìžný a tichý.) Tys pøec neuèinil nic zlého.~
+@226  = ~Ale selhal jsem, když jsem mìl udìlat nìco dobrého. To staèí, abych se cítil vinen.~
+@227  = ~Ty mì tedy neobviòuješ?~
+@228  = ~Moje selhání je smrt všech, které jsem nedokázal ochránit.~
+@229  = ~Jest pravda, že ti, kdo dleli v Saradushi, jsou mrtví, však bylo by nespravedlivé klást vinu za jejich skon na tvou hlavu!~
+@230  = ~(Upøímnost v Saerilethinì hlase je ještì podepøená zápalem v jejích oèích.) Ty tím *nejsi* vinen!~
+@231  = ~(Saerileth se od tebe na chvíli odvrátí, pøemožená vlastními city.) Vskutku, mùj pane--*oni* tì obviòují.~
+@232  = ~Zøím to v jejich tváøích, slyším v jejich hlasech. Však viní tì nespravedlivì.~
+@233  = ~Ty taky vidíš ty Saradushské zabité?~
+@234  = ~Nikoli, <CHARNAME>. Nedokázals zachránit Saradush, vskutku. Však nepøestals èinit dobro.~
+@235  = ~V ohrožení vlastního života ses snažil pomoci tìm, kdo pøebývali v onom nebohém mìstì.~
+@236  = ~Zlo v tobì by si jen lehlo a odmítlo jakkoli pomáhat. (Saerileth tì vezme za ruku.)~
+@237  = ~Pomodlíš se se mnou, mùj pane? Vím, že to utiší tvùj smutek.~
+@238  = ~Ano, Saerileth. Prosím. Potøebuju všechnu pomoc, kterou mùžu dostat.~
+@239  = ~Ne, Saerileth. Jdi spát.~
+@240  = ~Ne, díky. Ale prosím tì, modli se za mì.~
+@241  = ~Nikoli, mùj dobrý pane, já tì neobviòuji. (Saerilethiny jasné oèi záøí upøímností.)~
+@242  = ~Ve tvých èinech není pøec žádné zlo.~
+@243  = ~Vskutku. (Saerileth se otøese.) Nejsou to tiší mrtví. (Vezme tì za ruku.)~
+@244  = ~(Bez další prodlevy si Saerileth klekne vedle tebe a zaène se modlit.)~
+@245  = ~(Dlouho se modlí obecným jazykem, který znáš, ale nakonec pøejde do své mateøštiny.)~
+@246  = ~(Její modlitba tì pøikryje jako peøina a ukolébá tì k pokoji, dokud nakonec neusneš.)~
+@247  = ~Vskutku, mùj pane. (Saerileth tì rychle políbí na dlaò a pak si klekne vedle tebe.)~
+@248  = ~Mùj pane, jsem zde s tebou. Ach, milovaný, otevøi mi své srdce. Pøíliš èasto trpíš sám.~ [SAERI358]
+@249  = ~Nikoli, mùj pane. Pøicházím, abych zvìdìla, zda nemohu nìco vykonat pro *tebe*. Mùj jediný, pøíliš èasto trpíš sám.~ [SAERI359]
+@250  = ~Vskutku, mùj pane! (Saerileth ti pøitiskne rty na èelo a pak se ti podívá do oèí.)~
+@251  = ~Zprav mne, milovaný, jak ti mohu ulevit? Vím pøec, že pøíliš èasto trpíš sám.~ [SAERI360]
+@252  = ~(Je už pozdì a padá na tebe únava z dlouhé cesty. Vzhlédneš od své veèeøe a vidíš, že Saerileth zmizela pryè od ohnì.)~
+@253  = ~(Její ruèník také chybí, takže si uvìdomíš, že se nejspíš šla vykoupat.)~
+@254  = ~(Vzít si svùj ruèník a jít za ní.)~
+@255  = ~(Nechat ji vykoupat a jít spát.)~
+@256  = ~(Netrvá ti dlouho, než ji najdeš. Jasnì vidíš štíhlou, bledou postavu své mladé ženy, jak se jako hvìzdy odráží proti šedavé modøi vodní plochy.)~
+@257  = ~(Bez varování její hlava zmizí pod hladinou.)~
+@258  = ~Saerileth!~
+@259  = ~(Potopit se za ní.)~
+@260  = ~(Svléknout si šaty a potopit se za ní.)~
+@261  = ~(Nikdo neodpovídá na tvé volání a Saerileth se poøád neobjevuje. Voda tiše leží, klidná jako zrcadlo, a odráží oblohu.)~
+@262  = ~(Bìžet do tábora pro zbranì.)~
+@263  = ~(Bìžet do tábora pro pøísady ke kouzlùm.)~
+@264  = ~(Tvoje šaty nasáknou vodou a trochu tì zpomalí, ale pøesto se brzy dostaneš k místo, kde Saerileth zmizela.)~
+@265  = ~(Potopíš se pod vodu a prohledáváš temné vody, abys ji našel, ale bez úspìchu. Vynoøíš se na hladinu s plícemi v jednom ohni, jen abys zjistil, že se ti Saerileth dívá pøímo do tváøe.)~
+@266  = ~Mùj pane? Co zde pohledáváš? A stále ve svých šatech?~
+@267  = ~(Obejmout ji.) Jsi v poøádku?~
+@268  = ~Ehmm--nic.~
+@269  = ~(Vesele ji postøíkat.) Takhle mì nedìs!~
+@270  = ~(Kloužeš tiše vodou až k místu, kde Saerileth zmizela. Potopíš se pod vodu a hledáš ji v temných vodách, ale bez úspìchu.)~
+@271  = ~Vynoøíš se na hladinu s plícemi v jednom ohni, jen abys zjistil, že se ti Saerileth dívá pøímo do tváøe.)~
+@272  = ~Mùj pane? Co zde pohledáváš? Pøišel ses vykoupat?~
+@273  = ~Ehmm--jo. Vykoupat.~
+@274  = ~(Díváš se na krutì tichou vodu, jejíž klidný povrch se zdá vysmívat tvým rostoucím obavám.)~
+@275  = ~(Náhle se hladina u tvých nohou rozvíøí a z vody vystoupí køehká Saerilethina postava, vlasy nalepené na tìle.)~
+@276  = ~Mùj pane? Co zde pohledáváš?~
+@277  = ~(Dát jí ruèník kolem ramen.) Takhle mì nedìs! ~
+@278  = ~(Vrátíš se k rybníku, který se ti stále vysmívá svou krutì klidnou hladinou.)~
+@279  = ~Mùj pane? Co zde pohledáváš--a pøipraven k bitvì? (V jejich kobaltových oèích je znepokojení.)~
+@280  = ~(Pustit pøísady ke kouzlùm a obejmout ji.) Jsi v poøádku?~
+@281  = ~(Pustit zbranì a obejmout ji.) Jsi v poøádku?~
+@282  = ~Vskutku, mùj pane. (Saerileth se usmìje s náhlým porozumìním a nakloní se, aby tì políbila.)~
+@283  = ~Milovaný, tvá péèe o mne nezná hranic. (Zasmìje se a prsty ti pøejede po vlhké tunice.)~
+@284  = ~Kde bych si mìla pøát být, když ne ve tvém náruèí? (Polibek, který ti vtiskne, je tak vášnivý, že ti vezme dech. Když se pak po nìjaké dobì vracíš do tábora, tvé šaty už jsou témìø úplnì suché.)~
+@285  = ~(Saerileth se podívá na tvé mokré šaty a pak zpátky na tvùj oblièej, celá zardìlá námahou. V náhlém porozumìní se usmìje a nakloní se, aby tì políbila.)~
+@286  = ~(Saerileth se zasmìje a taky tì postøíká.) Mùj pane, tvá péèe o mne vskutku nezná hranic.~
+@287  = ~(Dál se smìje a støíká na tebe, i když mluví vážnì, a po chvíli zjistíš, že se nacházíš pøímo uprostøed vodní bitvy o život.)~
+@288  = ~(Když bitva vrcholí, vtiskne ti Saerileth tak vášnivý polibek, že ti vezme dech. Když se pak po nìjaké dobì vracíš do tábora, tvé šaty už jsou témìø úplnì suché.)~
+@289  = ~Milovaný, tvá péèe o mne nezná hranic. (Pøivine se ke tvé nahé hrudi a cítíš, jak jí buší srdce.)~
+@290  = ~(Když dorazíte k pobøeží, jste oba tak unavení, že se témìø nedokážete postavit.)~
+@291  = ~Vykoupat? (Saerileth se podívá na tvoji vyèepranou tváø a v jejích oèích se náhle objeví porozumìní. Nakloní se, aby tì políbila.)~
+@292  = ~(Saerileth ti náhle vtiskne tak vášnivý polibek, že ti vezme dech. Když doplavete zpátky k pobøeží, jste oba tak unavení, že témìø nemáte sílu se postavit.)~
+@293  = ~Vskutku, mùj pane. (Saerilethiny polekané oèi se náhle naplní slzami a položí ti paže pevnì kolem pasu.) Tvá péèe o mne jest více, než si zasloužím, milovaný.~
+@294  = ~(Saerileth se k tobì pøivine a pokryje ti tváø polibky. Když se po nìjaké dobì vracíte do tábora, její vlasy jsou už témìø úplnì suché.)~
+@295  = ~Tys pøišel bez pøíèiny? (Saerileth potøese hlavou.) Mìl by ses alespoò vykoupat, mùj pane.~
+@296  = ~Pak se setkáme v táboøe. (Saerileth tì lehounce políbí, odejde a nechá tì vykoupat.)~
+@297  = ~Tys pøišel bez pøíèiny? (Saerileth se podívá na vìci, které sis pøinesl z tábora a jasnì tì usvìdèují ze lži.)~
+@298  = ~Mùj pane? Tys mne pøišel bránit? (Saerilethin hlas je nìžný a nakloní se k tobì, aby tì políbila.) Tvá péèe o mne jest více, než si zasloužím!~
+@299  = ~(Saerileth ti pokryje tváø polibky. Když se po nìjaké dobì vracíte do tábora, její vlasy jsou už témìø úplnì suché.)~
+@300  = ~Milovaný, tvá péèe o mne nezná hranic. Kde bych si mìla pøát být, když ne ve tvém náruèí?~
+@301  = ~(Polibek, který ti náhle vtiskne, je tak vášnivý, že ti vezme dech. Když se po nìjaké dobì vracíte do tábora, tvoje šaty jsou už témìø úplnì suché.)~
+@302  = ~(O nìco pozdìji Saerileth vklouzne na lùžko vedle tebe a její vlasy jsou trochu vlhké.) Spi sladce, mùj pane.~
+@303  = ~(Tvove oèi spoèinou na Saerileth, mladé oddané Tyrovì paladince.)~
+@304  = ~(Prohlížet si Saerileth.)~
+@305  = ~(Hrát si s jejími vlasy.)~
+@306  = ~(Vzít Saerileth do náruèí.)~
+@307  = ~(Políbit jí ruku.)~
+@308  = ~(Vášnivì ji políbit.)~
+@309  = ~Miluju tì, Saerileth.~
+@310  = ~(Pøejet jí prsty po tváøi.)~
+@311  = ~Mluv se mnou, Saerileth.~
+@312  = ~Miluju tì víc než vlastní život, Saerileth.~
+@313  = ~Má paní a manželko, jsi jediný dùvod, proè žiju.~
+@314  = ~Jsi ta nejdokonalejší žena, jaká kdy kráèela po zemi.~
+@315  = ~Øekni, co bys chtìla, a já to pro tebe udìlám!~
+@316  = ~O èem pøemýšlíš, Saerileth?~
+@317  = ~Co z tvého domova ti nejvíc chybí, Saerileth?~
+@318  = ~Vyprávìj mi o své rodinì.~
+@319  = ~Naplnìní mého osudu se už blíží.~
+@320  = ~Sigil byl podivuhodný, cizí a naprosto neznámý. Vyprávìj mi o nìm víc.~
+@321  = ~Saerileth, co pro tebe znamená, když víš, že tì o staletí pøežiju?~
+@322  = ~Nebála ses mì milovat, Saerileth? Jsem pøece Bhaalùv zplozenec.~
+@323  = ~Proè mi vždycky øíkáš "mùj pane"?~
+@324  = ~Jaká je tvá oblíbená divadelní hra?~
+@325  = ~Proè nechceš používat kuši?~
+@326  = ~Jaká je tvoje oblíbená hudba?~
+@327  = ~Máš radìji mìsto nebo venkov?~
+@328  = ~Co si myslíš o Základní materiální sféøe?~
+@329  = ~Umíš hrát na nìjaký nástroj, Saerileth?~
+@330  = ~Zpochybòuješ nìkdy Tyrovu vùli?~
+@331  = ~Èeho nejvíc lituješ, Saerileth?~
+@332  = ~Už jsi nìkdy vyšplhala až na vrcholek Celestie?~
+@333  = ~Máš ráda dìti?~
+@334  = ~Kdy sis poprvé uvìdomila, že jsi nádherná?~
+@335  = ~(Saerileth k tobì pomalu obrátí své jasné modré oèi. Její kùže je svìtlá a jemná a lehounce se usmìje, když si uvìdomí, že si prohlížíš její tváø.)~
+@336  = ~Mùj pane, nemìl bys nechat svou pozornost ochabnout. (Ale její zrak na tobì ještì chvíli spoèívá.)~ [SAERI398]
+@337  = ~(Saerileth se na chvíli zastaví a odhrne si neposedný pramínek vlasù z èela. Hedvábné pramínky tì lákají, ale Saerilethiny vlasy jsou tak èerné, že to témìø zraòuje tvé oèi.) ~
+@338  = ~(Jejich záplava ji obklopuje jako pláš. Uvìdomíš si, že si Saerileth právì rozpustila vlasy, aby si je mohla pøevázat, a tak kolem ní splývají jako èerná vlna za vlnou.)~
+@339  = ~(Zpod závoje svých vlasù se na tebe Saerileth náhle usmìje a ty koneènì chytíš dech.)~
+@340  = ~(Saerileth si není vìdomá, že si prohlížíš její postavu, a zastaví se, aby si pøitáhla øemeny na zbroji. Tohle je tvoje žena-váleènice, ale ještì poøád tì pøekvapuje, jak zkušenì se tahle mladá dívka, tvoje nádherná, køehká kvìtinka, stará o svou zbroj a vybavení.)~
+@341  = ~(Díváš se na profil své mladé ženy, na její hebké tváøe a krásnì tvarovaný nos. Fascinuje tì, jak má krásnou ple. Je bledá jako alabastr, ale na dotek je jako okvìtní plátky rùží. Její rty se náhle prohnou do úsmìvu.)~
+@342  = ~Pocítila jsem pohled tvých oèí, mùj pane. Doufám, žes na své paní nenašel nic v nepoøádku.~ [SAERI399]
+@343  = ~(Saerileth se smìje, když si obtoèíš pramínek jejích vlasù kolem prstu.)~
+@344  = ~Z jakých pøíèin se ti tak zalíbily mé vlasy? (Její oèi jsou upøímnì pøekvapené.) Jsem však ráda, že jsou ti potìšením.~ [SAERI361]
+@345  = ~(V záplavì Saerilethiných vlasù nahmatáš malou stužku. Za chvilku jich tvoje pátravé prsty najdou víc a v ruce držíš nejménì tucet malých copánkù.)~
+@346  = ~Jest to tak snazší. (Saerileth odpoví na otázku ve tvých oèích.) Mé vlasy jsou dlouhé, jak jistì víš, a copánky mi pomáhají svázat je, jak potøebuji.~ [SAERI362]
+@347  = ~(Máš volnou chvilku, a tak zaèneš své ženì splétat vlasy do copánkù. Po nìkolika minutách práce zjistíš, že se ti podaøilo zaplést teprve tøetinu Saerilethiných vlasù.)~
+@348  = ~Prosím, mùj pane, budeš pokraèovat dále? (Saerileth ti vezme copánek z ruky a pøiváže si ho bílou stuhou.) Mohu si pak svázat všechny tøi dohromady.~ [SAERI363]
+@349  = ~Promiò, Saerileth. Nezdálo se mi, že už to trvá *tak* dlouho. Mìli bychom vyrazit.~
+@350  = ~Jistì Saerileth. Rád se dotýkám tvých vlasù.~
+@351  = ~Vskutku, mùj pane. (V Saerilethiných oèích je zklamání, ale copánek, který jsi spletl, nerozváže.)~
+@352  = ~Dìkuji ti, milovaný. (Saerileth se posadí tak, abys mohl snadno pokraèovat ve svém úkolu. Trvá to témìø hodinu, ale nakonec je ze Saerilethiny záplavy havraních vlasù jeden velký cop.)~
+@353  = ~(Není tak dobøe upletený, jako ten, co si èas od èasu dìlá sama, ale zdá se, že je s ním plnì spokojená.)~
+@354  = ~(Saerileth se zachvìje pod dotekem tvé ruky, když tvé prsty kloužou pùlnoèním saténem jejích volných kadeøí.) ~
+@355  = ~Milovaný.~ [SAERI364]
+@356  = ~(Saerileth se ve tvém objetí uvolní a ty tiše stojíš a užíváš si blízkost své mladé nevìsty.)~
+@357  = ~(Saerileth ti místo odpovìdi dá ruce kolem krku.) Milovaný, kéž bys nikdy nemìl pøíèiny mne opouštìt.~ [SAERI365]
+@358  = ~Nikde nenacházím takový pokoj jako ve tvých pažích.~
+@359  = ~Tvé paže jsou jediné útoèištì, jež kdy budu potøebovat. (Tahle slùvka zašeptá a ty si nejsi jistý, jestli chtìla, abys je zaslechl.)~ [SAERI366]
+@360  = ~Zde budu žít, mùj pane, a zde zemøu, bude-li to Tyrova vùle.~ [SAERI367]
+@361  = ~(Saerilethina tváø znachoví.) Mùj pane, prokazuješ mi pøíliš velkou èest.~ [SAERI368]
+@362  = ~(Saerilethina kùže pod tvými rty je až pøekvapivì hebká. Víš, že má dlanì váleèníka, ale pøesto se ty malé ruce vpletené do tvých zdají být spíše rukama dítìte, než bojovnice.)~
+@363  = ~(Saerileth se na tebe usmìje a odhrne ti z tváøe neposlušný pramínek vlasù. Pak se k tobì nakloní a políbí tì na èelo.)~
+@364  = ~(Když její ruku pustíš, Saerileth k tobì nakloní hlavu.) Tato ruka jest tvá, mùj pane. Dávám ti ji a s ní své srdce na dlani.~ [SAERI400]
+@365  = ~(Saerileth tvùj polibek pøekvapí, ale vášnivì ti na nìj odpoví. Její prsty kloužou tvými vlasy a hladí je, dokud polibek neskonèí.)~
+@366  = ~(Zdá se, že když ji líbáš, Saerileth se k tobì tiskne víc než obvykle, a když ji pustíš, vypadá otøesenì.) Milovaný.~ [SAERI364]
+@367  = ~Tvá ústa jsou nesmírnì sladká, mùj pane. (Saerileth se na tebe dráždivì usmìje a vrací se na své místo ve formaci.)~ [SAERI401]
+@368  = ~(Saerileth nic neøíká, ale když váš polibek skonèí, nehýbá se z místa. Stojí tiše a obì ruce má položené na divoce tlukoucím srdci.)~
+@369  = ~Slova nemohou vyjádøit mou radost, když tak pravíš, mùj pane! (Saerileth tì políbí na tváø.)~ [SAERI369]
+@370  = ~Nebo i já miluji tebe!~
+@371  = ~(Saerileth tì sladce políbí na rty.) A já tebe, mùj pane.~ [SAERI370]
+@372  = ~Celým svým srdcem tì ctím, sloužím ti a miluji tì.~ [SAERI371]
+@373  = ~Slyšet tvá slova jest mi sladší než hudba, vždy tì miluji víc než život.~ [SAERI372]
+@374  = ~Mùj pane. (Saerilethina slova jsou tichá jako dech, ale ledovì modrý plamen v jejích oèích tì drží na místì.)~ [SAERI373]
+@375  = ~(Saerileth beze slova pøitiskne svou tváø na tvou dlaò.)~
+@376  = ~(Saerileth se pøed tebou tiše zastaví a také se dotkne tvé tváøe.) Nádhera.~ [SAERI374]
+@377  = ~(Saerilethina kùže je na dotek jako satén. Zdá se tak jemná, že by ji i polibek mohl znièit, a tak provinile stáhneš ruku.)~
+@378  = ~Jsem tvá žena, <CHARNAME>. (Saerileth zdá se rozumí, proè jsi stáhl svoji dlaò.) Jsem celá tvá.~ [SAERI375]
+@379  = ~Co bys ode mne chtìl slyšet?~ [SAERI376]
+@380  = ~Toužíš mne slyšet hovoøit, jen abys zaslechl mùj hlas?~
+@381  = ~Ne, chtìl bych abys mi nìco øekla--cokoliv.~
+@382  = ~Ano, protože tvùj hlas je pro mì jako božská hudba.~
+@383  = ~(Saerileth se vážnì usmìje.) Miluji tì, mùj pane, a vždy budu po tvém boku.~
+@384  = ~Pak tento hlas--jenž hraje jen pro tebe--praví, že tì miluji.~
+@385  = ~Radìji bych slyšela hovoøit tebe, milovaný. Tvùj hlas jest pro mne jako tlukot tvého srdce--to nejsladší potvrzení, že jsi tu.~ [SAERI377]
+@386  = ~(Saerileth zavøe oèi a vezme tì za ruku.) Beze slov mé tìlo hovoøí s tvým.~ [SAERI378]
+@387  = ~(Neøíká nic víc, ale její dlaò se ze tvé ruky pøesune na paži, pak na ramena a na krk.)~
+@388  = ~(Nakonec se nìžnì dotýká tvé tváøe. Její prsty jemnì ti pøejíždí po ústech a hladí ti vlasy.)~
+@389  = ~(Když Saerileth stáhne ruku, už chápeš její slova o tìlu hovoøícím s tìlem.)~
+@390  = ~(Saerilethiny oèi potemní a pomalým a smutným hlasem opakuje tato slova.)~
+@391  = ~Co je mládí?
+  Nenasytný plamen.
+  Co je dìvèe?
+  Led jenom a vášeò.~ [SAERI379]
+@392  = ~Hle, kvete rùže,
+  však rychle uvadne.
+  stejnì tak mládí,
+  i dìvèe pohledné.~ [SAERI380]
+@393  = ~A právì tak já miluji tebe, mùj pane. (Saerileth tì nìžnì políbí na ústa a její polibek øíká více než samotná slova.)~ [SAERI381]
+@394  = ~Mùj milovaný, mùj druhý pane po Tyrovi. (Saerileth skloní hlavu ke tvé ruce.)~ [SAERI382]
+@395  = ~Tys mùj život.~
+@396  = ~Zøíš mne oèima své lásky, jež pøikrývá mé nedostatky.~ [SAERI402]
+@397  = ~Žij, mùj pane, a miluj mne.~ [SAERI403]
+@398  = ~Pøemítám o svém starém domovì na Celestii, nebo dokud budu živa, nebudu tam již pøebývat.~ [SAERI383]
+@399  = ~Pøemítám o tobì, <CHARNAME>, a o tvém osudu.~ [SAERI384]
+@400  = ~Pociuji nad tebou lítost.~
+@401  = ~O tom, kdy jsem naposledy zøela hvìzdy Mertionu.~ [SAERI385]
+@402  = ~(Saerileth zní zadumanì a nic víc neøíká.)~
+@403  = ~O slávì Jednorukého Tyra.~ [SAERI386]
+@404  = ~(Saerileth prsty vyhledá Tyrùv symbol na svém èele a její zrak se rozzáøí radostí.)~
+@405  = ~Støíbrná obloha Mertionu, jež vždy tak jasnì záøí.~ [SAERI404]
+@406  = ~Hlas zlatých zvonù, jenž nás svolávaly k veèerním písním.~ [SAERI405]
+@407  = ~Zde jest stále válka a bitva a vládne tu smrt. Postrádám ticho a mír mého starého domova.~ [SAERI406]
+@408  = ~Však pøec si tam nepøeji být, nebo právì zde si Zlomený Tyr žádá mou pøítomnost.~
+@409  = ~Schází mi zvuk mé mateøštiny. Tvá øeè jest pro mùj jazyk jako když se mladá nevìsta tiskne ke krku svého muže a ani na chvíli ho nepouští.~ [SAERI407]
+@410  = ~Jsem nejmladší ze ètyø, <CHARNAME>. Mùj nejstarší bratr jest Caladus, pak Tal a poté Tarin.~ [SAERI408]
+@411  = ~Když jsem se zrodila, mí rodièe již ztráceli nadìji, že budou v náruèí držet další dítì, nebo Tarin jest o plných deset let starší.~
+@412  = ~Vìz tedy, že má rodina, pánové Nevadnoucího jezera, jest spøíznìná s eladrin. Mùj bratr, Tarin, jest nejpodivnìjšího vzhledu, nebo jeho oèi záøí jako bledý mìsíc.~ [SAERI409]
+@413  = ~Záøí jasným svìtlem a on se nikdy neoctne v naprosté temnotì.~
+@414  = ~Jsem jedinou dcerou svých rodièù. Jest jistì divem, že též nosím meè, nebo mí bratøi byli snad nejpøísnìjšími ochránci na celém Nevadnoucím jezeøe.~ [SAERI410]
+@415  = ~Vskutku, kdybych neodešla žít do chrámu, jsem si jista, že bych se nikdy nenauèila bojovat.~
+@416  = ~Pánové Nevadnoucího jezera jsou prastarý rod, jenž již dlouho pøebývá na úboèích Celestie.~ [SAERI411]
+@417  = ~Jistìže mám i množství bratrancù, jež jsem nikdy nespatøila. Nìkteøí žijí i velmi daleko, napøíklad v Mercurii, Zlatém nebi.~
+@418  = ~Vskutku, jest tomu tak, <CHARNAME>. A já se modlím k Tyrovi, abys mìl sílu jej naplnit.~ [SAERI412]
+@419  = ~Nepoddávej se obavám, <CHARNAME>. Osud pøec není pevnì dán.~ [SAERI413]
+@420  = ~Již dlouho kráèíš po této stezce. Dosáhnout jejího konce bude jistì úlevou, nebo tam vše skonèí.~ [SAERI414]
+@421  = ~A tys jistì pøipraven jej naplnit!~ [SAERI415]
+@422  = ~Vpravdì se mu øíká Klec, nebo pøese všechny jeho brány a portály jest mnoho takových, kdo z nìj nenachází cesty ven.~ [SAERI416]
+@423  = ~Jest to temné a ponuré místo, kde planou silné vášnì, však vždy ve stínu obav a strachu.~ [SAERI417]
+@424  = ~Jeho vládkyní jest Paní bolesti, jejíž cesty se nikdo neodváží zkøížit.~
+@425  = ~Pøebývala jsem v Sigilu po dvanácte mìsícù, však nikdy jsem neuvykla jeho nocem.~ [SAERI418]
+@426  = ~Hledìla jsem vzhùru s nadìjí, že uzøím hvìzdy, avšak v mlze a oparu jsem zahlédla jen svìtla samotného mìsta.~
+@427  = ~V Sigilu nalezneš cokoli. Cokoli, èeho si tvé srdce žádá, krom toho, co se zelená a roste. Nemám v tom zalíbení.~ [SAERI419]
+@428  = ~Nikdo z nás nemá zaslíbeno ani že pøežije zítøek. Z jakých pøíèin bych mìla pøivolávat starosti?~ [SAERI387]
+@429  = ~Ale *já* z nich nakonec zùstanu poslední, Saerileth!~
+@430  = ~Máš pravdu. Dìlám si moc velké starosti o budoucnost.~
+@431  = ~(Saerileth potøese hlavou.) Nikoli, mùj drahý pane. Jsem Tyrovou Vyvolenou. Stanu-li se jeho vyslankyní, pak se mi dostane života podobného devám.~ [SAERI390]
+@432  = ~A i kdybych zùstala smrtelným vyslancem jako nìkteøí, pøec se kurz mého života zmìní. Však nemyslím, že zùstaneš osamocen, i kdybych zahynula. Až zemøu, navrátím se do Mertionu, kde mne mùžeš opìt vyhledat.~
+@433  = ~Jest mnoho, èeho se obávat, i nyní, mùj jediný. Musíme však od sebe strach odvrhnout, nebo z nás vysaje veškerou radost.~ [SAERI388]
+@434  = ~(Saerileth se nakloní, aby tì políbila.) Však a pøijde jakýkoli zármutek, nemùže se rovnat s radostí, již mám z jediného okamžiku ve tvé pøítomnosti.~
+@435  = ~Neobávala jsem se nièeho, mùj pane. Láska pøec vyhání strach, jak jistì víš, aè jsem se snad menším lidem snad zdála pošetilá.~ [SAERI391]
+@436  = ~(Saerilethin smích ti sladce zní v uších, když odpovídá.) Ty pøec *jsi* mùj manžel a pán. Jak jinak by ti tvá paní mìla øíkat?~ [SAERI392]
+@437  = ~Na Celestii jsem žádnou takovou nespatøila, však když jsem pøebývala v Sigilu, zhlédla jsem pøedstavení o vášni jednoho muže k dívce, muže, jehož mysl však kdosi proti ní otrávil.~ [SAERI393]
+@438  = ~Ona hra sledovala jeho pád z milosti až k šílenství a vraždì. Byl to trýznivý pohled, však když ona paní pravila: "Nevlídnost mùže zpùsobit mnoho, a ta jeho snad i zmaøit mùj život, však nikdy nedokáže poskvrnit mou lásku", vìdìla jsem.~
+@439  = ~Vìdìla jsem, že nenaleznu jiné hry, již bych tak milovala jak døíve, tak i v budoucnu.~
+@440  = ~Musím pøec zøít oèi toho, komu èelím v bitvì. Pokud bych tak neèinila, stále bych byla v nebezpeèí, že zapomenu, proè tasím svùj meè.~ [SAERI394]
+@441  = ~Pùsobila-li bych smrt zdálky, snad by se to stalo pøíliš snadným a bezbolestným. Nyní však zøím oèi smrti a vím, že nikdy nepozvednu svou ruku v nespravedlivé rozepøi.~
+@442  = ~Vzít život, aniž bych si byla jista, že na mnì spoèívá požehnání Jednorukého Tyra, by bylo více, než bych dokázala unést.~
+@443  = ~Nejvìtší zalíbení mám ve strunných nástrojích: harfì, loutnì, lyøe. Však i píšaly se dotýkají mé duše.~ [SAERI420]
+@444  = ~Kdysi jsem slyšela tieflinga hrát na panovu flétnu. Nezvìdìla jsem, že pláèi, dokud píseò neskonèila.~
+@445  = ~Záleží na tom jaké mìsto. Nespatøila jsem mnoho takových, v nichž bych nalezla zalíbení. Však dvakráte nebo tøikráte jsem zavítala do Excelsioru a jeho krása mne uchvátila.~ [SAERI421]
+@446  = ~Spatøila jsem jen jeden svìt z Základní, <CHARNAME>. Jest tìžké posuzovat sféru jen z jedné její èásti.~ [SAERI395]
+@447  = ~Však Faerun jest místem èinù, místem, kde èas rychle spìchá kupøedu a jen málokdy jest zde skuteèný mír.~
+@448  = ~Vskutku, však nejsem dobrou hudebnicí. Èástí mého studia bylo nauèit se hrát na lesní roh, na který jsme poté hráli svatým otcùm.~ [SAERI396]
+@449  = ~Nikoli, nikdy. Pochybovala jsem o tom, že jsem hodna následovat jeho vùli, i o svém porozumìní, však nikdy jsem nepochybovala, že by jeho vùle nebyla dokonalou.~ [SAERI422]
+@450  = ~Lituji, že jsem doposud nebyla nalezena hodnou stát se Tyrovou vyslankyní.~ [SAERI423]
+@451  = ~Nikoli, <CHARNAME>, to není možné. Ta vzdálenost je pøíliš velká, než abys ji mohl urazit za jeden život.~ [SAERI424]
+@452  = ~A smrtelníci navíc nesmí vstoupit do Chronia, Ozáøeného nebe.~
+@453  = ~Vskutku, a jest snad ženy, která nemá?~ [SAERI425]
+@454  = ~Vìdìla jsem to od chvíle, kdy mne Tyr poprvé povolal.~ [SAERI426]
+@455  = ~Však má krása jest Tyrovým darem právì tak jako síla mé paže.~
+@456  = ~Žes chtìl prodat svou vlastní dceru, spravedlnost žádá tvou smrt!~
+@457  = ~Raduj se, že mi není svìøen soud nad tebou. (Saerileth odvrátí zrak od Marlowa s výrazem hlubokého odporu ve tváøi.)~
+@458  = ~(Marlowe nic neøíká, ale úzkostlivì se zadívá zpátky na tebe.)~
+@459  = ~Nikoli, vrahu! Tvùj lov konèí zde a nyní!~ [SAERI300]
+@460  = ~A ty budeš další na øadì, dítì!~
+@461  = ~<CHARNAME>, pøipadá mi to jako køivda! Kde nebylo èasu na prošetøení, nelze pøec vykonávat rozsudek!~
+@462  = ~Jenže my *nemáme* èas.~
+@463  = ~<CHARNAME>, nesmíš pøec takto uvažovat!~
+@464  = ~(Kiser se na Saerileth ani nepovídá.) Nìkdo umlète to dìcko.~
+@465  = ~Mùj pán pøec o takové vìci nebude ani uvažovat!~
+@466  = ~Tvé úmysly jsou upøímné, mistøe Balthazare, a tvé srdce jest èisté. Však pokud <CHARNAME> zahyne tvou rukou, poskvrníš se, nebo v jeho vraždì není žádná spravedlnost.~ [SAERI303]
+@467  = ~<CHARNAME> neuèinil nic, èím by si zasloužil smrt. Tys pøec moudrý muž, mistøe Balthazare. Pøemítej o tom.~
+@468  = ~Už jsem o tom *pøemýšlel*, dlouho a usilovnì, a rozhodl jsem se. Neodošel jsem k tomu rozhodnutí snadno!~
+@469  = ~<CHARNAME>, pospìš! Musíme osvobodit tuto ženu! Bylo by nemyslitelné ponechat ji jejímu utrpení!~
+@470  = ~(Otrokynì stojí v øetìzech a s hrdì vztyèenou hlavou oèekává tvé rozhodnutí.)~
+@471  = ~Byl by to èestný zpùsob boje, kdyby se tìmto drowùm dalo vìøit, že dodrží slovo.~
+@472  = ~Nuže, Bhaalùv zplozenèe? Co si o tom myslíš?~
+@473  = ~Mùj pane, buï na pozoru! Nedùvìøuji jim!~
+@474  = ~Nìkdo zavøete tomu dìcku hubu! Bhaalùv zplozenèe! Co ty na to?~
+@475  = ~Mùj pán není nièím z toho vinen! *On* byl pronásledován osudem, ne však pro své vlastní pochybení!~ [SAERI304]
+@476  = ~Malá ženuška? Hezouèká! (Poklepe Saerileth na hlavu a pokraèuje.)~
+@477  = ~Pak se mu dostalo spravedlnosti. (Saerilethiny oèi potemní, když pøehlíží bojištì.) Všechna ta smrt. A proè?~
+@478  = ~Tato èarodìjnice následuje smrt! <CHARNAME>, buï opatrný, nebo ji ztráta jejího ohavného boha dohnala k šílenství. Její slova jsou nestálá.~
+@479  = ~Milost? A jaké pak má místo spravedlnost? <CHARNAME> pøec nespáchal žádný zloèin, ani není vinen znièením Saradushe!~
+@480  = ~Odsuzujete <PRO_HIMHER> pro nic víc, než pro <PRO_HISHER> krev!~
+@481  = ~<CHARNAME>, žádám tì upøímnì! Nenech ho prosit marnì. Spravedlnost bez milosti mùže být též nespravedlností.~
+@482  = ~Prosím, pomoz nám!~
+@483  = ~<CHARNAME>, buï na pozoru! Jest odìn jakousi skrytou mocí.~
+@484  = ~(Draconis sebejistì stojí, s nohama široce rozkroèenýma, a mìøí si tì povýšeným zrakem.)~
+@485  = ~<CHARNAME>, není pøec èas na žertování. (Saerilethiny oèi jsou plné bolesti, když se dívá na tu ubohou trosku.)~
+@486  = ~Ani se ženatému muži nesluší pravit taková slova. (Obrátí se k dívce.) Tvé srdce ještì není zkaženo tvým povoláním, dítì. Vezmi si toto zlato a již nehøeš.~
+@487  = ~Dìkuji vám, paní. Já... jsem to nechtìla dìlat. Nemìla jsem... na výbìr!~
+@488  = ~Ani se ženatému muži nesluší pravit taková slova. (Obrátí se k dívce.) Tvé srdce ještì není zkaženo tvým povoláním, dítì. Jdi do chrámu o oni tì pøijmou--a již nehøeš.~
+@489  = ~<CHARNAME>, tvé èiny jsou kruté! Zneužíváš chudobu nebohého dìvèete!~
+@490  = ~Takže... co s tím?~
+@491  = ~Nikoli, nebohé dítì, nikoho takového neznám. Proè mne obtìžuješ a hledáš takové, kdo si koupí tvé tìlo?~
+@492  = ~(Saerileth se nìžnì usmìje.) Vskutku pìkné první dobrodružství.~
+@493  = ~Emh, díky, madam.~
+@494  = ~Co se však stane, <CHARNAME>, když se ten èerv osvobodí?~
+@495  = ~Propus mì!~
+@496  = ~Nestvùro! Jen blázen jako ty mùže dít tak špinavé øeèi! Kéž tì dostihne tvùj podíl na Bhaalovì kletbì!~ [SAERI302]
+@497  = ~Mladý blázínku! Budu hodovat na tvém mase!~
+@498  = ~Vskutku ano, nebo jest jistì cennìjší, než krev v <PRO_HISHER> žilách!~
+@499  = ~Mladý blázne! Ukážu ti, co je to skuteèná vražda!~
+@500  = ~<CHARNAME>, náš úkol jest zøejmý. Musíme pomoci tìmto Bdìlým rytíøùm.~
+@501  = ~Pak to tedy zvážíš?~
+@502  = ~Bdìlý bùh nemá špinavého díla, nestvùro! <CHARNAME>, tento démon neumí než lhát!~ [SAERI301]
+@503  = ~Ticho, Tyrova Vyvolená! Co na to øíkáš, Bhaalovo dítì?~
+@504  = ~Bezvìrecký démone! Tys lháø jako všichni tvého druhu!~
+@505  = ~Bláznivý smrtelníku!~
+@506  = ~Aè jest tento muž vskutku šílený, buïme na pozoru. Na této úrovni mohou být též démoni.~
+@507  = ~Spousta démonù a hrùzostrašných! Yakman musí pryè!~
+@508  = ~Nedohaduji se s démony!~
+@509  = ~Tyr není vùdcem této skupiny! Vede ji ten Bhaalùv zplozenec!~
+@510  = ~To však budeš ty!~
+@511  = ~Snad není Krvavé války mezi ïábly a smrtelníky, však mezi tebou a Tyrovým Vyvoleným jest pøec krvavá pøe!~
+@512  = ~Zdá se mi ale, že tvoji skupinu vede ten Bhaalùv zplozenec. Ticho, Tyrùv otroku, nebo všichni tví pøátelé zahynou!~
+@513  = ~Vskutku, *zde* jsi na správném místì! Za každými dveømi, jimiž jsme prošli, byl nìjaký zlosyn, a už ïábel nebo démon!~
+@514  = ~Ále copak, došla nám øeè? Nebo trpìlivost? Naše vytrvalost je u konce? Nebo jsme se zpronevìøili svým principùm? (Cambion se výsmìšnì zadívá na Saerileth.)~
+@515  = ~Tento duch jest svatý, <CHARNAME>. Prokažme mu úctu, již si zasluhuje.~
+@516  = ~Jest zde jakási pøítomnost, mocná a zlá. Kéž nás Tyr zachová a vyvede naše kroky z tohoto temného místa.~
+@517  = ~Naše pošetilost? Tys falešný rytíø, Odrene, a zasloužíš si jakýkoli osud, jenž tì dostihne!~
+@518  = ~Vskutku daleko jste odpadli od pøikázání Bdìlého. Povinnost jest nadevše, ne snad?~
+@519  = ~(Saerilethiny oèi planou hnìvem, když pokraèuje.) Mùžete-li, vykupte se pøed jeho zrakem, však nemyslete si, že to bude snadná cesta.~
+@520  = ~Vskutku daleko jste odpadli od pøikázání Bdìlého. Povinnost jest nadevše, ne snad?~
+@521  = ~Kéž ti Helm pøiète tvou odvahu ke cti, nebo jsi nakonec bojoval na jeho stranì.~
+@522  = ~Odren a ostatní neobdrží od Knížete démonù nic jiného než spravedlnost! Vždy zradili vše, co jim bylo svìøeno!~
+@523  = ~Nejlépe by bylo naplnit Helmovu vùli, <CHARNAME>, však pøinejmenším nesmíme osvobodit Knížete démonù, aby kráèel po Základní!~
+@524  = ~Bezvìrèe! Ty si dovoluješ mluvit zle o bozích?~
+@525  = ~Do tohohle se neple, dìvenko. Nestarám se o ty podvodníky s dušemi! Do sedmi pekel s Waukeen!~
+@526  = ~Ani moc božského dítìte není nic ve srovnání s mocí Zranìného Tyra. Ve jménu spravedlnosti pøemùžeme tohoto Yaga-shuru.~
+@527  = ~(Melissan si povzdechne.) Nebuï si tak jistá. Yaga-shura není žádný øadový Bhaalùv zplozenec.~
+@528  = ~Já však nejsem jen pøítel. Jsem jeho žena a vše, co se týká jeho, jest i mé! Co *ty* máš s ním co do èinìní, co se mne netýká?~
+@529  = ~(Cyric sykne a ukáže zuby.) A mi jde ten Tyrùv Vyvolený z oèí! (Zvedne ruku a jsi s ním najednou úplnì sám.)~
+@530  = ~Toto není tvá øíše, Kníže lží! Zmiz a navra se do svého Pandemonia!~
+@531  = ~(Cyric sykne a ukáže zuby.) Jenže to není ani Tyrova øíše! Nestrpím ve své pøítomnosti žádného Bláznova Vyvoleného! (Zvedne ruku a jsi s ním najednou úplnì sám.)~
+@532  = ~A co bude se Saerileth, touhle malou Tyrovou Vyvolenou? Vìøila, že už je pøipravená na lásku, ale ty jsi jen ukradl její nevinnost!~
+@533  = ~Co bolest, kterou jí tím zpùsobíš?~
+@534  = ~Lord <CHARNAME> jest mùj manžel a pán a vždy mi prokazoval úctu. Já jsem jeho nevìsta a nelituji toho, i kdyby tento dech byl mým posledním!~
+@535  = ~Povìz mi o Saerileth.~
+@536  = ~Jedním z nejpøekvapivìjších a jistì jedním z nejromantiètìjších prvkù v pøíbìhu <CHARNAME> ze Svítící tvrzi je to, že si vzal za ženu mladou paladinku jménem Saerileth.~
+@537  = ~Saerileth teprve nedávno vyrostla z dìtského vìku, ale už se osvìdèila jako mocná zastánkynì dobra. Bojuje v Tyrovì jménu a její skutky jsou takové, že mezi Tyrovými paladiny nemá sobì rovna.~
+@538  = ~Upokoj se, milý sire! (Saerileth zèervená.)~
+@539  = ~Již jsi pravil pøíliš mnoho. Jsem jen pokornou Tyrovou služebnicí--~
+@540  = ~A skromnost téhle mladé dívèiny je též zjevná! Co bych o ní ještì øekl dál? Že její krása je tak proslavená jako èistota jejího srdce? Že síle její paže se mùže rovnat snad jen záøe v jejích oèích?~
+@541  = ~Nikoli, sire! Tak pøec nesmíš hovoøit! Staèí pøec jen pravit, že jsem nad mnohé poctìna tím, když smím být ženou lorda <CHARNAME>.~
+@542  = ~Nikdy nepíšu nic jiného než pravdu, mladá sleèinko!~
+@543  = ~Možná jedním z nejpøekvapivìjších spoleèníkù <CHARNAME> je mladá dívka Saerileth.~
+@544  = ~Opravdu pokorná! Tvoje skromnost je také hodná zaznamenání! Nikdy jsi neuvažovala o tom, že bys zanechala dobrodružného života a stala se kronikáøkou?~
+@545  = ~Nikoli! (Saerileth si nevšimne, že Volo s ní mluví v žertu, a odpoví s okamžitou rozhodností.)~
+@546  = ~Mùj život jest, a i vždy byl, jen Tyrùv. Budu ho následovat, dokud v mém hrdle bude dech.~
+@547  = ~(Volo se uchechtne.) Jak si pøeješ, dívenko.~
+@548  = ~Potøebujeme pomoc tohoto chrámu, abychom mohli zrušit démonickou iluzi.~
+@549  = ~Démonickou iluzi? A jakého druhu?~
+@550  = ~Svatý otèe, myslím, že jest to sukubus. Máš snad nìco, èím bys nám mohl pomoci zrušit vládu, již má nad svou koøistí?~
+@551  = ~Nejsem si moc jistý, jestli to bude fungovat, ale mám tu svitek, který ruší iluze. Vezmìte si ho a použijte ho. Bez svého pøevleku bude ten sukubus bezmocný.~
+@552  = ~Dìkuji ti, svatý otèe. A budu se modlit k Tyrovi, aby tyto èáry postaèily.~
+@553  = ~Nejsem si moc jistý, jestli to bude fungovat, ale mám tu svitek, který ruší iluze. Našemu Øádu ho nìkdo prodal už pøed mnoha lety. Cestoval tudy jakýsi neznámý poutník a výmìnou za nocleh a jídlo nám dal tento svitek.~
+@554  = ~Nikdy jsme nebyli schopní pøeèíst mystické runy, ale onen poutník nám øekl, že ruší iluze. Že prý je sám na pouti, na které chce vidìt vìci nezastøenýma oèima.~
+@555  = ~Vezmìte si ten svitek a použijte ho. Modlím se, aby to pomohlo! Bez svého pøevleku bude ten sukubus bezmocný.~
+@556  = ~Jest to více, než jsem se odvažovala doufat, mùj pane! Budeme moci pøebývat spolu, ty a já. Bhaal se tì již nebude moci dotknout a my dva budeme navždy žít v Tyrovì milosti.~ [SAERI427]
+@557  = ~Setøes jho svého dìdictví, <CHARNAME>, a nech se tvé oèi zahledí na Faerun jako na pøítele.~ [SAERI428]
+@558  = ~Nyní se budeš moci uzdravit a i Faerun se obnoví po všech váleèných ranách.~ [SAERI429]
+@559  = ~Má lásko, má radosti, mé srdce! <CHARNAME>, mùj pane! Nic v celém mnohovesmíru nás již nemùže rozdìlit. Miluje tì!~ [SAERI430]
+@560  = ~(Saerilethiny rty se pohybují, ale nevychází z nich žádný zvuk. Snaží se k tobì pøiblížit, ale zdá se, jako by se zarazila o neproniknutelnou temnotu. Bez varování padá v bezvìdomí ke tvým nohám.)~
+@561  = ~(Když se k ní skloníš, zjistíš, že její srdce utichlo a její dech se zastavil. Saerileth už není a kvùli tvému vlastnímu rozhodnutí jsou pro tebe její sladký hlas i nìžné oèi navìky zraceny.)~
+@562  = ~Zvolil sis tìžkou cestu, <CHARNAME>. Trùn jedné ze Sil jest osamìlé místo. Kéž se ti dobøe daøí, až zaujmeš místo mezi bohy Torilu.~ [SAERI431]
+@563  = ~Byls obnoven k životu a navrácen ke svému dítìti. A na tobì spoèívá Tyrùv odpoèinek.~
+@564  = ~Díky! Ale--vy--jak jste mi dokázali pomoct?~
+@565  = ~Vskutku, <CHARNAME>, musíme pomoci tomuto chlapci. Jest povinností každého paladina pøispìchat na pomoc sirotkùm!~
+@566  = ~Prosím, pomozte tatínkovi!~
+@567  = ~(Saerileth vyrazí proti démonovi a v jejích oèích žhne zoufalá zuøivost, ale pak se zastaví, otoèí se k tobì a tiše èeká na tvé rozhodnutí.)~
+@568  = ~(Démon se na Saerileth krutì usmìje a pak se otoèí zpátky k tobì.) Nuže?~
+@569  = ~Mùj pane, tys ze své vlastní vùle dal své rty i svou duši démonovi!~
+@570  = ~Obleèeš si, prosím, kvùli mì *tamty* šaty, Saerileth? Však víš, které myslím.~
+@571  = ~(Saerilethina tváø zèervená.) Vskutku, mùj pane. Jest-li to tvou touhou, vezmu si je na sebe naveèer, až se utáboøíme.~
+@572  = ~Nyní, mùj pane? Jistì žertuješ.~
+@573  = ~(Saerileth ti položí ruce kolem krku a nakloní se, aby ti zašeptala do ucha.) Však až budeme odpoèívat, jistì tak uèiním!~
+@574  = ~Tìší mne, když vím, že máš zalíbení ve své Saerileth, a tvá paní se jistì obleèe, aby pøinesla radost oku svého pána.~
+@575  = ~(Saerileth se zasmìje.) Nejsi tedy ještì pøesycen pohledem na tìlo své Saerileth?~
+@576  = ~Dobrá, mùj pane. Uèiním tak, však bude tì to stát dvacet polibkù.~
+@577  = ~Lady Èernovlasá, mohl bych dostat jednu z tìch krásných kadeøí?~
+@578  = ~Kdyby mé vlasy byly mými, abych je rozdávala, mùj pane, pak jistì víš, že bych ti je neodepøela.~
+@579  = ~Mé kadeøe jsou však zasvìceny Tyrovi a já je nesmím støíhat. On tak rozhodl.~
+@580  = ~Ach, má lásko! Aè jest našich strázní a utrpení mnoho, pøec budu vždy vdìèná za Tyrùv dar, jímž mne dal tobì.~
+@581  = ~Zdáš se krásnìjší než když pøedtím! Snad je to z radosti?~
+@582  = ~Vskutku jsem šastna, milovaný. Jsem vdìèná královnì Ellesime, že pro nás nalezla knìze.~
+@583  = ~Naše svatba mi poøád ještì pøipadá jako sen.~
+@584  = ~Jsem-li krásnìjší ve tvých oèích, pak snad proto, že na mnì spoèívá Tyrova milost, aby mne pøipravila pro èest být jeho vyslankyní.~
+@585  = ~Nebo snad jest to, jak øíkáš: radost! Nebo jistì jest pro mne radostí, že jsem tvou ženou.~
+@586  = ~Královna Ellesime má navždy mou vdìènost, že kvùli nám povolala Tyrova knìze.~
+@587  = ~Nikdy nezapomenu onen pohled, mùj pane, jak stojíš v elfích síních, odìn v bìlostné elfí róbì, a bereš mne pøed zraky svatého otce za ruku. ~
+@588  = ~Byla to, ach, taková radost! Zastavil se mi dech i hlas, a kdybych tak netoužila stát se tvou, jistì bych nedokázala promluvit.~
+@589  = ~Vskutku, a má i mou vdìènost.~
+@590  = ~Jako sen jest to i pro mne, mùj laskavý pane, však pøec sen, který si nechávám zdát znovu a znovu.~
+@591  = ~Když jsem spatøila avatara a samu podobu Knížete démonù, nebála jsem se vlastní smrti--aè jsem si byla jista, že mne zde oèekává. Svatý Tyr nás vskutku zaštítil!~
+@592  = ~Však pøec jest strašlivé Demogorgonovo vzezøení vpáleno do mých oèí. Bojím se, že naò nikdy nezapomenu.~
+@593 = ~<CHARNAME>! Co jest toto? Zdá se, že mne Slepý Tyr poctil svou pøízní v podobì tìchto darù!~
+@594 = ~Snad tyto svazky obsahují zprávu od Zlomeného boha. Otevøeme je a podívejme se!~
+@595 = ~Útoèit na nepøátele zdálky se nesluèuje s Tyrovými pøikázáními, jež mi uložil. Musím hledìt svému nepøíteli do oèí.~
+@596 = ~Tento prsten jest zlý, <CHARNAME>! Nestrpím jeho dotek, ani ho nikdy nebudu nosit.~
+@597 = ~Vracím ti ho nazpìt. A už se nikdy nenachází v mé blízkosti!~
+@598 = ~Že mi dáváš tento prsten podruhé, pravíš mi, že jej chceš znièit mocí Zranìného Tyra.~
+@599 = ~Nech dá své Vyvolené sílu tak uèinit!~
+@600 = ~Myslel jsem, že to øíkal jen v žáru vášnì, ale zøejmì se skuteènì zabil!~
+@601 = ~Ten pøízrak vìdìl, že je to lež. I když Edorem øíkal, že se zabije, nakonec to neudìlal.~
+@602 = ~Je to moje chyba, že je Edorem zatracený, ne tvoje. To já jsem mu øekl, aby se zabil.~
+@603 = ~Cože? Jak toto víš? Kdy takto k tobì promluvil?~
+@604 = ~Když se mi tì pokusil vzít!~
+@605 = ~Když mì pøed tebou urazil, øekl jsem mu, že jen jeho smrt mùže smýt takovou urážku.~
+@606 = ~Na tom nezáleží. Stejnì to nemìl dìlat!~
+@607 = ~Proè jsi ho neodradil, má lásko? Byl to pøec Tyrùv Vyvolený! (Saerileth skryje svou tváø do dlaní.)~
+@608 = ~Odradit ho? Já jsem mu *øekl*, aby to udìlal!~
+@609 = ~Snažil jsem se mu to rozmluvit, ale nepodaøilo se mi to.~
+@610 = ~Odpus mi, má milovaná. To já jsem mu øekl, aby si vzal vlastní život.~
+@611 = ~Urazil tvou èest? To však nebyl prohøešek, za jaký by mìl být zatracen! Jaks mu mohl pravit, aby zahubil sám sebe?~
+@612 = ~Odpus mi, má drahá. Mluvil jsem v žáru vášnì a ani jsem nemyslel vážnì všechno, co jsem mu øíkal.~
+@613 = ~Doufám, že není opravdu mrtvý. Mluvil jsem ukvapenì a už jsem svých slov mnohokrát litoval.~
+@614 = ~Není to *moje* chyba, že se zabil! Byl prostì moc slabý, aby dál žil bez tebe.~
+@615 = ~Že tak nemìl èinit, vím dobøe. Ani nemìl právo spáchat takovou vìc! Avšak nyní padá jeho smrt na mou hlavu!~
+@616 = ~Není to tvoje chyba, Saerileth. Je to moje chyba. Já jsem mu øekl, aby si sáhl na život.~
+@617 = ~Ty? Mùj pane, povìz, že tomu tak není! Proè, proè bys jen vyzýval lorda Edorema, aby si vzal život? (Saerileth se otøásá vzlyky.)~
+@618 = ~I kdybych mu øekl, aby se zabil, tak to *není* moje chyba! Byl jen moc slabý, aby dál žil bez tebe.~
+@619 = ~Ach, mùj drahý pane, vím, že by ses pokoušel. Odpus mi, že jsem ze rtù vùbec vypustila takovou otázku.~
+@620 = ~Jest tvrdé, že by mìl být Tyrùv vyvolený takto zatracen--a kvùli mnì. Budu se modlit, aby nalezl úlevu a snad i vykoupení z pekla.~
+@621 = ~Odpustit ti? Však proè bys lorda Edorema vyzýval, aby si vzal život? (Saerileth se otøásá vzlyky.)~
+@622 = ~(Saerileth vezme tvou tváø do dlaní.) To vše mne již pøemáhá. Radìji jsem se nemìla narodit, než abych ti zpùsobila takový zármutek.~
+@623 = ~Nebo abych pøivedla k zatracení, koho jsem milovala jako bratra.~
+@624 = ~Jako ty, i já doufám, že pøízrak nehovoøil pravdu. Kéž se nade mnou Slepý bùh smiluje, jsem-li vskutku pøíèinou jeho pádu.~
+@625 = ~Ty hade! Odvrhl jsi od sebe svou Saerileth, nebo máš na svých rukou krev Tyrova Vyvoleného!~
+@626 = ~Lord Edorem byl pøec vázán ctí, aby si na tvé slovo vzal život, nebo tì vskutku urazil. Však uèinit tak znamená zatratit ho!~
+@627 = ~Bìda, pøišla na mne záhuba! Buï sbohem, mùj pane. Musím se odebrat na Tyrovu svatou horu a zde dlít jako klášterní sestra Spravedlnosti po všechny své dny.~
+@628 = ~Budu se pøimlouvat za tvou duši, abys došel slitování u Jednorukého Tyra za život, jenž jsi nespravedlivì odòal.~
+@629 = ~Lord Edorem pravil taková slova? Kdy? Jak o tom víš?~
+@630 = ~Nemyslel jsem si, že to myslí vážnì, když mluví o sebevraždì.~
+@631 = ~Èert vem ten prolhaný pøízrak! Edorem øekl, že se hodlá zabít, ale ve skuteènosti to stejnì neudìlal.~
+@632 = ~Jsem *rád*, že je zatracený! Zasloužil si to!~
+@633 = ~Jak tak mùžeš hovoøit? Proè? Co ti uèinil zlého?~
+@634 = ~Chtìl mi tì vzít a já jsem mu øekl, aby se zabil!~
+@635 = ~Mluvil jsem ukvapenì. Nemyslel jsem to tak, když jsem mu ta slova øíkal. Byl jsem plný žárlivosti a vášnì.~
+@636 = ~Pak--pak *tys* vinen jeho krví, nikoli já! (Saerileth pøemùže hrùza.)~
+@637 = ~Nejsem jen pøítel. Jsem jeho manželka a všechny jeho záležitosti jsou i mé! Co *ty* máš co do èinìní s ním, Kníže lží?~
+@638 = ~Kníže lží? Nevíš snad, že ses taky provdala za vynikajícího lháøe?~
+@639 = ~Co tím myslíš? Mùj pán dí jen pravdu!~
+@640 = ~Lhal ti, malá Vyvolená, co se týká Edoremovy smrti.~
+@641 = ~Mùj pán jest nevinen! Svùj život vsadím za jeho vìrnost!~
+@642 = ~Tvùj život? Inu dobrá, to beru! Tvùj život tedy právì propadl, protože je to nevìrný lháø.~
+@643 = ~(Saerileth padá bez života k Cyricovým nohám.)~
+@644 = ~A teï, Bhaalovo dítì, si popovídáme o samotì.~
+@645 = ~Však proè bys vybízel lorda Edorema, aby si vzal život? (Saerileth se otøásá vzlyky.)~
+
+
+
+
+@5000 = ~Padlý Deva
+
+Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Hledá padlého devu a bylo jí øeèeno, že ho jistì najde, pokud bude cestovat s Bhaalovým dítìtem. Další podrobnosti mi nejsou známy.~
+
+@5001 = ~Padlý Deva
+
+Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Zdá se, že se jí docela líbím. Hledá padlého devu a bylo jí øeèeno, že ho jistì najde, pokud bude cestovat s Bhaalovým dítìtem. Další podrobnosti mi nejsou známy.~
+
+@5002 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Spojili jsme své síly s mocným Tyrovým rytíøem, který ji hodlá osvobodit. Nejdøíve musíme do Sigilu, kde musíme vyhledat Jharaka a získat od nìho Tyrovu hùl.~
+
+@5003 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Spojili jsme své síly s mocným Tyrovým rytíøem, který ji hodlá osvobodit. Právì se chystáme vyrazit do Baatoru.~
+
+@5004 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Je pøíliš nebezpeèné pokoušet se ji zachránit. Ponechali jsme ji tedy jejímu osudu.~
+
+@5005 = ~Saerileth unesena
+
+Nalezli jsme Jharaka, ale ten nás poslal otevøít nìjaký portál, potom že nám øekne, kde najdeme Tyrovu hùl.~
+
+@5006 = ~Saerileth unesena
+
+Našli jsme klíè k portálu, pramínek vlasù, a teï se s ním musíme vrátit k Jharakovi. ~
+
+@5007 = ~Saerileth unesena
+
+Jharak nám øekl, a si promluvíme s barmanem, který prý má onu hùl.~
+
+@5008 = ~Saerileth unesena
+
+Získali jsme Tyrovu hùl. Saerilethina duše je v nebezpeèí, musíme si tedy co nejrychleji pospíšit za Edoremem.~
+
+@5009 = ~Saerileth zachránìna
+
+Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+
+@5010 = ~Saerileth zachránìna
+
+Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Propustil jsem Saerileth ze svých služeb a ona zùstala ve sférách. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+
+@5011 = ~Padlý Deva
+
+Nalezli jsme Kesevara Padlého, ale tvrdí, že si trest nezaslouží. Poslal nás hledat jediného svìdka, který mùže dosvìdèit jeho nevinu: Bhaalova zplozence jménem Gunshain.~
+
+@5012 = ~Padlý Deva
+
+Jak se ukázalo, Gunshain skuteènì oèistil Kesevarovo jméno, ale taky se nás pokusil zabít! Postarali jsme se o nìj a teï se musíme rychle vrátit ke Kesevarovi.~
+
+@5013 = ~Padlý Deva
+
+Saerileth prohlásila Kesevara za nevinného a její rozsudek mìl okamžitý efekt. Deva se navrátil zpìt do své døívìjší slávy a Saerileth zùstala po mém boku.~
+
+@5014 = ~Padlý Deva
+
+Ukázalo se, že Kesevar nakonec nebyl vinen. Protože ho znièila, Saerileth ztratila Tyrovu pøízeò. Má milovaná odešla zpìt do sfér, aby se pokusila odèinit své selhání. Už ji nikdy nespatøím.~
+
+@5015 = ~Padlý Deva
+
+Ukázalo se, že Kesevar nakonec nebyl vinen. Protože ho znièila, Saerileth ztratila Tyrovu pøízeò. Mladá paladinka odešla zpìt do sfér, aby se pokusila odèinit své selhání. Už ji nikdy nespatøím.~
+
+@5016 = ~Nevìstka Dalila
+
+Nìjaký èlovìk v Amkethranu prohlašuje, že Dalila, o které tvrdí, že je nejkrásnìjší ženou v celém kraji, prodává potìšení svého lùžka ve zdejší hospodì. Má žena, Saerileth, i já sám si dìláme starosti o osud mužù, kteøí k ní vešli.~
+
+@5017 = ~Nevìstka Dalila
+
+Nìjaký èlovìk v Amkethranu prohlašuje, že Dalila, o které tvrdí, že je nejkrásnìjší ženou v celém kraji, prodává potìšení svého lùžka ve zdejší hospodì. Dìlám si starosti o osud mužù, kteøí k ní vešli.~
+
+@5018 = ~Nevìstka Dalila
+
+Podlehl jsem pùvabùm Dalily, jen abych zjistil, že je sukuba! Mé cizoložství zlomilo Saerileth srdce a v ten okamžik zemøela. Sukuba se vrátila do Abyssu a já jsem menším mužem, než jsem býval.~
+
+@5019 = ~Nevìstka Dalila
+
+Podlehl jsem pùvabùm Dalily, jen abych zjistil, že je sukuba! Sukuba se vrátila do Abyssu a já jsem menším mužem, než jsem býval.~
+
+@5020 = ~Nevìstka Dalila
+
+Saerileth mne ujistila, že Dalila je démon, ale že ji nemùžeme zabít, aniž bychom zatratili muže, kteøí jí propadli. Musíme najít nìjaký chrám, kde by nám mohli pomoct zlomit její démonickou iluzi.~
+
+@5021 = ~Nevìstka Dalila
+
+Odmítl jsem pomoct tìm chlípníkùm, které tak omámilo démonovo objetí. Sami jsou strùjci svého osudu. Saerileth posmutnìla, ale souhlasí, že jejich trest je spravedlivý.~
+
+@5022 = ~Nevìstka Dalila
+
+Od Waukeenina knìze jsem získal svitek, který by mìl mít schopnost zrušit iluzi. Ještì se ukáže, jestli bude jeho moc staèit proti pekelné magii.~
+
+@5023 = ~Nevìstka Dalila
+
+Magický svitek úèinkoval. Nevím jistì, jestli to bylo mocí samotného svitku nebo Saerilethinými modlitbami, ale tak nebo onak, úèinkovalo to a démon byl pøinucen opustit naši sféru a navrátit se do Abyssu.~
+
+@5024 = ~Poražení Khabalaxina
+
+Pøijal jsem žádost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblíž jeho nového doupìte, v jeskyni u øeky v Umaøinì vrchovinì.~
+
+@5025 = ~Poražení Khabalaxina
+
+Porazil jsem draka Khalabaxina. Nyní se musím vrátit do Øádu záøícího srdce a ohlásit siru Havunu Clarenshidovi, co se stalo.~
+
+@5026 = ~Poražení Khabalaxina
+
+Vrátil jsem se do Øádu zaøícího srdce s novinkami o svém vítìzství nad drakem Khabalaxinem. Zdá se, že dílo Øádu není nikdy hotovo.~
+
+@5027 = ~Znièení upírù
+
+Sir Havun mne informoval, že nìkde ve mìstì se nachází vampýøí hnízdo. Mám ho najít a znièit. Bydlí v kryptách pod høbitovem. Øád s námi pošle jednoho ze svých najatých èarodìjù, aby mi pomohl odstranit ochrany, které hnízdo mùže mít.~
+
+@5028 = ~Znièení upírù
+
+Znièil jsem upíry, ale jejich vùdce, Bodhi, mi unikla. Øíkala o mnì nìkolik zajímavých vìcí... mimo jiné vìdìla, že jsem Bhaalùv zplozenec! Teï musím jít ohlásit úspìšné splnìní úkolu siru Havunovi.~
+
+@5029 = ~Upíøi znièeni
+
+Vrátil jsem se do Záøícího srdce s novinkami o porážce upírù. Øád mi nabídl, že mne za odmìnu dopraví do Èarotvrze!~

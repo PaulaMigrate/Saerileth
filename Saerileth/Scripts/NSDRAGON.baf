@@ -1,0 +1,216 @@
+IF
+ Detect(Player1)
+ Global("NSDragonQuest","GLOBAL",1)
+THEN
+ RESPONSE #100
+  SetGlobal("NSDragonQuest","GLOBAL",2)
+  StartDialogueNoSet(Player1)
+END
+
+
+IF
+	AttackedBy([PC],DEFAULT)
+	!Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+              Enemy()
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("RemoveMagic","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,DRAGON_STONE_SKIN)
+		ForceSpell(LastSeenBy(Myself),WIZARD_DISPEL_MAGIC)
+		SetGlobal("RemoveMagic","LOCALS",1)
+END
+
+
+IF
+	!Detect([PC])
+	HPLT(Myself,50)
+	CombatCounter(0)
+THEN
+	RESPONSE #100
+		SetGlobal("RemoveMagic","LOCALS",0)
+		SetGlobal("WingBuffet","LOCALS",0)
+		SetGlobal("Haste","LOCALS",0)
+		SetGlobal("DRAGONFEAR","LOCALS",0)
+		ForceSpell(Myself,CLERIC_HEAL)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("DRAGONFEAR","LOCALS",0)
+THEN
+	RESPONSE #100
+		ReallyForceSpell(NearestEnemyOf(Myself),DRAGON_FEAR)
+		SetGlobal("DRAGONFEAR","LOCALS",1)
+		ForceSpell(LastSeenBy(Myself),DRAGON_WING_BUFFET)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("NSPurpleBreath","LOCALS",0)
+THEN
+	RESPONSE #100
+		ReallyForceSpell(NearestEnemyOf(Myself),SILVER_DRAGON_BREATH_PARALIZATION)
+		SetGlobal("NSPurpleBreath","LOCALS",1)
+END
+
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("NSPurpleBreath","LOCALS",1)
+THEN
+	RESPONSE #100
+		ReallyForceSpell(NearestEnemyOf(Myself),SILVER_DRAGON_BREATH_PARALIZATION)
+		SetGlobal("NSPurpleBreath","LOCALS",2)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("SpellTurn","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,BEHOLDER_SPELL_TURNING)
+		SetGlobal("SpellTurn","LOCALS",1)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("DeathWard","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,CLERIC_DEATH_WARD)
+		SetGlobal("DeathWard","LOCALS",1)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("NSPurpleBreath","LOCALS",2)
+THEN
+	RESPONSE #70
+		ReallyForceSpell(NearestEnemyOf(Myself),SILVER_DRAGON_BREATH_PARALIZATION)
+		SetGlobal("NSPurpleBreath","LOCALS",3)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("StoneSkin","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,DRAGON_STONE_SKIN)
+		SetGlobal("StoneSkin","LOCALS",1)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("Offense1","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),WIZARD_GREATER_MALISON)
+		SetGlobal("Offense1","LOCALS",1)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("Haste","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_HASTE)
+		SetGlobal("Haste","LOCALS",1)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("NSPurpleBreath","LOCALS",3)
+THEN
+	RESPONSE #60
+		ReallyForceSpell(NearestEnemyOf(Myself),SILVER_DRAGON_BREATH_PARALIZATION)
+		SetGlobal("NSPurpleBreath","LOCALS",4)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("Invisible","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,WIZARD_INVISIBILITY)
+		SetGlobal("Invisible","LOCALS",1)
+		RunAwayFrom(LastSeenBy(Myself),36)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("HoldPerson","LOCALS",0)
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),CLERIC_HOLD_PERSON)
+		SetGlobal("HoldPerson","LOCALS",1)
+END
+
+
+IF
+	Global("Silence","LOCALS",0)
+	OR(2)
+		See(NearestEnemyOfType([0.0.0.MAGE_ALL]))
+		See(NearestEnemyOfType([0.0.0.CLERIC_ALL]))
+THEN
+	RESPONSE #100
+		ForceSpell(LastSeenBy(Myself),DRAGON_SILENCE)
+		SetGlobal("Silence","LOCALS",1)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("NSPurpleBreath","LOCALS",4)
+THEN
+	RESPONSE #50
+		ReallyForceSpell(NearestEnemyOf(Myself),SILVER_DRAGON_BREATH_PARALIZATION)
+		SetGlobal("NSPurpleBreath","LOCALS",5)
+END
+
+
+IF
+	HPLT(Myself,100)
+	GlobalLT("MediumWounds","LOCALS",3)
+THEN
+	RESPONSE #100
+		ForceSpell(Myself,CLERIC_CURE_MEDIUM_WOUNDS)
+		IncrementGlobal("MediumWounds","LOCALS",1)
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+THEN
+	RESPONSE #100
+		EquipMostDamagingMelee()
+		AttackReevaluate(NearestEnemyOf(Myself),35)
+	RESPONSE #10
+		ForceSpell(LastSeenBy(Myself),WIZARD_CHROMATIC_ORB)
+END
+
+
+IF
+	Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		MoveToObject(NearestEnemyOf(Myself))
+END

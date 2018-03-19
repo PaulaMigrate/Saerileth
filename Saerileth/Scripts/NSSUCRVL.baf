@@ -1,0 +1,18 @@
+IF
+ True()
+THEN
+ RESPONSE #100
+  CutSceneId(Player1)
+  Wait(1)
+  SmallWait(5)
+  FaceObject("NSSUC01")
+  SmallWait(5)
+  ActionOverride("NSSUC01",FaceObject(Player1))
+  Wait(2)
+  ForceSpell("NSSUC01",HOLY_LIGHT_FROM_ABOVE)
+  SmallWait(5)
+  ActionOverride("NSSUC01",DestroySelf())
+  CreateCreature("NSSUC02",[681.273],3)
+  Wait(1)
+  StartCutScene("NSCMBRVL")
+END

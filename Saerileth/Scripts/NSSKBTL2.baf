@@ -1,0 +1,43 @@
+IF
+	OR(2)
+		Dead("Saerileth")
+		!Detect("Saerileth")
+	CombatCounter(0)
+	!Allegiance(Myself,ENEMY)
+	Global("SaerilethKorganFight","GLOBAL",1)
+	See([PC])
+THEN
+	RESPONSE #100
+		SetGlobal("SaerilethKorganFight","GLOBAL",2)
+		StartDialogueNoSet([PC])
+END
+
+IF
+	See("Saerileth")
+	!Dead("Saerileth")
+THEN
+	RESPONSE #100
+		EquipMostDamagingMelee()
+		AttackReevaluate(LastSeenBy(Myself),30)
+END
+
+IF
+	AttackedBy([ANYONE],DEFAULT)
+THEN
+	RESPONSE #100
+		Attack(LastAttackerOf(Myself))
+END
+
+IF
+	OR(2)
+		Dead("Saerileth")
+		!Detect("Saerileth")
+	CombatCounter(0)
+	Global("SaerilethKorganFight","GLOBAL",1)
+	!See([PC])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END
+
+

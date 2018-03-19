@@ -1,0 +1,668 @@
+IF
+ InParty(Myself)
+ Global("SaerilethChaIncrease","LOCALS",1)
+ Global("NSWeddingChat","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSWeddingChat","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("NSSexySaeri","LOCALS",1)
+THEN
+ RESPONSE #100
+  ApplySpellRES("saerspl1",Myself)
+  SetGlobal("NSSexySaeri","LOCALS",2)
+  SetGlobalTimer("NSSweetSaeri","LOCALS",ONE_DAY)
+END
+
+
+
+IF
+ Global("NSSexySaeri","LOCALS",2)
+ GlobalTimerExpired("NSSweetSaeri","LOCALS")
+THEN
+ RESPONSE #100
+  ApplySpellRES("saerspl2",Myself)
+  SetGlobal("NSSexySaeri","LOCALS",0)
+END
+
+
+
+IF
+ Dead("CHALRV01")
+ Global("SaerilethRavager","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("SaerilethRavager","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ AreaCheck("AR6100")
+ Global("NSSaerilethEnclaveTalk","LOCALS",0)
+THEN
+ RESPONSE #100
+  IncrementGlobal("NSSaerilethEnclaveTalk","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ PartyHasItem("compon02")
+ Global("NSEyeofTyrTalk","LOCALS",0)
+THEN
+ RESPONSE #100
+  IncrementGlobal("NSEyeofTyrTalk","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ Global("SaerilethChaIncrease","LOCALS",0)
+THEN
+ RESPONSE #100
+ SetGlobal("SaerilethChaIncrease","LOCALS",1)
+ ReallyForceSpell("Saerileth",GAIN_ONE_CHA_PERMANENT)
+ ReallyForceSpell("Saerileth",GAIN_ONE_CHA_PERMANENT)
+END
+
+
+
+IF
+ InParty(Myself)
+ AreaCheck("AR6400")
+ Global("NSSaerilethFieldsLT","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaerilethFieldsLT","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ Global("NSDidSuccubusRomance","GLOBAL",1)
+ Global("NSBrokenHeart","GLOBAL",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSBrokenHeart","GLOBAL",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ Global("NSDidSuccubusNoRomance","GLOBAL",1)
+ Global("NSSaerilethScolds","GLOBAL",0)
+ PartyRested()
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaerilethScolds","GLOBAL",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Dead("Saerileth")
+ GlobalGT("NSBrokenHeart","GLOBAL",0)
+ GlobalLT("NSBrokenHeart","GLOBAL",3)
+THEN
+ RESPONSE #100
+  SetGlobal("NSBrokenHeart","GLOBAL",3)
+  LeaveParty()
+END
+
+
+
+IF
+ OR(2)
+ Dead("sarmag01")
+ Dead("sarcnt01")
+ Global("NSMiscarriedJustice","LOCALS",0)
+ !Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSMiscarriedJustice","LOCALS",1)
+ SetGlobal("SaerilethSplits","GLOBAL",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ OR(2)
+ Dead("sarmag01")
+ Dead("sarcnt01")
+ Global("NSMiscarriedJustice","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSMiscarriedJustice","LOCALS",1)
+ SetGlobal("NSEvilRomanceTOB","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ OR(2)
+ Global("NSTalkedToSuc","GLOBAL",1)
+ Global("NSTalkedToSucF","GLOBAL",1)
+ Global("NSSaeriSuccubus","GLOBAL",0)
+ AreaCheck("AR5500")
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaeriSuccubus","GLOBAL",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ PartyHasItem("PLOT18A")
+ AreaCheck("AR5000")
+ Global("NSSaeriHectan","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaeriHectan","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("zGorDemoJob","GLOBAL",1)
+ Global("NSDemogorgonWarningTOB","LOCALS",0)
+ !Global("NSDemogorgonWarningSOA","GLOBAL",2)
+ AreaCheck("AR3000")
+THEN
+ RESPONSE #100
+  SetGlobal("NSDemogorgonWarningTOB","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("KnightsDead","GLOBAL",1)
+ !PartyHasItem("PLOT01Q")
+ Global("NSDemogorgonLooseTOB","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSDemogorgonLooseTOB","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ Global("BeginChallenge1","GLOBAL",11)
+ Global("NSReckoningLT","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("NSReckoningLT","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ Global("BeginChallenge4","GLOBAL",6)
+ Global("NSCyricLT","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("NSCyricLT","LOCALS",1)
+  Wait(10)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+Alignment(Player1,MASK_GOOD)
+Gender(Player1,MALE)
+Global("SaerilethTOBCheck","LOCALS",0)
+OR(3)
+ Race(Player1,HUMAN)
+ Race(Player1,HALF_ELF)
+ Race(Player1,ELF)
+THEN
+ RESPONSE #100
+  RealSetGlobalTimer("SaerilethLoveTalkTimeTOB","GLOBAL",1000)
+  SetGlobal("SaerilethLoveTalkTOB","LOCALS",1)
+  SetGlobal("SaerilethTOBCheck","LOCALS",1)
+END
+
+
+
+IF
+  InParty(Myself)
+  RealGlobalTimerExpired("SaerilethLoveTalkTimeTOB","GLOBAL")
+  Global("SaerilethRomanceActive","GLOBAL",2)
+  !AreaType(DUNGEON)
+  See(Player1)
+  CombatCounter(0)
+OR(6)
+  Global("SaerilethLoveTalkTOB","LOCALS",1)
+  Global("SaerilethLoveTalkTOB","LOCALS",3)
+  Global("SaerilethLoveTalkTOB","LOCALS",7)
+  Global("SaerilethLoveTalkTOB","LOCALS",11)
+  Global("SaerilethLoveTalkTOB","LOCALS",13)
+  Global("SaerilethLoveTalkTOB","LOCALS",15)
+THEN
+ RESPONSE #100
+  IncrementGlobal("SaerilethLoveTalkTOB","LOCALS",1)
+  Interact(Player1)
+END
+
+
+
+IF
+  InParty(Myself)
+  RealGlobalTimerExpired("SaerilethLoveTalkTimeTOB","GLOBAL")
+  !Global("SaerilethRomanceActive","GLOBAL",0)
+  !Global("SaerilethRomanceActive","GLOBAL",3)
+  !AreaType(DUNGEON)
+  See(Player1)
+  CombatCounter(0)
+  !See([ENEMY])
+  !Range([NEUTRAL],10)
+OR(8)
+  Global("SaerilethLoveTalkTOB","LOCALS",2)
+  Global("SaerilethLoveTalkTOB","LOCALS",4)
+  Global("SaerilethLoveTalkTOB","LOCALS",6)
+  Global("SaerilethLoveTalkTOB","LOCALS",8)
+  Global("SaerilethLoveTalkTOB","LOCALS",10)
+  Global("SaerilethLoveTalkTOB","LOCALS",12)
+  Global("SaerilethLoveTalkTOB","LOCALS",14)
+  Global("SaerilethLoveTalkTOB","LOCALS",16)
+THEN
+ RESPONSE #100
+   RealSetGlobalTimer("SaerilethLoveTalkTimeTOB","GLOBAL",2400)
+   IncrementGlobal("SaerilethLoveTalkTOB","LOCALS",1)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",1)
+OR (9)
+Global("E3FadeRomanceActive","GLOBAL",2)
+Global("imoenromanceactive","GLOBAL",2)
+Global("JaheiraRomanceActive","GLOBAL",2)
+Global("AerieRomanceActive","GLOBAL",2)
+Global("ViconiaRomanceActive","GLOBAL",2)
+Global("TashiaRomanceActive","GLOBAL",2)
+Global("ChrystaRomanceActive","GLOBAL",2)
+Global("NaliaRomanceActive","GLOBAL",2)
+Global("SimeRomanceActive","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("SaerilethRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("imoenromanceactive","GLOBAL",1)
+Global("imoenromanceactive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("imoenromanceactive","GLOBAL",4)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("E3FadeRomancAactive","GLOBAL",1)
+Global("E3FadeRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("E3FadeRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("JaheiraRomancAactive","GLOBAL",1)
+Global("JaheiraRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("JaheiraRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("AerieRomancAactive","GLOBAL",1)
+Global("AerieRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("AerieRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("TashiaRomancAactive","GLOBAL",1)
+Global("TashiaRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("TashiaRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("ViconiaRomanceActive","GLOBAL",1)
+Global("ViconiaRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("ViconiaRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("NaliaRomanceActive","GLOBAL",1)
+Global("NaliaRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("NaliaRomanceActive","GLOBAL",3)
+END
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("ChrystaRomanceActive","GLOBAL",1)
+Global("ChrystaRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("ChrystaRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+Global("SaerilethRomanceActive","GLOBAL",2)
+OR (2)
+Global("SimeRomanceActive","GLOBAL",1)
+Global("SimeRomanceActive","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("SimeRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+  InParty(Myself)
+  GlobalGT("SolaTalk","GLOBAL",14)
+OR(2)
+  Global("SaerilethRomanceActive","GLOBAL",1)
+  Global("SaerielthRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("SaerilethRomanceActive","GLOBAL",3)
+END
+
+
+
+IF
+ HasItem("nsamul",Myself)
+ Global("SaerilethRomanceActive","GLOBAL",3)
+ Global("NSGiveNecklace","LOCALS",2)
+THEN
+ RESPONSE #100
+ TakePartyItem("nsamul")
+ DestroyItem("nsamul")
+ GiveItemCreate("nsamul",Player1,0,0,0)
+END
+
+
+
+IF
+   !HasItem("nsamul",Myself)
+   OR(2)
+   Global("SaerilethRomanceActive","GLOBAL",1)
+   Global("SaerilethRomanceActive","GLOBAL",2)
+   Global("NSGiveNecklace","LOCALS",2)
+   OR(6)
+      HasItem("nsamul",Player1)
+      HasItem("nsamul",Player2)
+      HasItem("nsamul",Player3)
+      HasItem("nsamul",Player4)
+      HasItem("nsamul",Player5)
+      HasItem("nsamul",Player6)
+THEN
+   RESPONSE #100
+     ActionOverride(Player1,GiveItem("nsamul","Saerileth"))
+     ActionOverride(Player2,GiveItem("nsamul","Saerileth"))
+     ActionOverride(Player3,GiveItem("nsamul","Saerileth"))
+     ActionOverride(Player4,GiveItem("nsamul","Saerileth"))
+     ActionOverride(Player5,GiveItem("nsamul","Saerileth"))
+     ActionOverride(Player6,GiveItem("nsamul","Saerileth"))
+END
+
+
+
+IF
+ Alignment(Player1,MASK_EVIL)
+ Global("NSEvilRomanceTOB","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("NSEvilRomanceTOB","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Alignment(Player1,MASK_GENEUTRAL)
+ Global("NSNeutralRomanceTOB","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("NSNeutralRomanceTOB","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Alignment(Player1,MASK_EVIL)
+ Global("SaerilethSplits","GLOBAL",0)
+ !Global("SaerilethRomanceActive","GLOBAL",1)
+ !Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("SaerilethSplits","GLOBAL",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ ReputationLT(Player1,9)
+ Global("NSEvilRomanceTOB","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSEvilRomanceTOB","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ ReputationLT(Player1,9)
+ Global("SaerilethSplits","GLOBAL",0)
+ !Global("SaerilethRomanceActive","GLOBAL",1)
+ !Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("SaerilethSplits","GLOBAL",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+  HotKey(L)
+THEN
+  RESPONSE #100
+    StartCutSceneMode()
+    StartCutScene("SAERIFIX")
+END
+
+
+
+IF
+ PartyHasItem("c2sw2h02")
+ Global("SaerilethSplits","LOCALS",0)
+ !Global("SaerilethRomanceActive","GLOBAL",1)
+ !Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+ SetGlobal("SaerilethSplits","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ PartyHasItem("c2sw2h02")
+ Global("NSEvilRomanceTOB","LOCALS",0)
+ Global("SaerilethRomanceActive","GLOBAL",2)
+THEN
+ RESPONSE #100
+  SetGlobal("NSEvilRomanceTOB","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ HasItem("sw2h08",Myself)
+THEN
+ RESPONSE #100
+  DestroyItem("sw2h08")
+  GiveItemCreate("NSBRKSW","Saerileth",0,0,0)
+END
+
+
+
+IF
+ Global("SaerilethRomanceActive","GLOBAL",2)
+ Global("SuccubusMove","GLOBAL",1)
+ AreaCheck("AR3015")
+ Global("NSKissSucTOB","LOCALS",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSKissSucTOB","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ Dead("Demogor2")
+ GlobalLT("NSPostDemogorJargonSOA","LOCALS",1)
+ Global("NSPostDemogorJargonTOB","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSPostDemogorJargonTOB","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ InParty(Myself)
+ Dead("Demogor2")
+ AreaCheck("AR3000")
+ GlobalLT("NSGiftofTyrSOA","LOCALS",1)
+ Global("NSGiftofTyrTOB","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSGiftofTyrTOB","LOCALS",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ HasItem("ax1h08",Myself)
+THEN
+ RESPONSE #100
+ SetGlobal("NSHangardTOB","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+IF
+ HasItem("ax1h10",Myself)
+THEN
+ RESPONSE #100
+ SetGlobal("NSAzuredgeTOB","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+IF
+ HasItem("dagg12",Myself)
+THEN
+ RESPONSE #100
+ SetGlobal("NSFiretoothTOB","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ HasItem("ring39",Myself)
+ Global("NSRingofGaxxTOB","LOCALS",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSRingofGaxxTOB","LOCALS",1)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ HasItem("ring39",Myself)
+ Global("NSRingofGaxxTOB","LOCALS",2)
+THEN
+ RESPONSE #100
+ SetGlobal("NSRingofGaxxTOB","LOCALS",3)
+ StartDialogueNoSet(Player1)
+END

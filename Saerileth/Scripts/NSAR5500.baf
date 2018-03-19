@@ -1,0 +1,41 @@
+IF
+  InParty("Saerileth")
+  Global("NSCAMB02Exists","AR5500",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSCAMB02Exists","AR5500",1)
+  CreateCreature("NSCAMB02",[3078.1508],0)
+END
+
+
+
+IF
+  InParty("Saerileth")
+  Global("NSPREY01Exists","AR5500",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSPREY01Exists","AR5500",1)
+  CreateCreature("NSPREY01",[3007.1550],9)
+END
+
+
+
+IF
+  InParty("Saerileth")
+  Global("NSPREY02Exists","AR5500",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSPREY02Exists","AR5500",1)
+  CreateCreature("NSPREY02",[3065.1556],8)
+END
+
+
+
+IF
+  InParty("Saerileth")
+  Global("NSPREY03Exists","AR5500",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSPREY03Exists","AR5500",1)
+  CreateCreature("NSPREY03",[3125.1542],7)
+END

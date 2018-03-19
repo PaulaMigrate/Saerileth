@@ -1,0 +1,191 @@
+@0    = ~Chéri, Tyr a entendu ta voix et je suis revenue à toi!~ [SAERI161]
+@1    = ~Ah, mon amour, ma vie! Pour cette délivrance, Tyr aura toujours mon obéissance et mon dévouement, et toi, mon coeur. Toujours.~ [SAERI162]
+@2    = ~(Saerileth entoure ses bras autour de votre nuque et vous étreint.)~
+@3    = ~<CHARNAME>! Ah, je savais que tu viendrais pour moi! Mon amour!~ [SAERI163]
+@4    = ~Je ne pouvais pas te laisser aux démons, Saerileth, mais je n'ai plus besoin de toi..~
+@5    = ~Ma chérie! Bien sur que je viendrais pour toi. Je ne pourrais pas vivre sans toi!~
+@6    = ~Je ne savais pas à quel point je t'aimais jusqu'à ce que tu sois enlevée de moi, Saerileth.~
+@7    = ~Sortons d'ici!~
+@8    = ~Quoi? Tu me quitterais après tout ceci?~
+@9    = ~Tu peux partir avec Edorem.~
+@10   = ~En reconsidérant l'idée, j'ai besoin de toi.~
+@11   = ~Tu l'auras voulu, mon amour. Je te garderai toujours dans mon coeur.~
+@12   = ~Tu m'as vraiment effrayé, <CHARNAME>.~
+@13   = ~Ni moi sans toi. (Saerileth embrasse votre joue.) Je te remercie, chéri.~
+@14   = ~Et maintenant retournons à Toril.~
+@15   = ~Oh mon coeur est rempli de joie! Tu m'a donné la vie, et avec cela, ton amour!~
+@16   = ~(Saerileth embrasse votre main.) Chéri <CHARNAME>. Mais nous nous réjouirons plus tard. Nous avons beaucoup à nous dire, mais pour l'heure rentrons à Toril.~
+@17   = ~Comme toujours, tu parles sagement. Allons y.~
+@18   = ~<CHARNAME>! Sir Edorem! (Le visage de Saerileth est rempli de joie, et ses yeux cobalts fixent le chevalier pendant un long moment, avant de se tourner vers vous.)~
+@19   = ~Tu as ma gratitude éternelle, <CHARNAME>. Mais viens, quittons cet endroit.~ [SAERI164]
+@20   = ~Bien. Partons d'ici!~
+@21   = ~Tu es bon, <CHARNAME>, et si tu me refuses ta compagnie, Tyr m'adressera une autre voie..~
+@22   = ~Je te suis reconnaissante, <CHARNAME>. La volonté de Tyr est que je voyage encore avec toi.~
+@23   = ~(Le regard de Saerileth est fixé sur le visage d'Edorem tandis qu'elle parle, malgré le fait qu'elle s'adresse à vous.).)~
+@24   = ~Tu parles sagement. Allons y. (Ses yeux s'attardent encore sur le visage d'Edorem tandis qu'elle parle.)~
+@25   = ~Korgan a reçu ce qu'il méritait. Accepterais tu toujours de m'avoir à tes cotés?~
+@26   = ~Bien sur, Saerileth. Je suis heureux que tu te sois vengée toi-même~
+@27   = ~Tu es aussi sanguinaire que lui. Hors de ma vue!~
+@28   = ~Je qui peinée que tu sois aussi dégoûté de moi. Porte toi bien, <CHARNAME>.~
+@29   = ~M'écarteras-tu alors que ma quête n'est pas encore accomplie??~ [SAERI165]
+@30   = ~C'est cela. Va te promener.~
+@31   = ~Je suis désolé mais il n'y a de place pour toi maintenant. Attends ici, je reviendrai pour toi.~
+@32   = ~Bien sur que non. J'ai fait une erreur.~
+@33   = ~Une telle discourtoisie te convient. Porte toi bien.~
+@34   = ~Je ne peux pas le faire. L'Ordre de Tyr ne peut être retardé, et son commandement ne peut être évité.~
+@35   = ~Bien, alors je te verrai plus tard.~
+@36   = ~Dans ce cas, reste s'il te plaît.~
+@37   = ~Je *suppose* que tu peux rester, alors!~
+@38   = ~Il est bien que je me sépare de quelqu'un d'aussi déloyal que toi.~
+@39   = ~Je vois où en sont les choses entre nous ,et ne resterai pas plus longtemps que nécessaire.~
+@40   = ~Notre voyage ensemble touche donc à sa fin?~ [SAERI166]
+@41   = ~Oui, nous devons nous séparer. Porte toi bien.~
+@42   = ~Alors je retournerai au Mont Céleste.~
+@43   = ~<CHARNAME>! Pour quelle raison voudrais-tu m'écarter et me séparer de mon coeur?~ [SAERI167]
+@44   = ~Je n'ai rien dit de la sorte, Saerileth. Tu as du te tromper.~
+@45   = ~Désolé, Saerileth. Je sais que nous avons eu une grande chose, mais maintenant, c'est terminé.~
+@46   = ~Cruel, cruel <CHARNAME>! (Saerileth se tourne et s'éloigne en courant de vous.)~
+@47   = ~Avoir levé ma main contre un prêtre d'Helm me fend le coeur.~
+@48   = ~Je prie pour que son âme trouve au moins la paix.~
+@49   = ~Oui, c'est malheureux, mais nous devons le laisser derrière nous maintenant. Allons y.~
+@50   = ~Je ne peux pas croire que tu aies tué Anomen! Pars. J'aurais préféré que tu sois morte à sa place.~
+@51   = ~Mon amour! Tu vas bien? Damne cet Anomen pour avoir levé sa main contre toi! Viens, nous devons y aller.~
+@52   = ~Saerileth, Je suis heureux de voir que tu vas bien. Viens, allons y.~
+@53   = ~Je suis désolée que tu ne possèdes plus ma compagnie. Tu es--injuste de me chasser pour m'être défendue.~
+@54   = ~(Saerileth pâlit.) Tu es--injuste de me chasser pour m'être défendue.~
+@55   = ~Cruel, cruel <CHARNAME>! Je t'ai donné mon coeur, mais tu l'as écrasé.~
+
+
+
+@5000 = ~Le Deva Déchu
+
+J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+
+@5001 = ~Le Deva Déchu
+
+J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle semble assez emballée avec moi. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+
+@5002 = ~Saerileth Enlevée
+
+Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Premièrement nous devons chercher Jharak dans la cité de Sigil, de manière à obtenir de lui le sceptre de Tyr.~
+
+@5003 = ~Saerileth Enlevée
+
+Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immédiatement.~
+
+@5004 = ~Saerileth Enlevée
+
+Saerileth a été enlevée par un puissant seigneur démon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissé à son sort.~
+
+@5005 = ~Saerileth Enlevée
+
+Nous avons trouvé Jharak, mais il nous a envoyé rapporter une clé avant de nous dire la localisation du sceptre de Tyr.~
+
+@5006 = ~Saerileth Enlevée
+
+Nous avons trouvé la clé, et nous allons retourner voir Jharak avec elle de suite.~
+
+@5007 = ~Saerileth Enlevée
+
+Jharak nous a envoyé parler avec le tavernier, qui possède le Sceptre.~
+
+@5008 = ~Saerileth Enlevée
+
+Nous avons obtenu le Sceptre de Tyr. L'âme de Saerileth est en danger, et nous devons nous dépêcher de rejoindre Edorem aussi vite que possible.~
+
+@5009 = ~Saerileth Secourue
+
+Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+
+@5010 = ~Saerileth Secourue
+
+Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. J'ai sorti Saerileth de mon groupe, et elle est restée dans les Plans. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+
+@5011 = ~Le Deva Déchu
+
+Nous avons trouvé Kesevar le Déchu, mais il affirme que sa punition est imméritée. Il a été envoyé à la recherche de la seule personne qui peut témoigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
+
+@5012 = ~Le Deva Déchu
+
+Gunshain, comme cela s'est produit, a révélé le nom de Kesevar, mais il a aussi tenté de nous tuer! Nous l'avons expédié, et nous devons retourner voir Kesevar rapidement.~
+
+@5013 = ~Le Deva Déchu
+
+Saerileth a déclaré Kesevar innocent, et sa proclamation a fait immédiatement effet. Le déva a repris sa splendeur, et Saerileth reste en ma compagnie.~
+
+@5014 = ~Le Deva Déchu
+
+Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+
+@5015 = ~Le Deva Déchu
+
+Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+
+@5016 = ~Delilah la Courtisane
+
+Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sérieux scrupules à propos des hommes qui sont allés la voir.~
+
+@5017 = ~Delilah la Courtisane
+
+Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sérieux scrupules à propos des hommes qui sont allés la voir.~
+
+@5018 = ~Delilah la Courtisane
+
+J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! Mon adultère a brisé le coeur de Saerileth, et elle est morte. La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+
+@5019 = ~Delilah la Courtisane
+
+J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+
+@5020 = ~Delilah la Courtisane
+
+Saerileth m'a assuré que cette Delilah est un démon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple où nous pouvons être capable de trouver de l'aide pour dissiper les illusions démoniaques.~
+
+@5021 = ~Delilah la Courtisane
+
+J'ai refusé de venir en aide à ceux qui se sont fait attrapé par l'étreinte du démon. Ils ont apporté leur destin sur eux mêmes. Saerileth est attristée, mais approuve que leur punition est juste.~
+
+@5022 = ~Delilah la Courtisane
+
+J'ai reçu du prêtre de Waukyne un parchemin qui possède la capacité de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorénavant visible.~
+
+@5023 = ~Delilah la Courtisane
+
+La magie du parchemin a été un véritable succès. Qu'il s'agisse de la magie du parchemin ou des prières de Saerileth, je n'en suis pas certain. Cependant, cela a marché, et les démon a été forcé d'abandonner leur plan et de retourner aux Abysses.~
+
+@5024 = ~Vaincre Khalabaxin
+
+J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+
+@5025 = ~Vaincre Khalabaxin
+
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+
+@5026 = ~Vaincre Khalabaxin
+
+Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+
+@5027 = ~Vaincre les vampires
+
+Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+
+@5028 = ~Vaincre les vampires
+
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+
+@5029 = ~Les vampires vaincus
+
+Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~
+
+@5030 = ~La Vampire-Fantôme Saerileth
+
+Saerileth m'a été prise, mais Bodhi n'a pas réussi à la dominer complètement. Ma chérie Saerileth est un fantôme ainsi qu'une vampire! Je dois aller voir Kesevar. Peut être qu'il peut faire appel à Tyr au nom de Saerileth.~
+
+@5031 = ~La Vampire-Fantôme Saerileth
+
+Saerileth m'a été prise, mais Bodhi n'a pas réussi à la dominer complètement. Néanmoins elle a été damnée. J'étais forcé de la tuer.~
+
+@5032 = ~Saerileth Guérie
+
+Le miracle de Tyr s'est produit, et ma Saerileth m'est revenue, n'étant plus mort-vivante! Elle est une fois de plus à mes côtés, là où elle fait partie.~
+

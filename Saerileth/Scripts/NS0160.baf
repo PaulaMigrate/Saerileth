@@ -1,0 +1,178 @@
+IF
+  Global("NSALUF01Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSALUF01Exists","NS0160",1)
+ CreateCreature("NSALUF01",[1183.1552],4)
+END
+
+IF
+  Global("NSCAMB01Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSCAMB01Exists","NS0160",1)
+ CreateCreature("NSCAMB01",[860.1588],1)
+END
+
+IF
+  Global("NSCOM002Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSCOM002Exists","NS0160",1)
+ CreateCreature("NSCOM002",[1360.2090],6)
+END
+
+IF
+  Global("NSCOM003Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSCOM003Exists","NS0160",1)
+ CreateCreature("NSCOM003",[1876.2045],9)
+END
+
+IF
+  Global("NSCOM005Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSCOM005Exists","NS0160",1)
+ CreateCreature("NSCOM005",[2466.2853],5)
+END
+
+IF
+  Global("NSDEVA01Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDEVA01Exists","NS0160",1)
+ CreateCreature("NSDEVA01",[1239.3278],1)
+END
+
+IF
+  Global("NSHARL01Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSHARL01Exists","NS0160",1)
+ CreateCreature("NSHARL01",[1305.2402],7)
+END
+
+IF
+  Global("NSHOUNDExists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSHOUNDExists","NS0160",1)
+ CreateCreature("NSHOUND",[1192.1061],9)
+END
+
+IF
+  Global("NSMAGE01Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSMAGE01Exists","NS0160",1)
+ CreateCreature("NSMAGE01",[750.1244],4)
+END
+
+IF
+  Global("NSMRCH01Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSMRCH01Exists","NS0160",1)
+ CreateCreature("NSMRCH01",[2110.1127],7)
+END
+
+IF
+  Global("NSPLANETExists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSPLANETExists","NS0160",1)
+ CreateCreature("NSPLANET",[2355.1572],6)
+END
+
+IF
+  Global("NSTIEF02Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSTIEF02Exists","NS0160",1)
+ CreateCreature("NSTIEF02",[2934.1763],6)
+END
+
+IF
+  Global("NSZOMB06Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB06Exists","NS0160",1)
+ CreateCreature("NSZOMB06",[3510.1936],7)
+END
+
+IF
+  Global("NSZOMB07Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB07Exists","NS0160",1)
+ CreateCreature("NSZOMB07",[2184.2027],8)
+END
+
+IF
+  Global("NSZOMB08Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB08Exists","NS0160",1)
+ CreateCreature("NSZOMB08",[2272.1008],6)
+END
+
+IF
+  Global("NSZOMB09Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB09Exists","NS0160",1)
+ CreateCreature("NSZOMB09",[2381.1260],9)
+END
+
+IF
+  Global("NSZOMB10Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB10Exists","NS0160",1)
+ CreateCreature("NSZOMB10",[433.1338],2)
+END
+
+IF
+  Global("NSDUST05Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDUST05Exists","NS0160",1)
+ CreateCreature("NSDUST05",[430.1500],5)
+END
+
+IF
+  Global("NSDUST06Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDUST06Exists","NS0160",1)
+ CreateCreature("NSDUST06",[420.2090],6)
+END
+
+IF
+  Global("NSDUST07Exists","NS0160",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDUST07Exists","NS0160",1)
+ CreateCreature("NSDUST07",[1420.2242],9)
+END
+
+IF
+  Global("NSMONExists","NS0160",0)
+  Global("NSGetMon","GLOBAL",1)
+THEN
+ RESPONSE #100
+ SetGlobal("NSMONExists","NS0160",1)
+ CreateCreature("NSMON",[2188.2911],1)
+END
+
+IF
+  Global("NSHDBudExists","NS0160",0)
+  InParty("Haerdalis")
+THEN
+ RESPONSE #100
+ SetGlobal("NSHDBudExists","NS0160",1)
+ CreateCreature("NSHDBUD",[1270.3290],1)
+END
+

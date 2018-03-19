@@ -1,0 +1,7 @@
+IF
+ Global("NSSaeriSuccubus","GLOBAL",6)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaeriSuccubus","GLOBAL",7)
+  ReallyForceSpell("NSCAMB03",DRYAD_TELEPORT)
+END

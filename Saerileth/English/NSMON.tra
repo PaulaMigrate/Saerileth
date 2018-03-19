@@ -1,0 +1,183 @@
+@0    = ~Drink hemlock and die, Clueless!~
+@1    = ~Well, it looks like someone needs to be taught some manners.~
+@2    = ~You are Mon, are you not?~
+@3    = ~I seek a portal key. Hand it over, and I will spare your life!~
+@4    = ~I seek a portal key. Would you know where I can purchase one?~
+@5    = ~And are you my instructor today, berk?~
+@6    = ~That's it. Time to die scumbag!~
+@7    = ~I could be, but I'd much rather negotiate with you.~
+@8    = ~No, and you're lucky I'm not. Just give me the key I know you have, and I will let you live.~
+@9    = ~No, and you're lucky I'm not. All I want to do is buy a portal key to Ysgaard off you.~
+@10   = ~I am. What's it to you, berk?~
+@11   = ~What a barmy bastard you are! Strength of arm doesn't rule the Cage, you obtuse piece of flotsam! You gotta know the dark.~
+@12   = ~Perhaps it does not rule the Cage, but it will end *your* life!~
+@13   = ~All right already. How much do you want for the portal key to Ysgaard?~
+@14   = ~I might. Where do you want to go?~
+@15   = ~Ysgaard. How much do you want for the key?~
+@16   = ~Back home to Toril.~
+@17   = ~Actually, I've reconsidered. I think I'll just kill you for it.~
+@18   = ~Yer just gonna be another notch on my belt, Clueless!~
+@19   = ~Very well. What do you want?~
+@20   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that lovely black bow of yours. That, or 2500 gold. Take your pick.~
+@21   = ~OK, take the Gesen Bow.~
+@22   = ~No, I will pay the gold instead.~
+@23   = ~The price is too high. Your life is worth less, so it's time to die!~
+@24   = ~Great! And here's your key.~
+@25   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that interesting anti-magic axe of yours. That, or 2500 gold. Take your pick.~
+@26   = ~OK, take Bala's Axe.~
+@27   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that interesting ram-headed ring of yours. That, or 2500 gold. Take your pick.~
+@28   = ~OK, take the Ring of the Ram.~
+@29   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that ring of the Red Death you got there. That, or 2500 gold. Take your pick.~
+@30   = ~OK, take the Mercykiller Ring.~
+@31   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that light-blue staff of yours. That, or 2500 gold. Take your pick.~
+@32   = ~OK, take the Staff of Curing.~
+@33   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for those gold and silver bracers of yours. That, or 2500 gold. Take your pick.~
+@34   = ~OK, take the Bracers of Archery.~
+@35   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that strange-looking wand of yours. That, or 2500 gold. Take your pick.~
+@36   = ~OK, take the Wand of Wonder.~
+@37   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that green morningstar of yours. That, or 2500 gold. Take your pick.~
+@38   = ~OK, take the Wyvern's Tail.~
+@39   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that many-pronged dagger of yours. That, or 2500 gold. Take your pick.~
+@40   = ~OK, take Pixie Prick.~
+@41   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that beautiful longsword of yours. That, or 2500 gold. Take your pick.~
+@42   = ~OK, take the Blade of Roses.~
+@43   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that lightweight shortsword of yours. That, or 2500 gold. Take your pick.~
+@44   = ~OK, take Kundane.~
+@45   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for that wide, gold girdle of yours. That, or 2500 gold. Take your pick.~
+@46   = ~OK, take the Girdle of Bluntness.~
+@47   = ~Well, portal keys are valuable here in the Cage, but I'd be willing to part with one for 2500 gold. I usually prefer a trade, but you have nothing I want.~
+@48   = ~I will pay the gold.~
+@49   = ~Excellent. And here's your key.~
+@50   = ~I don't have that much. I will come back later.~
+@51   = ~I doubt you get the jink in time. I'm leaving the Hive before too long.~
+@52   = ~Tough, Clueless. I don't even *want* a key to the Prime! If you don't have the sense to stay in the Planes, then quit rattlin' yer bone-box!~
+@53   = ~That is *it*! Time to die!~
+@54   = ~What about Ysgaard? How much for a key to go there?~
+@55   = ~So do you have the jink, berk?~
+@56   = ~No, and I've decided to kill you instead!~
+@57   = ~Yes, I have. Here you go.~
+@58   = ~No, but I plan to.~
+@59   = ~You leatherheaded Clueless!~
+@60   = ~You'd better hurry, berk. I'm heading for the Festhall in a bit.~
+
+
+
+@5000 = ~The Fallen Deva
+
+I have taken a young paladin of Tyr named Saerileth into my party. She is searching for a fallen deva and has been told that she will find him by traveling with the Bhaalspawn. No other details are available.~
+
+@5001 = ~The Fallen Deva
+
+I have taken a young paladin of Tyr named Saerileth into my party. She seems quite taken with me.  She is searching for a fallen deva and has been told that she will find him by traveling with the Bhaalspawn. No other details are available.~
+
+@5002 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. We have joined forces with a knight of Tyr to try to rescue her. First we must seek out Jharak in the city of Sigil, to obtain from him the Scepter of Tyr.~
+
+@5003 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. We have joined forces with a knight of Tyr to try to rescue her. We are to set off for Baator immediately.~
+
+@5004 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. It is too dangerous to try to rescue her. We have left her to her fate.~
+
+@5005 = ~Saerileth Abducted
+
+We have found Jharak, but he has sent us to fetch a portal before he will tell us the location of the Scepter of Tyr.~
+
+@5006 = ~Saerileth Abducted
+
+We have found the key, a lock of hair, and we are to return to Jharak with it at once.~
+
+@5007 = ~Saerileth Abducted
+
+Jharak has sent us to speak to the barkeep, who has the Scepter.~
+
+@5008 = ~Saerileth Abducted
+
+We have at last obtained the Scepter of Tyr. Saerileth's soul is in danger, and we must hurry to Edorem as quickly as possible.~
+
+@5009 = ~Saerileth Rescued
+
+We have rescued Saerileth from the devil-lord Glourkist, and we are safely on Toril once more. Lord Edorem, the paladin of Tyr, has given us a hammer in gratitude for saving Saerileth.~
+
+@5010 = ~Saerileth Rescued
+
+We have rescued Saerileth from the devil-lord Glourkist, and we are safely on Toril once more. I released Saerileth from following me, and she has remained in the Planes. Lord Edorem, the paladin of Tyr, has given us a hammer in gratitude for saving Saerileth.~
+
+@5011 = ~The Fallen Deva
+
+We have found Kesevar the Fallen, but he claims that his punishment is undeserved. He has sent in search of the only witness who can testify to his innocence: a Bhaalspawn by the name of Gunshain.~
+
+@5012 = ~The Fallen Deva
+
+Gunshain, as it turns out, did clear Kesevar's name, but he also tried to kill us! We have dispatched him, and we must return to Kesevar quickly.~
+
+@5013 = ~The Fallen Deva
+
+Saerileth has pronounced Kesevar innocent, and her proclamation has taken immediate effect. The deva is restored to his former glory, and Saerileth remains in my company.~
+
+@5014 = ~The Fallen Deva
+
+It seems that Kesevar was not guilty after all. For destroying him, Saerileth has lost the grace of Tyr. My love has gone back to the Planes to try to atone for her failure. I will never see her again.~
+
+@5015 = ~The Fallen Deva
+
+It seems that Kesevar was not guilty after all. For destroying him, Saerileth has lost the grace of Tyr. The young paladin has gone back to the Planes to try to atone for her failure. I will never see her again.~
+
+@5016 = ~Delilah the Harlot
+
+A man in Amkethran is proclaiming that Delilah, whom he claims to be the most beautiful woman in these lands, is selling the pleasures of her bed in the Inn here. My wife, Saerileth, and I have grave misgivings about the fate of the men who went to see her.~
+
+@5017 = ~Delilah the Harlot
+
+A man in Amkethran is proclaiming that Delilah, whom he claims to be the most beautiful woman in these lands, is selling the pleasures of her bed in the Inn here. I have grave misgivings about the fate of the men who went to see her.~
+
+@5018 = ~Delilah the Harlot
+
+I succumbed to the charms of Delilah, only to discover that she is a succubus! My adultery broke Saerileth's heart, and she is dead. The succubus has returned to the Abyss, and I am less than the man I was before.~
+
+@5019 = ~Delilah the Harlot
+
+I succumbed to the charms of Delilah, only to discover that she is a succubus! The succubus has returned to the Abyss, and I am less than the man I was before.~
+
+@5020 = ~Delilah the Harlot
+
+Saerileth has assured me that this Delilah is a demon, but we cannot slay her without damning the men who are with her. We must find a temple where we may be able to find aid in piercing demonic illusions.~
+
+@5021 = ~Delilah the Harlot
+
+I have refused to help those lechers caught in the embrace of the demons. They brought their fate upon themselves. Saerileth is saddened, but she agrees that their punishment is just.~
+
+@5022 = ~Delilah the Harlot
+
+I have received from the priest of Waukeen a scroll which has the ability to cancel illusions. Whether its power will work against the magicks of hell is yet to be seen.~
+
+@5023 = ~Delilah the Harlot
+
+The magic of the scroll was successful. Whether it was the scroll itself or the prayers of Saerileth, I do not know for sure. Nevertheless, it worked, and the demons were forced to abandon their plans and return to the Abyss.~
+
+@5024 = ~Defeating Khalabaxin
+
+I have accepted Sir Havun Clarenshide's request for aid against the dragon Khalabaxin. I will find him near his newly-acquired lair, the cave beyond the river in the Umar Hills.~
+
+@5025 = ~Defeating Khalabaxin
+
+I have defeated the dragon Khalabaxin. I am now to return to the Order of the Radiant Heart and tell Sir Havun Clarenshide what has transpired.~
+
+@5026 = ~Defeating Khalabaxin
+
+I returned to the Radiant Heart with news of my defeat of the dragon Khalabaxin. The Order's work seems to be never done.~
+
+@5027 = ~Defeating the Vampires
+
+Sir Havun has informed me of the existence of a nest of vampires here in the city. I am to seek it out and destroy it. They live in the crypts beneath the graveyard. The Order will send one of their hireling wizards to aid me in breaching the lair's defenses.~
+
+@5028 = ~Defeating the Vampires
+
+I have destroyed the vampires, but the leader, Bodhi, has eluded me. She had some interesting things to say about me... She knew I was a child of Bhaal! I go now to report the destruction of the vampires to Sir Havun.~
+
+@5029 = ~Vampires Defeated
+
+I returned to the Radiant Heart with news of my defeat of the vampires. The Order has offered me passage to Spellhold as a reward!~

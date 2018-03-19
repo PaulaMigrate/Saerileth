@@ -1,0 +1,12 @@
+IF
+	InParty(Myself)
+	Global("SaerilethKorganFight","GLOBAL",1)
+THEN
+	RESPONSE #100
+		SetLeavePartyDialogFile()
+		LeaveParty()
+		ChangeAIScript("NSSKBTL2",CLASS)
+		ChangeAIScript("useitem",GENERAL)
+		ChangeAIScript("",DEFAULT)
+END
+

@@ -1,0 +1,20 @@
+IF
+InParty(Myself)
+AreaCheck("NS0160")
+Global("NSHaerDalisInSigil","LOCALS",0)
+THEN
+RESPONSE #100
+SetGlobal("NSHaerDalisInSigil","LOCALS",1)
+StartDialogueNoSet(Player1)
+END
+
+
+IF
+InParty(Myself)
+AreaCheck("NS0161")
+Global("NSHaerDalisInBar","LOCALS",0)
+THEN
+RESPONSE #100
+SetGlobal("NSHaerDalisInBar","LOCALS",1)
+StartDialogueNoSet(Player1)
+END

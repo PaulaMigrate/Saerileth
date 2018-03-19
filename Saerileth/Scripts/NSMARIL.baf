@@ -1,0 +1,68 @@
+IF
+ Global("GlourkistFight","GLOBAL",1)
+ Allegiance(Myself,NEUTRAL)
+THEN
+RESPONSE #100
+ Enemy()
+END
+
+
+IF
+	See(NearestEnemyOf(Myself))
+	Global("NSMarilPrep","LOCALS",0)
+THEN
+	RESPONSE #100
+		SetGlobal("NSMarilPrep","LOCALS",1)
+		DisplayString(Myself,40248) // Spell Trigger - True Sight
+		ReallyForceSpell(Myself,WIZARD_TRUE_SIGHT)
+END
+
+IF
+	GlobalLT("NSMarilHealed","LOCALS",3)
+        HPPercentLT(Myself,50)
+	See(NearestEnemyOf(Myself))
+	RandomNum(2,1)
+THEN
+	RESPONSE #100
+		IncrementGlobal("NSMarilHealed","LOCALS",1)
+                ForceSpell(Myself,CLERIC_CURE_SERIOUS_WOUNDS)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	CheckStatLT(Myself,1,STONESKINS)
+	GlobalLT("NSMarilStoneskins","LOCALS",2)
+THEN
+	RESPONSE #100
+		DisplayString(Myself,29736) // Contingency - Stoneskin
+		ReallyForceSpell(Myself,WIZARD_STONE_SKIN)
+		IncrementGlobal("NSMarilStoneskins","LOCALS",1)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+	!Range(LastSeenBy(Myself),20)
+	!CheckStatGT(LastSeenBy(Myself),50,RESISTMAGIC)
+	RandomNum(4,1)
+	Global("cloud","LOCALS",0)
+THEN
+	RESPONSE #100
+		SetGlobal("cloud","LOCALS",1)
+		SpellNoDec(NearestEnemyOf(Myself),WIZARD_CLOUDKILL)
+END
+
+
+IF
+	!See([GOODCUTOFF])
+	Allegiance(Myself,ENEMY)
+THEN
+	RESPONSE #100
+		MoveToObject(Player1)
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+THEN
+	RESPONSE #100
+		AttackReevaluate(NearestEnemyOf(Myself),30)
+END

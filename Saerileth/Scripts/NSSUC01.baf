@@ -1,0 +1,21 @@
+IF
+ OR(2)
+ Global("NSBrokenHeart","GLOBAL",3)
+ Global("NSSaerilethScolds","GLOBAL",2)
+ Global("NSSucLeave","GLOBAL",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSucLeave","GLOBAL",1)
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("NSAbandonedPrey","GLOBAL",1)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSucLeave","GLOBAL",2)
+  SetGlobal("NSAbandonedPrey","GLOBAL",2)
+  ReallyForceSpell("NSSUC01",DRYAD_TELEPORT)
+END

@@ -1,0 +1,31 @@
+IF
+  Global("GLOURKISExists","NS0162",0)
+THEN
+ RESPONSE #100
+ SetGlobal("GLOURKISExists","NS0162",1)
+ CreateCreature("GLOURKIS",[925.2283],13)
+END
+
+IF
+  Global("NSMARILExists","NS0162",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSMARILExists","NS0162",1)
+ CreateCreature("NSMARIL",[898.2449],12)
+END
+
+IF
+  Global("NSABISHExists","NS0162",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSABISHExists","NS0162",1)
+ CreateCreature("NSABISH",[2616.2235],9)
+END
+
+IF
+  Global("NSCORNUGExists","NS0162",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSCORNUGExists","NS0162",1)
+ CreateCreature("NSCORNUG",[2425.1093],7)
+END

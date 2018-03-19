@@ -1,0 +1,98 @@
+@0    = ~¿Estáis preparado para vuestro viaje?.~ ~¿Estáis preparada para vuestro viaje?.~ 
+@1    = ~Sí.~
+@2    = ~No, aún no.~ 
+@3    = ~Bien. Vamos.~
+@4    = ~Entonces por favor, regresad cuando tengáis todo listo.~ 
+@5    = ~¡Por favor apresuraos! El tiempo corre.~
+@6    = ~¿Y habéis regresado con la victoria?.~
+@7    = ~Sí, Sir Clarenshide. Khalabaxin ha muerto.~ 
+@8    = ~Sí, aunque fue muy difícil. Salimos victoriosos.~
+@9    = ~Tenéis mis gracias, <PRO_LADYLORD> <CHARNAME>. Habéis hecho un gran servicio a mí y a los inocentes a los que Khalabaxin quería destruir.~ 
+@10   = ~Con gratitud os presento algo de valor.~
+@11   = ~Buscáis a una capturada por Magos Encapuchados. No, no os hemos espiado. Vuestras hazañas no pasan desapercibidas.~
+@12   = ~Hemos logrado encontrar el sitio donde la tienen cautiva: La prisión del hechicero.~ 
+@13   = ~Sí, lo haría, pero necesito hacer cosas antes.~
+@14   = ~Sí, ¡Vamos!.~ 
+@15   = ~Muy bien, mi <PRO_LADYLORD>. Regresad cuando tengáis todo listo.~
+@16   = ~Vamos cuanto antes.~
+@17   = ~Saludos, <CHARNAME>, y bienvenido. Tengo algo que pediros, si fuerais tan amable.~ ~Saludos, <CHARNAME>, y bienvenida. Tengo algo que pediros, si fuerais tan amable.~
+@18   = ~No, no tengo ganas de hablar con vos. ¡Perdeos!.~ 
+@19   = ~¡Hablad rápido si valoráis vuestra vida!.~
+@20   = ~Saludos. Estaré feliz de escucharos.~ 
+@21   = ~¿Y vos sois?.~ 
+@22   = ~Siempre estoy listo para ayudar a un compañero luchador de mi misma fe.~
+@23   = ~Muy bien. Id en paz.~ 
+@24   = ~No hay necesidad de tal descortesía. Entiendo que gente sedienta de sangre os acorrala por todos los sitios, pero quiero que sepáis que no soy vuestro enemigo.~
+@25   = ~Así es, necesito un favor de vos. Me llaman Havun Clarenshide, y soy un sirviente de la Orden del Radiante Corazón. Uno de los nuestros ha encontrado la guarida de un draco. Dos veces intentó acercarse, y dos veces fue repelido.~
+@26   = ~¿Así que queréis que me encargue del problema por vos?.~
+@27   = ~¿¡Queréis que luche contra un dragón por vos!?.~
+@28   = ~¡Indicad donde está, no descansaré hasta matarlo!.~
+@29   = ~¡Cómo se atreve esta bestia a matar al azar a guerreros armados hasta los dientes que se meten en su guarida sin ninguna otra razón que matarlo!.~
+@30   = ~¿Qué clase de dragón es?.~
+@31   = ~Lo agradezco. Necesito un favor de vos. Me llaman Havun Clarenshide, y soy un sirviente de la Orden del Radiante Corazón. Uno de los nuestros ha encontrado la guarida de un draco. Dos veces intentó acercarse, y dos veces fue repelido.~
+@32   = ~Me llaman Havun Clarenshide, y soy un sirviente de la Orden del Radiante Corazón. Necesito un favor de vos. Uno de los nuestros ha encontrado la guarida de un draco. Dos veces intentó acercarse, y dos veces fue repelido.~
+@33   = ~Os doy la bienvenida como a un igual, guerrero de la fe y la luz. Me llaman Havun Clarenshide, y soy un sirviente de la Orden del Radiante Corazón. Necesito un favor de vos. Uno de los nuestros ha encontrado la guarida de un draco. Dos veces intentó acercarse, y dos veces fue repelido.~
+@34   = ~El dragón es impresionante, pero vuestra reputación os precede. No demando nada. Sólo pido vuestra asistencia en liberar a la tierra de tal criatura.~
+@35   = ~Muy bien, Os ayudaré.~
+@36   = ~No tengo ganas de luchar contra un dragón. Buscad a otra persona.~
+@37   = ~Me gustaría ayudar pero no tengo tiempo. ¿Puede esperar?.~
+@38   = ~¿Aceptáis el reto? ¡La Orden estará feliz de escucharlo! Id entonces a las Colinas de Umar. Allí, pasando el primer río, cerca de la cueva encontraréis al draco, Khalabaxin.~
+@39   = ~¡Tened cuidado con sus colmillos y aliento! Cuando matéis a la gran serpiente regresad al cuartel de la Orden. Os esperaré ahí.~
+@40   = ~No entendéis, <CHARNAME>. No destruimos criaturas indiscriminadamente, aunque pueda parecer tal cosa al desinformado. Protegemos a los débiles, damos cobijo a los huérfanos y las viudas y damos nuestra ayuda a quien lo necesite.~
+@41   = ~Este dragón ha destruido varias villas. Su sed de sangre está saciada por ahora, pero no sabemos por cuanto tiempo. Puede levantarse en cualquier momento para continuar con la matanza.~
+@42   = ~Muy bien, <CHARNAME>. Aunque vuestra desgana en ayudarnos es sorprendente. Id en paz entonces.~
+@43   = ~Por un tiempo, pero casi no hay ya. El dragón está descansando ahora, pero puede reanudar su matanza en cualquier momento.~
+@44   = ~Id entonces, cuando tengáis tiempo. Allí, pasando el primer río, cerca de la cueva encontraréis al draco, Khalabaxin.~
+@45   = ~¡Tened cuidado con sus colmillos y aliento! Cuando matéis a la gran serpiente regresad al cuartel de la Orden. Os esperaré ahí.~
+@46   = ~Su piel es de color púrpura. Supongo que es alguna clase de dragón gema, aunque no se cual. Tal vez amatista.~
+@47   = ~Habéis mostrado mucho valor en la cara de un poderoso mal. ¿Os interesaría colaborar con la Orden en otra tarea?.~
+@48   = ~No, gracias. Ya he tenido suficiente haciendo vuestro trabajo sucio.~
+@49   = ~Bueno, me gustaría ayudaros, pero necesito encontrar un camino hacia la prisión del hechicero. Mi amiga está cautiva ahí.~
+@50   = ~Seguro, estaré feliz de ayudaros. ¿Qué proponéis?.~
+@51   = ~Muy bien. Esta es vuestra elección y no os importunaré más. Aunque la Orden no tiene 'trabajos sucios'.~
+@52   = ~Trabajamos manteniendo la ley y sirviendo al bien. Lamento que consideréis nuestra misión una minucia.~
+@53   = ~¿La prisión del hechicero? Tal vez la Orden pueda encontrar una forma de llevaros hasta ahí. Veremos si podemos conseguir un barco.~
+@54   = ~Mientras tanto, ¿volveréis a ayudarnos?.~
+@55   = ~Sí, ¿Qué necesitáis?.~
+@56   = ~No, no quiero arriesgarme.~
+@57   = ~Hemos descubierto un nido de vampiros en Athkatla. Viven en las criptas bajo la ciudad. La Orden necesita vuestra ayuda para destruir a estos monstruos.~
+@58   = ~¡Claro! ¡Estos monstruos no deben existir!.~
+@59   = ~Destruiré a estos vampiros para la Orden.~
+@60   = ~Lo haré pero sólo si se me aseguran el pasaje a la prisión del hechicero.~
+@61   = ~¿Vampiros? ¿Muchos vampiros? ¡No!.~
+@62   = ~Entiendo. Que los dioses os protejan en vuestro camino. Buen día.~
+@63   = ~Excelente. Me complace que hayáis aceptado. Muy bien. Id al cementerio y entrad en las criptas. Un mago os estará esperando. Él abrirá la puerta que conduce a la guarida de estos monstruos.~
+@64   = ~Tenéis mi palabra de que haré lo posible para que lleguéis a la prisión del hechicero.~
+@65   = ~Mientras tanto, id al cementerio y entrad en las criptas. Un mago os estará esperando. Él abrirá la puerta que conduce a la guarida de estos monstruos.~
+@66   = ~¿Habéis tenido éxito? ¿Habéis destruido a los vampiros?.~
+@67   = ~Sí, matamos a todos menos a su líder, Bodhi. Ella se ha escapado.~
+@68   = ~No, ¡la líder ha escapado!.~
+@69   = ~Es un gran éxito, y tenéis las gracias de la Orden.~
+@70   = ~¿Cómo conocéis la existencia de la prisión del hechicero? He intentado averiguar dónde está, y ahora venís vos hablándome como si nada de un sitio llamado la prisión del hechicero.~
+@71   = ~La Orden tiene muchas fuentes y está siempre vigilante. Miramos sobre las organizaciones, como los Magos Encapuchados, que tienen un gran poder.~
+@72   = ~No me preguntéis como conozco la existencia de la prisión del hechicero. Si os lo dijera, nuestros agentes quedarían al descubierto.~
+@73   = ~Muy bien, lo respeto. Ya tengo todo listo para partir.~
+@74   = ~Ya veo. Pensaré en vuestra propuesta mientras me alisto.~
+@75   = ~<CHARNAME>, ¿nos ayudaréis a matar a este monstruo?.~
+@76   = ~Ya tenemos el barco listo, si aún deseáis ir a la prisión del hechicero.~
+@77   = ~Maté a los vampiros, ¡pero su líder tenía cosas muy interesantes que decir antes de irse! ¡Me enviasteis en una misión suicida porque soy un Engendro de Baal!.~
+@78   = ~¿Engendro de Baal? Conocíamos esos rumores, pero no tuvieron nada que ver con lo que pedimos de vos. Pedimos vuestra ayuda por vuestra fuerza.~
+@79   = ~También por vuestra reputación, la cual es honorable. ¡Y no estábamos errados, habéis conseguido la victoria!.~
+@5024 = ~Derrotando a Khalabaxin
+
+He aceptado ayudar a Sir Havun Clarenshider contra el dragón Khalabaxin. Lo encontraré cerca de su nueva guarida, la cueva después del río en las colinas de Umar.~
+@5025 = ~Derrotando a Khalabaxin
+
+He destruido al dragón Khalabaxin. Ahora voy a volver a la Orden del Corazón Radiante y a contarle a Sir Havun Clarenshide lo que ha ocurrido.~
+@5026 = ~Derrotando a Khalabaxin
+
+He vuelto al Corazón Radiante con noticias de mi victoria contra Khalabaxin. El trabajo de la Orden parece que nunca acabará.~
+@5027 = ~Derrotando a los Vampiros
+
+Sir Havun me ha informado de la existencia de una guarida de vampiros aquí en la ciudad. Tengo que buscarla y destruirla. Viven en las criptas debajo del cementerio. La Orden enviará uno de sus magos expertos para ayudarme en abrir una brecha en las defensas de la guarida.~
+@5028 = ~Derrotando a los Vampiros
+
+He destruido a los vampiros, pero la líder, Bodhi, me eludió. Tiene cosas interesantes que decir sobre mí... ¡Ella sabía que era un engendro de Baal! Ahora voy a contar la destrucción de los vampiros a Sir Havun.~
+@5029 = ~Vampiros Derrotados
+
+He vuelto al Corazón Radiante con las noticias sobre mi victoria contra los vampiros. La Orden me ha ofrecido un pasaje a la Prisión del Hechicero como recompensa.~

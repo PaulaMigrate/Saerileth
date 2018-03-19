@@ -1,0 +1,50 @@
+IF
+	Global("NSGoGetBodhi","GLOBAL",1)
+	Global("FindLassal","AR0801",0)
+	GlobalLT("Chapter","GLOBAL",%bg2_chapter_4%)
+THEN
+	RESPONSE #100
+		SetGlobal("FindLassal","AR0801",1)
+		CreateCreature("LASSAL02",[1538.1232],14)
+		CreateCreature("BODVAM01",[549.781],14)
+		CreateCreature("BODVAM02",[931.979],10)
+		CreateCreature("BODFGT01",[1678.1229],2)
+		CreateCreature("BODFGT01",[1443.1287],10)
+		CreateCreature("BODFGT02",[1623.1080],2)
+		CreateCreature("BODFGT02",[1311.1143],10)
+		CreateCreature("ARNFGT06",[1737.1485],0)
+		CreateCreature("ARNGOL01",[1671.1467],6)
+		CreateCreature("VAMFLM01",[986.583],6)
+		CreateCreature("GHOGR01",[1103.539],6)
+		CreateCreature("GHOGR01",[176.855],6)
+		CreateCreature("VAMFLM01",[280.946],6)
+		CreateCreature("GOLCLA01",[505.1389],6)
+		CreateCreature("VAMFLF01",[1991.670],6)
+		CreateCreature("BODTAN",[2121.683],6)
+END
+
+
+
+IF
+        Global("NSGoGetBodhi","GLOBAL",1)
+	Global("Coffin3","AR0801",2)
+	GlobalLT("LassalVampires","GLOBAL",3)
+THEN
+	RESPONSE #100
+		SetInterrupt(FALSE)
+		SetGlobal("LassalVampires","GLOBAL",3)
+		AddexperienceParty(9000)
+		TakePartyItem("misc6w")
+		DestroyItem("misc6w")
+		CreateVisualEffectObject("SPDEATH3","Coffin3")
+		Wait(1)
+		CreateVisualEffectObject("SPFLESH2","Coffin3")
+		CreateVisualEffect("SPCLOUD3",[480.1338])
+		Wait(1)
+		CreateVisualEffect("SPFLESHS",[480.1338])
+		Wait(1)
+		CreateCreatureDoor("NSBODHI",[480.1338],14)
+		Wait(3)
+		ActionOverride("NSBODHI",StartDialogueNoSet(Player1))
+		SetInterrupt(TRUE)
+END

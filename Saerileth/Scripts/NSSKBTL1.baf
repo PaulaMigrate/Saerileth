@@ -1,0 +1,134 @@
+IF
+	OR(2)
+		Dead("Korgan")
+		!Detect("Korgan")
+	CombatCounter(0)
+	!Allegiance(Myself,ENEMY)
+	Global("SaerilethKorganFight","GLOBAL",1)
+	See([PC])
+THEN
+	RESPONSE #100
+		SetGlobal("SaerilethKorganFight","GLOBAL",2)
+		StartDialogueNoSet([PC])
+END
+
+IF
+	OR(2)
+		Dead("Korgan")
+		!Detect("Korgan")
+	CombatCounter(0)
+	Global("SaerilethKorganFight","GLOBAL",1)
+	!See([PC])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END
+
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	HaveSpell(CLERIC_ARMOR_OF_FAITH)
+	CheckStatGT(Myself,1,ARMORCLASS)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_ARMOR_OF_FAITH)
+		Continue()
+END
+
+
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	Range("Korgan",4)
+	HPPercentLT(Myself,20)
+THEN
+	RESPONSE #100
+		RunAwayFrom(LastSeenBy(Myself),10)
+END
+
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	!Range("Korgan",4)
+	HaveSpell(CLERIC_CURE_SERIOUS_WOUNDS)
+	HPPercentLT(Myself,20)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_CURE_SERIOUS_WOUNDS)
+END
+
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	!Range("Korgan",5)
+	HaveSpell(CLERIC_CURE_MEDIUM_WOUNDS)
+	HPPercentLT(Myself,40)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_CURE_MEDIUM_WOUNDS)
+END
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	!Range("Korgan",10)
+	HaveSpell(CLERIC_CURE_LIGHT_WOUNDS)
+	HPPercentLT(Myself,50)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_CURE_LIGHT_WOUNDS)
+END
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	!Range("Korgan",4)
+	StateCheck(Myself,STATE_POISONED)
+	HaveSpell(CLERIC_NEUTRALIZE_POISON)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_NEUTRALIZE_POISON)
+END
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	!Range("Korgan",4)
+	StateCheck(Myself,STATE_POISONED)
+	HaveSpell(CLERIC_SLOW_POISON)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_SLOW_POISON)
+END
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+	!Range("Korgan",10)
+	HaveSpell(PALADIN_LAY_ON_HANDS)
+	HPPercentLT(Myself,50)
+THEN
+	RESPONSE #100
+		Spell(Myself,PALADIN_LAY_ON_HANDS)
+END
+
+IF
+	See("Korgan")
+	!Dead("Korgan")
+THEN
+	RESPONSE #100
+		EquipMostDamagingMelee()
+		AttackReevaluate(LastSeenBy(Myself),30)
+END
+
+IF
+	AttackedBy([ANYONE],DEFAULT)
+THEN
+	RESPONSE #100
+		Attack(LastAttackerOf(Myself))
+END
+

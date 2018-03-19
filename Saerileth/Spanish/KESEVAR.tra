@@ -1,0 +1,127 @@
+@0    = ~Os tomo la palabra, Elegida de Tyr. Buscad a Gunshain, ¡mi maldición me envuelve!.~ [SAERI168] 
+@1    = ~¡Bienvenida, Elegida de Tyr! ¿Habéis venido a mofaros del Caído?.~ [SAERI169]
+@2    = ~No, ¡Kesevar el Caído! Esto no es motivo de burla. He venido a traer la justicia de Tyr.~ [SAERI170] 
+@3    = ~¿Justicia? ¿En serio habéis venido por justicia y no por venganza?.~
+@4    = ~No soy sirviente de Shevarash. Pero vos habéis manchado de sangre las Veneraciones de la Justicia.~ 
+@5    = ~Por eso vuestra vida y alma están perdidas.~
+@6    = ~¡Detened vuestra mano, Elegida de Tyr! ¡Os lo ruego... es justicia lo que pido!.~
+@7    = ~(Las manos de Saerileth que estaban cerradas en el pergamino que siempre lleva se relajan.)~ 
+@8    = ~¿Qué queréis decir? Hablad, Kesevar el Caído.~
+@9    = ~(La cara del Deva delante de vos se ilumina.) ¿Me escucharéis? ¡Tyr no ha olvidado a su servidor!.~ 
+@10   = ~Qué regué de sangre las Veneraciones de la Justicia es cierto, pero si no lo hubiera hecho, sería aún más culpable.~
+@11   = ~Una mujer llegó ahí, pidiéndome ayuda. Los Acechadores de la Muerte de Baal la persiguieron hasta el Gran Anillo, y a Tyr pidió ayuda.~
+@12   = ~Estaba con su hijo, un niño de apenas un año, y los Acechadores de la Muerte querían sus vidas. Tomé mi espada y maté a quienes la perseguían.~ 
+@13   = ~Y los sellos de las Veneraciones cayeron sobre mí. Me echaron de mi lugar, y me escapé lejos de la ira de los clérigos y los Elegidos.~
+@14   = ~Escapé al Primario, sólo hasta que mi inocencia fuera probada.~ 
+@15   = ~¿Cómo puede ser? (Los ojos de la joven paladín están preocupados, y por primera vez desde que la conocéis, inciertos.)~
+@16   = ~Buscad a la mujer y a su hijo. Me enteré de que los años en el Primario pasan de forma diferente, y ahora es un hombre crecido.~
+@17   = ~Escuché su nombre y que vive dentro de los muros de esta Fortaleza. Los muros no pueden ser traspasados por aquellos de los Planos, por eso no puedo entrar.~
+@18   = ~¿Buscaréis a Gunshain, Elegida de Tyr? ¿O juzgaréis sin justicia?.~ 
+@19   = ~(Saerileth se vuelve hacia vos.) <CHARNAME>, mi corazón me dice que Kesevar puede decir la verdad. Pero dudo de mí.~
+@20   = ~Tal vez sea mi deseo de que Kesevar debe ser redimido es lo que hace que me sienta así.~ 
+@21   = ~¿Qué decís vos?.~ 
+@22   = ~No podéis arriesgar el matar a un inocente… ángel. Debéis comprobar que dice la verdad.~
+@23   = ~No podéis arriesgar que escape. Para esto habéis venido a Toril. ¡Matadlo!.~ 
+@24   = ~Os lo agradezco, Elegida de Tyr, y a vos, Engendro de Baal.~ [SAERI171]
+@25   = ~Aquí esperaré el juicio, luego de que hayáis escuchado la verdad de Gunshain.~
+@26   = ~Entonces me inclino ante mi destino, porque ya no puedo vivir lejos de Tyr.~ [SAERI172]
+@27   = ~Ah, <CHARNAME>, es en contra de mi conciencia que lo mataré... ~
+@28   = ~¡Os está influenciando! No podéis arriesgaros. ¡Matadlo!.~
+@29   = ~Tal vez tengáis razón. Debemos investigar.~
+@30   = ~(El deva inclina la cabeza derrotado.)~
+@31   = ~(Saerileth toma el pergamino en sus manos y lee la perdición de Kesevar.)~
+@32   = ~¿Os habéis encontrado con Gunshain?.~ [SAERI173]
+@33   = ~Sí, Kesevar, y el juicio que Tyr ha puesto en mis manos.~ [SAERI174]
+@34   = ~¿Qué decís vos?.~
+@35   = ~Digo que sois inocente, y se os restaurará en la gracia de Tyr.~
+@36   = ~(Saerileth toma el pergamino de la perdición de Kesevar y lo parte en dos.)~
+@5000 = ~El Deva caído
+
+He acogido a una joven paladín de Tyr llamada Saerileth en mi grupo. Está buscando un deva caído y le han dicho que lo encontraría viajando con el engendro de Baal. No hay más detalles disponibles.~
+@5001 = ~El Deva caído
+
+He acogido a una joven paladín de Tyr llamada Saerileth en mi grupo. Parece muy feliz conmigo.  Está buscando un deva caído y le han dicho que lo encontraría viajando con el engendro de Baal. No hay más detalles disponibles.~
+@5002 = ~Saerileth Secuestrada
+
+Saerileth ha sido secuestra por un demonio-lord. Hemos unido nuestras fuerzas con caballeros de Tyr para intentar rescatarla. Primero debemos buscar a Jharak en la ciudad de Sigil para conseguir el Cetro de Tyr.~
+@5003 = ~Saerileth Secuestrada
+
+Saerileth ha sido secuestra por un demonio-lord. Hemos unido nuestras fuerzas con caballeros de Tyr para intentar rescatarla. Nos hemos puesto en camino hacia Baator inmediatamente.~
+@5004 = ~Saerileth Secuestrada
+
+Saerileth ha sido secuestra por un demonio-lord. Es muy arriesgado intentar rescatarla. La hemos dejado a su destino.~
+@5005 = ~Saerileth Secuestrada
+
+Hemos encontrado a Jharak, pero él nos envió a un portal antes de decirnos la localización del Cetro de Tyr.~
+@5006 = ~Saerileth Secuestrada
+
+Hemos encontrado la llave, una cerradura de pelo, y estamos regresando a Jharak con ella inmediatamente.~
+@5007 = ~Saerileth Secuestrada
+
+Jharak nos ha enviado a hablar con el tabernero, él tiene el Cetro.~
+@5008 = ~Saerileth Secuestrada
+
+Al final hemos conseguido el Cetro de Tyr. El alma de Saerileth está en peligro, y necesitamos llegar a Edorem lo más rápido posible.~
+@5009 = ~Saerileth Rescatada
+
+Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez más. Lord Edorem, el paladín de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
+@5010 = ~Saerileth Rescatada
+
+Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez más. He relevado a Saerileth, y está esperándome en los planos. Lord Edorem, el paladín de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
+@5011 = ~El Deva caído
+
+Hemos encontrado a Kesevar el Caído, pero dice que su castigo no es merecido. Ha mandado la búsqueda del único testigo que puede atestiguar su inocencia: el engendro de Baal de nombre Gunshain.~
+@5012 = ~El Deva caído
+
+Gunshain, ha limpiado el nombre de Kesevar, ¡pero él también ha intentado matarnos! Nos hemos desecho de él, y hemos vuelto a por Kesevar rápidamente.~
+@5013 = ~El Deva caído
+
+Saerileth dijo que Kesevar era inocente, y su proclamación ha tenido efecto inmediato. El deva fue devuelto a su antigua gloria, y Saerileth se queda en mi compañía.~
+@5014 = ~El Deva caído
+
+Parece que Kesevar no es culpable después de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. Mi amor ha vuelto a los Planos para intentar expiar su pérdida. Nunca la volveré a ver.~
+@5015 = ~El Deva caído
+
+Parece que Kesevar no es culpable después de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. La joven paladín ha vuelto a los Planos para intentar expiar su pérdida. Nunca la volveré a ver.~
+@5016 = ~Delilah la Ramera
+
+Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer más hermosa de estas tierras, está vendiendo placeres con su cuerpo en la taberna local. Mi esposa, Saerileth y yo, tenemos graves dudas acerca del destino del hombre que fuera a verla.~
+@5017 = ~Delilah la Ramera
+
+Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer más hermosa de estas tierras, está vendiendo placeres con su cuerpo en la taberna local. Tengo graves dudas acerca del destino del hombre que fuera a verla.~
+@5018 = ~Delilah la Ramera
+
+Sucumbí a los encantos de Delilah, ¡sólo para descubrir que era un súcubo! Mi adulterio rompió el corazón de Saerileth, y ella está muerta. El súcubo ha vuelto al Abismo, y ya no soy el hombre que era antes.~
+@5019 = ~Delilah la Ramera
+
+Sucumbí a los encantos de Delilah, ¡sólo para descubrir que era un súcubo! El súcubo ha regresado al Abismo, y ya no soy el hombre que era antes.~
+@5020 = ~Delilah la Ramera
+
+Saerileth me aseguró que esa Delilah es un demonio, pero no podemos matarla sin destruir al hombre que está con ella. Necesitamos encontrar un templo donde tal vez podamos encontrar en las ilusiones demoníacas penetrantes.~
+@5021 = ~Delilah la Ramera
+
+Me he negado a ayudar a aquellos capturados en el abrazo de los demonios. Les acarrearon su destino. Saerileth está entristecida, pero ella reconoce que su castigo es justo.~
+@5022 = ~Delilah la Ramera
+
+He recibido del sacerdote de Waukin un hechizo con la habilidad de cancelar las ilusiones. Aún está por verse si su poder funciona con las magias del infierno.~
+@5023 = ~Delilah la Ramera
+
+El pergamino tuvo éxito. Si fue el pergamino o los rezos de Saerileth, no lo sé. Sin embargo funcionó, y los demonios fueron forzados a regresar al Abismo.~
+@5024 = ~Derrotando a Khalabaxin
+
+He aceptado ayudar a Sir Havun Clarenshider contra el dragón Khalabaxin. Lo encontraré cerca de su nueva guarida, la cueva después del río en las colinas de Umar.~
+@5025 = ~Derrotando a Khalabaxin
+
+He destruido al dragón Khalabaxin. Ahora voy a volver a la Orden del Corazón Radiante y a contarle a Sir Havun Clarenshide lo que ha ocurrido.~
+@5026 = ~Derrotando a Khalabaxin
+
+He vuelto al Corazón Radiante con noticias de mi victoria contra Khalabaxin. El trabajo de la Orden parece que nunca acabará.~
+@5027 = ~Derrotando a los Vampiros
+
+Sir Havun me ha informado de la existencia de una guarida de vampiros aquí en la ciudad. Tengo que buscarla y destruirla. Viven en las criptas debajo del cementerio. La Orden enviará uno de sus magos expertos para ayudarme en abrir una brecha en las defensas de la guarida.~
+@5028 = ~Derrotando a los Vampiros
+
+He destruido a los vampiros, pero la líder, Bodhi, me eludió. Tiene cosas interesantes que decir sobre mí... ¡Ella sabía que era un engendro de Baal! Ahora voy a contar la destrucción de los vampiros a Sir Havun.~
+@5029 = ~Vampiros Derrotados
+
+He vuelto al Corazón Radiante con las noticias sobre mi victoria contra los vampiros. La Orden me ha ofrecido un pasaje a la Prisión del Hechicero como recompensa.~

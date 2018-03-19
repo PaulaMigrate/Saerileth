@@ -1,0 +1,17 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId(Player1)
+		Wait(1)
+		SmallWait(2)
+		FaceObject("GLOURKIS")
+		SmallWait(2)
+		ActionOverride("GLOURKIS",FaceObject(Player1))
+		Wait(2)
+		ForceSpell("GLOURKIS",HOLY_LIGHT_FROM_ABOVE)
+		SmallWait(5)
+		Kill("GLOURKIS")
+		Wait(1)
+		EndCutSceneMode()
+END

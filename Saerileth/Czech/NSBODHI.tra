@@ -1,0 +1,59 @@
+@0 = ~Hmm... Doufala jsem, e k tomu nedojde, ale ty jsi asi pevnì rozhodnutı, viï?~ [BODHIX31]
+@1 = ~Jsi jen pìšák, loutka pár všeteènıch, pokryteckıch bláznù. Zdalipak ti øekli, e tì posílají na smrt?~
+@2 = ~Zhyò, stvoøení noci!~
+@3 = ~Jestli jsem pìšák, tak pìšák, kterı právì bere královnu. Díváš se na nástroj své zkázy!~
+@4 = ~Nu, byla jsem si celkem jistá, e naše setkání skonèí násilím. Pro mé zámìry jsi stejnì pøíliš nestálı. Jen pøemıšlím, jestli chápeš, do jaké míry tì ostatní vyuívají.~
+@5 = ~Nikdo mì nevyuívá! Svobodnì jsem se rozhodl pomoci Øádu!~
+@6 = ~Øád se mnou a doposud jednal èestnì.~
+@7 = ~Skuteènì? Jsi si tím jistı? Co kdy mají ještì jiné zájmy kromì tìch, které ti pøedloili? Co kdy moc dobøe ví, kdo jsi... a co jsi?~
+@8 = ~Vypadáš pøekvapenì. Vím, co jsi, Bhaalovo dítì. Irenicus mi to øekl. Mohl se o tobì dozvìdìt víc, probudit tvou sílu, ale ti zlodìji ho museli vyrušit. ~
+@9 = ~Co víš o Irenicovi! Dluím mu ránu meèem za to, co mi provedl!~
+@10 = ~Co víš o mém zajetí!~
+@11 = ~Zjistím, co ví! Jestli o tom taky nìco víš, pak chci, abys mi to øekla!~
+@12 = ~Vím víc, ne mùe tvùj mozek pochopit za celı ivot. Tolik vìcí je skrytıch pøímo pøed tvım nosem, je toho tolik, co nevidíš. Vdy i Imoen unikla tvé pozornosti.~
+@13 = ~Imoen mi vzali! Ale najdu ji! A najdu i toho Irenica!~
+@14 = ~Irenicus nevypadal jako mu, kterı by mìl nìjaké pøátele. Proè jsi s ním byla?~
+@15 = ~Co s námi chtìl udìlat? O jaké moci to mluvil?!~
+@16 = ~Za jinıch okolností by to moná mohlo dopadnout jinak, ale obávám se, e náš dnešní rozhovor má jen jeden monı konec.~
+@17 = ~Jsem unavená z toho všeho vanìní. Poloil jsi své otázky a uráel mne svımi vıhrùkami, a obojí jsem u strpìla dost dlouho. Teï to skonèíme.~
+@18 = ~Dobrá! Mám dost ukecanıch nepøátel!~
+@19 = ~Mám ještì další otázky. Mohla bys vnést tolik svìtla do mé situace.~
+@20 = ~Take mì chceš znièit? Copak u o mì Irenicus ztratil zájem?~
+@21 = ~To se mi hodí! Skonèíme to tvou krví na mém meèi! A pak si to vyøídím s Irenicem!~
+@22 = ~Byla jsem s ním, protoe jsem si tak zvolila, jako kadá správná 'sestra'. Jistìe nevíš nic o takové oddanosti, kdy ti, kdo jsou s tebou, v ní tak bídnì selhávají.~
+@23 = ~Pokládáš špatné otázky špatné osobì. Kromì toho na tom stejnì nezáleí, protoe odsud ivı neodejdeš.~
+@24 = ~Moná pøijde èas, kdy dokáeš ocenit sílu slov. Ale stejnì tak tì nìèemu mùe nauèit i boj. Tak pojï, nauèím tì jednu nebo dvì vìci.~
+@25 = ~Nemyslím, e mne kdy nìkdo obvinil ze 'vnášení svìtla'. Nejsem ádnı tvùj uèitel, aèkoli i samotnı boj se mnou tì mùe neèemu nauèit. Tak si pojï pro jednu nebo dvì lekce!~
+@26 = ~Tolik se musíš nauèit skrze strádání. A jsi tak zvìdavı. Pojï, nauèím tì jednu nebo dvì vìci.~
+@27 = ~Dobrá, tohle bylo skuteènì... pouèné. Vidìla jsem dost a prozatím jsem s tebou skonèila.~ [BODHIX32]
+@28 = ~Neuteèeš mi tak snadno!~
+@29 = ~Co jsi za stvoøení? Copak je pro tebe všechno jen nìjaká hra?~
+@30 = ~Uteè si tedy ke svému páníèkovi. Vypoøádám se s ním co nevidìt.~
+@31 = ~Jistìe uteèu. Nevidím dùvod, proè tu dál zùstávat. Ještì se mùeš Irenicovi hodit. Bojuj si dál; pøijdu se na tebe podívat.~
+@32 = ~Moná ano, ale i hra mùe bıt smrtelnì váná, zvláš kdy neznáš její pravidla. Bojuj si dál a hledej si svou ztracenou Imoen; pøijdu se na tebe podívat.~
+@33 = ~Nemysli si, e utíkám ze strachu pøed tvım hnìvem. Ten si chraò, hıèkej a namiø ho správnım smìrem. Bojuj si dál a hledej si svou ztracenou Imoen; pøijdu se na tebe podívat.~
+
+
+@5024 = ~Poraení Khabalaxina
+
+Pøijal jsem ádost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblí jeho nového doupìte, v jeskyni u øeky v Umaøinì vrchovinì.~
+
+@5025 = ~Poraení Khabalaxina
+
+Porazil jsem draka Khalabaxina. Nyní se musím vrátit do Øádu záøícího srdce a ohlásit siru Havunu Clarenshidovi, co se stalo.~
+
+@5026 = ~Poraení Khabalaxina
+
+Vrátil jsem se do Øádu zaøícího srdce s novinkami o svém vítìzství nad drakem Khabalaxinem. Zdá se, e dílo Øádu není nikdy hotovo.~
+
+@5027 = ~Znièení upírù
+
+Sir Havun mne informoval, e nìkde ve mìstì se nachází vampıøí hnízdo. Mám ho najít a znièit. Bydlí v kryptách pod høbitovem. Øád s námi pošle jednoho ze svıch najatıch èarodìjù, aby mi pomohl odstranit ochrany, které hnízdo mùe mít.~
+
+@5028 = ~Znièení upírù
+
+Znièil jsem upíry, ale jejich vùdce, Bodhi, mi unikla. Øíkala o mnì nìkolik zajímavıch vìcí... mimo jiné vìdìla, e jsem Bhaalùv zplozenec! Teï musím jít ohlásit úspìšné splnìní úkolu siru Havunovi.~
+
+@5029 = ~Upíøi znièeni
+
+Vrátil jsem se do Záøícího srdce s novinkami o poráce upírù. Øád mi nabídl, e mne za odmìnu dopraví do Èarotvrze!~

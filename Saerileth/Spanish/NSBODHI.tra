@@ -1,0 +1,52 @@
+@0    = ~Hmm... Esperaba que no llegar a esto, pero sois persistente, ¿verdad?.~ [BODHIX31] 
+@1    = ~Sois un peón, un seguidor en un grupo de idiotas arrogantes. ¿Os informaron que veníais directo a vuestra muerte?.~
+@2    = ~¡Morid, criatura de la noche!.~ 
+@3    = ~Si soy un peón, entonces el peón puede matar a la reina. ¡Mirad al instrumento de vuestra destrucción!.~
+@4    = ~Oh, Estaba segura de que terminaría en violencia. Sois muy volátil para mis propósitos. Sólo quería saber si estabais enterado de que estabais siendo utilizado.~ ~Oh, Estaba segura de que terminaría en violencia. Sois muy volátil para mis propósitos. Sólo quería saber si estabais enterada de que estabais siendo utilizada.~ 
+@5    = ~¡Nadie me utiliza! ¡Trabajo para la Orden porque quiero!.~
+@6    = ~La Orden ha sido honesta hasta ahora.~
+@7    = ~¿Ah, sí? ¿Estáis seguro? ¿Y qué si su interés es más profundo de lo que os han dicho? ¿Y qué si saben quién sois... y qué sois?.~ ~¿Ah, sí? ¿Estáis segura? ¿Y qué si su interés es más profundo de lo que os han dicho? ¿Y qué si saben quién sois... y qué sois?.~ 
+@8    = ~Os veis sorprendido. Sé lo que sois un Engendro de Baal. Irenicus me lo dijo. Podría haber averiguado más cosas, pero los ladrones le interrumpieron.~ ~Os veis sorprendida. Sé lo que sois una Engendro de Baal. Irenicus me lo dijo. Podría haber averiguado más cosas, pero los ladrones le interrumpieron.~
+@9    = ~¡Qué sabéis de Irenicus! ¡Le debo una por lo que me hizo!.~ 
+@10   = ~¡Qué sabéis sobre mi captura!.~
+@11   = ~¡Tendré lo que sabe! ¡Si tenéis el conocimiento, entregadlo!.~
+@12   = ~Sé más de lo que vuestro cerebro puede acumular en una vida. Hay tanto debajo de vuestra nariz; tantas cosas que no veis. Incluso ni visteis a Imoen.~ 
+@13   = ~¡A Imoen me la quitaron! ¡La encontraré! ¡Y encontraré a Irenicus!.~
+@14   = ~Este Irenicus no parece del tipo que tiene gente cercana. ¿Por qué estabais ahí?.~ 
+@15   = ~¿Qué quería con nosotros? ¿¡De qué poder habláis!?.~
+@16   = ~Hubierais hecho ambas cosas si las circunstancias fueran diferentes, pero ahora me temo que solamente hay una solución para esta discusión.~
+@17   = ~Me cansa esta conversación. Habéis hecho preguntas y amenazas, y he permitido ambas. Ahora esta conversación ha terminado.~
+@18   = ~¡Bien! ¡Me cansan los oponentes habladores!.~ 
+@19   = ~Hay más que tengo que pedir. Podríais dar luz a mi situación.~
+@20   = ~¿Así que vais a destruirme? ¿Ha perdido Irenicus el interés en mí?.~ 
+@21   = ~¡Bien por mí! ¡Lo terminaré con vuestra sangre! ¡Y luego la de Irenicus!.~ 
+@22   = ~Estaba ahí porque quise. Es la obligación de toda buena 'hermana'. Claro que no conocéis semejantes virtudes, porque todos los que os rodean mueren tan terriblemente.~
+@23   = ~Tal vez le estéis preguntando a la persona equivocada. Ahora, claro, es irrelevante, porque no saldréis de aquí con vida.~ 
+@24   = ~En algún momento entenderéis la validez de las palabras. Esta batalla os enseñará. Vamos, aprendamos algo.~
+@25   = ~No creo que nunca antes me hubieran acusado de 'dar luz'. No, no soy una maestra, aunque la lucha me educa bien. Vamos, aprendamos algo.~
+@26   = ~Hay mucho que aprender. Tan curioso sois. Vamos, aprendamos algo.~ ~Hay mucho que aprender. Tan curiosa sois. Vamos, aprendamos algo.~
+@27   = ~Bueno, eso ha sido realmente... educativo. Pero ya he visto suficiente, y creo que ya he acabado con vos... de momento.~ [BODHIX32]
+@28   = ~¡No os iréis tan fácilmente!.~
+@29   = ~¿Qué tipo de criatura sois? ¿Es todo un juego para vos?.~
+@30   = ~Volved arrastrándoos a vuestro maestro. Yo le veré muy pronto.~
+@31   = ~Por supuesto que sí. No veo ninguna razón para acabar aquí. Todavía podéis serle útil a Irenicus donde está. Seguid luchando; ya he visto lo que había venido a ver.~
+@32   = ~Puede que sí, pero los juegos pueden resultar de lo más peligrosos, sobre todo cuando me reservo el conocimiento de las reglas. Seguid luchando, y buscad a vuestra perdida Imoen; ya he visto lo que había venido a ver.~
+@33   = ~¡Oh! No me marcho arrastrándome por temor a vuestra ira. Naturalmente, debéis mimarla, dejarla crecer y dirigirla... Seguid luchando y buscad a vuestra perdida Imoen; ya he visto lo que había venido a ver.~
+@5024 = ~Derrotando a Khalabaxin
+
+He aceptado ayudar a Sir Havun Clarenshider contra el dragón Khalabaxin. Lo encontraré cerca de su nueva guarida, la cueva después del río en las Colinas de Umar.~
+@5025 = ~Derrotando a Khalabaxin
+
+He destruido al dragón Khalabaxin. Ahora voy a volver a la Orden del Corazón Radiante y a contarle a Sir Havun Clarenshide lo que ha ocurrido.~
+@5026 = ~Derrotando a Khalabaxin
+
+He vuelto al Corazón Radiante con noticias de mi victoria contra Khalabaxin. El trabajo de la Orden parece que nunca acabará.~
+@5027 = ~Derrotando a los Vampiros
+
+Sir Havun me ha informado de la existencia de una guarida de vampiros aquí en la ciudad. Tengo que buscarla y destruirla. Viven en las criptas debajo del cementerio. La Orden enviará uno de sus magos expertos para ayudarme en abrir una brecha en las defensas de la guarida.~
+@5028 = ~Derrotando a los Vampiros
+
+He destruido a los vampiros, pero la líder, Bodhi, me eludió. Tiene cosas interesante que decir sobre mí... ¡Ella sabía que era un engendro de Baal! Ahora voy a contar la destrucción de los vampiros a Sir Havun.~
+@5029 = ~Vampiros Derrotados
+
+He vuelto al Corazón Radiante con las noticias sobre mi victoria contra los vampiros. La Orden me ha ofrecido un pasaje a la Prisión del Hechicero como recompensa.~

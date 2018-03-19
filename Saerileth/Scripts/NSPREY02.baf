@@ -1,0 +1,29 @@
+IF
+  GlobalGT("NSTemptedPC","GLOBAL",2)
+  Global("NSPreyWalk","LOCALS",0)
+THEN
+  RESPONSE #100
+   EscapeAreaMove("AR5501",622,319,10)
+   SetGlobal("NSPreyWalk","LOCALS",1)
+END
+
+
+
+IF
+ Global("NSSucLeave","GLOBAL",3)
+ Global("NSPrey02Dead","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSPrey02Dead","LOCALS",1)
+  Kill("NSPREY02")
+END
+
+
+
+IF
+ Global("NSSaeriSuccubus","GLOBAL",9)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaeriSuccubus","GLOBAL",10)
+  StartDialogueNoSet(Player1)
+END

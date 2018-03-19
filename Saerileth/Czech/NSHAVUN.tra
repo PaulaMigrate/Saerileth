@@ -1,0 +1,106 @@
+@0 = ~Jste pøipraveni odcestovat?~
+@1 = ~Ano, jsme.~
+@2 = ~Ne, ještì ne.~
+@3 = ~Dobrá tedy. Pojïme.~
+@4 = ~Vrate se tedy, a vykonáte nutné pøípravy.~
+@5 = ~Pospìšte si prosím! Èas je drahı.~
+@6 = ~Navracíte se vítìznì?~
+@7 = ~Ano, sire Clarenshide, vítìznì. Khabalaxin ji neije.~
+@8 = ~Ano, pøestoe boj byl obtínı. Zvítìzili jsme.~
+@9 = ~Máš náš dík, <PRO_LADYLORD> <CHARNAME>. Dobøe jsi poslouil kadému z nás i všem nevinnım, kteøí by se jinak stali Khabalaxinovou koøistí.~
+@10 = ~Jako vıraz naší vdìènosti bychom ti chtìli vìnovat nìco cenného.~
+@11 = ~Hledáš dìvèe, které zajali Zahalení èarodìjové--ne, nesledovali jsme tì. Tvé èiny jsou pøíliš známé, ne aby tvé zámìry zùstaly skryty.~
+@12 = ~S jistımi obtíemi se nám podaøilo zjistit, kde se zajatci nachází: ve vìzení pro mágy jménem Èarotvrz.~
+@13 = ~Ano, chci, ale rád bych si nejdøív doplnil zásoby.~
+@14 = ~Ano, jsem pøipraven. Pojïme!~
+@15 = ~Dobrá tedy, mùj <PRO_LADYLORD>. Vra se, a budeš pøipraven.~
+@16 = ~Pak tedy pojïme.~
+@17 = ~Vítej, <CHARNAME>, a buï pozdraven. Chci tì o nìco poádat, budeš-li ochoten si mne vyslechnout.~
+@18 = ~Nemám chu mluvit s lidmi jako ty. Ztra se!~
+@19 = ~Mluv rychle, chlape, jestli si ceníš svého ivota!~
+@20 = ~Tìší mì, dobrı rytíøi. S radostí si vyslechnu tvou ádost.~
+@21 = ~A vy jste?~
+@22 = ~Jsem vdy pøipraven pomoci druhovi ve zbrani i víøe.~
+@23 = ~Dobrá tedy. Jdi v pokoji.~
+@24 = ~Není tøeba bıt tak nezdvoøilı. Chápu, e jsi na všech stranách obklopen krveíznivımi lidmi, ale vìz, e nejsem tvùj nepøítel.~
+@25 = ~Vskutku, mám pro tebe nabídku. Jmenuji se Havun Clarenshide a jsem sluebníkem Øádu záøícího srdce. Jeden z nás nedávno objevil doupì nebezpeèného draka. Podvakráte jsme se na nìj vydali a podvakráte jsme byli odraeni.~
+@26 = ~Chcete tedy, abych se o to postaral místo vás?~
+@27 = ~Vy chcete, abych kvùli vám bojoval s drakem?!~
+@28 = ~Øeknìte mi, kam mám jít. Neodpoèinu si, dokud bude takové zlo chodit po zemi!~
+@29 = ~Jak si taková pøíšera vùbec dovoluje zabít nevinné, tìce obrnìné váleèníky, kteøí si nakráèí do jejího doupìte a ruší její klid, kdy nechtìjí nic jiného, ne ji jen tak trošku zabít?~
+@30 = ~Co je to za draka?~
+@31 = ~Vskutku, mám pro tebe nabídku. Jmenuji se Havun Clarenshide a jsem sluebníkem Øádu záøícího srdce. Jeden z nás nedávno objevil doupì nebezpeèného draka. Podvakráte jsme se na nìj vydali a podvakráte jsme byli odraeni.~
+@32 = ~Jmenuji se Havun Clarenshide a jsem sluebníkem Øádu záøícího srdce. Mám pro tebe nabídku. Jeden z nás nedávno objevil doupì nebezpeèného draka. Podvakráte jsme se na nìj vydali a podvakráte jsme byli odraeni.~
+@33 = ~Zdravím tì jako váleèníka víry a svìtla. Jmenuji se Havun Clarenshide a jsem sluebníkem Øádu záøícího srdce. Mám pro tebe nabídku. Jeden z nás nedávno objevil doupì nebezpeèného draka. Podvakráte jsme se na nìj vydali a podvakráte jsme byli odraeni.~
+@34 = ~Drak je jistì mocnı, ale tvá povìst tì pøedchází. Nenutím tì k nièemu. Jen tì pokornì ádám, abys nám pomohl zbavit zemi ohavné nestvùry.~
+@35 = ~Dobrá tedy, pomùu vám.~
+@36 = ~Nemám chu bojovat s drakem. Najdìte si nìkoho jiného.~
+@37 = ~Pomohl bych, ale jsem momentálnì zaneprázdnìn. Poèká to chvíli?~
+@38 = ~Ty pøijímáš naši vızvu? Øád bude potìšen, a to uslyší! Jdi tedy na Umaøinu vrchovinu. Tam, hned za první øekou poblí jeskynì, nalezneš toho èerva, Khabalaxina.~
+@39 = ~Je vychytralı, dej si tedy pozor na jeho tesáky i dech! Jestli se ti podaøí toho velkého hada zahubit, vyhledej mne na velitelství Øádu. Budu tì tam oèekávat.~
+@40 = ~Nechápeš mne, <CHARNAME>. Nezabíjíme lehkomyslnì mystické tvory, aè to tak mùe na první pohled vypadat. Chráníme slabé, peèujeme o sirotky a vdovy a pomáháme, kde je tøeba.~
+@41 = ~Tento drak u ve svém øádìní znièil nìkolik vesnic. Jeho krveíznivost se na èas uspokojila, ale nevíme, jak dlouho to ještì vydrí. Mùe se v nìm zase vzedmout a on zaène opìt vradit.~
+@42 = ~Dobrá, <CHARNAME>. Nemile mne ale pøekvapila tvá neochota. Jdi tedy v pokoji.~
+@43 = ~Chvíli ano, ale èas se krátí. Drak nyní odpoèívá, ale kadou chvíli mùe zase zaèít zabíjet.~
+@44 = ~Kdy budeš mít èas, jdi na Umaøinu vrchovinu. Tam, za první øekou poblí jeskynì, najdeš toho èerva, Khabalaxina.~
+@45 = ~Je vychytralı, dej si tedy pozor na jeho tesáky i dech! Jestli se ti podaøí toho velkého hada zahubit, vyhledej mne na velitelství Øádu. Budu tì tam oèekávat.~
+@46 = ~Je purpurové barvy. Pøedpokládám, e je to jeden z drahokamovıch drakù, aèkoli nevím, kterı. Moná ametystovı.~
+@47 = ~Prokázal jsi velkou odvahu tváøí v tváø mocnému zlu. Chtìl bys pomoci Øádu i v dalším nebezpeèném úkolu?~
+@48 = ~Ne, díky. Mám dost pochùzek a praní vašeho špinavého prádla.~
+@49 = ~Rád bych vám pomohl, ale musím se dostat do Èarotvrze. Zavøeli tam mou pøítelkyni.~
+@50 = ~Jistìe budu rád dál spolupracovat s Øádem. Co navrhujete?~
+@51 = ~Dobrá. Je to tvoje rozhodnutí a já na tebe nebudu dále naléhat. Ale vìz, e Øád nemá ádné 'špinavé prádlo'.~
+@52 = ~Pracujeme, abychom zachovali zákon a slouili vyššímu dobru. Mrzí mne, e máš naši ádost za nepøíliš podstatnou, pod svou úroveò.~
+@53 = ~Èarotvrz? Moná, e by se øádu mohlo podaøit zajistit ti tam cestu. Pokusíme se sehnat loï.~
+@54 = ~A mezitím, pomohl bys nám ještì jednou?~
+@55 = ~Jistì. Co potøebujete?~
+@56 = ~Ne, nestojí mi to za to.~
+@57 = ~Zjistili jsme, e tady v Athkatle se nachází hnízdo upírù. ijí v kryptách pod mìstem. Øád si ádá tvou pomoc pøi znièení tìchto ohavnıch monster.~
+@58 = ~Jistìe pomohu! Takové zlo nemá právo existovat!~
+@59 = ~Znièím to hnízdo upírù pro vìtší slávu Øádu.~
+@60 = ~Udìlám to, ale jen abych si zajistil cestu do Èarotvrzi.~
+@61 = ~Upíøi? Spousta upírù? Tak to se mnou nepoèítejte!~
+@62 = ~Rozumím. A se na tebe bohové na tvıch cestách usmìjí. Jdi v pokoji.~
+@63 = ~Skvìlé. Jsem potìšen, e souhlasíš. Dobrá tedy. Odeber se na høbitov a vejdi do krypt pod ním. Bude tì tam oèekávat náš najatı èarodìj, kterı ti pomùe odstranit ochrany, je brání vchod do hnízda.~
+@64 = ~Máš mé slovo, e se na tvou záleitost s Èarotvrzí podíváme. Øád vyuije všechny své prostøedky, aby ti zajistil cestu.~
+@65 = ~Mezitím se ale odeber se na høbitov a vejdi do krypt pod ním. Bude tì tam oèekávat náš najatı èarodìj, kterı ti pomùe odstranit ochrany, je brání vchod do hnízda.~
+@66 = ~Uspìl jsi? Znièil jsi ty upíry?~
+@67 = ~Ano, znièili jsme ty upíry, ale jejich vùdce, Bodhi, nám unikla.~
+@68 = ~Ne, jejich vùdkynì nám unikla.~
+@69 = ~I tak je to úspìch a Øád ti dìkuje za pomoc.~
+@70 = ~Jak *ty* víš o Èarotvrzi? Já jsem se bezvıslednì snail zjistit, kde ji drí, a ty mi tu najednou øíkáš o nìjakém místì jménem Èarotvrz?~
+@71 = ~Øád má mnoho prostøedkù a je vdy bdìlı. Sledujeme všechny skupiny, které drí v rukou velikou moc, i Zahalené èarodìje.~
+@72 = ~Neptej se mne, jak víme o existenci nebo umístìní Èarotvrze. Kdybych ti to sdìlil, mohl bych tím ohrozit naše agenty.~
+@73 = ~Dobrá tedy, budu to respektovat. Jsem pøipravenm vyrazit.~
+@74 = ~Chápu. Zváím vaši nabídku, ale teï si chci ještì doplnit zásoby.~
+@75 = ~<CHARNAME>, pomùeš nám zbavit se této nestvùry?~
+@76 = ~Najali jsme loï, která tì odveze do Èarotvrze, budeš-li chtít.~
+@77 = ~Znièili jsme upíry, ale jejich vùdkynì mi o vás øekla pár zajímavıch vìcí! Poslali jste mì na sebevraednou misi, protoe jsem Bhaalovo dítì!~
+@78 = ~Bhaalovo dítì? Slyšeli jsme takové zvìsti, ale nemìlo to ádnı vliv na naši ádost. Prosili jsme tì kvùli tvım schopnostem.~
+@79 = ~Také jsme pøihlédli ke tvé povìsti, která je skuteènì pøíkladná. A nechybili jsme, nebo vidím, e jsi mìl úspìch!~
+
+
+
+@5024 = ~Poraení Khabalaxina
+
+Pøijal jsem ádost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblí jeho nového doupìte, v jeskyni u øeky v Umaøinì vrchovinì.~
+
+@5025 = ~Poraení Khabalaxina
+
+Porazil jsem draka Khalabaxina. Nyní se musím vrátit do Øádu záøícího srdce a ohlásit siru Havunu Clarenshidovi, co se stalo.~
+
+@5026 = ~Poraení Khabalaxina
+
+Vrátil jsem se do Øádu zaøícího srdce s novinkami o svém vítìzství nad drakem Khabalaxinem. Zdá se, e dílo Øádu není nikdy hotovo.~
+
+@5027 = ~Znièení upírù
+
+Sir Havun mne informoval, e nìkde ve mìstì se nachází vampıøí hnízdo. Mám ho najít a znièit. Bydlí v kryptách pod høbitovem. Øád s námi pošle jednoho ze svıch najatıch èarodìjù, aby mi pomohl odstranit ochrany, které hnízdo mùe mít.~
+
+@5028 = ~Znièení upírù
+
+Znièil jsem upíry, ale jejich vùdce, Bodhi, mi unikla. Øíkala o mnì nìkolik zajímavıch vìcí... mimo jiné vìdìla, e jsem Bhaalùv zplozenec! Teï musím jít ohlásit úspìšné splnìní úkolu siru Havunovi.~
+
+@5029 = ~Upíøi znièeni
+
+Vrátil jsem se do Záøícího srdce s novinkami o poráce upírù. Øád mi nabídl, e mne za odmìnu dopraví do Èarotvrze!~

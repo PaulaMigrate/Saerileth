@@ -1,0 +1,183 @@
+@0    = ~Dej si bolehlav a chcípni, Bezklíèový! ~
+@1    = ~Á, zdá se, že tu nìkdo potøebuje nauèit dobrým zpùsobùm. ~
+@2    = ~Ty jsi Mon, viï?~
+@3    = ~Sháním klíè k portálu. Vydej mi ho a já ušetøím tvùj život!~
+@4    = ~Sháním klíè k portálu. Nevìdìl bys, kde se dá nìjaký koupit?~
+@5    = ~A ty budeš mùj uèitel, tupohlavèe?~
+@6    = ~Tak dobrá. Èas chcípnout, zbabìlèe!~
+@7    = ~Mohl bych být, ale radìji bych se s tebou na nìèem dohodl.~
+@8    = ~Ne a buï rád, že nebudu. Dej mi ten klíè, vím, že ho máš, a já tì nechám naživu.~
+@9    = ~Ne a buï rád, že nebudu. Chci od tebe jen koupit klíè k portálu do Ysgaardu.~
+@10   = ~Budu. Vadí ti to snad, mizero?~
+@11   = ~Co to tu je za hloupého parchanta! Síla paží ti v Kleci nezajistí vládu, ty zabednìný tuláku! Musíš poznat temnotu.~
+@12   = ~Možná, že mi nezajistí vládu v Kleci, ale docela spolehlivì ukonèí *tvùj* život!~
+@13   = ~Dobrá tedy. Kolik chceš za klíè k portálu do Ysgaardu?~
+@14   = ~Možná bych nìjaký mìl. Kam chceš cestovat?~
+@15   = ~Na Ysgaard. Kolik za ten klíè chceš?~
+@16   = ~Zpátky do Torilu.~
+@17   = ~Zrovna jsem si to rozmyslel. Myslím, že tì kvùli tomu zkrátka zabiju.~
+@18   = ~Bude z tebe jen další záøez na mém opasku, Bezklíèový!~
+@19   = ~Dobrá tedy. Co chceš?~
+@20   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ten tvùj krásný èerný luk. Ten, nebo 2500 zlatých. Vyber si.~
+@21   = ~Ok, vezmi si Gesenùv luk.~
+@22   = ~Ne, radši zaplatím penìzi.~
+@23   = ~Chceš moc. Tvùj život stojí za míò, takže je èas chcípnout!~
+@24   = ~Skvìlé! Tady je tvùj klíè.~
+@25   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za tu tvou zajímavou antimagickou sekeru. Tu, nebo 2500 zlatých. Vyber si.~
+@26   = ~Ok, vezmi si Balovu sekeru.~
+@27   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ten tvùj pìkný prstýnek beranidla. Ten, nebo 2500 zlatých. Vyber si.~
+@28   = ~Ok, vezmi si Prsten beranidla.~
+@29   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ten prstýnek Rudé smrti, co máš. Ten, nebo 2500 zlatých. Vyber si.~
+@30   = ~Ok, vezmi si Prsten Nemilosrdných.~
+@31   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za tu tvou krásnou svìtlemodrou hùl. Tu, nebo 2500 zlatých. Vyber si.~
+@32   = ~Ok, vezmi si Hùl léèení.~
+@33   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ty tvé zlatostøíbrné chránièe. Ty, nebo 2500 zlatých. Vyber si.~
+@34   = ~Ok, vezmi si Chránièe lukostøelby.~
+@35   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za tu podivnì vyhlížející hùlku. Tu, nebo 2500 zlatých. Vyber si.~
+@36   = ~Ok, vezmi si Hùlku divù.~
+@37   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ten tvùj zelený palcát. Ten, nebo 2500 zlatých. Vyber si.~
+@38   = ~Ok, vezmi si Wyvernùv ocas.~
+@39   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za tu tvoji ostnatou dýku. Tu, nebo 2500 zlatých. Vyber si.~
+@40   = ~Ok, vezmi si Skøítèí trn.~
+@41   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ten tvùj krásný dlouhý meè. Ten, nebo 2500 zlatých. Vyber si.~
+@42   = ~Ok, vezmi si Èepel rùží.~
+@43   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ten tvùj lehounký krátký meè. Ten, nebo 2500 zlatých. Vyber si.~
+@44   = ~Ok, vezmi si Kundane.~
+@45   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím výmìnou za ten tvùj široký, zlatý opasek. Ten, nebo 2500 zlatých. Vyber si.~
+@46   = ~Ok, vezmi si Pás odolnosti proti tupým zbraním.~
+@47   = ~Inu, klíèe k portálùm jsou tady v Kleci cenné zboží, ale rád se s ním rozlouèím za pouhých 2500 zlatých. Radìji bych ti ho za nìco vymìnil, ale nemáš nic, o co bych mìl zájem.~
+@48   = ~Zaplatím penìzi.~
+@49   = ~Skvìlé. Tumáš svùj klíè.~
+@50   = ~Tolik nemám. Stavím se pozdìji.~
+@51   = ~Pochybuju, že to seženeš vèas. Zanedlouho mizím z Úlu.~
+@52   = ~Tìžká práce, Bezklíèový. Klíè do Základní bych ani *nechtìl*! Jestli nemáš dost rozumu, abys zùstal ve sférách, tak aspoò pøestaò mlít pantem!~
+@53   = ~To je *ono*! Èas chcípnout!~
+@54   = ~A co takhle Ysgaard? Kolik chceš za klíè do Ysgaardu?~
+@55   = ~Tak už pro mì nìco máš, tupohlavèe?~
+@56   = ~Ne, rozhodl jsem se, že tì radši zabiju!~
+@57   = ~Ano, mám. Tady to je.~
+@58   = ~Ne, ale pracuju na tom.~
+@59   = ~Jsi jen bláznivý Bezklíèový!~
+@60   = ~Radši by sis mìl pospíšit, tupohlavèe. Co nevidìt mám namíøeno do síní.~
+
+
+
+@5000 = ~Padlý Deva
+
+Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Hledá padlého devu a bylo jí øeèeno, že ho jistì najde, pokud bude cestovat s Bhaalovým dítìtem. Další podrobnosti mi nejsou známy.~
+
+@5001 = ~Padlý Deva
+
+Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Zdá se, že se jí docela líbím. Hledá padlého devu a bylo jí øeèeno, že ho jistì najde, pokud bude cestovat s Bhaalovým dítìtem. Další podrobnosti mi nejsou známy.~
+
+@5002 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Spojili jsme své síly s mocným Tyrovým rytíøem, který ji hodlá osvobodit. Nejdøíve musíme do Sigilu, kde musíme vyhledat Jharaka a získat od nìho Tyrovu hùl.~
+
+@5003 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Spojili jsme své síly s mocným Tyrovým rytíøem, který ji hodlá osvobodit. Právì se chystáme vyrazit do Baatoru.~
+
+@5004 = ~Saerileth unesena
+
+Saerileth unesl mocný pán démonù. Je pøíliš nebezpeèné pokoušet se ji zachránit. Ponechali jsme ji tedy jejímu osudu.~
+
+@5005 = ~Saerileth unesena
+
+Nalezli jsme Jharaka, ale ten nás poslal otevøít nìjaký portál, potom že nám øekne, kde najdeme Tyrovu hùl.~
+
+@5006 = ~Saerileth unesena
+
+Našli jsme klíè k portálu, pramínek vlasù, a teï se s ním musíme vrátit k Jharakovi. ~
+
+@5007 = ~Saerileth unesena
+
+Jharak nám øekl, a si promluvíme s barmanem, který prý má onu hùl.~
+
+@5008 = ~Saerileth unesena
+
+Získali jsme Tyrovu hùl. Saerilethina duše je v nebezpeèí, musíme si tedy co nejrychleji pospíšit za Edoremem.~
+
+@5009 = ~Saerileth zachránìna
+
+Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+
+@5010 = ~Saerileth zachránìna
+
+Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Propustil jsem Saerileth ze svých služeb a ona zùstala ve sférách. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+
+@5011 = ~Padlý Deva
+
+Nalezli jsme Kesevara Padlého, ale tvrdí, že si trest nezaslouží. Poslal nás hledat jediného svìdka, který mùže dosvìdèit jeho nevinu: Bhaalova zplozence jménem Gunshain.~
+
+@5012 = ~Padlý Deva
+
+Jak se ukázalo, Gunshain skuteènì oèistil Kesevarovo jméno, ale taky se nás pokusil zabít! Postarali jsme se o nìj a teï se musíme rychle vrátit ke Kesevarovi.~
+
+@5013 = ~Padlý Deva
+
+Saerileth prohlásila Kesevara za nevinného a její rozsudek mìl okamžitý efekt. Deva se navrátil zpìt do své døívìjší slávy a Saerileth zùstala po mém boku.~
+
+@5014 = ~Padlý Deva
+
+Ukázalo se, že Kesevar nakonec nebyl vinen. Protože ho znièila, Saerileth ztratila Tyrovu pøízeò. Má milovaná odešla zpìt do sfér, aby se pokusila odèinit své selhání. Už ji nikdy nespatøím.~
+
+@5015 = ~Padlý Deva
+
+Ukázalo se, že Kesevar nakonec nebyl vinen. Protože ho znièila, Saerileth ztratila Tyrovu pøízeò. Mladá paladinka odešla zpìt do sfér, aby se pokusila odèinit své selhání. Už ji nikdy nespatøím.~
+
+@5016 = ~Nevìstka Dalila
+
+Nìjaký èlovìk v Amkethranu prohlašuje, že Dalila, o které tvrdí, že je nejkrásnìjší ženou v celém kraji, prodává potìšení svého lùžka ve zdejší hospodì. Má žena, Saerileth, i já sám si dìláme starosti o osud mužù, kteøí k ní vešli.~
+
+@5017 = ~Nevìstka Dalila
+
+Nìjaký èlovìk v Amkethranu prohlašuje, že Dalila, o které tvrdí, že je nejkrásnìjší ženou v celém kraji, prodává potìšení svého lùžka ve zdejší hospodì. Dìlám si starosti o osud mužù, kteøí k ní vešli.~
+
+@5018 = ~Nevìstka Dalila
+
+Podlehl jsem pùvabùm Dalily, jen abych zjistil, že je sukuba! Mé cizoložství zlomilo Saerileth srdce a v ten okamžik zemøela. Sukuba se vrátila do Abyssu a já jsem menším mužem, než jsem býval.~
+
+@5019 = ~Nevìstka Dalila
+
+Podlehl jsem pùvabùm Dalily, jen abych zjistil, že je sukuba! Sukuba se vrátila do Abyssu a já jsem menším mužem, než jsem býval.~
+
+@5020 = ~Nevìstka Dalila
+
+Saerileth mne ujistila, že Dalila je démon, ale že ji nemùžeme zabít, aniž bychom zatratili muže, kteøí jí propadli. Musíme najít nìjaký chrám, kde by nám mohli pomoct zlomit její démonickou iluzi.~
+
+@5021 = ~Nevìstka Dalila
+
+Odmítl jsem pomoct tìm chlípníkùm, které tak omámilo démonovo objetí. Sami jsou strùjci svého osudu. Saerileth posmutnìla, ale souhlasí, že jejich trest je spravedlivý.~
+
+@5022 = ~Nevìstka Dalila
+
+Od Waukeenina knìze jsem získal svitek, který by mìl mít schopnost zrušit iluzi. Ještì se ukáže, jestli bude jeho moc staèit proti pekelné magii.~
+
+@5023 = ~Nevìstka Dalila
+
+Magický svitek úèinkoval. Nevím jistì, jestli to bylo mocí samotného svitku nebo Saerilethinými modlitbami, ale tak nebo onak, úèinkovalo to a démon byl pøinucen opustit naši sféru a navrátit se do Abyssu.~
+
+@5024 = ~Poražení Khabalaxina
+
+Pøijal jsem žádost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblíž jeho nového doupìte, v jeskyni u øeky v Umaøinì vrchovinì.~
+
+@5025 = ~Poražení Khabalaxina
+
+Porazil jsem draka Khalabaxina. Nyní se musím vrátit do Øádu záøícího srdce a ohlásit siru Havunu Clarenshidovi, co se stalo.~
+
+@5026 = ~Poražení Khabalaxina
+
+Vrátil jsem se do Øádu zaøícího srdce s novinkami o svém vítìzství nad drakem Khabalaxinem. Zdá se, že dílo Øádu není nikdy hotovo.~
+
+@5027 = ~Znièení upírù
+
+Sir Havun mne informoval, že nìkde ve mìstì se nachází vampýøí hnízdo. Mám ho najít a znièit. Bydlí v kryptách pod høbitovem. Øád s námi pošle jednoho ze svých najatých èarodìjù, aby mi pomohl odstranit ochrany, které hnízdo mùže mít.~
+
+@5028 = ~Znièení upírù
+
+Znièil jsem upíry, ale jejich vùdce, Bodhi, mi unikla. Øíkala o mnì nìkolik zajímavých vìcí... mimo jiné vìdìla, že jsem Bhaalùv zplozenec! Teï musím jít ohlásit úspìšné splnìní úkolu siru Havunovi.~
+
+@5029 = ~Upíøi znièeni
+
+Vrátil jsem se do Záøícího srdce s novinkami o porážce upírù. Øád mi nabídl, že mne za odmìnu dopraví do Èarotvrze!~

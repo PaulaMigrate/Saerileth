@@ -1,0 +1,8 @@
+IF
+ InParty("Saerileth")
+ Global("FoundKesevar","GLOBAL",2)
+ THEN
+ RESPONSE #100
+ SetGlobal("FoundKesevar","GLOBAL",3)
+ Dialogue("Saerileth")
+END

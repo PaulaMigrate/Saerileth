@@ -1,0 +1,671 @@
+BACKUP ~Saerileth\backup~
+AUTHOR ~gilalion@gmail.com~
+
+VERSION ~v20~
+
+
+ALWAYS
+ACTION_IF GAME_IS ~eet~ BEGIN
+    OUTER_SET bg2_chapter = 12
+  END ELSE BEGIN
+    OUTER_SET bg2_chapter = 0
+  END
+ OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+    OUTER_SET bg2_chapter = bg2_chapter + 1
+    OUTER_SPRINT name_source ~bg2_chapter_%i%~
+    OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+  END
+
+  ACTION_DEFINE_ARRAY nsnoconvert BEGIN END
+  ACTION_DEFINE_ARRAY nsreload BEGIN setup END
+
+  LAF HANDLE_CHARSETS
+    INT_VAR
+      infer_charset = 1
+    STR_VAR
+      tra_path = EVAL ~%MOD_FOLDER%~
+      noconvert_array = nsnoconvert
+      reload_array = nsreload
+  END
+END
+
+AUTO_TRA ~Saerileth/%s~
+
+LANGUAGE ~English~
+         ~English~
+         ~Saerileth/English/setup.tra~
+
+LANGUAGE ~Deutsch (Uebersetzung von kerzenburg.baldurs-gate.eu)~
+         ~German~
+         ~Saerileth/German/setup.tra~
+
+LANGUAGE ~Francais (par Klint-ultimate)~
+         ~French~
+         ~Saerileth/French/setup.tra~
+
+LANGUAGE ~Espa�ol (Traducido por clandlan.net)~
+         ~Spanish~
+         ~Saerileth/Spanish/setup.tra~
+
+LANGUAGE ~Russian (translation by Alex, Pilferer, Serdrick & Aerie.ru)~
+         ~Russian~
+         ~Saerileth/Russian/setup.tra~
+
+LANGUAGE ~Cesky~
+         ~Czech~
+         ~Saerileth/Czech/setup.tra~
+         
+BEGIN @0
+
+REQUIRE_PREDICATE (GAME_IS ~tob bgt bg2ee eet~) ~You do not appear to have TOB installed.~
+
+ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
+  COPY ~Saerileth/PortraitsEE~ ~override~
+END ELSE BEGIN
+COPY ~Saerileth\Portraits~ ~override~
+END
+
+COPY ~Saerileth\Areas~ ~override~
+
+COPY ~Saerileth\BAMS~ ~override~
+
+COPY ~Saerileth\Spells~ ~override~
+
+ACTION_IF ("%LANGUAGE%" STRING_COMPARE_CASE "GERMAN" = 0) THEN BEGIN
+COPY ~Saerileth/German/Audio~ ~Saerileth/Audio~
+END
+
+COPY ~Saerileth\Creatures\Saerilet.cre~ ~override\Saerilet.cre~
+  SAY NAME1 @1
+  SAY NAME2 @1
+  SAY INITIAL_MEETING @2 
+  SAY MORALE  @3 
+  SAY HAPPY   @4 
+  SAY UNHAPPY_ANNOYED  @5 
+  SAY UNHAPPY_SERIOUS  @6 
+  SAY UNHAPPY_BREAKING  @7 
+  SAY LEADER  @8 
+  SAY TIRED  @9 
+  SAY BORED  @10 
+  SAY BATTLE_CRY1  @11 
+  SAY BATTLE_CRY2  @12 
+  SAY BATTLE_CRY3  @13 
+  SAY BATTLE_CRY4  @14 
+  SAY BATTLE_CRY5  @15 
+  SAY DAMAGE  @16 
+  SAY DYING  @17 
+  SAY HURT  @18 
+  SAY AREA_FOREST  @19 
+  SAY AREA_CITY  @20 
+  SAY AREA_DUNGEON  @21 
+  SAY AREA_DAY  @22 
+  SAY AREA_NIGHT  @23 
+  SAY SELECT_COMMON1  @24 
+  SAY SELECT_COMMON2  @25 
+  SAY SELECT_COMMON3  @26 
+  SAY SELECT_COMMON4  @27 
+  SAY SELECT_COMMON5  @28 
+  SAY SELECT_COMMON6  @29 
+  SAY SELECT_ACTION1  @30 
+  SAY SELECT_ACTION2  @31 
+  SAY SELECT_ACTION3  @32 
+  SAY SELECT_ACTION4  @33 
+  SAY SELECT_ACTION5  @34 
+  SAY SELECT_ACTION6  @35 
+  SAY SELECT_ACTION7  @36 
+  SAY REACT_TO_DIE_GENERAL @37 
+  SAY SELECT_RARE1  @38 
+  SAY SELECT_RARE2  @39 
+  SAY CRITICAL_HIT  @40 
+  SAY CRITICAL_MISS  @41 
+  SAY TARGET_IMMUNE  @42 
+  SAY INVENTORY_FULL  @43 
+  SAY SPELL_DISRUPTED  @44 
+  SAY SET_A_TRAP  @45 
+  SAY HIDDEN_IN_SHADOWS  @46 
+  SAY PICKED_POCKET  @47 
+  SAY BIO @48
+
+
+COPY ~Saerileth\Creatures\KESEVAR.cre~ ~override\KESEVAR.cre~
+  SAY NAME1 @49
+  SAY NAME2 @49
+
+COPY ~Saerileth\Creatures\KESEVAR1.cre~ ~override\KESEVAR1.cre~
+  SAY NAME1 @49
+  SAY NAME2 @49
+
+COPY ~Saerileth\Creatures\NSCLERIC.cre~ ~override\NSCLERIC.cre~
+  SAY NAME1 @50
+  SAY NAME2 @50
+
+COPY ~Saerileth\Creatures\GUNSHAIN.cre~ ~override\GUNSHAIN.cre~
+  SAY NAME1 @51
+  SAY NAME2 @51
+
+COPY ~Saerileth\Creatures\NSEDOREM.cre~ ~override\NSEDOREM.cre~
+  SAY NAME1 @52
+  SAY NAME2 @52
+
+COPY ~Saerileth\Creatures\NSDEMON1.cre~ ~override\NSDEMON1.cre~
+  SAY NAME1 @53
+  SAY NAME2 @53
+
+COPY ~Saerileth\Creatures\NSMAGE01.cre~ ~override\NSMAGE01.cre~
+  SAY NAME1 @54
+  SAY NAME2 @54
+
+COPY ~Saerileth\Creatures\NSDEVA01.cre~ ~override\NSDEVA01.cre~
+  SAY NAME1 @55
+  SAY NAME2 @55
+
+COPY ~Saerileth\Creatures\NSALUF01.cre~ ~override\NSALUF01.cre~
+  SAY NAME1 @56
+  SAY NAME2 @56
+
+COPY ~Saerileth\Creatures\NSHOUND.cre~ ~override\NSHOUND.cre~
+  SAY NAME1 @57
+  SAY NAME2 @57
+
+COPY ~Saerileth\Creatures\NSDUST01.cre~ ~override\NSDUST01.cre~
+  SAY NAME1 @58
+  SAY NAME2 @58
+
+COPY ~Saerileth\Creatures\NSDUST02.cre~ ~override\NSDUST02.cre~
+  SAY NAME1 @58
+  SAY NAME2 @58
+
+COPY ~Saerileth\Creatures\NSDUST03.cre~ ~override\NSDUST03.cre~
+  SAY NAME1 @58
+  SAY NAME2 @58
+
+COPY ~Saerileth\Creatures\NSDUST04.cre~ ~override\NSDUST04.cre~
+  SAY NAME1 @58
+  SAY NAME2 @58
+
+COPY ~Saerileth\Creatures\NSDUST05.cre~ ~override\NSDUST05.cre~
+  SAY NAME1 @58
+  SAY NAME2 @58
+
+COPY ~Saerileth\Creatures\NSDUST06.cre~ ~override\NSDUST06.cre~
+  SAY NAME1 @58
+  SAY NAME2 @58
+
+COPY ~Saerileth\Creatures\NSDUST07.cre~ ~override\NSDUST07.cre~
+  SAY NAME1 @58
+  SAY NAME2 @58
+
+COPY ~Saerileth\Creatures\NSZOMB01.cre~ ~override\NSZOMB01.cre~
+  SAY NAME1 @59
+  SAY NAME2 @59
+
+COPY ~Saerileth\Creatures\NSZOMB02.cre~ ~override\NSZOMB02.cre~
+  SAY NAME1 @60
+  SAY NAME2 @60
+
+COPY ~Saerileth\Creatures\NSZOMB03.cre~ ~override\NSZOMB03.cre~
+  SAY NAME1 @59
+  SAY NAME2 @59
+
+COPY ~Saerileth\Creatures\NSZOMB04.cre~ ~override\NSZOMB04.cre~
+  SAY NAME1 @60
+  SAY NAME2 @60
+
+COPY ~Saerileth\Creatures\NSZOMB05.cre~ ~override\NSZOMB05.cre~
+  SAY NAME1 @59
+  SAY NAME2 @59
+
+COPY ~Saerileth\Creatures\NSZOMB06.cre~ ~override\NSZOMB06.cre~
+  SAY NAME1 @60
+  SAY NAME2 @60
+
+COPY ~Saerileth\Creatures\NSZOMB07.cre~ ~override\NSZOMB07.cre~
+  SAY NAME1 @60
+  SAY NAME2 @60
+
+COPY ~Saerileth\Creatures\NSZOMB08.cre~ ~override\NSZOMB08.cre~
+  SAY NAME1 @60
+  SAY NAME2 @60
+
+COPY ~Saerileth\Creatures\NSZOMB09.cre~ ~override\NSZOMB09.cre~
+  SAY NAME1 @60
+  SAY NAME2 @60
+
+COPY ~Saerileth\Creatures\NSZOMB10.cre~ ~override\NSZOMB10.cre~
+  SAY NAME1 @60
+  SAY NAME2 @60
+
+COPY ~Saerileth\Creatures\NSHARL01.cre~ ~override\NSHARL01.cre~
+  SAY NAME1 @61
+  SAY NAME2 @61
+
+COPY ~Saerileth\Creatures\NSTIEF01.cre~ ~override\NSTIEF01.cre~
+  SAY NAME1 @62
+  SAY NAME2 @62
+
+COPY ~Saerileth\Creatures\NSTIEF02.cre~ ~override\NSTIEF02.cre~
+  SAY NAME1 @62
+  SAY NAME2 @62
+
+COPY ~Saerileth\Creatures\NSPLANET.cre~ ~override\NSPLANET.cre~
+  SAY NAME1 @63
+  SAY NAME2 @63
+
+COPY ~Saerileth\Creatures\NSMRCH01.cre~ ~override\NSMRCH01.cre~
+  SAY NAME1 @64
+  SAY NAME2 @64
+
+COPY ~Saerileth\Creatures\NSCAMB01.cre~ ~override\NSCAMB01.cre~
+  SAY NAME1 @65
+  SAY NAME2 @65
+
+COPY ~Saerileth\Creatures\NSCOM001.cre~ ~override\NSCOM001.cre~
+  SAY NAME1 @66
+  SAY NAME2 @66
+
+COPY ~Saerileth\Creatures\NSCOM002.cre~ ~override\NSCOM002.cre~
+  SAY NAME1 @67
+  SAY NAME2 @67
+
+COPY ~Saerileth\Creatures\NSCOM003.cre~ ~override\NSCOM003.cre~
+  SAY NAME1 @68
+  SAY NAME2 @68
+
+COPY ~Saerileth\Creatures\NSCOM004.cre~ ~override\NSCOM004.cre~
+  SAY NAME1 @69
+  SAY NAME2 @69
+
+COPY ~Saerileth\Creatures\NSCOM005.cre~ ~override\NSCOM005.cre~
+  SAY NAME1 @70
+  SAY NAME2 @70
+
+COPY ~Saerileth\Creatures\NSJHARAK.cre~ ~override\NSJHARAK.cre~
+  SAY NAME1 @71
+  SAY NAME2 @71
+
+COPY ~Saerileth\Creatures\NSMON.cre~ ~override\NSMON.cre~
+  SAY NAME1 @72
+  SAY NAME2 @72
+
+COPY ~Saerileth\Creatures\GLOURKIS.cre~ ~override\GLOURKIS.cre~
+  SAY NAME1 @73
+  SAY NAME2 @73
+
+COPY ~Saerileth\Creatures\NSABISH.cre~ ~override\NSABISH.cre~
+  SAY NAME1 @74
+  SAY NAME2 @74
+
+COPY ~Saerileth\Creatures\NSCORNUG.cre~ ~override\NSCORNUG.cre~
+  SAY NAME1 @75
+  SAY NAME2 @75
+
+COPY ~Saerileth\Creatures\NSMARIL.cre~ ~override\NSMARIL.cre~
+  SAY NAME1 @53
+  SAY NAME2 @53
+
+COPY ~Saerileth\Creatures\NSVAMPSA.cre~ ~override\NSVAMPSA.cre~
+  SAY NAME1 @1
+  SAY NAME2 @1
+
+COPY ~Saerileth\Creatures\NSGOON.cre~ ~override\NSGOON.cre~
+  SAY NAME1 @76
+  SAY NAME2 @76
+
+COPY ~Saerileth\Creatures\NSED1.cre~ ~override\NSED1.cre~
+  SAY NAME1 @52
+  SAY NAME2 @52
+
+COPY ~Saerileth\Creatures\NSCAMB02.cre~ ~override\NSCAMB02.cre~
+  SAY NAME1 @77
+  SAY NAME2 @77
+  
+COPY ~Saerileth\Creatures\NSCAMB03.cre~ ~override\NSCAMB03.cre~
+  SAY NAME1 @65
+  SAY NAME2 @65
+  
+COPY ~Saerileth\Creatures\NSPREY01.cre~ ~override\NSPREY01.cre~
+  SAY NAME1 @78
+  SAY NAME2 @78
+  
+COPY ~Saerileth\Creatures\NSPREY02.cre~ ~override\NSPREY02.cre~
+  SAY NAME1 @79
+  SAY NAME2 @79
+  
+COPY ~Saerileth\Creatures\NSPREY03.cre~ ~override\NSPREY03.cre~
+  SAY NAME1 @80
+  SAY NAME2 @80
+
+COPY ~Saerileth\Creatures\NSSUC01.cre~ ~override\NSSUC01.cre~
+  SAY NAME1 @81
+  SAY NAME2 @81
+  
+COPY ~Saerileth\Creatures\NSSUC02.cre~ ~override\NSSUC02.cre~
+  SAY NAME1 @82
+  SAY NAME2 @82
+  
+COPY ~Saerileth\Creatures\NSED3.cre~ ~override\NSED3.cre~
+  SAY NAME1 @52
+  SAY NAME2 @52
+
+COPY ~Saerileth\Creatures\NSINVIS.cre~ ~override\NSINVIS.cre~
+  SAY NAME1 @118
+  SAY NAME2 @118
+
+COPY ~Saerileth\Creatures\NSFLOWER.cre~ ~override\NSFLOWER.cre~
+  SAY NAME1 @121
+  SAY NAME2 @121
+  
+COPY ~Saerileth\Creatures\NSHAVUN.cre~ ~override\NSHAVUN.cre~
+  SAY NAME1 @150
+  SAY NAME2 @150
+  
+COPY ~Saerileth\Creatures\NSDRAGON.cre~ ~override\NSDRAGON.cre~
+  SAY NAME1 @151
+  SAY NAME2 @151
+
+COPY ~Saerileth\Creatures\NSHAVUN2.cre~ ~override\NSHAVUN2.cre~
+  SAY NAME1 @150
+  SAY NAME2 @150
+
+COPY ~Saerileth\Creatures\NSBODHI.cre~ ~override\NSBODHI.cre~
+  SAY NAME1 @152
+  SAY NAME2 @152
+
+COPY ~Saerileth\Creatures\NSHDBUD.cre~ ~override\NSHDBUD.cre~
+  SAY NAME1 @156
+  SAY NAME2 @156
+
+
+
+COPY ~Saerileth\nsblank.mus~ ~music~
+COPY_EXISTING ~songlist.2da~ ~override~
+SET_2DA_ENTRY 0 2 3 ~NSBLANK.MUS~
+
+// load up ee-specific tra files on BG2EE
+ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+  LOAD_TRA ~Saerileth/%LANGUAGE%/setup_ee.tra~
+END
+
+COPY ~Saerileth\Items\NSCROWN.itm~ ~override\NSCROWN.itm~
+SAY NAME1 @83
+SAY NAME2 @83
+SAY UNIDENTIFIED_DESC @84
+SAY DESC @85
+
+COPY ~Saerileth\Items\SAERSCRL.itm~ ~override\SAERSCRL.itm~
+SAY NAME1 @86
+SAY NAME2 @86
+SAY UNIDENTIFIED_DESC @87
+SAY DESC @87
+
+COPY ~Saerileth\Items\NSSCEPTR.itm~ ~override\NSSCEPTR.itm~
+SAY NAME1 @88
+SAY NAME2 @88
+SAY UNIDENTIFIED_DESC @89
+SAY DESC @89
+
+COPY ~Saerileth\Items\NSHAMM.itm~ ~override\NSHAMM.itm~
+SAY NAME1 @90
+SAY NAME2 @90
+SAY UNIDENTIFIED_DESC @91
+SAY DESC @91
+
+COPY ~Saerileth\Items\NSRNG.itm~ ~override\NSRNG.itm~
+SAY NAME1 @92
+SAY NAME2 @92
+SAY UNIDENTIFIED_DESC @93
+SAY DESC @93
+
+COPY ~Saerileth\Items\NSMONKEY.itm~ ~override\NSMONKEY.itm~
+SAY NAME1 @94
+SAY NAME2 @94
+SAY UNIDENTIFIED_DESC @95
+SAY DESC @95
+
+COPY ~Saerileth\Items\NSBODY.itm~ ~override\NSBODY.itm~
+SAY NAME1 @1
+SAY NAME2 @1
+SAY UNIDENTIFIED_DESC @96
+SAY DESC @96
+
+COPY ~Saerileth\Items\NSWINE.itm~ ~override\NSWINE.itm~
+SAY NAME1 @97
+SAY NAME2 @97
+SAY UNIDENTIFIED_DESC @98
+SAY DESC @98
+
+COPY ~Saerileth\Items\NSAMUL.itm~ ~override\NSAMUL.itm~
+SAY NAME1 @99
+SAY NAME2 @99
+SAY UNIDENTIFIED_DESC @100
+SAY DESC @100
+
+COPY ~Saerileth\Items\NSSHLD01.itm~ ~override\NSSHLD01.itm~
+SAY NAME1 @101
+SAY NAME2 @101
+SAY UNIDENTIFIED_DESC @102
+SAY DESC @102
+
+COPY ~Saerileth\Items\NSSHLD02.itm~ ~override\NSSHLD02.itm~
+SAY NAME1 @103
+SAY NAME2 @103
+SAY UNIDENTIFIED_DESC @104
+SAY DESC @105
+
+COPY ~Saerileth\Items\NSTRSCRL.itm~ ~override\NSTRSCRL.itm~
+SAY NAME1 @106
+SAY NAME2 @106
+SAY UNIDENTIFIED_DESC @107
+SAY DESC @107
+
+COPY ~Saerileth\Items\NSBRKSW.itm~ ~override\NSBRKSW.itm~
+SAY NAME1 @119
+SAY NAME2 @119
+SAY UNIDENTIFIED_DESC @120
+SAY DESC @120
+
+COPY ~Saerileth\Items\NSBKORCH.itm~ ~override\NSBKORCH.itm~
+SAY NAME1 @122
+SAY NAME2 @122
+SAY UNIDENTIFIED_DESC @123
+SAY DESC @123
+
+COPY ~Saerileth\Items\NSADTNGE.itm~ ~override\NSADTNGE.itm~
+SAY NAME1 @124
+SAY NAME2 @124
+SAY UNIDENTIFIED_DESC @125
+SAY DESC @125
+
+COPY ~Saerileth\Items\NSCALLA.itm~ ~override\NSCALLA.itm~
+SAY NAME1 @126
+SAY NAME2 @126
+SAY UNIDENTIFIED_DESC @127
+SAY DESC @127
+
+COPY ~Saerileth\Items\NSCRNTN.itm~ ~override\NSCRNTN.itm~
+SAY NAME1 @128
+SAY NAME2 @128
+SAY UNIDENTIFIED_DESC @129
+SAY DESC @129
+
+COPY ~Saerileth\Items\NSDAISY.itm~ ~override\NSDAISY.itm~
+SAY NAME1 @130
+SAY NAME2 @130
+SAY UNIDENTIFIED_DESC @131
+SAY DESC @131
+
+COPY ~Saerileth\Items\NSFORGET.itm~ ~override\NSFORGET.itm~
+SAY NAME1 @132
+SAY NAME2 @132
+SAY UNIDENTIFIED_DESC @133
+SAY DESC @133
+
+COPY ~Saerileth\Items\NSORCHID.itm~ ~override\NSORCHID.itm~
+SAY NAME1 @134
+SAY NAME2 @134
+SAY UNIDENTIFIED_DESC @135
+SAY DESC @135
+
+COPY ~Saerileth\Items\NSPKROSE.itm~ ~override\NSPKROSE.itm~
+SAY NAME1 @136
+SAY NAME2 @136
+SAY UNIDENTIFIED_DESC @137
+SAY DESC @137
+
+COPY ~Saerileth\Items\NSRDROSE.itm~ ~override\NSRDROSE.itm~
+SAY NAME1 @138
+SAY NAME2 @138
+SAY UNIDENTIFIED_DESC @139
+SAY DESC @139
+
+COPY ~Saerileth\Items\NSVIOLET.itm~ ~override\NSVIOLET.itm~
+SAY NAME1 @140
+SAY NAME2 @140
+SAY UNIDENTIFIED_DESC @141
+SAY DESC @141
+
+COPY ~Saerileth\Items\NSWRLILY.itm~ ~override\NSWRLILY.itm~
+SAY NAME1 @142
+SAY NAME2 @142
+SAY UNIDENTIFIED_DESC @143
+SAY DESC @143
+
+COPY ~Saerileth\Items\NSWTROSE.itm~ ~override\NSWTROSE.itm~
+SAY NAME1 @144
+SAY NAME2 @144
+SAY UNIDENTIFIED_DESC @145
+SAY DESC @145
+
+COPY ~Saerileth\Items\NSWTLILY.itm~ ~override\NSWTLILY.itm~
+SAY NAME1 @146
+SAY NAME2 @146
+SAY UNIDENTIFIED_DESC @147
+SAY DESC @147
+
+COPY ~Saerileth\Items\NSLIMLIM.itm~ ~override\NSLIMLIM.itm~
+SAY NAME1 @153
+SAY NAME2 @153
+SAY UNIDENTIFIED_DESC @154
+SAY DESC @154
+
+COPY ~Saerileth\Items\NSCHBOOK.itm~ ~override\NSCHBOOK.itm~
+SAY NAME1 @157
+SAY NAME2 @158
+SAY UNIDENTIFIED_DESC @160
+SAY DESC @161
+
+COPY ~Saerileth\Items\NSWSBOOK.itm~ ~override\NSWSBOOK.itm~
+SAY NAME1 @157
+SAY NAME2 @159
+SAY UNIDENTIFIED_DESC @160
+SAY DESC @162
+
+
+
+COPY ~Saerileth/Store/nsgdbar.sto~  ~override/nsgdbar.sto~
+  SAY 0xc @108
+
+  // Add journal entries (BGII:EE)
+ADD_JOURNAL @5000 @5001 @5002 @5003 @5004 @5005 @5006 @5007 @5008 @5009 @5010 @5011 @5012 @5013 @5014 @5015 @5016 @5017 @5018 @5019 @5020 @5021 @5022 @5023 @5024 @5025 @5026 @5027 @5028 @5029 @5030 @5031 @5032 USING ~Saerileth/%LANGUAGE%/JOURNAL.tra~
+
+
+COMPILE EVALUATE_BUFFER ~Saerileth/Dialogues~
+USING ~Saerileth/%s/Saerileth.tra~
+
+
+
+COMPILE EVALUATE_BUFFER ~Saerileth/Scripts~
+
+
+/* Extend area script */
+
+EXTEND_TOP ~AR6200.bcs~ ~Saerileth\Scripts\NSAR6200.baf~
+
+EXTEND_TOP ~AR0900.bcs~ ~Saerileth\Scripts\NSAR0900.baf~
+
+EXTEND_TOP ~AR1700.bcs~ ~Saerileth\Scripts\ar1700kesev.baf~
+
+EXTEND_TOP ~AR0809.bcs~ ~Saerileth\Scripts\NSAR0809.baf~
+
+EXTEND_TOP ~AR5500.bcs~ ~Saerileth\Scripts\NSAR5500.baf~
+
+EXTEND_TOP ~AR2402.bcs~ ~Saerileth\Scripts\NSAR2402.baf~
+
+EXTEND_TOP ~AR1100.bcs~ ~Saerileth\Scripts\NSAR1100.baf~
+
+EXTEND_TOP ~AR0801.bcs~ ~Saerileth\Scripts\NSAR0801.baf~
+
+COPY_EXISTING ~AR5501.are~ ~override\AR5501.are~
+WRITE_ASCII 0x94 ~AR5501~
+EXTEND_TOP ~AR5501.bcs~ ~Saerileth\Scripts\NSAR5501.baf~
+
+
+
+EXTEND_BOTTOM ~Cut218G.bcs~ ~Saerileth\Scripts\NSWRA02.baf~
+EXTEND_TOP ~HAERDALI.bcs~ ~Saerileth\Scripts\NSHaer.baf~
+EXTEND_TOP ~CERND.bcs~ ~Saerileth\Scripts\NSCernd.baf~
+EXTEND_TOP ~KELDORN.bcs~ ~Saerileth\Scripts\NSKeldor.baf~
+EXTEND_TOP ~KORGAN.bcs~ ~Saerileth\Scripts\NSKORGAN.baf~
+EXTEND_TOP ~ANOMEN.bcs~ ~Saerileth\Scripts\NSANOMEN.baf~
+
+
+
+COPY ~Saerileth/2da/SAERAND1.2da~ ~override\SAERAND1.2da~
+REPLACE ~99999~ @109
+
+COPY ~Saerileth/2da/SAERAND2.2da~ ~override\SAERAND2.2da~
+REPLACE ~99998~ @110
+
+COPY ~Saerileth/2da/SAERAND3.2da~ ~override\SAERAND3.2da~
+REPLACE ~99997~ @111
+
+COPY ~Saerileth/2da/SAERAND4.2da~ ~override\SAERAND4.2da~
+REPLACE ~99996~ @112
+
+COPY ~Saerileth/2da/SAERAND5.2da~ ~override\SAERAND5.2da~
+REPLACE ~99995~ @113
+
+COPY ~Saerileth/2da/SAERAND6.2da~ ~override\SAERAND6.2da~
+REPLACE ~99994~ @114
+
+COPY ~Saerileth/2da/SAERAND7.2da~ ~override\SAERAND7.2da~
+REPLACE ~99993~ @115
+
+COPY ~Saerileth/2da/SAERAND8.2da~ ~override\SAERAND8.2da~
+REPLACE ~99992~ @116
+
+COPY ~Saerileth/2da/SAERAND9.2da~ ~override\SAERAND9.2da~
+REPLACE ~99991~ @117
+
+COPY ~Saerileth/2da/SAEAND10.2da~ ~override\SAEAND10.2da~
+REPLACE ~99990~ @148
+
+COPY ~Saerileth/2da/SAEAND11.2da~ ~override\SAEAND11.2da~
+REPLACE ~99989~ @149
+
+COPY ~Saerileth/2da/SAEAND12.2da~ ~override\SAEAND12.2da~
+REPLACE ~99988~ @155
+
+COPY ~Saerileth/2da/SAEAND13.2da~ ~override\SAEAND13.2da~
+REPLACE ~99987~ @163
+
+COPY ~Saerileth/2da/SAEAND14.2da~ ~override\SAEAND14.2da~
+REPLACE ~99986~ @164
+
+
+APPEND ~pdialog.2da~
+~SAERILETH SAERILEP SAERILEJ SAERILED SAERI25P SAERI25J SAERI25D SAERIL25~
+UNLESS ~SAERILETH~
+
+APPEND ~interdia.2da~
+~SAERILETH BSAERILE BSAERI25~
+UNLESS ~SAERILETH~
+
+
+LAF HANDLE_AUDIO END
+
+ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
+COPY ~Saerileth/PVRZ~ ~override~
+END ELSE BEGIN
+LAF HANDLE_TILESETS END
+END

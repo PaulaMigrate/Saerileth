@@ -1,0 +1,16 @@
+IF
+ True()
+THEN
+ RESPONSE #100
+  CutSceneId(Player1)
+  FaceObject("NSCAMB02")
+  SmallWait(5)
+  ActionOverride("NSCAMB02",FaceObject(Player1))
+  Wait(2)
+  ForceSpell("NSCAMB02",HOLY_LIGHT_FROM_ABOVE)
+  SmallWait(5)
+  ActionOverride("NSCAMB02",DestroySelf())
+  CreateCreature("NSCAMB03",[541.245],13)
+  Wait(1)
+  EndCutSceneMode()
+END

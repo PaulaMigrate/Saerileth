@@ -1,0 +1,27 @@
+IF
+ True()
+THEN
+ RESPONSE #100
+    CutSceneID(Player1)
+    SmallWait(3)
+    FadeToColor([30.0],0)
+    Wait(1)
+    ActionOverride("NSEDOREM",DestroySelf())
+    LeaveAreaLUAPanic("NS0160","",[423.431],0)
+    LeaveAreaLUA("NS0160","",[423.431],0)
+    ActionOverride(Player2,LeaveAreaLUA("NS0160","",[424.432],0))
+    ActionOverride(Player3,LeaveAreaLUA("NS0160","",[425.433],0))
+    ActionOverride(Player4,LeaveAreaLUA("NS0160","",[426.434],0))
+    ActionOverride(Player5,LeaveAreaLUA("NS0160","",[427.435],0))
+    ActionOverride(Player6,LeaveAreaLUA("NS0160","",[428.436],0))
+    Wait(3)
+    CreateCreature("NSEDOREM",[422.430],0)
+    Wait(1)
+    FadeFromColor([20.0],0)
+    Wait(1)
+    EndCutSceneMode()
+END
+
+
+
+

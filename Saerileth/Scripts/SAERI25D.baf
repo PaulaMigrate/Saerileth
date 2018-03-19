@@ -1,0 +1,75 @@
+IF
+ Global("SaerilethRomanceActive","GLOBAL",2)
+ Global("NSSaradushTalk","LOCALS",0)
+ Global("SaradushSacked","GLOBAL",1)
+ InParty(Myself)
+ Detect(Player1)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaradushTalk","LOCALS",1)
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  Dialog(Player1)
+END
+
+
+IF
+  Global("SaerilethRomanceActive","GLOBAL",2)
+  Global("SaerilethMatch","GLOBAL",1)
+  See(Player1)
+  CombatCounter(0)
+  OR(3)
+  Global("SaerilethLoveTalkTOB","LOCALS",5)
+  Global("SaerilethLoveTalkTOB","LOCALS",7)
+  Global("SaerilethLoveTalkTOB","LOCALS",9)
+THEN
+ RESPONSE #100
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  IncrementGlobal("SaerilethLoveTalkTOB","LOCALS",1)
+  RealSetGlobalTimer("SaerilethLoveTalkTimeTOB","GLOBAL",1)
+  Interact(Player1)
+END
+
+
+
+IF
+ Global("SaerilethRomanceActive","GLOBAL",2)
+ Global("NSSaeriBathLT","LOCALS",0)
+ AreaCheck("AR6400")
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaeriBathLT","LOCALS",1)
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("SaerilethRomanceActive","GLOBAL",2)
+ Dead("chalslay")
+ Global("NSSaeriPPLT","LOCALS",0)
+ AreaCheck("AR4500")
+THEN
+ RESPONSE #100
+  SetGlobal("NSSaeriPPLT","LOCALS",1)
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+ Global("SaerilethRomanceActive","GLOBAL",2)
+ Dead("hgwra01")
+ Global("NSEdWraithLT","LOCALS",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSEdWraithLT","LOCALS",1)
+  PlaySong(0)
+  PlaySound("SAERILOV")
+  StartDialogueNoSet(Player1)
+END

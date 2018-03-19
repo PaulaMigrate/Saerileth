@@ -1,0 +1,39 @@
+IF
+ Global("NSDemonGo","GLOBAL",1)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDemonGo","GLOBAL",2)
+ StartDialogueNoSet(Player1)
+END
+
+
+
+IF
+  Dead("Saerileth")
+  Global("NSDEMON1Leaves","LOCALS",0)
+THEN
+  RESPONSE #100
+  ReallyForceSpell("NSDEMON1",DRYAD_TELEPORT)
+  SetGlobal("NSDEMON1Leaves","LOCALS",1)
+END
+
+/*IF
+  Global("NSDEMON1GoesHome","GLOBAL",1)
+  Global("NSDEMON1Left","LOCALS",0)
+THEN
+  RESPONSE #100
+  ReallyForceSpell("NSDEMON1",RED_EFFECT)
+  SetGlobal("NSDEMON1Left","LOCALS",0)
+  DestroySelf()
+END*/
+
+
+
+
+/*IF
+  Global("NSDEMON1ChainReaction","GLOBAL",1)
+THEN
+  RESPONSE #100
+  SetGlobal("NSDEMON1ChainReaction","GLOBAL",2)
+  ReallyForceSpell("NSDEMON1",DRYAD_TELEPORT)
+END*/

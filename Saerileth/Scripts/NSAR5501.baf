@@ -1,0 +1,9 @@
+IF
+  InParty("Saerileth")
+  GlobalGT("NSTemptedPC","GLOBAL",1)
+  Global("NSSUC01Exists","AR5501",0)
+THEN
+ RESPONSE #100
+  SetGlobal("NSSUC01Exists","AR5501",1)
+  CreateCreature("NSSUC01",[681.273],3)
+END

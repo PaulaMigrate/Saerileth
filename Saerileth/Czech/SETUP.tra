@@ -1,0 +1,254 @@
+@0    = ~Saerileth Romance Mod (BG2:SoA & TOB NPC); vytvoøili nethrin a Sillara~
+@1    = ~Saerileth~
+@2    = ~Vítej, božské dítì. Nejsi snad oním dítìtem Bhaalovým, o nìmž jsem slyšela?~ [SAERI001]
+@3    = ~A jsem navìky zahanbena!~ [SAERI002]
+@4    = ~Jak nádherné jest cestovat ve spoleènosti jako tato.~ [SAERI003]
+@5    = ~Jestliže nezmìníš své cesty, odejdu ze tvé pøítomnosti.~ [SAERI004]
+@6    = ~Zøím, jak temnota zaplavuje tvé srdce. Ach, odvra se od ní!~ [SAERI005]
+@7    = ~Od nynìjška jsme nepøáteli, ty a já!~ [SAERI006]
+@8    = ~Povedu tì po Tyrových stezkách.~ [SAERI007]
+@9    = ~Už nemohu dále. Potøebuji odpoèinek.~ [SAERI008]
+@10   = ~Jest zlé takto marnit èas. Vždy jistì jsou tací, kdo potøebují naši pomoc.~ [SAERI009]
+@11   = ~Znièím tì v Tyrovì jménu!~ [SAERI010]
+@12   = ~Pro slávu Tyrovu!~ [SAERI011]
+@13   = ~Spravedlnost!~ [SAERI012]
+@14   = ~Tyre!~ [SAERI013]
+@15   = ~A Kladivo dopadne na tvou hlavu!~ [SAERI014]
+@16   = ~Aaahhh!~ [SAERI015]
+@17   = ~Navracím se k Tyrovi.~ [SAERI016]
+@18   = ~Má krev se vylévá pro spravedlnost.~ [SAERI017]
+@19   = ~Jak vznosné jsou tyto stromy, však pøec nemohou hovoøit.~ [SAERI018]
+@20   = ~Jediné mìsto, které mé oèi kdy zahlédly, byl Sigil. Toto ho však krásou pøevyšuje.~ [SAERI019]
+@21   = ~Mé srdce dychtí znovu zavítat do Sigilu.~ [SAERI020]
+@22   = ~Denní svìtlo jest potìšením mých oèí.~ [SAERI021]
+@23   = ~Temnota èasto pøikrývá zlé skutky.~ [SAERI022]
+@24   = ~Co se mnou uèiníš?~ [SAERI023]
+@25   = ~Mluv, tvá služebnice slyší.~ [SAERI024]
+@26   = ~Slyším tvùj hlas.~ [SAERI025]
+@27   = ~Pøikazuj a já poslechnu.~ [SAERI026]
+@28   = ~Saerileth oèekává na tvé slovo.~ [SAERI027]
+@29   = ~Ano?~ [SAERI028]
+@30   = ~Budu kráèet v Tyrovì jménu.~ [SAERI029]
+@31   = ~Tak nech se stane.~ [SAERI030]
+@32   = ~A tì dostihne Tyrova spravedlnost.~ [SAERI031]
+@33   = ~Následuji tì na Tyrùv pøíkaz.~ [SAERI032]
+@34   = ~Povinnost a touha jedno jsou.~ [SAERI033]
+@35   = ~Žádný úkol není pøíliš tìžký pro toho, kdo oddanì slouží.~ [SAERI034]
+@36   = ~Staniž se.~ [SAERI035]
+@37   = ~Smrt pøináší vìènou temnotu, však pøesto mùže být vznešená.~ [SAERI036]
+@38   = ~Mùj život patøí Tyrovi; nech s ním uèiní, co se mu zlíbí.~ [SAERI037]
+@39   = ~Spravedlnost jest slepá, však pøesto nechybuje.~ [SAERI038]
+@40   = ~Spravedlnost tì dostihla!~ [SAERI039]
+@41   = ~Budeš mùj!~ [SAERI040]
+@42   = ~Mým úderùm snad odoláš, však spravedlnost tì znièí!~ [SAERI041]
+@43   = ~Nemohu to unést.~ [SAERI042]
+@44   = ~Tyre, odpus mi!~ [SAERI043]
+@45   = ~To nám nepøinese žádnou èest.~ [SAERI044]
+@46   = ~Nesluší se, abychom se skrývali.~ [SAERI045]
+@47   = ~Nejsem žádný zlodìj!~ [SAERI046]
+@48   = ~Když se jí zeptáš na minulost, Saerileth odpoví, že se narodila na hoøe Celestii a pøebývala na ní až do svých ètrnácti let. Vychovali ji v Tyrovì chrámu na Celestii a svá poslední léta strávila v Sigilu, kde sloužila Tyrovu knìzi. Poté byla poslána do Torilu, aby vyhledala Bhaalova zplozence a vyžádala si <PRO_HISHER> pomoc.~
+@49   = ~Kesevar~
+@50   = ~Tyrùv knìz~
+@51   = ~Gunshain~
+@52   = ~Edorem~
+@53   = ~Démon~
+@54   = ~Mladý mág~
+@55   = ~Astrální Deva~
+@56   = ~Alu-démon~
+@57   = ~Mìsíèní pes~
+@58   = ~Spalovaè~
+@59   = ~Zombie èíšník~
+@60   = ~Zombie~
+@61   = ~Prostitutka~
+@62   = ~Tiefling~
+@63   = ~Planetar~
+@64   = ~Obchodník~
+@65   = ~Cambion~
+@66   = ~Barman~
+@67   = ~Èlen Doupìte stínù~
+@68   = ~Trpaslièí obyvatel~
+@69   = ~Drowí obyvatel~
+@70   = ~Obyvatel Sigilu~
+@71   = ~Jharak~
+@72   = ~Mon~
+@73   = ~Glourkist~
+@74   = ~Abishai~
+@75   = ~Cornugon~
+@76   = ~Gunshainùv uèedník~
+@77   = ~Pimp~
+@78   = ~Lord Reginald~
+@79   = ~Kenny~
+@80   = ~Dick~
+@81   = ~Dalila~
+@82   = ~Sukubus~
+@83   = ~Saerilethin svatý symbol~
+@84   = ~Toto je Saerilethin svatý Tyrùv symbol. Jako koruna spoèíná na jejích havraních vlasech a ona ho nikdy nesundává.~
+@85   = ~Toto je Saerilethin svatý Tyrùv symbol. Jako koruna spoèívá na jejích havraních vlasech a ona ho nikdy nesundává. Je požehnán Tyrovou mocí a ochraòuje Saerilethin život.
+
+STATISTIKY
+Zvláštní schopnosti:
+Stálá ochrana pøed zlem
+
+Mùže použít:
+Saerileth~
+@86   = ~Tyrùv rozsudek~
+@87   = ~Na tomto svitku je zapsán Kesevarùv rozsudek.~
+@88   = ~Tyrovo žezlo~
+@89   = ~Toto žezlo záøí Tyrovou mocí. Edorem tvrdí, že jeho svatá moc vám pomùže porazit Glourkista.~
+@90   = ~Tyrovo kladivo~
+@91   = ~Tento artefakt Tyrova øádu vám dal lord Edorem z vdìènosti za váš podíl na záchranì Saerileth.
+
+STATISTIKY
+Zvláštní schopnosti:
++2 AC bonus
+10% odolnost proti drtivému poškození 
+1 zranìní elektøinou
+
+Thac0: +2 bonus
+Zranìní: 1d4+3 (+1 elektøinou)
+Typ zranìní: tupé
+Váha: 5
+Rychlost: 2
+Dovednost: Bojové kladivo
+Typ: 1-ruèní
+Vyžaduje: 9 Síla
+Nesmí používat:
+Postava se zlým pøesvìdèením
+Bard
+Mág
+Mnich
+Zlodìj~
+@92   = ~Saerilethin svatební prsten~
+@93   = ~Toto je prsten, který <CHARNAME> navlékl Saerileth na ruku v den jejich svatby. Své požehnání do nìj vložili elfové Suldanesselaru, jako dík za èiny, jež <CHARNAME> a Saerileth vykonali u Stromu života.
+
+STATISTIKY
+Zvláštní schopnosti:
++3 AC bonus
++3 ke všem záchranným hodùm~
+@94   = ~Pramínek vlasù~
+@95   = ~Tento pramínek vlasù je zjevnì klíèem, který otvírá portál do Ysgaardu.~
+@96   = ~Tìlo Saerileth. Leží v bezvìdomí, možná umírá.~
+@97   = ~Saerilethino víno~
+@98   = ~Tuto láhev vína vymaèkaného z hroznù, jež vyrostly ve Vnìjších sférách, ti dala Saerileth jako dárek.~
+@99   = ~Náhrdelník milencù~
+@100  = ~Tento záøící zlatý náhrdelník byl vytvoøen v Arborei, kde mìl svìdèit o spojení Brii a Dariana. Kdo byli ti dva již dnes nikdo neví, ale i když na nìm nespoèívá žádná zjevná magie, když ho otevøeš, záøí jemným èerveným svìtlem. Legenda øíká, že toto svìtlo svítí jako obraz jejich dokonalé lásky.~
+@101  = ~Hermùv štít +1~
+@102  = ~Tento štít byl vykován ke cti boha Arborey jménem Hermes. 
+Byl to zøejmì bùh rychlých nohou, protože tento štít zrychlí svého nositele.
+
+STATISTIKY
+Zvláštní schopnosti:
+Zvyšuje rychlost pohybu
+
+Bonus ke tøídì zbroje: 2
+Váha: 3
+Vyžaduje: 4 Síla
+Nesmí používat:
+Bard
+Mág
+Zlodìj
+Mnich
+Druid~
+@103  = ~Elementální štít +4~
+@104  = ~Tento štít, zøejmì vyzaøující kouzla, byl vykován v chaosu Limba v žáru mnoha elementù. Protože sdílí èást jejich podstaty, poskytuje pøed nimi èásteènou ochranu.
+
+STATISTIKY
+Zvláštní schopnosti:
++10% odolnost proti ohni, chladu, kyselinì a elektøinì 
+
+Bonus ke tøídì zbroje: 5
+Váha: 5
+Vyžaduje: 12 Síla
+Nesmí používat:
+Bard
+Druid
+Mág
+Zlodìj~
+@105  = ~Tento štít, zøejmì vyzaøující kouzla, byl vykován v chaosu Limba v žáru mnoha elementù. Protože sdílí èást jejich podstaty, poskytuje pøed nimi èásteènou ochranu.
+
+STATISTIKY:
+Zvláštní schopnosti:
++10% odolnost proti ohni, chladu, kyselinì a elektøinì 
+
+Bonus ke tøídì zbroje: 5
+Váha: 5
+Vyžaduje: 12 Síla
+Nesmí používat:
+Bard
+Druid
+Mág
+Zlodìj~
+@106  = ~Svitek Odkrytí~
+@107  = ~Tento svitek byl po mnoho let ukryt ve Waukeeninì chrámu. Kdysi mu ho prodal neznámý cestovatel, a skrývá v sobì nesmírnou moc, kterou Waukeenini uèedníci nikdy nedokázali zcela ovládnout.~
+@108  = ~Bar spalovaèù~
+@109  = ~Saerileth odolala všem pokusùm o vzkøíšení, a už to zkoušel <CHARNAME> nebo kdokoli jiný. Pohøbili ji pøed Tyrovým chrámem v Tethyru a o její hrob se po mnohá staletí peèlivì starali jeho knìží. Tyr po nìjaké dobì znovu odìl Saerilethina ducha masem a ona se stala jeho vyslankyní ve sférách, mocnou váleènicí, však slepou jako samotný Slepý Bùh. <CHARNAME> svou ženu už nikdy nespatøil.~
+@110  = ~Searileth a <CHARNAME> žili dlouho a šastnì ve Faerunu, a Saerileth porodila svému drahému pánu sedm synù, každý byl krásný po matce a mìl silnou vùli po svém otci. Co se týká jejich dìtí, tøetí z nich, chlapec jménem Kesevar, se stal jedním z Tyrových Vyvolených. Dvojice dlouho putovala Faerunem a stavìla se proti zlu, kdekoli ho nalezla. Ještì dvakrát byli lord <CHARNAME> a lady Saerileth povoláni, aby bránili Suldanesselar pøed drowy. Pøesto, pøes všechna léta, po která spolu kráèeli po Torilu, Saerileth a <CHARNAME> nikdy nekráèeli sférami a <CHARNAME> nikdy nevidìl Saerilethin domov. Nakonec, když se témìø naplnila léta jejich služby, Saerileth a <CHARNAME> se odebrali na Celestii, aby se spoleènì podívali do zemí, kde se Saerileth narodila. Na Torilu je už nikdo nikdy nespatøil.~
+@111  = ~Saerileth nezùstala na Torilu poté, co <CHARNAME> vystoupil na Bhaalùv trùn, pøíliš dlouho. Již zanedlouho se odebrala do Sigilu a zde se vdala za lorda Edorema. Jejich svatba byla nádherná a <CHARNAME> ze Svítící tvrzi se jí také zúèastnil a popøál obìma mnoho štìstí. Oba paladini se stali vìrnými pøáteli <CHARNAME> a jeho stálými spojenci, a byli vždy pøipraveni <PRO_HIMHER> pomoci, bylo-li by to potøeba. Své druhé dítì dokonce pojmenovali <CHARNAME> ke cti bývalého Bhaalova dítìte. Nakonec však pøišel den, kdy <CHARNAME> volal a nedoèkal se odpovìdi, a tak pochopil, že Saerileth a její drahý Edorem nalezli v Tyrových službách svou vlastní smrt.~
+@112  = ~Saerileth, Tyrova Vyvolená, byla velkou pomocí <CHARNAME> pøi <PRO_HISHER> vzestupu k božství, ale nikdy se nevzdala své víry v Tyra. Poté, co bývalé Bhaalovo dítì zaujalo své místo mezi Silami, Saerileth se navrátila do Sigilu, kde se vdala za lorda Edorema. Svému drahému pánu pak porodila sedm synù a Tyr dvojici prokázal dvojí èest, když oba uèinil svými vyslanci. Byli pozvednuti ze smrtelnosti a stali se podobní devám. Navždy spolu Saerileth a Edorem èelili bezpráví, kdekoli ho nalezli, èastìji je však zahlédli v Torilu než v jiných svìtech, nebo chtìli ctít jméno <CHARNAME>, na které vždy s láskou vzpomínali.~
+@113  = ~Saerileth a <CHARNAME> žili dlouho a šastnì na Faerunu a Saerileth porodila svému drahému pánu ètyøi syny a tøi dcery, každý z nich byl krásný po matce a mìl silnou vùli po svém otci. Co se týká jejich dìtí, jejich první, dcera jménem Saerileth, se stala jednou z Tyrových Vyvolených. Dvojice dlouho putovala Faerunem a stavìla se proti zlu, kdekoli ho našla. Ještì dvakrát byli Lord <CHARNAME> a Lady Saerileth povoláni, aby bránili Suldanesselar pøed drowy. Pøesto, pøes všechna léta, po která spolu kráèeli po Torilu, Saerileth a <CHARNAME> nikdy nekráèeli sférami a <CHARNAME> nikdy nevidìl Saerilethin domov. Nakonec, když se témìø naplnila léta jejich služby, Saerileth a <CHARNAME> se odebrali na Celestii, aby se spoleènì podívali do zemí, kde se Saerileth narodila. Na Torilu je už nikdo nikdy nespatøil.~
+@114  = ~Saerileth a <CHARNAME> žili dlouho a šastnì na Faerunu a Saerileth porodila svému drahému pánu ètyøi syny a tøi dcery, každý z nich byl krásný po matce a mìl silnou vùli po svém otci. Co se týká jejich dìtí, jejich první, dcera jménem Alaren, se stala jednou z Tyrových Vyvolených. Dvojice dlouho putovala Faerunem a stavìla se proti zlu, kdekoli ho našla. Ještì dvakrát byli Lord <CHARNAME> a Lady Saerileth povoláni, aby bránili Suldanesselar pøed drowy. Pøesto, pøes všechna léta, po která spolu kráèeli po Torilu, Saerileth a <CHARNAME> nikdy nekráèeli sférami a <CHARNAME> nikdy nevidìl Saerilethin domov. Nakonec, když se témìø naplnila léta jejich služby, Saerileth a <CHARNAME> se odebrali na Celestii, aby se spoleènì podívali do zemí, kde se Saerileth narodila. Na Torilu je už nikdo nikdy nespatøil.~
+@115  = ~Saerileth a <CHARNAME> žili dlouho a šastnì na Faerunu a Saerileth porodila svému drahému pánu ètyøi syny a tøi dcery, každý z nich byl krásný po matce a mìl silnou vùli po svém otci. Co se týká jejich dìtí, jejich první, dcera jménem Arlluvia, se stala jednou z Tyrových Vyvolených. Dvojice dlouho putovala Faerunem a stavìla se proti zlu, kdekoli ho našla. Ještì dvakrát byli Lord <CHARNAME> a Lady Saerileth povoláni, aby bránili Suldanesselar pøed drowy. Pøesto, pøes všechna léta, po která spolu kráèeli po Torilu, Saerileth a <CHARNAME> nikdy nekráèeli sférami a <CHARNAME> nikdy nevidìl Saerilethin domov. Nakonec, když se témìø naplnila léta jejich služby, Saerileth a <CHARNAME> se odebrali na Celestii, aby se spoleènì podívali do zemí, kde se Saerileth narodila. Na Torilu je už nikdo nikdy nespatøil.~
+@116  = ~Saerileth a <CHARNAME> žili dlouho a šastnì na Faerunu a Saerileth porodila svému drahému pánu ètyøi syny a tøi dcery, každý z nich byl krásný po matce a mìl silnou vùli po svém otci. Co se týká jejich dìtí, jejich první, chlapec jménem Gorion, se stal jedním z Tyrových Vyvolených. Dvojice dlouho putovala Faerunem a stavìla se proti zlu, kdekoli ho našla. Ještì dvakrát byli lord <CHARNAME> a lady Saerileth povoláni, aby bránili Suldanesselar pøed drowy. Pøesto, pøes všechna léta, po která spolu kráèeli po Torilu, Saerileth a <CHARNAME> nikdy nekráèeli plánìmi a <CHARNAME> nikdy nevidìl Saerilethin domov. Nakonec, když se témìø naplnila léta jejich služby, Saerileth a <CHARNAME> se odebrali na Celestii, aby se spoleènì podívali do zemí, kde se Saerileth narodila. Na Torilu je už nikdo nikdy nespatøil.~
+@117  = ~Saerileth a <CHARNAME> žili dlouho a šastnì na Faerunu a Saerileth porodila svému drahému pánu ètyøi syny a tøi dcery, každý z nich byl krásný po matce a mìl silnou vùli po svém otci. Co se týká jejich dìtí, jejich první, chlapec jménem Caladus, se stal jedním z Tyrových Vyvolených. Dvojice dlouho putovala Faerunem a stavìla se proti zlu, kdekoli ho našla. Ještì dvakrát byli lord <CHARNAME> a lady Saerileth povoláni, aby bránili Suldanesselar pøed drowy. Pøesto, pøes všechna léta, po která spolu kráèeli po Torilu, Saerileth a <CHARNAME> nikdy nekráèeli sférami a <CHARNAME> nikdy nevidìl Saerilethin domov. Nakonec, když se témìø naplnila léta jejich služby, Saerileth a <CHARNAME> se odebrali na Celestii, aby se spoleènì podívali do zemí, kde se Saerileth narodila. Na Torilu je už nikdo nikdy nespatøil.~
+@118  = ~~
+@119  = ~Zlomený Požíraè duší~
+@120  = ~<CHARNAME> nemoudøe svìøil tento nesvatý meè Sarileth a mladá paladinka povolala na pomoc Tyrovu moc, aby ho navždy znièila. Vše, co z nìj zbylo, je jen pár bezcenných støepin.~
+@121  = ~Hana~
+@122  = ~Èerná orchidej~
+@123  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil èernou orchidej, chtìl jsi jí trochu polichotit a aspoò trochu ukázat, jako moc ji obdivuješ pro její neobvyklou krásu.~
+@124  = ~Zmijí jazyk~
+@125  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil zmijí jazyk, chtìl ses jí tím vyznat ze žárlivosti na její oddanost. Možná že žárlíš jen na to, že dává svou pozornost i nìkomu jinému. Ale možná že žárlíš na jisté individuum, které se u ní èas od èasu vynoøí ze vzduchu.~
+@126  = ~Lilie~
+@127  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil lilii, chtìl jsi tím vyzvednout její panenskou èistotu a vychválit její krásu.~
+@128  = ~Karafiát~
+@129  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil karafiát, chtìl jsi tím ukázat svou lásku a vìrnost, již jí hodláš zachovat.~
+@130  = ~Sedmikráska~
+@131  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil sedmikrásku, chtìl jsi tím poctít její nevinnost a vyjádøit svou touhu po jejím zachování.~
+@132  = ~Pomnìnka~
+@133  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil pomnìnku, chtìl jsi jí tím vyjádøit stálost své vìrné lásky.~
+@134  = ~Orchidej~
+@135  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil orchidej, chtìl jsi jen být trochu hravý a polichotit jí krásným kvítkem.~
+@136  = ~Rùžová rùže~
+@137  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil rùžovou rùži, chtìl jsi jí tím sdìlit, že vaše láska musí zùstat ve skrytu. Jsi Bhaalùv zplozenec a máš mnoho skrytých nepøátel. Tato kvìtina smybolizuje tvou touhu ochránit Saerileth pøed nebezpeèím.~
+@138  = ~Rudá rùže~
+@139  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil rudou rùži, chtìl jsi tím vyjádøit svou touhu, abys získal i její tìlo a abyste byli jedno.~
+@140  = ~Fialka~
+@141  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil fialku, chtìl jsi ji tím ujistit, že tu pro ni vždycky budeš a že vaše láska nikdy neskonèí.~
+@142  = ~Vodní lilie~
+@143  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil vodní lilii, chtìl jsi jí tím øíct, že ji miluješ nejen pro její krásu, ale i pro ctnosti, které skrývá její nitro, pøedevším pak pro její èisté srdce.~
+@144  = ~Bílá rùže~
+@145  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil bílou rùži, chtìl jsi jí tím pøipomenout, že jsi hoden její lásky. Také tím vyjadøuješ, že tvá náklonnost je nevinná a opravdová.~
+@146  = ~Bílá lilie~
+@147  = ~Tuto kvìtinu jsi koupil Saerileth. Když jsi jí koupil bílou lilii, chtìl jsi tím vyzdvihnout nevinnost jejího mládí.~
+@148  = ~Poté, co <CHARNAME> vystoupil na Bhaalùv trùn, nezùstala ani Saerileth v Torilu dlouho. Brzy se odebrala na Celestii a tam pøijala pláš Panenské dcery Spravedlnosti. Pak se stala Tyrovou vyslankyní a byla pozdvižena ze své smrtelnosti, podobna devám. Byla vždy tou nejvìrnìjší spojenkyní, jakou <CHARNAME> mìl, a jeho volání o pomoc nikdy nezùstalo nevyslyšeno. Poté, co <CHARNAME> zemøel, Saerileth se už nikdy nevrátila do Torilu, protože vzpomínky na její nešastnou lásku k <CHARNAME> ze Svítící tvrzi pro ni byly pøíliš silné. Po všechny své dny zùstala sama a stále pro nìj tiše truchlila.~
+@149  = ~Saerileth, Tyrova Vyvolená, byla velkou pomocí pro <CHARNAME> pøi <PRO_HISHER> vzestupu k božství, ale nikdy se nevzdala své víry v Tyra. Poté, co bývalé Ballovo dítì zaujalo své místo mezi Silami, Saerileth se vrátila na Celestii, kde pøijala pláš Panenské dcery Spravedlnosti. Poté se stala Tyrovou vyslankyní a byla pozvednuta ze své smrtelnosti, podobná devám. Navždy sama, Saerileth nièila zlo, kdekoli ho mohla najít, ale èastìji než kde jinde ji zahlédli v Torilu, kvùli <CHARNAME>, jehož tak vìrnì milovala.~
+@150  = ~Sir Havun Clarenshide~
+@151  = ~Khabalaxin~
+@152  = ~Bodhi~
+@153  = ~Lim Lim~
+@154  = ~Zvìdavé stvoøení.~
+@155  = ~Saerileth a <CHARNAME> dlouho a šastnì žili ve Faerunu a Searileth porodila svému drahému pánu tøi syny, každý byl krásný po matce a vùli mìl silnou po svém otci. Co se týká jejich synù, první z nich, chlapec jménem Gwalchavad, se stal jedním z Tyrových Vyvolených. Po mnoho let pár kráèel po Faerunu a stavìl se proti zlu, kdekoli na nìj narazili. Nakonec se usadili v Suldanesselaru, kde, aèkoli Saerileth èlovìk, jí mocné èiny lorda <CHARNAME> vysloužily pøijetí a milost. Ještì dvakrát byli lord <CHARNAME> a lady Saerileth povoláni, aby bránili Suldanesselar pøed drowy. Podvakráte uspìli a získali si mezi místními velikou úctu. Bylo to po druhé bitvì, kdy si nìkteøí zaèali všímat, že Saerilethina krása èasem nevadne, ani nestárne, jako by mìl každý èlovìk. A vskutku, když byl nakonec <CHARNAME> povolán do Arvanaithu, stár a sytý dnù, Saerileth mu stála po boku, a to ona mu zatlaèila oèi. Po smrti svého pána Saerileth obdržela od Tyra tìlo devy a ihned se odebrala do Arvanaithu, kde se znovu setkala se svým pánem a jejich láska byla tak veliká, že se již nikdy od sebe neodlouèili.~
+@156  = ~D'Aqilar~
+@157  = ~Záhadná kniha~
+@158  = ~Kniha Tyrovy svaté pøítomnosti~
+@159  = ~Kniha Tyrovy svaté moudrosti~
+@160  = ~Tuto knihu dostala Saerileth od samotného Tyra jako odmìnu za znièení Demogorgonova avatara.~
+@161  = ~Tato kniha pøidá svému ètenáøi nìco z božské pøítomnosti samotného Tyra.
+
+STATISTIKY:
+
+Permanentnì zvýší charisma o 1.
+
+Nesmí použít:
+Osoba s jiným než dobrým pøesvìdèením~
+@162  = ~Tato kniha pøidá svému ètenáøi nìco z božské moudrosti samotného Tyra.
+
+STATISTIKY:
+
+Permanentnì zvýší moudrost o 1.
+
+Nesmí použít:
+Osoba s jiným než dobrým pøesvìdèením~
+@163  = ~Ihned poté, co <CHARNAME> vystoupil na Bhaalùv trùn, Saerileth odešla z Torilu, aby splnila slovo, jež dala lordu Edoremovi. Stala se jeho nevìstou, jak jí to pøikázal <CHARNAME>. Po tøi léta oba Tyrovi Vyvolení bojovali ve službách Slepého boha a poté byli pozvednuti ze své smrtelnosti a stali se jeho vyslanci. Saerileth, podobná devám v kráse a moci, následovala Tyra po své nekonèíci dny, vždy oddaná lordu Edoremovi, ale navždy se zlomeným srdcem. Její láska k <CHARNAME> ze Svítící tvrzi byla stejnì nepohnutelná jako døív, nedala jí však prùchod, protože byla poslušná jeho pøání.~
+@164  = ~Ihned poté, co se <CHARNAME> stal bohem, Saerileth odešla z Torilu, aby splnila slib, který dala lordu Edoremovi. V Sigilu se vdala za Tyrova Vyvoleného, jak jí pøikázal <CHARNAME> bìhem svých smrtelných dní. Oba Vyvolení se spoleènì stali Tyrovými vyslanci a byli pozvednuti ze smrtelnosti k nesmrtelnosti. Pouto, které Saerileth vázalo s lordem Edoremem, se tedy stalo vìèným. Když pak, po mnoha staletích, mìl Tyr nìjaký dùvod, pro který potøeboval poslat posla k bohu <CHARNAME>, Slepý bùh poslal Saerileth. V moci a kráse, podobná vznešeným devám, se objevila pøed trùnem své dávné lásky. <CHARNAME> jasnì vidìl, svýma neumírajícíma oèima, že její láska k nìmu nikdy nezahynula. Pøesto však zapøela, že by ho stále milovala, když o tom zaèal hovoøit. "Jak by to mohlo být, že bych tì stále mohla milovat? Vzdal ses mé ruky a tím i mého srdce, aby mne mohl získat Edorem. Nepøeji si tedy milovat tì dále a ani nemohu. Zde jest má zpráva a nyní již musím odejít."~
+

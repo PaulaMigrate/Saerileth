@@ -1,0 +1,775 @@
+@0    = ~<CHARNAME>, though Hectan is a thief, he hath acted out of desperation. 'Twould be unjust to give him the scroll without a warning.~
+@1    = ~Thus, my lord, it doth end. (Saerileth's eyes are grave.) Here at last thy destiny is fulfilled. I am glad to be by thy side, and I pray Tyr will grant us victory.~
+@2    = ~Now cometh the final battle, <CHARNAME>. May Tyr grant us victory over thine enemies.~
+@3    = ~The love I bear thee can afford no better term than this: thou art a villain!~ [SAERI180]
+@4    = ~<CHARNAME>! We have found the most holy relic of Tyr on this world! Wouldst thou permit me to carry it?~
+@5    = ~(Saerileth's eyes are wide, and she reverently reaches out to take the Eye of Tyr.)~
+@6    = ~Yes, here, Saerileth. You take it for now.~
+@7    = ~No, I'll keep it for the present.~
+@8    = ~I thank thee, <CHARNAME>. (And Saerileth takes the Eye of Tyr.)~
+@9    = ~I beg thee, <CHARNAME>, treat the Eye of Tyr with the reverence it doth deserve!~
+@10   = ~This place hides great evil, <CHARNAME>. This woodland setting is but a mask for some wickedness.~
+@11   = ~I know not what that presence said to thee, nor what agreement thou hast made with it to free us from imprisonment, but I do doubt its faith.~ [SAERI341]
+@12   = ~We ought to ask the knights about this. Perhaps they can explain their seeming treachery.~
+@13   = ~Thou wouldst leave it so? (Saerileth's shock is plain.)~ [SAERI342]
+@14   = ~Even if thou wilt, I cannot. I go to do what I can against the Prince of Demons!~ [SAERI343]
+@15   = ~I am thy wife, and naught can alter this, but thy heart hath become so black that, as I am Tyr's Chosen, no longer may I dwell by thy side.~ [SAERI344]
+@16   = ~I must return to Mount Celestia, and there, in the temple of Tyr, I will become one of the Cloistered Daughters of Justice. Night and day shall mine orisons rise for thy soul, and I do not yet despair of seeing thee after thy death.~ [SAERI345]
+@17   = ~Farewell, my lord. Think oft of me.~ [SAERI346]
+@18   = ~I am thy wife, and naught can alter this, but thou hast fallen from the light, faltered in thy walk, and as I am Tyr's Chosen, no longer may I dwell by thy side.~ [SAERI347]
+@19   = ~(You satisfy your lust and then extricate yourself from the arms of your temptress. You look around for your companions. Despite your blurred vision, shortness of breath, and utter fatigue, you spy Saerileth sleeping in the corner.)~
+@20   = ~(You go over to arouse her, to explain yourself to her, that you could not deny the lust in your loins.)~
+@21   = ~(But when you turn her over, her lifeless eyes accuse you even in the glassy stare of death.)~
+@22   = ~(Her eyes are red-rimmed, and you know she had cried all night.)~
+@23   = ~<CHARNAME>, thou hast given thy soul to this temptress! Canst thou not feel that the life hath left thee and that thou art now in thralldom to that succubus?~ [SAERI348]
+@24   = ~<CHARNAME>, I wished not to speak of it before them, but I can sense that these are demons preying on mortals. We must help those men.~
+@25   = ~Demons?! Well, then let's go back in there and kill them!~
+@26   = ~What can we do?~
+@27   = ~Well, I don't want to help that one man, the one who propositioned you!~
+@28   = ~Nay, <PRO_LADYLORD> <CHARNAME>. We must not! Their peril is more than thou knowest: their souls are in danger of damnation!~
+@29   = ~Those men are lustful beasts. I refuse to help them.~
+@30   = ~(Saerileth's disappointment is plain on her face.) Very well, <CHARNAME>. I cannot but admit that their fate is just, but I mourn for their souls.~
+@31   = ~I will pray to Ilmater for mercy on them.~
+@32   = ~We must find a way to pierce the illusion. Their power is in deception, and if we expose them, they will have no choice but to flee; for we will have broken their hold upon their prey and stripped them of their power.~
+@33   = ~How do we do that?~
+@34   = ~That's *way* too much trouble. Those men are lustful beasts, and I refuse to help them.~
+@35   = ~Well, I *want* the man who propositioned you to be damned!~
+@36   = ~Let us find a priest in this village and seek his aid and counsel. 'Tis possible that a temple might have something with which to combat demonic illusion.~
+@37   = ~(Saerileth leans up and kisses your cheek.) Thy care for mine honor doth thee credit, my lord, but 'twould not be right to let an insult to me cause us to let them all be damned.~
+@38   = ~My lord, his danger--the danger of them all--is greater than thou dost know. Their souls are in danger of damnation!~
+@39   = ~(Saerileth lies next to you in your shared bed, but she is not sleeping. You feel her body shaking with sobs.)~
+@40   = ~What's wrong, Saerileth?~
+@41   = ~Why don't you go ask *Edorem* to take care of you?~
+@42   = ~Saerileth, we need to talk.~
+@43   = ~(Roll over and go to sleep.)~
+@44   = ~Thinkest thou that Lord Edorem hath truly slain himself for my love?~ [SAERI349]
+@45   = ~(The raw pain in Saerileth's voice grates in your ear.)~
+@46   = ~What do I care if he did? What do *you* care?~
+@47   = ~Saerileth, everything that wraith said was a lie. He just wanted to hurt and weaken you.~
+@48   = ~I doubt it. The wraith was a liar. (Narrow your eyes.) But why was it that he chose Edorem to hurt you?~
+@49   = ~I cannot bear the thought of his blood on my hands. (Saerileth sits up and wraps her arms around her knees.)~
+@50   = ~That's all? You just don't want to be guilty of his death? There isn't any more to it?~
+@51   = ~I think there is more to it than that. You said you would have loved him if you could.~
+@52   = ~Saerileth, even if he *did* kill himself over you, it would not have been your fault.~
+@53   = ~And he hath succeeded, for I do doubt mine own innocence. If Lord Edorem hath slain himself for my sake, then I am guilty of his blood!~
+@54   = ~(Saerileth is silent for a moment, pondering your words. At last she speaks, and there is a new note of fear in her voice.)~
+@55   = ~He spake of Lord Edorem for that he knew we couldst not win against him. Even if thou didst see his deceptions for what they were, still he would have sown discord in our marriage.~
+@56   = ~He wouldst be victorious, even in death.~
+@57   = ~Saerileth, my wife, your wisdom never ceases to amaze me.~
+@58   = ~He did a good job, too! He must have known how much I hate that Edorem!~
+@59   = ~What can we do, then?~
+@60   = ~My lord, I care for Lord Edorem only as a fellow Chosen of Tyr. He shall one day be a Proxy of Tyr, and for that he hath mine honor.~
+@61   = ~But 'tis no more than this. I know full well that he didst love me. Mayhap he loveth me still. But *thou* hast all my love, as thou hast had since first I saw thee.~
+@62   = ~I'm glad of that.~
+@63   = ~(Kiss Saerileth.) That's good to hear.~
+@64   = ~I can't believe you, Saerileth. I can't forget the words you spoke to the wraith. Leave. Now.~
+@65   = ~Nay, beloved! Say not so! (Saerileth places her hand on your mouth.)~
+@66   = ~Thou art kind, my lord. (Saerileth throws her arms around you suddenly.) I do love thee, love thee, love thee!~
+@67   = ~I do not believe that Lord Edorem hast slain himself for my love, but even if he did--I could not do otherwise than I have done.~
+@68   = ~My love is ever only thine, my lord.~
+@69   = ~(Narrow your eyes.) But if that is so, then why was it that he chose to use *Edorem* to hurt you?~
+@70   = ~But of what value is wisdom if thou dost doubt my faith? (Saerileth's lips tremble, and she throws her arms around you.)~
+@71   = ~Please, my lord, believe me! I care for Lord Edorem only as a fellow Chosen of Tyr. He shall one day be a Proxy of Tyr, and for that he hath mine honor.~
+@72   = ~Thou dost hate Lord Edorem? Wherefore? (Sudden realization flashes in Saerileth's eyes, and she throws her arms around you.)~
+@73   = ~Of what value is my life if thou dost doubt my faith? (Saerileth's lips tremble, and she throws her arms around you.)~
+@74   = ~(Saerileth's tears dry on her cheeks as she leans her head on your shoulder.)~
+@75   = ~My lord, thou art too good to me. Our love cannot be poisoned by doubt, and even the lies of hell cannot break our bond.~
+@76   = ~(Saerileth's breathing becomes even, and she is asleep almost before she has finished speaking.)~
+@77   = ~(Saerileth rises from her place at your side. She stands, clad only in her night-dress, with her hair hanging heavily about her.)~
+@78   = ~(The blue of her eyes is muted almost to black, and she curtsies formally to you.)~
+@79   = ~It shall be as thou wilt, my lord. I am thy wife, and naught can alter this. But thou hast cast me from thee, denying to me my place at thy side.~
+@80   = ~I shall return to Mount Celestia, and there, in the temple of Tyr, I will become one of the Cloistered Daughters of Justice. Night and day shall mine orisons rise for thee, and there I shall remain until my death.~
+@81   = ~Farewell, my lord. Think oft of me, and forgive me if thou canst.~
+@82   = ~My lord? (Saerileth's astonishment is plain.) Wherefore have I deserved this rebuke? Lord Edorem may be dead through my fault, and thou dost mock me?~ [SAERI350]
+@83   = ~What do I care if he *is* dead? What do *you* care?~
+@84   = ~(Narrow your eyes.) The wraith was a liar, but why was it that he chose *Edorem* to hurt you?~
+@85   = ~I'm sorry, Saerileth. I'm just jealous because I love you so much.~
+@86   = ~Jealous? Wherefore? (There is no anger in Saerileth's voice, and she leans in close to you.)~
+@87   = ~Have I given thee cause to doubt my love?~
+@88   = ~The wraith did. He chose to use *Edorem* to hurt you. Why was that?~
+@89   = ~No, you haven't, but the wraith knew what he was doing. He knew how to hurt and weaken you.~
+@90   = ~Why shouldn't I be jealous? You're crying over Edorem!~
+@91   = ~Of what, my lord? (Saerileth turns to you obediently, wiping the traces of tears from her face.)~ [SAERI351]
+@92   = ~We need to talk about Edorem. I'm so jealous that I can hardly see!~
+@93   = ~Why were you crying?~
+@94   = ~I need to know why you were crying over another man!~
+@95   = ~(Saerileth's weeping eventually subsides, and at last she sleeps, clinging tightly to you.)~
+@96   = ~(With a sudden shiver, Saerileth wraps her arms around you and buries her face in your chest.) 'Tis too dark here.~ [SAERI352]
+@97   = ~I didn't know you were afraid of the dark.~
+@98   = ~(Stroke her hair.) Don't be afraid, Saerileth.~
+@99   = ~(Saerileth looks up at you within the circle of your arms, and her troubled eyes are like midnight.)~
+@100  = ~It is this place, my lord. It is an extension of thee, but yet 'tis not *like* thee. This place is the Abyss.~
+@101  = ~We are in a hell of thy creation.~
+@102  = ~But I didn't make this place on purpose!~
+@103  = ~I suppose this is what hides in the dark depths of my heart.~
+@104  = ~Does it bother you, Saerileth, to know your husband creates hells without knowing it?~
+@105  = ~'Tis certain thou didst not! (Saerileth sits up in her vehemence, and she leans over to you, her alabaster face shining from within the aching blackness of her hair.)~
+@106  = ~Thou art pure of heart, my lord, and this place is no part of thee!~
+@107  = ~But, Saerileth, I *am* the son of Murder. This place *is* my plane.~
+@108  = ~This place reflects the blood of Bhaal in me.~
+@109  = ~Your faith keeps me sane, Saerileth.~
+@110  = ~Nay, my lord! (Saerileth sits up in her vehemence, and she leans over to you, her alabaster face shining from within the aching blackness of her hair.)~
+@111  = ~'Twould be false in me to deny that this place doth trouble me. (Saerileth sighs and slowly sits up. She leans over you, tracing your profile with her fingers.)~
+@112  = ~Yet thou art pure of heart, my lord. This place is no part of thee!~
+@113  = ~(Saerileth's face darkens, and she lays her finger on your lips.) I would not hear thine enemy say so.~
+@114  = ~The blood of Bhaal is in thee, but 'tis *no* part of thee.~
+@115  = ~But it *is*, Saerileth. We can't get away from that.~
+@116  = ~Are you sorry to be bound to the son of Murder?~
+@117  = ~Your devotion gives me hope, Saerileth.~
+@118  = ~(Saerileth's lips curve into a slight smile.) I do defy this place.~
+@119  = ~(She lies back down beside you, nestling into your arms.) Thou art thyself, and that is all I need.~
+@120  = ~(Saerileth sighs.) I do defy this place. I cannot believe 'tis part of thee.~
+@121  = ~(She lies back down beside you, nestling into your arms again.) Thou art thyself, and 'tis thee whom I love, no matter thy blood.~
+@122  = ~Nay, my sweet lord! (Saerileth at once lies down again beside you, nestling into your arms.) Thou art thyself, the <CHARNAME> of my love, and my love is thine for aye, no matter thy blood.~
+@123  = ~I do not fear darkness, beloved. (Saerileth looks up at you within the circle of your arms, and her troubled eyes are like midnight.)~
+@124  = ~I do not fear, beloved. What could I fear so long as thou art with me?~
+@125  = ~My lord? (Saerileth takes your hand with one of hers and pushes the hair back from your eyes with the other.)~
+@126  = ~Thou seemest ill-at-ease. Ah, my dearest, fear thou not! Thou hast no need to dread the reckoning!~ [SAERI353]
+@127  = ~I'm not upset, Saerileth.~
+@128  = ~How do you know I've nothing to fear?~
+@129  = ~It's sweet of you to always worry about me.~
+@130  = ~I don't want to talk about it, Saerileth.~
+@131  = ~Forgive me, <CHARNAME>. Perhaps 'twas merely mine own anxious eyes which didst seem to see in thee dread.~
+@132  = ~Being promised a reckoning is a daunting thought, all the same.~
+@133  = ~It's sweet the way you always worry over me.~
+@134  = ~(Put your arms around Saerileth.) I'm not afraid of the reckoning while my conscience loves me.~
+@135  = ~But, as I said to thee, thou needest not to fear it. Thou hast oft proven thyself and the purity of thy heart.~
+@136  = ~Dear my lord, trust to thy conscience. 'Twill not lead thee astray.~
+@137  = ~(Put your arms around Saerileth.) You're right. I don't have to be worried about the reckoning while my conscience loves me.~
+@138  = ~(Kiss Saerileth.) You do a good job of cheering me up, Saerileth.~
+@139  = ~Well, there's nothing I can do about it anyway.~
+@140  = ~(Saerileth smiles proudly.) I am thy lady-wife. 'Tis my duty to do so. But, oh, the duty is purely pleasure, mine own!~
+@141  = ~I'm glad to know you're not tired of me yet. (Wink.)~
+@142  = ~(Sigh.) Being promised a reckoning is a daunting thought, all the same.~
+@143  = ~I aim to please! I'll be sure to give you plenty to worry over.~
+@144  = ~Am I thy conscience, then? (Saerileth nestles her head on your chest.) I shall strive to ever tell thee truly what is right.~
+@145  = ~To lighten thy load, to ease thy burdens, 'tis my duty--and the greatest pleasure of my life. (Saerileth kisses you sweetly.)~
+@146  = ~Do not despair, my lord. (Saerileth presses your hand.)~
+@147  = ~We shall fight thy destiny itself if we must. And thy deeds shall speak for thee in the Halls of Judgement.~
+@148  = ~Nay, good my lord. (Saerileth laughs.)~
+@149  = ~I am insatiable! Never can I be satisfied. Ever do I desire more of thy company.~
+@150  = ~(Saerileth laughs and kisses your nose.) Though all around be dark, thy love is ever a light to me.~
+@151  = ~Aye, my lord. (Saerileth brings your hand to her lips.)~
+@152  = ~'Tis hard on thee, I know.~
+@153  = ~These fields are war-ravaged now, <CHARNAME>, but they couldst be so fair.~ [SAERI354]
+@154  = ~I'm doing the best I can, Saerileth!~
+@155  = ~I like the cities better.~
+@156  = ~That's true, Saerileth. I pity those who live here.~
+@157  = ~And if we hope to return them to beauty, we should get going.~
+@158  = ~(Saerileth, horrified, puts her hands around your neck, clinging to you.)~
+@159  = ~Forgive me, beloved! Blame of thee was nowhere in my mind. I mourned only for those who suffer here.~
+@160  = ~I feel for them, too. That's why I undertake their rescue.~
+@161  = ~I pity them, too.~
+@162  = ~I am sorry for *you*, Saerileth, stuck in the middle of a war on a strange world and married to the son of Murder.~
+@163  = ~I'd rather not think about it. We've much to do.~
+@164  = ~And thou dost well to do it. (Saerileth's eyes dim as she looks around.) Mayhap we can bring peace to these fields once more.~
+@165  = ~And for that reason dost thou seek to save them. (Saerileth's eyes dim as she looks around.) Mayhap we can bring peace to these fields once more.~
+@166  = ~Nay, my lord! (Saerileth presses your hand to her heart.)~
+@167  = ~Say not so, I beg thee! There is no where I wouldst be rather than by thy side. I do love thee more than my life.~
+@168  = ~(Saerileth is too shaken to continue the conversation, and she keeps hold of your hand for long afterward.)~
+@169  = ~Aye, my lord. (Saerileth accepts your rebuke meekly, simply kissing your hand.)~
+@170  = ~The city, too, doth suffer, and I do mourn for those who suffer there.~
+@171  = ~But in thee, pity is no mere feeling. (Saerileth turns admiring eyes to your face.) 'Tis wedded to action.~
+@172  = ~I do try. Pity moved me to undertake their rescue.~
+@173  = ~And now my pity moves me to action again--we'd best get going if we want to help anyone.~
+@174  = ~Aye, my lord. (Saerileth quickly kisses your hand.) Let us go.~
+@175  = ~(Saerileth throws her arms around you, weary and bloodstained as she is.)~
+@176  = ~Ah, my lord, 'tis hard, hard for thee! That the Prince of Lies shouldst be able to come here! (She is weeping now, though she continues to speak.)~ [SAERI355]
+@177  = ~Though this place be a very hell, still it is *thine*! I cannot choose but weep that thy steps must be dogged by Bhaal, but now also the Prince of Lies, Cyric of the Black Sun, doth torment thee!~ [SAERI356]
+@178  = ~Calm down, Saerileth. I'm here.~
+@179  = ~(Put your arms around her.) Hush, Saerileth, hush.~
+@180  = ~It isn't fair, Saerileth. You're right.~
+@181  = ~This is *not* a good time, Saerileth. Please, pull yourself together.~
+@182  = ~(Saerileth draws a ragged breath.) Forgive me, beloved. I ought not to have give way so.~
+@183  = ~It's all right, Saerileth. I'm fine.~
+@184  = ~I need you to be strong, Saerileth.~
+@185  = ~I need you, Saerileth. You're right to be horrified, and I don't know if I can bear it, either.~
+@186  = ~But I ought not to make thy burden harder to bear through my weakness, beloved. (Shame wars with the still-present tears on Saerileth's face.)~
+@187  = ~I am thy lady-wife, and I ought to aid thee, not hinder thee.~
+@188  = ~And I am your husband. *I'm* supposed to help *you*, too.~
+@189  = ~It's all right. These times are hard for all of us.~
+@190  = ~Let's just get going.~
+@191  = ~Aye, my lord. (Saerileth's slender shoulders, too frail even to carry the armor she wears, square back.)~
+@192  = ~I shall not fail thee. I am thy lady-wife, and I ought to aid thee, not hinder thee.~
+@193  = ~Sweet my lord. (Saerileth's face is suddenly clear of all horror or dismay, and she softly strokes your cheek.)~
+@194  = ~Thou canst bear it. I shall not fail thee. I am thy lady-wife, and I ought to aid thee, not hinder thee.~
+@195  = ~Thou dost, my lord, by thy continued love. But do not deny to me my rights, my rights of aiding thee.~
+@196  = ~Thou shalt have what strength Evenhanded Tyr hath granted me. (The eyes of your young wife are still damp and reddened with her earlier tears, but her jaw is set.)~
+@197  = ~Together we can endure all that is required of us.~
+@198  = ~Hard indeed, and I do make them harder for thee by my weakness. (Saerileth's cheeks burn with her shame.)~
+@199  = ~No more. Thou shalt have what strength Evenhanded Tyr hath granted me. (The eyes of your young wife are still damp and reddened with her earlier tears, but her jaw is set.)~
+@200  = ~Very well, my lord. (Your young wife rubs the back of her hand across her eyes and begins to clean up after the battle.)~
+@201  = ~Our mortal lives do oft seem full of injustice, but if our lots are here unjust, we may rest assured that the Maimed Tyr will not deny us justice when he doth judge us.~
+@202  = ~(Saerileth sighs, and her eyes clear.) Forgive me, beloved. I ought not to have give way so.~
+@203  = ~Aye, my lord. (Saerileth releases you, her face burning with shame.) I shall not fail thee again.~
+@204  = ~(Your young wife rubs the back of her hand across her eyes and begins to clean up after the battle.)~
+@205  = ~(You're sitting by the fire, your eyes fixed on its flames. Saerileth draws near you and kneels down beside you, clasping her arms around your neck.)~
+@206  = ~(Shrug her off.)~
+@207  = ~(Lean into her embrace.) Saerileth.~
+@208  = ~Do you need anything, Saerileth?~
+@209  = ~(Bury your face in the nape of her neck.) Help me, Saerileth.~
+@210  = ~My lord? (Saerileth releases her hold on you, but she does not leave your side.)~
+@211  = ~Beloved, open thy heart to me, I pray thee. Thou sufferest too much alone.~ [SAERI357]
+@212  = ~There is nothing you can do, Saerileth. I must suffer alone.~
+@213  = ~Go to bed, Saerileth.~
+@214  = ~It's my fault, Saerileth. Mine alone.~
+@215  = ~I tried so hard, Saerileth, and yet I failed.~
+@216  = ~I can see their faces, hear their moans--all the slain in Saradush cry out against me.~
+@217  = ~Nay, my lord. (Saerileth meets your gaze, her eyes large and dark.)~
+@218  = ~For thee there need be nothing thou must bear alone. I am thy wife, and by rights the half of thine every burden is mine.~
+@219  = ~Just be quiet and go to bed.~
+@220  = ~(Put your arms around her.) It's my fault, Saerileth, not yours.~
+@221  = ~The dead of Saradush accuse me. What can you do?~
+@222  = ~I obey thee, my lord. (Saerileth quickly lifts your hand and kisses it before retiring to your shared bed.)~
+@223  = ~(Once there, however, you see that she does not sleep. Instead, you hear the soft murmurs of her prayers.)~
+@224  = ~(When at last fatigue overcomes you, she is yet praying, supplicating Tyr on your behalf.)~
+@225  = ~And where is the fault, my lord? (Saerileth's voice is even and low.) Thou hast not done wrong.~
+@226  = ~But I failed to do good. That is enough to make me guilty.~
+@227  = ~Do you not accuse me, then?~
+@228  = ~The fault is in the death of all whom I failed to protect.~
+@229  = ~'Tis true that those in Saradush are dead, but 'twould be unjust to lay their deaths on thee!~
+@230  = ~(Saerileth's earnest voice is matched by the fervor in her eyes.) Thou art *not* guilty!~
+@231  = ~(Saerileth looks away from you suddenly, overcome.) Aye, my lord--they *do* accuse thee.~
+@232  = ~I can see it in their faces, hear it in their voices. But they do accuse thee unjustly.~
+@233  = ~You can see the slain of Saradush?~
+@234  = ~Nay, <CHARNAME>. Thou didst fail to save Saradush, aye. But thou didst not fail to do good.~
+@235  = ~At the risk of thine own life, thou didst seek to aid those of that poor city.~
+@236  = ~The evil in thee wouldst have lain in refusing to try. (Saerileth takes your hand.)~
+@237  = ~Wilt thou pray with me, my lord? I know 'twould ease thy grief.~
+@238  = ~Yes, Saerileth. Please. I need all the help I can get.~
+@239  = ~No, Saerileth. Just go to bed.~
+@240  = ~No, thank you. But please do *you* pray for me.~
+@241  = ~Nay, my good lord, I do not. (Saerileth's clear, bright eyes glow with her sincerity.)~
+@242  = ~There is no evil in thy deeds.~
+@243  = ~Aye. (Saerileth shudders.) They are not quiet dead. (Saerileth takes your hand.)~
+@244  = ~(Without further words to you, Saerileth kneels at your side and begins to pray.)~
+@245  = ~(For long she prays in the common tongue you know, but at last she slips into her native tongue.)~
+@246  = ~(Her prayers wrap around you like a soft blanket, enfolding you in peace until at last you rest.)~
+@247  = ~Aye, my lord. (Saerileth quickly lifts your hand kisses it before kneeling at your side.)~
+@248  = ~My lord, I am here with thee. Oh, beloved, open thy heart to me. Thou sufferest too much alone.~ [SAERI358]
+@249  = ~Nay, my lord. I came to see if there was aught I couldst do for *thee*. Mine own, thou sufferest too much alone.~ [SAERI359]
+@250  = ~Aye, my lord! (Saerileth presses her lips to your brow, then pulls back to face you.)~
+@251  = ~Tell me, beloved, how I may do thee ease? For well I know thou sufferest too much alone.~ [SAERI360]
+@252  = ~(It is late, and the weariness of the road clings to you. You look up from your meal to see that Saerileth has disappeared from the fireside.)~
+@253  = ~(Her towel is also missing, and you realize she has gone to bathe.)~
+@254  = ~(Get your own towel and follow her.)~
+@255  = ~(Leave her to her bath and go to bed.)~
+@256  = ~(It does not take long to find Saerileth, and you see the slim, white form of your young wife gleaming like a star against the greying blue of the water.)~
+@257  = ~(Without warning, Saerileth vanishes beneath the surface.)~
+@258  = ~Saerileth!~
+@259  = ~(Dive in after her.)~
+@260  = ~(Strip off your clothes and dive in after her.)~
+@261  = ~(There is no response to your call, not does Saerileth resurface. The water lies still as glass, reflecting the sky.)~
+@262  = ~(Run to the camp for your weapons.)~
+@263  = ~(Run to the camp for your spell components.)~
+@264  = ~(The water fills your clothes and slows you slightly, but nonetheless you quickly reach the spot where Saerileth vanished.)~
+@265  = ~(You dive under, searching the dark waters for her, but in vain. You surface, your lungs aching, only to see Saerileth staring at you.)~
+@266  = ~My lord? What dost thou here? And yet in thy clothes?~
+@267  = ~(Put your arms around her.) Are you all right?~
+@268  = ~Umm--nothing.~
+@269  = ~(Splash Saerileth playfully.) Don't scare me like that!~
+@270  = ~(You glide smoothly through the water to the spot where Saerileth vanished. You dive under, searching the dark waters for her, but in vain.)~
+@271  = ~(You surface, your lungs aching, only to see Saerileth staring at you.)~
+@272  = ~My lord? What dost thou here? Camest thou to bathe?~
+@273  = ~Umm--yes. To bathe.~
+@274  = ~(You stare the cruelly still water, its calm surface mocking your mounting fear.)~
+@275  = ~(Suddenly the water at your feet ripples and breaks, and from it rises the slender form of Saerileth, her masses of hair clinging to her body.)~
+@276  = ~My lord? What dost thou here?~
+@277  = ~(Wrap your towel around her.) Don't scare me like that!~
+@278  = ~(You return to the pool, which still mocks you with its cruel stillness.)~
+@279  = ~My lord? What dost thou here--and prepared for battle? (There is concern in her cobalt eyes.)~
+@280  = ~(Drop your components and put your arms around her.) Are you all right?~
+@281  = ~(Drop your weapons and put your arms around her.) Are you all right?~
+@282  = ~Aye, my lord. (Saerileth smiles in sudden comprehension and leans up to kiss you.)~
+@283  = ~Beloved, thy care for me knoweth no bounds. (She laughs and strokes the wet cloth of your tunic.)~
+@284  = ~Where else could I wish to be but in thine arms? (The kiss she gives you then is so passionate that it takes your breath. By the time your return to the camp, your clothes are nearly dried.)~
+@285  = ~(Saerileth looks down at your wet clothes, then back up at your face, flushed with exertion. She smiles in sudden comprehension and leans up to kiss you.)~
+@286  = ~(Saerileth laughs and splashes you in return.) My lord, thy care of me truly knoweth no bounds.~
+@287  = ~(She continues to laugh and splash you, despite her serious words, and soon you find yourself in a full-scale water fight with Saerileth.)~
+@288  = ~(In the midst of it, Saerileth gives you a kiss so passionate that it takes your breath. By the time your return to the camp, your clothes are nearly dried.)~
+@289  = ~Beloved, thy care of me knoweth no bounds. (She leans her head against your bare chest, and you can feel her heart pounding.)~
+@290  = ~(By the time you reach the shore, you are both so worn you can barely stand.)~
+@291  = ~To bathe? (Saerileth looks up at your flushed face and sudden comprehension dawns in her eyes. She leans up to kiss you.)~
+@292  = ~(In the midst of it, Saerileth gives you a kiss so passionate that it takes your breath. By the time you reach the shore, you are both so worn you can barely stand.)~
+@293  = ~Aye, my lord. (Saerileth's startled eyes suddenly fill with tears, and she throws her arms around you.) Thy care for me is more than I deserve, beloved.~
+@294  = ~(Saerileth clings to you, covering your face with kisses. By the time you return to camp, Saerileth's hair is nearly dry.)~
+@295  = ~Thou camest for naught? (Saerileth shakes her head.) Thou ought at least to bathe, my lord.~
+@296  = ~I wilt see thee at the camp. (Saerileth kisses you lightly and is gone, leaving you to your bath.)~
+@297  = ~Thou camest for naught? (Saerileth looks at the things you brought from the camp, a burden which gives the lie of your words.)~
+@298  = ~My lord? Camest thou to defend me? (Saerileth's voice is gentle as she leans up to kiss you.) Thy care of me is more than I deserve!~
+@299  = ~(Saerileth covers your face with kisses. By the time you return to camp, Saerileth's hair is nearly dry.)~
+@300  = ~Beloved, thy care for me knoweth no bounds. Where else could I wish to be but in thine arms?~
+@301  = ~(The kiss she gives you then is so passionate that it takes your breath. By the time your return to the camp, your clothes are nearly dried.)~
+@302  = ~(Sometime later, Saerileth slides into bed beside you, her hair damp.) Sleep well my lord.~
+@303  = ~(Your eyes fall on Saerileth, the devout young paladin of Tyr.)~
+@304  = ~(Gaze at Saerileth.)~
+@305  = ~(Play with Saerileth's hair.)~
+@306  = ~(Hold Saerileth in your arms.)~
+@307  = ~(Kiss Saerileth's hand.)~
+@308  = ~(Kiss Saerileth passionately.)~
+@309  = ~I love you, Saerileth.~
+@310  = ~(Touch Saerileth's face.)~
+@311  = ~Talk to me, Saerileth.~
+@312  = ~I love you more than my life, Saerileth.~
+@313  = ~My lady-wife, you are the reason that I live.~
+@314  = ~You are the most perfect woman to walk the earth.~
+@315  = ~Come! Bid me do anything for you!~
+@316  = ~What are you thinking about, Saerileth?~
+@317  = ~What do you miss about your home, Saerileth?~
+@318  = ~Tell me something about your family.~
+@319  = ~My destiny quickly approaches.~
+@320  = ~Sigil was a strange place, alien and wholly unfamiliar. Tell me more of it.~
+@321  = ~Saerileth, what does it mean to you to know that I will outlive you by centuries?~
+@322  = ~Weren't you afraid to love me, Saerileth? I'm a Bhaalspawn.~
+@323  = ~Why do you always call me "my lord"?~
+@324  = ~What is your favorite play?~
+@325  = ~Why won't you use a crossbow?~
+@326  = ~What is your favorite kind of music?~
+@327  = ~Do you prefer city life or country life?~
+@328  = ~What do you think of the Prime Material Plane?~
+@329  = ~Can you play any instruments, Saerileth?~
+@330  = ~Do you ever question the will of Tyr?~
+@331  = ~What is your greatest regret, Saerileth?~
+@332  = ~Have you ever climbed Mount Celestia from bottom to top?~
+@333  = ~Do you like children?~
+@334  = ~When did you first know that you were beautiful?~
+@335  = ~(Saerileth slowly turns her bright blue eyes toward you. Her skin is fair and delicate, and she smiles at your study of her face.)~
+@336  = ~My lord, thou shouldst not let thine attention waver. (But her eyes remain upon you for a while longer.)~ [SAERI398]
+@337  = ~(Saerileth has paused in your march to brush a loose lock of hair from her face. The silken tendrils of her hair draw you, but Saerileth's hair is so black that it nearly hurts your eyes.)~
+@338  = ~(The enormous masses of it surround her like a cloak. You realize that Saerileth has loosed her hair in order to rebind it, and it tumbles down around her in wave upon wave of blackness.)~
+@339  = ~(From within the veil of her hair, Saerileth suddenly smiles at you, and you catch your breath.)~
+@340  = ~(Saerileth is unaware of your perusal of her form as she pauses to adjust the straps in her armor. This is your warrior-wife, and yet it still surprises you to see how expertly this young woman, your delicate, fragile flower, maintains her armor and equipment.)~
+@341  = ~(You gaze upon the profile of your young wife, at the softness of her cheeks and the delicacy of her nose. The fairness of her skin fascinates you. Its color is alabaster, but its feel is like rose-petals. Her rosy lips suddenly curl up into a smile.)~
+@342  = ~I didst feel thine eyes, my lord. I hope thou findest naught amiss in thy lady.~ [SAERI399]
+@343  = ~(Saerileth laughs as you twist a lock of her hair around your fingers.)~
+@344  = ~Wherefore dost thou take such delight in my hair? (Her eyes are clearly puzzled.) Still, I am glad that it doth please thee.~ [SAERI361]
+@345  = ~(You find a tiny braid amongst the masses of Saerileth's hair. Your searching fingers quickly find more, and soon you hold half a dozen little plaits of her hair.)~
+@346  = ~'Tis easier so. (Saerileth answers the question in your eyes.) My hair is long, as well thou knowest, and the plaits do aid in keeping it bound into its tail.~ [SAERI362]
+@347  = ~(Seizing an idle moment, you begin to twist and plait your wife's hair. After many minutes you realize that you have completely braided a third of Saerileth's hair.)~
+@348  = ~Please, my lord, wilt thou not continue? (Saerileth takes the braid from you and ties it off with a white leather cord.) I couldst then twist all three plaits together.~ [SAERI363]
+@349  = ~Sorry, Saerileth. I didn't mean to take even *this* long. We ought to be going.~
+@350  = ~Of course, Saerileth. I enjoy touching your hair.~
+@351  = ~Aye, my lord. (There is disappointment in Saerileth's face, and she does not loose the braid that you have made.)~
+@352  = ~I thank thee, beloved. (Saerileth settles into a comfortable position as you continue your task. It takes you the better part of an hour, but in the end Saerileth's mass of black hair is one enormous braid.)~
+@353  = ~(It is not so smooth as the occasional braid you have seen Saerileth put in her hair, but she seems perfectly pleased.)~
+@354  = ~(Saerileth shivers beneath the touch of your hand as your fingers slide through the midnight satin of her loose tresses.)~
+@355  = ~Beloved.~ [SAERI364]
+@356  = ~(Saerileth relaxes into your embrace, and you stand still, simply enjoying the nearness of your young bride.)~
+@357  = ~(Saerileth responds by clasping her arms around your neck.) Beloved, I would that thou hadst never cause to release me.~ [SAERI365]
+@358  = ~Nowhere have I such peace as in thine arms.~
+@359  = ~Thine arms are the only shelter I shall ever need. (The words are whispered, and you are unsure as to whether Saerileth even meant you to hear them.)~ [SAERI366]
+@360  = ~Here would I live, my lord, here die, if it pleaseth Tyr.~ [SAERI367]
+@361  = ~(Saerileth flushes scarlet.) My lord, thou dost me too much of honor.~ [SAERI368]
+@362  = ~(The feel of Saerileth's skin beneath your lips is surprisingly soft. You know that her hands are warrior's hands, but still, the slim fingers clasped in yours seem more those of a child than a fighter.)~
+@363  = ~(Saerileth smiles at you and brushes back a lock of your hair which has fallen forward. Then she leans in and lightly kisses your forehead.)~
+@364  = ~(When you release her hand, Saerileth inclines her head toward you.) This hand is thine, my lord. I gave it thee with my heart in it.~ [SAERI400]
+@365  = ~(Saerileth is taken unawares by the passion of your kiss, but she responds with ardor. Her fingers slide into your hair, remaining there until your kiss ends.)~
+@366  = ~(Saerileth seems to cling to you more tightly than usual as you kiss her, and when you release her, she seems shaken.) Beloved.~ [SAERI364]
+@367  = ~The taste of thy mouth is most sweet, my lord. (Saerileth smiles saucily at you as she resumes her place in formation.)~ [SAERI401]
+@368  = ~(Saerileth says nothing, but when your kiss ends, she does not move. She stands still, both hands over her wildly beating heart.)~
+@369  = ~Words cannot express my joy when thou dost say so, my lord! (Saerileth kisses your cheek.)~ [SAERI369]
+@370  = ~For I do love thee so!~
+@371  = ~(Saerileth sweetly kisses your lips.) And I thee, my lord.~ [SAERI370]
+@372  = ~With all my heart do I honor, serve, and love thee.~ [SAERI371]
+@373  = ~To hear these words is sweeter than music to mine ear, for above my life do I love thee.~ [SAERI372]
+@374  = ~My lord. (Saerileth's words are barely a breath, but the ice-blue fire of her eyes enchants you.)~ [SAERI373]
+@375  = ~(Wordlessly, Saerileth leans her cheek into your hand.)~
+@376  = ~(Saerileth stops still in front of you and reaches up to touch your face, too.) Beautiful.~ [SAERI374]
+@377  = ~(The feel of Saerileth's skin beneath your hand is like satin. It seems so fair that even a kiss would mar it, and you drop your hand guiltily.)~
+@378  = ~I am thy wife, <CHARNAME>. (Saerileth seems to understand the impulse which dropped your hand.) I am thine altogether.~ [SAERI375]
+@379  = ~And what wouldst thou have me say?~ [SAERI376]
+@380  = ~Wouldst hear me speak only to hear my voice?~
+@381  = ~No, I want to hear you say--something.~
+@382  = ~Yes, for your voice is the music of the gods to me.~
+@383  = ~(Saerileth smiles gravely.)  I love thee, my lord, and I shall ever be at thy side.~
+@384  = ~Then in this voice--which is music only to thee--hear that I do love thee.~
+@385  = ~I wouldst rather hear thee speak, beloved. Thy voice to me is as thy beating of thy heart--the sweetest reminder of thy presence.~ [SAERI377]
+@386  = ~(Saerileth closes her eyes and takes your hands.) Without words canst my flesh speak to thine.~ [SAERI378]
+@387  = ~(She says no more, but her hands move up from yours, up your arms, your shoulders, your neck.)~
+@388  = ~(At last her hands play over your face. The touch of her slender fingers as they trace your jaw-line stands your hair on end.)~
+@389  = ~(When Saerileth drops her hands, you understand her words about flesh speaking to flesh.)~
+@390  = ~(Saerileth's eyes darken, and she repeats these words, her voice slow and sorrowful.)~
+@391  = ~What is a youth?
+  Impetuous fire.
+  What is a maid?
+  Ice and desire.~ [SAERI379]
+@392  = ~A rose will bloom;
+  It soon will fade.
+  So doth a youth.
+  So doth the fairest maid.~ [SAERI380]
+@393  = ~And even so do I love thee, my lord. (Saerileth kisses your mouth softly, her kiss saying more than her words.)~ [SAERI381]
+@394  = ~My beloved, my lord under Tyr. (Saerileth bows her head over your hand.)~ [SAERI382]
+@395  = ~Thou art my very life.~
+@396  = ~Thou seest me through the eyes of thy love, which doth repair my faults.~ [SAERI402]
+@397  = ~Live, my lord, and love me.~ [SAERI403]
+@398  = ~I am thinking of mine old home on Mount Celestia, for never shall I dwell there again while I live.~ [SAERI383]
+@399  = ~I do think of thee, <CHARNAME>, and of thy fate.~ [SAERI384]
+@400  = ~It doth move me to pity.~
+@401  = ~Of when last I didst see the stars of Mertion.~ [SAERI385]
+@402  = ~(Saerileth's voice is wistful, and she speaks no more.)~
+@403  = ~Of the majesty of Evenhanded Tyr.~ [SAERI386]
+@404  = ~(Saerileth's fingers seek out the symbol of Tyr on her brow, and her face lights with a grave joy.)~
+@405  = ~The silver skies of Mertion, which do burn ever brightly.~ [SAERI404]
+@406  = ~The sounds of the golden bells which call us to evensong.~ [SAERI405]
+@407  = ~Here all is war, battle, and death. I do miss the tranquility, the peace of mine old home.~ [SAERI406]
+@408  = ~Yet I do not wish myself there, for here is where Maimed Tyr wouldst have me.~
+@409  = ~I do miss the sound of my native tongue. Thy language doth cling to my tongue like a new-married wife about her husband's neck, scarcely to be shook off.~ [SAERI407]
+@410  = ~I am the youngest of four, <CHARNAME>. Mine eldest brother is Caladus, then Tal, then Tarin.~ [SAERI408]
+@411  = ~My parents had despaired of any other children when I was born, for Tarin is full ten years my senior.~
+@412  = ~Thou knowest that my family, the Lords of Everspring, are eladrin-touched. My brother, Tarin, is most unusual, for he hath eyes that shine like thy pale moon.~ [SAERI409]
+@413  = ~They give off a light of their own, and he goeth never in darkness.~
+@414  = ~I am the only girl child born to my parents. 'Tis perhaps a wonder how I ever came to wield a sword, for my brothers were the most protective of any in all Everspring.~ [SAERI410]
+@415  = ~Indeed, had I not gone to the temple to live, I am sure I wouldst never have learned to fight.~
+@416  = ~The Lords of Everspring are an ancient house, and long have we dwelt on the slopes of Mount Celestia.~ [SAERI411]
+@417  = ~Indeed, I have many cousins whom I have never seen. Some dwell even so far away as Mercuria, the Golden Heaven.~
+@418  = ~Aye, so it doth, <CHARNAME>. And I pray Tyr that thou hast the strength to meet it.~ [SAERI412]
+@419  = ~Fear thou not, <CHARNAME>. Thy destiny is not yet set.~ [SAERI413]
+@420  = ~Long hast thou trodden this road. To reach the end will be relief, for 'twill be an end.~ [SAERI414]
+@421  = ~And thou art ready to meet it!~ [SAERI415]
+@422  = ~'Tis rightly called the Cage, for despite its portals, many who go there can find no way out.~ [SAERI416]
+@423  = ~'Tis a place of darkness and grime. A place where passions run high yet are ever kept in check by fear.~ [SAERI417]
+@424  = ~'Tis ruled by the Lady of Pain, whom none dare cross.~
+@425  = ~I dwelt in Sigil for a twelvemonth, but never didst I become accustomed to the nights.~ [SAERI418]
+@426  = ~I wouldst look up, desirous to see the stars, and wouldst see through the haze only the city lights stretching above me.~
+@427  = ~Thou canst find anything in Sigil. Aught that the heart couldst desire, save for that which is green and growing. It liketh me not.~ [SAERI419]
+@428  = ~Neither of us are promised tomorrow, beloved. Wherefore shouldst I borrow trouble?~ [SAERI387]
+@429  = ~But *I* will be the one left alone, Saerileth!~
+@430  = ~You're right. I'm worrying too much about the future.~
+@431  = ~(Saerileth shakes her head.) Nay, sweet my lord. I am a Chosen of Tyr. When that I do become His Proxy, then mayhap I shall be granted the life of a deva.~ [SAERI390]
+@432  = ~And if I do remain a mortal Proxy, as some do, still the stuff of my life will alter. I do not think that thou wilt be left alone, even should I die. For at my death I do but return to the realm of Mertion, where thou mayest find me again.~
+@433  = ~There is much to fear even in the present, mine own. We must cast fear away, or 'twill suck all the joy from us.~ [SAERI388]
+@434  = ~(Saerileth leans up to kiss you.) But come what sorrow can, it cannot countervail the joy that I do have from one short moment in thy sight.~
+@435  = ~I feared nothing, my lord. Love doth cast out fear, as thou knowest, and for lesser things I have been a fool.~ [SAERI391]
+@436  = ~(Saerileth's laughter is sweet in your ears as she replies.) For that thou *art* my wedded lord. By what other name shouldst thy lady call thee?~ [SAERI392]
+@437  = ~On Mount Celestia I had no chance to see such a thing, but when I wast in Sigil, I saw a performance of a play about the passion of a man for a maid, but the man's mind was poisoned against her.~ [SAERI393]
+@438  = ~The play traced his fall from grace into madness and murder. 'Twas a harrowing sight, but when the lady spake the words "Unkindness may do much, and his unkindness may defeat my life, but never taint my love," I knew.~
+@439  = ~I knew that I wouldst never find another play I loved so well, and I never have.~
+@440  = ~For that I must be able to see the eyes of one whom I wouldst battle. If I didst not, there wouldst be ever the danger that I mightst forget why I do raise my blade.~ [SAERI394]
+@441  = ~If I didst deal out death from a distance, 'twould perhaps become too easy, too painless. Now I do see the eyes of death, and I know that never couldst I raise my hand in an unjust quarrel.~
+@442  = ~'Twould be more than I couldst bear, to take a life without knowing the blessing of Evenhanded Tyr wast on my deed.~
+@443  = ~I do like best the stringed instruments: the harp, the lute, the lyre. But the woodwinds also stir my soul.~ [SAERI420]
+@444  = ~I once didst hear a tiefling play upon the pan pipes. I knew not that I had wept until his song was ended.~
+@445  = ~It doth depend upon the city. I have not seen many that I like. But twice or thrice I have been to Excelsior, and its beauty did delight me.~ [SAERI421]
+@446  = ~I have yet seen but one world of the Prime, <CHARNAME>. 'Tis difficult to judge of a Plane from only a part.~ [SAERI395]
+@447  = ~But I do find Faerun a place of action, a place where Time doth march apace, and peace is rarely achieved.~
+@448  = ~Aye, but I am not well skilled. 'Twas part of my studies in the temple to learn to play the clarsach, which I didst play for the holy fathers.~ [SAERI396]
+@449  = ~Nay, I do not. I have doubted mine own worthiness of his will, and I have questioned mine understanding, but never have I doubted that his will was perfect.~ [SAERI422]
+@450  = ~I regret that I have not yet been found worthy to become Tyr's Proxy.~ [SAERI423]
+@451  = ~Nay, <CHARNAME>, 'tis not possible. The distance is too great to traverse in a single lifetime.~ [SAERI424]
+@452  = ~And mortals may not enter Chronias, the Illuminated Heaven.~
+@453  = ~Aye, is there any woman who doth not?~ [SAERI425]
+@454  = ~I have always known, since Tyr first called me.~ [SAERI426]
+@455  = ~But my beauty is as much a gift from Tyr as the strength of mine arm.~
+@456  = ~Justice doth demand thy death, thou who wouldst sell thine own daughter!~
+@457  = ~Rejoice that 'tis not given to me to judge thee now. (And Saerileth looks away from Marlowe, revulsion in her face.)~
+@458  = ~(Marlowe does not speak, but he looks back at you anxiously.)~
+@459  = ~Nay, assassin! Thy hunt doth end here!~ [SAERI300]
+@460  = ~And you will be next, child!~
+@461  = ~This, <CHARNAME>, doth seem a miscarriage of justice! If there hath been no time for an investigation, there shouldst be no execution!~
+@462  = ~But we *have* no time.~
+@463  = ~<CHARNAME>, thou must not even think of such a thing!~
+@464  = ~(Kiser does not even look at Saerileth.) Someone silence the child.~
+@465  = ~My lord wouldst not even think of such a thing!~
+@466  = ~Thine intentions are pure, Master Balthazar, and thine heart is clean. Yet if thou slayest <CHARNAME>, thou wilt sully thyself, for there is no justice in this murder.~ [SAERI303]
+@467  = ~<CHARNAME> hath done no wrong to deserve this death. Thou art a wise man, Master Balthazar. Think on this.~
+@468  = ~I *have* thought on this, long and hard, and my mind is made up. I did not come to this decision easily!~
+@469  = ~<CHARNAME>, quickly! We must release this woman! 'Twould be unthinkable to leave her here to suffer.~
+@470  = ~(The slave-woman stands chained, proudly awaiting your decision.)~
+@471  = ~'Twould be an honorable way to fight, if these drow can be trusted to keep their word.~
+@472  = ~Well, Bhaalspawn? What do you think?~
+@473  = ~My lord, bear a wary eye! I do not trust them!~
+@474  = ~Someone shut the child up! Well, Bhaalspawn? What about it?~
+@475  = ~My lord is not guilty of any of it! *He* hath been hounded by destiny, but not through any fault of his own!~ [SAERI304]
+@476  = ~The little wife? She's a pretty one! (He pats Saerileth's head before continuing.)~
+@477  = ~Then he hath received justice. (Saerileth's eyes darken as they skim the battlefield.) All this death. And for what?~
+@478  = ~This witch is a Deathstalker! <CHARNAME>, be wary, for the loss of her foul god hath driven her mad. Her words are wild.~
+@479  = ~Mercy? What of justice? <CHARNAME> hath committed no crime, nor is <PRO_HESHE> guilty of the destruction of Saradush!~
+@480  = ~Thou dost condemn <PRO_HIMHER> for no more than <PRO_HISHER> blood!~
+@481  = ~<CHARNAME>, he doth plead to thee! Let him not ask in vain. Justice without mercy can even be unjust.~
+@482  = ~Please help us!~
+@483  = ~<CHARNAME>, be wary! He is cloaked in a veiled power.~
+@484  = ~(Draconis stands confidently, feet firmly planted, his haughty gaze levelled at you.)~
+@485  = ~<CHARNAME>, this is no time for jesting. (Saerileth's eyes are pained as she looks upon the poor wretch.)~
+@486  = ~Nor are such words proper for a wedded man to say. (She turns to the girl.) Thy heart is not yet blackened by thy profession, child. Take this gold, and sin no more.~
+@487  = ~Thank you, miss. I ... didn't want to do this. I had no ... choice!~
+@488  = ~Nor are such words proper for a wedded man to say. (She turns to the girl.) Thy heart is not yet blackened by thy profession, child. Go to the temple, and they will take thee in. Go, and sin no more.~
+@489  = ~<CHARNAME>, thy deeds are brutish! Thou takest base advantage of this girl's poverty!~
+@490  = ~So ... what about it?~
+@491  = ~Nay, poor child, I know none such. Wherefore dost thou accost me and seek such as will buy thy body?~
+@492  = ~(Saerileth smiles gently.) A very fine first adventure.~
+@493  = ~Uh, thank you, ma'am.~
+@494  = ~But what wilt come, <CHARNAME>, when the wyrm is free?~
+@495  = ~Release me!~
+@496  = ~Monster! Only a blackguard such as thyself couldst speak such filth! May thou have thy share of Bhaal's curse!~ [SAERI302]
+@497  = ~Young fool! I will devour your flesh!~
+@498  = ~Indeed, yes, for <PRO_HESHE> is worthy of better than murder in <PRO_HISHER> veins!~
+@499  = ~Young fool! I will show you what murder truly is!~
+@500  = ~<CHARNAME>, our duty is clear. We must aid the Knights of the Vigil.~
+@501  = ~Then you will consider it?~
+@502  = ~The Watcher hath no dirty work, monster! <CHARNAME>, this fiend knoweth only lies!~ [SAERI301]
+@503  = ~Silence, Chosen of Tyr! What do you say, child of Bhaal?~
+@504  = ~Faithless fiend! Liar, as art all demons!~
+@505  = ~Foolish mortal!~
+@506  = ~Although this man be mad, 'tis best to be cautious. There may be demons on this level as well.~
+@507  = ~Lots of demons, very scary! Yakman must get away!~
+@508  = ~I make no bargains with fiends!~
+@509  = ~Tyr does not lead this group! The Bhaalspawn does!~
+@510  = ~And it shalt be thou!~
+@511  = ~There may be no Blood War betwixt mortals and devils, but between ye and Tyr's Chosen, there is yet bloody constraint!~
+@512  = ~But thy group is led by the spawn of Bhaal. Silence, slave of Tyr, lest all thy friends fall!~
+@513  = ~Aye, but it doth seem to be *here*! For through every door we pass, we find some fiend, whether it be demon or devil!~
+@514  = ~Aw, are we at our wit's end? Have we run out of patience? Has our endurance been taxed? Have perhaps our principles been compromised? (And the cambion laughs mockingly at Saerileth.)~
+@515  = ~This ghost is holy, <CHARNAME>. Let us give him the honor he doth deserve.~
+@516  = ~There is a presence here, powerful and fell. May Tyr preserve us and guide our steps in this dark place.~
+@517  = ~Our folly? Thou art the false knight, Odren, and thou dost deserve what shall befall thee!~
+@518  = ~Aye, far have ye fallen far from the precepts of the Watcher. Duty is above all, is it not?~
+@519  = ~(Saerileth's eyes are flaming as she continues.) If ye can, redeem yourselves in his sight, but think not that the way will be an easy one.~
+@520  = ~Aye, far have ye fallen from the precepts of the Watcher. Duty is above all, is it not?~
+@521  = ~May Helm put thy valor to thine account, for thou didst fight for him at the last.~
+@522  = ~Odren and the rest shall receive from the Prince of Demons no more than justice! They have betrayed their most sacred trust!~
+@523  = ~'Twould be best to do what is the will of Helm, <CHARNAME>, but at the least, thou must not let the Prince of Demons loose upon the Prime!~
+@524  = ~Infidel! Thou darest to speak ill of the gods?~
+@525  = ~Stay out of this, girl. I care not for swindlers of souls! To the Nine Hells with Waukeen!~
+@526  = ~The powers even of a godchild are naught to the might of Wounded Tyr. We shall overcome this Yaga-Shura, for justice's sake.~
+@527  = ~(Melissan sighs.) Do not be so sure. Yaga-Shura is no ordinary Bhaalspawn.~
+@528  = ~I am no mere friend; I am his wife, and all of his concerns are mine! What hast *thou* to do with him that concerneth not me?~
+@529  = ~(Cyric hisses and bares his teeth.) Get that Chosen of Tyr out of my sight! (He raises his hands, and you are alone with him.)~
+@530  = ~This is not thy realm, Prince of Lies! Get thee gone and return to thy native Pandemonium!~
+@531  = ~(Cyric hisses and bares his teeth.) Nor is this Tyr's realm! I will endure no Chosen of Grimjaws in my presence! (He raises his hands, and you are alone with him.)~
+@532  = ~And what of Saerileth, this little Chosen of Tyr? She believed she was ready for love, but you have done nothing but stolen her innocence!~
+@533  = ~What of the pain you shall bring to her?~
+@534  = ~Lord <CHARNAME> is my wedded lord under Tyr, and he hath honored me with his hand. I am his bride, and I do not regret it, though this breath were my last!~
+@535  = ~Tell me about Saerileth.~
+@536  = ~Among the most astonishing, and certainly the most romantic, element in the tale of <CHARNAME> of Candlekeep is his taking of the young paladin Saerileth as his bride.~
+@537  = ~Saerileth is scarcely out of childhood, but she has already proven herself a mighty force for goodness. She fights in Tyr's name and has done such exploits that her renown is unequalled among Tyr's paladins.~
+@538  = ~Peace, kind sir! (Saerileth is blushing.)~
+@539  = ~Thou hast said already too much. I am but the humble servant of Evenhanded Tyr--~
+@540  = ~And the young maid's modesty is also impressive! What else should I say about her? That her beauty is as famed as her purity of heart? That her strength of arm is matched only by the brightness of her eyes?~
+@541  = ~Nay, sir! Thou must not say such things! 'Tis more than enough to say I am honored to be the bride of Lord <CHARNAME>.~
+@542  = ~I never write anything but the truth, young lady!~
+@543  = ~Perhaps one of the most surprising of <CHARNAME>'s companions is the young Lady Saerileth.~
+@544  = ~Humble indeed! Your modesty is also most impressive! Have you ever considered leaving the adventuring life to become a chronicler of the times?~
+@545  = ~Nay! (Saerileth does not recognize Volo's flirtatious jest, and she responds with quick vehemence.)~
+@546  = ~My life is, and hath ever been, Tyr's only. I shall follow his will so long as I have breath.~
+@547  = ~(Volo chuckles.) As you wish, little girl.~
+@548  = ~We need this temple's help to defeat a demonic illusion.~
+@549  = ~A demonic illusion? Of what nature?~
+@550  = ~Holy father, I think 'tis a succubus. Hast thou aught that can aid us in breaking her hold over her prey?~
+@551  = ~I am not sure if this will work, but we do have a scroll which cancels illusions. Take the scroll and use it. Without her disguise, the succubus will be powerless.~
+@552  = ~I thank thee, holy father. And I will pray that Tyr grant this magic is sufficient.~
+@553  = ~I am not sure if this will work, but we do have a scroll which cancels illusions. It was sold to our Order many years ago. An unknown traveler passed this way, and in exchange for the night's lodging and food we gave him, he gave us this scroll.~
+@554  = ~We have never been able to decipher its mystic runes, but the traveler told those of our Order that it strips away illusions. He said he was on a quest to see things with eyes unclouded.~
+@555  = ~Take the scroll and use it. I pray that it works! Without her disguise, the succubus will be powerless.~
+@556  = ~'Tis more than I had dared to hope, my lord! 'Twill be possible for me and thee to dwell together. No more canst Bhaal touch thee, and thou and I may dwell in the grace of Tyr forever.~ [SAERI427]
+@557  = ~Cast off the yoke of thine heritage, <CHARNAME>, and let thine eye look like a friend upon Faerun.~ [SAERI428]
+@558  = ~Now thou may'st heal, and Faerun may'st recover from the wounds of war.~ [SAERI429]
+@559  = ~My love, my joy, my heart! <CHARNAME>, my lord! Now naught in all the multiverse canst part us. I do love thee!~ [SAERI430]
+@560  = ~(Saerileth's mouth moves, but no sounds come forth. She reaches toward you, but it seems that she is stumbling through impenetrable darkness. Without warning, she falls at your feet, insensible.)~
+@561  = ~(When you lean down to her, her heart is stilled, and her breath is stopped. Saerileth is no more, and by your own choice, her sweet voice and gentle eyes are ever lost to you.)~
+@562  = ~Thou hast chosen a hard road, <CHARNAME>. The seat of a Power is a lonely one. May thou do well as thou takest thy place amongst the gods of Toril.~ [SAERI431]
+@563  = ~Thou hast been restored to life and to thy child. May the blessing of Tyr rest on thee.~
+@564  = ~Thank you! But--you're--how could you have helped me?~
+@565  = ~Indeed, <CHARNAME>, we must aid this boy. 'Tis the duty of every paladin to aid the fatherless!~
+@566  = ~Please, help my daddy!~
+@567  = ~(Saerileth starts towards the demon, a desperate fury burning in her eyes, but she stops and turns to you, silently awaiting your decision.)~
+@568  = ~(The demon smiles cruelly at Saerileth then turns back to you.) Well?~
+@569  = ~My lord, thou hast of thine own free will given thy lips and thy soul to a demon!~
+@570  = ~Will you wear--*that* outfit for me, Saerileth? You know the one I mean.~
+@571  = ~(Saerileth's face flushes crimson.) Aye, my lord. If it be thy desire, I shall wear that gown when we retire for the eve.~
+@572  = ~Now, my lord? Surely thou dost jest.~
+@573  = ~(Saerileth slips her arms around you and leans up to whisper in your ear.) But when we do rest, I most certainly shall!~
+@574  = ~It pleaseth me to know that thou dost delight in thy Saerileth, and thy lady shall dress to meet her lord's eye.~
+@575  = ~(Saerileth laughs.) Thou art not yet sated with the sight of thy Saerileth's body?~
+@576  = ~Very well, my lord. I shall, but 'twill cost thee twenty kisses.~
+@577  = ~Lady Ravenlocks, might I have one of those beautiful tresses?~
+@578  = ~If my locks were mine to give thee, my lord, well thou knowest that I would not deny thee.~
+@579  = ~My tresses are devoted unto Tyr, and I may not cut them. He hath decreed it.~
+@580  = ~Ah, my love! Though our quests and trials yet be many, I shall ever, ever be grateful for the gift of Tyr which hath granted me to thee.~
+@581  = ~You certainly seem lovelier than ever! Perhaps it is joy?~
+@582  = ~And I am happy, too, beloved. I am grateful to Queen Ellesime for finding a priest for us.~
+@583  = ~Our wedding still seems like a dream to me.~
+@584  = ~If I am fairer in thine eyes it may be that the grace of Tyr doth rest upon me, in preparation for my becoming his Proxy.~
+@585  = ~Or mayhap, 'tis as thou sayest: joy! For all is joy to me now that I am thy wife.~
+@586  = ~Queen Ellesime hath ever my gratitude for summoning a priest of Tyr for us.~
+@587  = ~Never shall I forget the sight of thee, my lord, standing in the small Elven hall, clad in Elven robes of white, and taking my hand before the holy father.~
+@588  = ~'Twas too much of joy! It nearly stopped my voice and breath, and, but that I didst so long to be thine, I shouldst never have been able to speak.~
+@589  = ~Aye, and she hath my gratitude as well.~
+@590  = ~A dream it seemeth to me, too, my love-lord, and yet one that I do ever recall.~
+@591  = ~When that we didst look upon the avatar and very form of the Prince of Demons, I didst not fear mine own death--but yet I wast certain of it. Holy Tyr hath shielded us indeed!~
+@592  = ~Yet the dreadful countenance of Demogorgon is burnt into mine eyes. I do fear that never shall I be rid of it.~
+@593 = ~<CHARNAME>! What is this? It doth seem that Blind Tyr hath blessed me with his favor in the form of these gifts!~
+@594 = ~Mayhap these tomes do contain a message from the Maimed God. Let us look and see!~
+@595 = ~To attack mine enemies from a distance doth not accord with the commands of Tyr to me. I must meet my foes face to face.~
+@596 = ~This ring is evil, <CHARNAME>! I shall not suffer its touch, nor will I even carry it.~
+@597 = ~I render it back to thee. Let it come not near me again!~
+@598 = ~That thou givest me this ring once more doth tell me thou wouldst have it destroyed by the light of Wounded Tyr.~
+@599 = ~May he grant his Chosen the strength to do it!~
+@600 = ~I thought he spoke only in the heat of passion, but apparently he really did kill himself!~
+@601 = ~The Master Wraith knows it was a lie. Even though Edorem said he was going to kill himself, he really didn't.~
+@602 = ~It is my fault that Edorem is damned, not yours. I was the one who told him to kill himself.~
+@603 = ~What? How dost thou know this? When didst he speak to thee of this?~
+@604 = ~When he tried to take you away from me!~
+@605 = ~When he insulted my honor before you, I told him only blood could make reparation for that injury.~
+@606 = ~It doesn't matter. He shouldn't have done it anyway!~
+@607 = ~Wherefore didst thou not dissuade him, my love? He wast a Chosen of Tyr! (And Saerileth buries her face in her hands.)~
+@608 = ~Dissuade him? I *told* him to do it!~
+@609 = ~I tried to talk him out of it, but I failed.~
+@610 = ~Forgive me, my wife. It was I who told him to take his own life.~
+@611 = ~Insulted thine honor? But 'twas not an offense for which he shouldst have been damned! How couldst thou have told him to slay himself?~
+@612 = ~Forgive me, my wife. I spoke in the heat of passion, and I did not mean what I said to him.~
+@613 = ~I hope he is not truly dead. I spoke hastily, and I have often regretted the words.~
+@614 = ~It's not *my* fault he killed himself! He was just too weak to live without you.~
+@615 = ~That he shouldst not have done it, I well know. But he wast not one to do such a thing! Oh that his death shouldst be upon my head!~
+@616 = ~It's not your fault, Saerileth. It's mine. I'm the one who told him to kill himself.~
+@617 = ~Thou? My lord, say 'tis not so! Wherefore, wherefore shouldst thou bid Lord Edorem to take his own life? (Saerileth's sobs shake her frame.)~
+@618 = ~Even if I did tell him to kill himself, that doesn't make it *my* fault! He was just too weak to live without you.~
+@619 = ~Ah, sweet my lord, I know that thou wouldst have tried. Forgive me that I gave tongue to the question.~
+@620 = ~'Tis hard that a Chosen of Tyr shouldst be so damned--and for my sake. I will pray that he find some respite, perhaps even release from hell.~
+@621 = ~Forgive thee? But wherefore shouldst thou bid Lord Edorem to take his own life? (Saerileth's sobs shake her frame.)~
+@622 = ~(Saerileth cradles your cheek in her hand.) All this coil is 'long of me. I couldst rather wish I hadst not been born than that I shouldst cause thee such grief.~
+@623 = ~Or than that I shouldst have damned one whom I loved as a brother.~
+@624 = ~Like thee, I do hope that the Wraith spoke not true. May the Blind God have mercy on me if indeed I am the cause of such a fall.~
+@625 = ~Thou serpent-heart! Thou hast cast thy Saerileth from thee, for the blood of Tyr's Chosen is on thy hands!~
+@626 = ~Lord Edorem wast bound in honor to slay himself at thy word, for he hadst insulted thee. And yet to do so wouldst damn him!~
+@627 = ~Alas, for I am undone! Fare thee well, my lord. I must to Tyr's holy mountain, there to dwell as a Cloistered Daughter of Justice all my days.~
+@628 = ~I shall pray for thy soul, and that thou mayest make reparation to the Evenhanded One for the life that thou hast unjustly taken.~
+@629 = ~Lord Edorem spoke such words? When? How dost thou know of this?~
+@630 = ~I never thought he was serious about killing himself.~
+@631 = ~Blast that lying Master Wraith! Edorem said he was going to kill himself, but he never would, really.~
+@632 = ~I'm *glad* he's damned! He deserves it!~
+@633 = ~How canst thou say so? Wherefore? In what didst he wrong thee?~
+@634 = ~He tried to take you away from me, and I told him to kill himself!~
+@635 = ~I spoke hastily. I did not mean it, nor did I mean it when I spoke those words to Edorem. I was impassioned, overcome with jealousy.~
+@636 = ~Then--then *thou* art guilty of his blood, and not I! (Horror overcomes Saerileth.)~
+@637 = ~I am no mere friend; I am his wife, and all of his concerns are mine! What hast *thou* to do with him, Prince of Lies?~
+@638 = ~Prince of Lies? Do you not know that you are wed to the chiefest of liars?~
+@639 = ~What meanest thou? My lord speaketh only truth!~
+@640 = ~He has lied to you, little Chosen, in the matter of Edorem's death.~
+@641 = ~My lord is guiltless of this! My life upon his faith!~
+@642 = ~Your life? Very well, I will take that wager! Your life is forfeit, for he is a faithless liar.~
+@643 = ~(Saerileth falls lifeless at Cyric's feet.)~
+@644 = ~And now, Child of Bhaal, we face each other alone.~
+@645 = ~But wherefore shouldst thou bid Lord Edorem to take his own life? (Saerileth's sobs shake her frame.)~
+
+
+
+
+@5000 = ~The Fallen Deva
+
+I have taken a young paladin of Tyr named Saerileth into my party. She is searching for a fallen deva and has been told that she will find him by traveling with the Bhaalspawn. No other details are available.~
+
+@5001 = ~The Fallen Deva
+
+I have taken a young paladin of Tyr named Saerileth into my party. She seems quite taken with me.  She is searching for a fallen deva and has been told that she will find him by traveling with the Bhaalspawn. No other details are available.~
+
+@5002 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. We have joined forces with a knight of Tyr to try to rescue her. First we must seek out Jharak in the city of Sigil, to obtain from him the Scepter of Tyr.~
+
+@5003 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. We have joined forces with a knight of Tyr to try to rescue her. We are to set off for Baator immediately.~
+
+@5004 = ~Saerileth Abducted
+
+Saerileth has been abducted by a mighty devil-lord. It is too dangerous to try to rescue her. We have left her to her fate.~
+
+@5005 = ~Saerileth Abducted
+
+We have found Jharak, but he has sent us to fetch a portal before he will tell us the location of the Scepter of Tyr.~
+
+@5006 = ~Saerileth Abducted
+
+We have found the key, a lock of hair, and we are to return to Jharak with it at once.~
+
+@5007 = ~Saerileth Abducted
+
+Jharak has sent us to speak to the barkeep, who has the Scepter.~
+
+@5008 = ~Saerileth Abducted
+
+We have at last obtained the Scepter of Tyr. Saerileth's soul is in danger, and we must hurry to Edorem as quickly as possible.~
+
+@5009 = ~Saerileth Rescued
+
+We have rescued Saerileth from the devil-lord Glourkist, and we are safely on Toril once more. Lord Edorem, the paladin of Tyr, has given us a hammer in gratitude for saving Saerileth.~
+
+@5010 = ~Saerileth Rescued
+
+We have rescued Saerileth from the devil-lord Glourkist, and we are safely on Toril once more. I released Saerileth from following me, and she has remained in the Planes. Lord Edorem, the paladin of Tyr, has given us a hammer in gratitude for saving Saerileth.~
+
+@5011 = ~The Fallen Deva
+
+We have found Kesevar the Fallen, but he claims that his punishment is undeserved. He has sent in search of the only witness who can testify to his innocence: a Bhaalspawn by the name of Gunshain.~
+
+@5012 = ~The Fallen Deva
+
+Gunshain, as it turns out, did clear Kesevar's name, but he also tried to kill us! We have dispatched him, and we must return to Kesevar quickly.~
+
+@5013 = ~The Fallen Deva
+
+Saerileth has pronounced Kesevar innocent, and her proclamation has taken immediate effect. The deva is restored to his former glory, and Saerileth remains in my company.~
+
+@5014 = ~The Fallen Deva
+
+It seems that Kesevar was not guilty after all. For destroying him, Saerileth has lost the grace of Tyr. My love has gone back to the Planes to try to atone for her failure. I will never see her again.~
+
+@5015 = ~The Fallen Deva
+
+It seems that Kesevar was not guilty after all. For destroying him, Saerileth has lost the grace of Tyr. The young paladin has gone back to the Planes to try to atone for her failure. I will never see her again.~
+
+@5016 = ~Delilah the Harlot
+
+A man in Amkethran is proclaiming that Delilah, whom he claims to be the most beautiful woman in these lands, is selling the pleasures of her bed in the Inn here. My wife, Saerileth, and I have grave misgivings about the fate of the men who went to see her.~
+
+@5017 = ~Delilah the Harlot
+
+A man in Amkethran is proclaiming that Delilah, whom he claims to be the most beautiful woman in these lands, is selling the pleasures of her bed in the Inn here. I have grave misgivings about the fate of the men who went to see her.~
+
+@5018 = ~Delilah the Harlot
+
+I succumbed to the charms of Delilah, only to discover that she is a succubus! My adultery broke Saerileth's heart, and she is dead. The succubus has returned to the Abyss, and I am less than the man I was before.~
+
+@5019 = ~Delilah the Harlot
+
+I succumbed to the charms of Delilah, only to discover that she is a succubus! The succubus has returned to the Abyss, and I am less than the man I was before.~
+
+@5020 = ~Delilah the Harlot
+
+Saerileth has assured me that this Delilah is a demon, but we cannot slay her without damning the men who are with her. We must find a temple where we may be able to find aid in piercing demonic illusions.~
+
+@5021 = ~Delilah the Harlot
+
+I have refused to help those lechers caught in the embrace of the demons. They brought their fate upon themselves. Saerileth is saddened, but she agrees that their punishment is just.~
+
+@5022 = ~Delilah the Harlot
+
+I have received from the priest of Waukeen a scroll which has the ability to cancel illusions. Whether its power will work against the magicks of hell is yet to be seen.~
+
+@5023 = ~Delilah the Harlot
+
+The magic of the scroll was successful. Whether it was the scroll itself or the prayers of Saerileth, I do not know for sure. Nevertheless, it worked, and the demons were forced to abandon their plans and return to the Abyss.~
+
+@5024 = ~Defeating Khalabaxin
+
+I have accepted Sir Havun Clarenshide's request for aid against the dragon Khalabaxin. I will find him near his newly-acquired lair, the cave beyond the river in the Umar Hills.~
+
+@5025 = ~Defeating Khalabaxin
+
+I have defeated the dragon Khalabaxin. I am now to return to the Order of the Radiant Heart and tell Sir Havun Clarenshide what has transpired.~
+
+@5026 = ~Defeating Khalabaxin
+
+I returned to the Radiant Heart with news of my defeat of the dragon Khalabaxin. The Order's work seems to be never done.~
+
+@5027 = ~Defeating the Vampires
+
+Sir Havun has informed me of the existence of a nest of vampires here in the city. I am to seek it out and destroy it. They live in the crypts beneath the graveyard. The Order will send one of their hireling wizards to aid me in breaching the lair's defenses.~
+
+@5028 = ~Defeating the Vampires
+
+I have destroyed the vampires, but the leader, Bodhi, has eluded me. She had some interesting things to say about me... She knew I was a child of Bhaal! I go now to report the destruction of the vampires to Sir Havun.~
+
+@5029 = ~Vampires Defeated
+
+I returned to the Radiant Heart with news of my defeat of the vampires. The Order has offered me passage to Spellhold as a reward!~

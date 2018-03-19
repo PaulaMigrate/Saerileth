@@ -1,0 +1,112 @@
+IF
+  Global("NSCOM001Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSCOM001Exists","NS0161",1)
+ CreateCreature("NSCOM001",[1329.466],8)
+END
+
+IF
+  Global("NSCOM004Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSCOM004Exists","NS0161",1)
+ CreateCreature("NSCOM004",[1329.577],6)
+END
+
+IF
+  Global("NSTIEF01Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSTIEF01Exists","NS0161",1)
+ CreateCreature("NSTIEF01",[1090.402],3)
+END
+
+IF
+  Global("NSZOMB01Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB01Exists","NS0161",1)
+ CreateCreature("NSZOMB01",[1150.568],3)
+END
+
+IF
+  Global("NSZOMB02Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB02Exists","NS0161",1)
+ CreateCreature("NSZOMB02",[1218.700],5)
+END
+
+IF
+  Global("NSZOMB03Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB03Exists","NS0161",1)
+ CreateCreature("NSZOMB03",[1255.1008],1)
+END
+
+IF
+  Global("NSZOMB04Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB04Exists","NS0161",1)
+ CreateCreature("NSZOMB04",[913.866],3)
+END
+
+IF
+  Global("NSZOMB05Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSZOMB05Exists","NS0161",1)
+ CreateCreature("NSZOMB05",[990.988],5)
+END
+
+IF
+  Global("NSDUST01Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDUST01Exists","NS0161",1)
+ CreateCreature("NSDUST01",[555.779],7)
+END
+
+IF
+  Global("NSDUST02Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDUST02Exists","NS0161",1)
+ CreateCreature("NSDUST02",[506.572],6)
+END
+
+IF
+  Global("NSDUST03Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDUST03Exists","NS0161",1)
+ CreateCreature("NSDUST03",[704.400],8)
+END
+
+IF
+  Global("NSDUST04Exists","NS0161",0)
+THEN
+ RESPONSE #100
+ SetGlobal("NSDUST04Exists","NS0161",1)
+ CreateCreature("NSDUST04",[837.630],2)
+END
+
+IF
+  Global("NSJHARAKExists","NS0161",0)
+  Global("NSToldJharak","GLOBAL",1)
+THEN
+ RESPONSE #100
+ SetGlobal("NSJHARAKExists","NS0161",1)
+ CreateCreature("NSJHARAK",[905.815],5)
+END
+
+IF
+  Global("NSScepterSpawn","GLOBAL",1)
+THEN
+ RESPONSE #100
+ SetGlobal("NSScepterSpawn","GLOBAL",2)
+ GiveItemCreate("NSSCEPTR","NSCOM001",0,0,0)
+END

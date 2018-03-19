@@ -1,0 +1,33 @@
+BEGIN NSCOM003
+
+IF ~RandomNum(3,1)~ THEN BEGIN NSCOM003a
+SAY @0
+IF ~~ THEN EXIT
+END
+
+IF ~RandomNum(3,2)~ THEN BEGIN NSCOM003b
+SAY @1
+++ @2 + DwarfChat1
+++ @3 + DwarfChat2
+++ @4 + DwarfChat3
+END
+
+IF ~~ THEN BEGIN DwarfChat1
+SAY @5
+IF ~~ THEN EXIT
+END
+
+IF ~~ THEN BEGIN DwarfChat2
+SAY @6
+IF ~~ THEN EXIT
+END
+
+IF ~~ THEN BEGIN DwarfChat3
+SAY @7
+IF ~~ THEN EXIT
+END
+
+IF ~RandomNum(3,3)~ THEN BEGIN NSCOM003c
+SAY @8
+IF ~~ THEN EXIT
+END

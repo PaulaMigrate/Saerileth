@@ -1,0 +1,17 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("Saerileth")
+		Wait(1)
+		SmallWait(2)
+		FaceObject("Kesevar")
+		SmallWait(2)
+		ActionOverride("Kesevar",FaceObject(Player1))
+		Wait(2)
+		ForceSpell("Kesevar",HOLY_LIGHT_FROM_ABOVE)
+		SmallWait(5)
+		Kill("Kesevar")
+		Wait(1)
+		EndCutSceneMode()
+END

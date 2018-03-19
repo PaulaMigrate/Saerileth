@@ -1,0 +1,9 @@
+@0 = ~<CHARNAME>, Saerileth está cerca. ¡Debemos apresurarnos, siento que está cerca de la muerte!.~ [SAERI291] 
+@1 = ~¡Rápido, <CHARNAME>! Dadme el Cetro. Puedo usar su poder para revivir a Saerileth.~ [SAERI146]
+@2 = ~¡Claro, tomadlo!.~ 
+@3 = ~Os doy las gracias.~
+@4 = ~Sois un tonto, <CHARNAME>, pero vuestra pérdida es mi ganancia.~ [SAERI147] ~Sois una tonta, <CHARNAME>, pero vuestra pérdida es mi ganancia.~ [SAERI147] 
+@5 = ~(El caballero sonríe a Saerileth, y sus ojos azules brillan.) Os veré, Saerileth, en el templo de Tyr en Sigil.~
+@6 = ~Pero primero debo regresar a estos Primarios a su plano.~
+@7 = ~(Los ojos del caballero están fijos en Saerileth mientras os habla.)~ 
+@8 = ~Regresemos a Toril, <CHARNAME>, engendro de Baal.~ [SAERI148]

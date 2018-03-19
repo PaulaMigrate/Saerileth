@@ -1,0 +1,18 @@
+IF
+ True()
+THEN
+ RESPONSE #100
+   CutSceneId("KESEVAR1")
+   Wait(1)
+   FadeToColor([30.0],0)
+   Wait(2)
+   ActionOverride(Player1,LeaveAreaLUA("AR0809","",[1545.341],10))
+   ActionOverride(Player2,LeaveAreaLUA("AR0809","",[1495.327],10))
+   ActionOverride(Player3,LeaveAreaLUA("AR0809","",[1516.382],10))
+   ActionOverride(Player4,LeaveAreaLUA("AR0809","",[1451.306],10))
+   ActionOverride(Player5,LeaveAreaLUA("AR0809","",[1452.356],10))
+   ActionOverride(Player6,LeaveAreaLUA("AR0809","",[1462.400],10))
+   Wait(5)
+   FadeFromColor([20.0],0)
+   EndCutSceneMode()
+END

@@ -1,0 +1,65 @@
+@85  = ~Dies ist Saerileths Heiliges Symbol des Tyr. Sie trägt es wie eine Krone um ihre rabenschwarzen Locken und legt es niemals ab. Es ist durchtränkt mit Tyrs Kraft und beschützt Saerileths Leben.~
+
+
+@91  = ~Dieses Relikt vom Orden des Tyr wurde Euch von Fürst Edorem gegeben, aus Dankbarkeit für die Rettung von Saerileth.
+
+EIGENSCHAFTEN:
+
+Schaden: 1W4 +3 (Wucht)
+Schadensbonus: +1 (Elektrizität)
+ETW0-Bonus: -2
+RK-Bonus: -2
+Resistenz gegen Wuchtwaffen: +10%
+Gewicht: 5
+Initiativefaktor: 2
+Mindeststärke: 9
+Fertigkeit: Kriegshammer
+Typ: 1-händig~
+
+@102 = ~Dieser Schild wurde geschmiedet zur Ehre von Hermes, dem Gott von Arborea. Er war vermutlich der Gott der Schnelligkeit, weshalb der Schild die Bewegungsrate des Trägers erhöht.
+
+EIGENSCHAFTEN:
+
+RK-Bonus: -2
+Gewicht: 3
+Mindeststärke: 4~
+
+@104 = ~Dieser hochmagische Schild wurde im brodelnden Chaos des Limbus geschmiedet und von vielen Elementen berührt. Er gewährt einen gewissen Schutz gegen diese Elemente, da er teilweise aus ihnen besteht.
+
+EIGENSCHAFTEN:
+
+Resistenzen:
+ +10% gegen Feuer
+ +10% gegen Kälte
+ +10% gegen Säure
+ +10% gegen Elektrizität
+
+RK-Bonus: -5
+Gewicht: 5
+Mindeststärke: 12~
+
+@105 = ~Dieser hochmagische Schild wurde im brodelnden Chaos des Limbus geschmiedet und von vielen Elementen berührt. Er gewährt einen gewissen Schutz gegen diese Elemente, da er teilweise aus ihnen besteht.
+
+EIGENSCHAFTEN:
+
+Resistenzen:
+ +10% gegen Feuer
+ +10% gegen Kälte
+ +10% gegen Säure
+ +10% gegen Gift
+
+RK-Bonus: -5
+Gewicht: 5
+Mindeststärke: 12~
+
+@161 = ~Dieser Leitfaden verleiht seinem Leser einen kleinen Teil von Tyrs göttlicher Fähigkeit zur Einflussnahme.
+
+EIGENSCHAFTEN:
+
+Charisma-Bonus: +1 (permanent)~
+
+@162 = ~Dieser Leitfaden verleiht seinem Leser einen kleinen Teil von Tyrs göttlicher Weisheit.
+
+EIGENSCHAFTEN:
+
+Weisheits-Bonus: +1 (permanent)~

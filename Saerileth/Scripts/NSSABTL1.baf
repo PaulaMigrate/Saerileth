@@ -1,0 +1,134 @@
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	HaveSpell(CLERIC_ARMOR_OF_FAITH)
+	CheckStatGT(Myself,1,ARMORCLASS)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_ARMOR_OF_FAITH)
+		Continue()
+END
+
+
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	Range("Anomen",4)
+	HPPercentLT(Myself,20)
+THEN
+	RESPONSE #100
+		RunAwayFrom(LastSeenBy(Myself),10)
+END
+
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	!Range("Anomen",4)
+	HaveSpell(CLERIC_CURE_SERIOUS_WOUNDS)
+	HPPercentLT(Myself,20)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_CURE_SERIOUS_WOUNDS)
+END
+
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	!Range("Anomen",5)
+	HaveSpell(CLERIC_CURE_MEDIUM_WOUNDS)
+	HPPercentLT(Myself,40)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_CURE_MEDIUM_WOUNDS)
+END
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	!Range("Anomen",10)
+	HaveSpell(CLERIC_CURE_LIGHT_WOUNDS)
+	HPPercentLT(Myself,50)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_CURE_LIGHT_WOUNDS)
+END
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	!Range("Anomen",4)
+	StateCheck(Myself,STATE_POISONED)
+	HaveSpell(CLERIC_NEUTRALIZE_POISON)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_NEUTRALIZE_POISON)
+END
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	!Range("Anomen",4)
+	StateCheck(Myself,STATE_POISONED)
+	HaveSpell(CLERIC_SLOW_POISON)
+THEN
+	RESPONSE #100
+		Spell(Myself,CLERIC_SLOW_POISON)
+END
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+	!Range("Anomen",10)
+	HaveSpell(PALADIN_LAY_ON_HANDS)
+	HPPercentLT(Myself,50)
+THEN
+	RESPONSE #100
+		Spell(Myself,PALADIN_LAY_ON_HANDS)
+END
+
+IF
+	See("Anomen")
+	!Dead("Anomen")
+THEN
+	RESPONSE #100
+		EquipMostDamagingMelee()
+		AttackReevaluate(LastSeenBy(Myself),30)
+END
+
+IF
+	AttackedBy([ANYONE],DEFAULT)
+THEN
+	RESPONSE #100
+		Attack(LastAttackerOf(Myself))
+END
+
+
+
+IF
+	OR(2)
+		Dead("Anomen")
+		!Detect("Anomen")
+	CombatCounter(0)
+	!Allegiance(Myself,ENEMY)
+	Global("SaerilethAnomenFight","GLOBAL",1)
+	See([PC])
+THEN
+	RESPONSE #100
+		SetGlobal("NSSaeriAnoFight","GLOBAL",2)
+		StartDialogueNoSet([PC])
+END
+
+IF
+	OR(2)
+		Dead("Anomen")
+		!Detect("Anomen")
+	CombatCounter(0)
+	Global("NSSaeriAnoFight","GLOBAL",1)
+	!See([PC])
+THEN
+	RESPONSE #100
+		EscapeArea()
+END

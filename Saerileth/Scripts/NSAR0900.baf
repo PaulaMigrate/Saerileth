@@ -1,0 +1,8 @@
+IF
+  Global("SaerilethExists","AR0900",0)
+  !Alignment(Player1,MASK_EVIL)
+THEN
+ RESPONSE #100
+  SetGlobal("SaerilethExists","AR0900",1)
+  CreateCreature("SAERILET",[3058.3615],8)
+END

@@ -1,0 +1,21 @@
+IF
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId(Player1)
+    Wait(1)
+
+    ActionOverride("Saerileth",ReallyForceSpell(Myself,RED_EFFECT)
+    ScreenShake([5.5],5)
+    Wait(2)
+
+    ActionOverride("Saerileth",LeaveParty())
+    ActionOverride("Saerileth",MoveGlobal("AR1604","Saerileth",[203.108]))
+    Wait(1)
+    SetGlobal("NSDemonGo","GLOBAL",1)
+    EndCutSceneMode()
+END
+
+
+
+

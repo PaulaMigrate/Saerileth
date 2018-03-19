@@ -1,0 +1,19 @@
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("SAERILETH")
+		Wait(1)
+		SmallWait(5)
+		FaceObject("KESEVAR")
+		SmallWait(5)
+		ActionOverride("KESEVAR",FaceObject("SAERILETH"))
+		Wait(2)
+		ForceSpell("KESEVAR",HOLY_LIGHT_FROM_ABOVE)
+		SmallWait(5)
+		ActionOverride("KESEVAR",DestroySelf())
+		CreateCreature("Kesevar1",[1955.2457],6)
+		Wait(1)
+		EndCutSceneMode()
+END
+

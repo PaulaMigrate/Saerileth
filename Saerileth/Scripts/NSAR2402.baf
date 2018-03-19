@@ -1,0 +1,9 @@
+IF
+InParty("Saerileth")
+Global("NSInvisExists","AR2402",0)
+THEN
+RESPONSE #100
+SetGlobal("NSInvisExists","AR2402",1)
+CreateCreature("NSINVIS",[2998.1241],0)
+END
+
