@@ -599,7 +599,7 @@ COPY_EXISTING ~AR5501.are~ ~override\AR5501.are~
 WRITE_ASCII 0x94 ~AR5501~
 EXTEND_TOP ~AR5501.bcs~ ~Saerileth\aScripts\NSAR5501.baf~
 
-
+EXTEND_BOTTOM ~ae4000.bcs~ ~Saerileth\aScripts\ar4000.baf~
 
 EXTEND_BOTTOM ~Cut218G.bcs~ ~Saerileth\aScripts\NSWRA02.baf~
 EXTEND_TOP ~HAERDALI.bcs~ ~Saerileth\aScripts\NSHaer.baf~

@@ -1,0 +1,9 @@
+IF
+InPartyAllowDead("Saerileth") 
+Global("SaeriSummoned","GLOBAL",0)
+THEN
+RESPONSE #100
+ActionOverride("Saerileth",ChangeAIScript("Saeril25",OVERRIDE))
+SetGlobal("SaeriSummoned","GLOBAL",2)
+END
+
