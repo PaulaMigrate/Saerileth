@@ -572,41 +572,39 @@ ADD_JOURNAL @5000 @5001 @5002 @5003 @5004 @5005 @5006 @5007 @5008 @5009 @5010 @5
 COMPILE EVALUATE_BUFFER ~Saerileth/Dialogues~
 USING ~Saerileth/%s/Saerileth.tra~
 
-
-
 COMPILE EVALUATE_BUFFER ~Saerileth/Scripts~
 
 
 /* Extend area script */
 
-EXTEND_TOP ~AR6200.bcs~ ~Saerileth\Scripts\NSAR6200.baf~
+EXTEND_TOP ~AR6200.bcs~ ~Saerileth\aScripts\NSAR6200.baf~
 
-EXTEND_TOP ~AR0900.bcs~ ~Saerileth\Scripts\NSAR0900.baf~
+EXTEND_TOP ~AR0900.bcs~ ~Saerileth\aScripts\NSAR0900.baf~
 
-EXTEND_TOP ~AR1700.bcs~ ~Saerileth\Scripts\ar1700kesev.baf~
+EXTEND_TOP ~AR1700.bcs~ ~Saerileth\aScripts\ar1700kesev.baf~
 
-EXTEND_TOP ~AR0809.bcs~ ~Saerileth\Scripts\NSAR0809.baf~
+EXTEND_TOP ~AR0809.bcs~ ~Saerileth\aScripts\NSAR0809.baf~
 
-EXTEND_TOP ~AR5500.bcs~ ~Saerileth\Scripts\NSAR5500.baf~
+EXTEND_TOP ~AR5500.bcs~ ~Saerileth\aScripts\NSAR5500.baf~
 
-EXTEND_TOP ~AR2402.bcs~ ~Saerileth\Scripts\NSAR2402.baf~
+EXTEND_TOP ~AR2402.bcs~ ~Saerileth\aScripts\NSAR2402.baf~
 
-EXTEND_TOP ~AR1100.bcs~ ~Saerileth\Scripts\NSAR1100.baf~
+EXTEND_TOP ~AR1100.bcs~ ~Saerileth\aScripts\NSAR1100.baf~
 
-EXTEND_TOP ~AR0801.bcs~ ~Saerileth\Scripts\NSAR0801.baf~
+EXTEND_TOP ~AR0801.bcs~ ~Saerileth\aScripts\NSAR0801.baf~
 
 COPY_EXISTING ~AR5501.are~ ~override\AR5501.are~
 WRITE_ASCII 0x94 ~AR5501~
-EXTEND_TOP ~AR5501.bcs~ ~Saerileth\Scripts\NSAR5501.baf~
+EXTEND_TOP ~AR5501.bcs~ ~Saerileth\aScripts\NSAR5501.baf~
 
 
 
-EXTEND_BOTTOM ~Cut218G.bcs~ ~Saerileth\Scripts\NSWRA02.baf~
-EXTEND_TOP ~HAERDALI.bcs~ ~Saerileth\Scripts\NSHaer.baf~
-EXTEND_TOP ~CERND.bcs~ ~Saerileth\Scripts\NSCernd.baf~
-EXTEND_TOP ~KELDORN.bcs~ ~Saerileth\Scripts\NSKeldor.baf~
-EXTEND_TOP ~KORGAN.bcs~ ~Saerileth\Scripts\NSKORGAN.baf~
-EXTEND_TOP ~ANOMEN.bcs~ ~Saerileth\Scripts\NSANOMEN.baf~
+EXTEND_BOTTOM ~Cut218G.bcs~ ~Saerileth\aScripts\NSWRA02.baf~
+EXTEND_TOP ~HAERDALI.bcs~ ~Saerileth\aScripts\NSHaer.baf~
+EXTEND_TOP ~CERND.bcs~ ~Saerileth\aScripts\NSCernd.baf~
+EXTEND_TOP ~KELDORN.bcs~ ~Saerileth\aScripts\NSKeldor.baf~
+EXTEND_TOP ~KORGAN.bcs~ ~Saerileth\aScripts\NSKORGAN.baf~
+EXTEND_TOP ~ANOMEN.bcs~ ~Saerileth\aScripts\NSANOMEN.baf~
 
 
 
