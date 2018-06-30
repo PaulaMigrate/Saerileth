@@ -1307,27 +1307,29 @@ END
 
 
 IF
- InParty("Anomen")
- Global("AnomenIsKnight","GLOBAL",1)
- AreaCheck("AR0900")
- Global("NSAnoKnightComment","LOCALS",0)
+InParty("Anomen")
+Global("AnomenIsKnight","GLOBAL",1)
+AreaCheck("AR0900")
+InParty(Myself)
+Global("NSAnoKnightComment","LOCALS",0)
 THEN
- RESPONSE #100
- SetGlobal("NSAnoKnightComment","LOCALS",1)
- StartDialogueNoSet("Anomen")
+RESPONSE #100
+SetGlobal("NSAnoKnightComment","LOCALS",1)
+StartDialogueNoSet("Anomen")
 END
 
 
 
 IF
- InParty("Anomen")
- Global("AnomenIsNotKnight","GLOBAL",1)
- AreaCheck("AR0900")
- Global("NSAnoNotKnightComment","LOCALS",0)
+InParty("Anomen")
+Global("AnomenIsNotKnight","GLOBAL",1)
+AreaCheck("AR0900")
+InParty(Myself)
+Global("NSAnoNotKnightComment","LOCALS",0)
 THEN
- RESPONSE #100
- SetGlobal("NSAnoNotKnightComment","LOCALS",1)
- StartDialogueNoSet("Anomen")
+RESPONSE #100
+SetGlobal("NSAnoNotKnightComment","LOCALS",1)
+StartDialogueNoSet("Anomen")
 END
 
 
