@@ -591,9 +591,9 @@ EXTEND_TOP ~AR5500.bcs~ ~Saerileth\aScripts\NSAR5500.baf~
 
 EXTEND_TOP ~AR2402.bcs~ ~Saerileth\aScripts\NSAR2402.baf~
 
-EXTEND_TOP ~AR1100.bcs~ ~Saerileth\aScripts\NSAR1100.baf~
+EXTEND_TOP ~AR1100.bcs~ ~Saerileth\aScripts\NSAR1100.baf~ EVALUATE_BUFFER
 
-EXTEND_TOP ~AR0801.bcs~ ~Saerileth\aScripts\NSAR0801.baf~
+EXTEND_TOP ~AR0801.bcs~ ~Saerileth\aScripts\NSAR0801.baf~ EVALUATE_BUFFER
 
 COPY_EXISTING ~AR5501.are~ ~override\AR5501.are~
 WRITE_ASCII 0x94 ~AR5501~
