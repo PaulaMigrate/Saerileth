@@ -3,7 +3,7 @@ BACKUP ~Saerileth\backup~
 
 SUPPORT ~PaulaMigrate@mail.com~
 
-VERSION ~v20~
+VERSION ~v21~
 
 
 ALWAYS
@@ -57,7 +57,7 @@ LANGUAGE ~Cesky~
          ~Czech~
          ~Saerileth/Czech/setup.tra~
          
-BEGIN @0
+BEGIN ~Saerileth mod~
 
 REQUIRE_PREDICATE (GAME_IS ~tob bgt bg2ee eet~) ~You do not appear to have TOB installed.~
 

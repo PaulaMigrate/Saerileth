@@ -99,7 +99,7 @@ END
 
 IF ~~ THEN BEGIN SaerilethMeetb1h
 SAY @36
-IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~~ THEN EXIT
 END
 
 IF ~~ THEN BEGIN SaerilethMeetb1i
@@ -154,7 +154,7 @@ END
 
 IF ~~ THEN BEGIN SaerilethMeetb1n
 SAY @47
-IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~~ THEN EXIT
 END
 
 
@@ -336,7 +336,7 @@ END
 
 IF ~~ THEN BEGIN SaerilethMeet1h
 SAY @36
-IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~~ THEN EXIT
 END
 
 IF ~~ THEN BEGIN SaerilethMeet1i
@@ -391,7 +391,7 @@ END
 
 IF ~~ THEN BEGIN SaerilethMeet1n
 SAY @47
-IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~~ THEN EXIT
 END
 
 
@@ -423,4 +423,11 @@ SAY @53
  ++ @9 GOTO SaerilethMeet1a
  ++ @10 GOTO SaerilethMeet1b
  ++ @11 GOTO SaerilethMeet1c
+END
+
+IF~ !NumTimesTalkedTo(0)~ THEN BEGIN SaeFollowup1
+SAY @23
+ ++ @24 GOTO SaerilethMeet1c
+ ++ @29 GOTO SaerilethMeetb1e
+ ++ @26 GOTO SaerilethMeet1h
 END

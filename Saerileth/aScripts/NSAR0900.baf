@@ -1,8 +1,19 @@
 IF
-  Global("SaerilethExists","AR0900",0)
-  !Alignment(Player1,MASK_EVIL)
+Global("SaerilethExists","AR0900",0)
+!Alignment(Player1,MASK_EVIL)
 THEN
- RESPONSE #100
-  SetGlobal("SaerilethExists","AR0900",1)
-  CreateCreature("SAERILET",[3058.3615],8)
+RESPONSE #100
+SetGlobal("SaerilethExists","AR0900",1)
+CreateCreature("SAERILET",[3058.3615],8)
+END
+
+IF
+Global("BodiAppear","GLOBAL",1)
+Global("SaerilethExists","AR0900",1)
+InMyArea("Saerileth")
+!InParty("Saerileth")
+THEN
+RESPONSE #100
+SetGlobal("SaerilethExists","AR0900",2)
+ActionOverride("Saerileth",DestroySelf())
 END
