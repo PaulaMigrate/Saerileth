@@ -73,7 +73,7 @@ END
 
 IF ~~ THEN BEGIN NSGoGetBodhi6
 SAY @63
-IF ~~ THEN DO ~SetGlobal("CHAPTER","GLOBAL",2)
+IF ~~ THEN DO ~SetGlobal("CHAPTER","GLOBAL",%bg2_chapter_2%)
 GiveItemCreate("misc6w",LastTalkedToBy,0,0,0)
 GiveItemCreate("misc6w",LastTalkedToBy,0,0,0)
 GiveItemCreate("misc6w",LastTalkedToBy,0,0,0)
@@ -87,7 +87,7 @@ IF ~~ THEN BEGIN NSGoGetBodhi7
 SAY @64
 =
 @65
-IF ~~ THEN DO ~SetGlobal("CHAPTER","GLOBAL",2)
+IF ~~ THEN DO ~SetGlobal("CHAPTER","GLOBAL",%bg2_chapter_2%)
 GiveItemCreate("misc6w",LastTalkedToBy,0,0,0)
 GiveItemCreate("misc6w",LastTalkedToBy,0,0,0)
 GiveItemCreate("misc6w",LastTalkedToBy,0,0,0)

@@ -6,7 +6,7 @@ IF ~Global("NSHavunWarn","GLOBAL",1)~ THEN BEGIN NSHavunWarn
 SAY @0
 =
 @1
-IF ~~ THEN DO ~SetGlobal("NSHavunWarn","GLOBAL",2)SetGlobal("Chapter","GLOBAL",4)~EXIT
+IF ~~ THEN DO ~SetGlobal("NSHavunWarn","GLOBAL",2)SetGlobal("Chapter","GLOBAL",%bg2_chapter_4%)~EXIT
 END
 
 

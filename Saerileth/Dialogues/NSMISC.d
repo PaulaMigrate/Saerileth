@@ -1,5 +1,5 @@
 APPEND HPRELATE
-IF WEIGHT #-1 ~Global("CHAPTER","GLOBAL",6)GlobalGT("NSGoGetBodhi","GLOBAL",0)!Dead("c6bodhi")Global("NSPrelate","GLOBAL",0)~ THEN BEGIN NSWorkedForOrder
+IF WEIGHT #-1 ~Global("CHAPTER","GLOBAL",%bg2_chapter_6%)GlobalGT("NSGoGetBodhi","GLOBAL",0)!Dead("c6bodhi")Global("NSPrelate","GLOBAL",0)~ THEN BEGIN NSWorkedForOrder
 SAY @123
 ++ @124 DO ~SetGlobal("NSPrelate","GLOBAL",1)~ GOTO NSPrelate1
 ++ @125 DO ~SetGlobal("NSPrelate","GLOBAL",1)~ GOTO NSPrelate1

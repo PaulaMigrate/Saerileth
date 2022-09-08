@@ -22,7 +22,7 @@ END
 
 
 
-IF ~!Global("Chapter","GLOBAL",4)!Global("Chapter","GLOBAL",5)Global("LeaveWithoutSaerileth","GLOBAL",2)~ THEN BEGIN EdoremYouIdiot
+IF ~!Global("Chapter","GLOBAL",%bg2_chapter_4%)!Global("Chapter","GLOBAL",%bg2_chapter_5%)Global("LeaveWithoutSaerileth","GLOBAL",2)~ THEN BEGIN EdoremYouIdiot
 SAY @4 
 =
 @5
@@ -33,7 +33,7 @@ END
 
 
 
-IF ~Global("Chapter","GLOBAL",4)Global("LeaveWithoutSaerileth","GLOBAL",2)~ THEN BEGIN EdoremYouIdiot1
+IF ~Global("Chapter","GLOBAL",%bg2_chapter_4%)Global("LeaveWithoutSaerileth","GLOBAL",2)~ THEN BEGIN EdoremYouIdiot1
 SAY @4 
 =
 @5
@@ -44,7 +44,7 @@ END
 
 
 
-IF ~Global("Chapter","GLOBAL",5)Global("LeaveWithoutSaerileth","GLOBAL",2)~ THEN BEGIN EdoremYouIdiot2
+IF ~Global("Chapter","GLOBAL",%bg2_chapter_5%)Global("LeaveWithoutSaerileth","GLOBAL",2)~ THEN BEGIN EdoremYouIdiot2
 SAY @4 
 =
 @5
@@ -55,7 +55,7 @@ END
 
 
 
-IF ~!Global("Chapter","GLOBAL",4)!Global("Chapter","GLOBAL",5)Global("NSAllGoHome","GLOBAL",2)~ THEN BEGIN EdoremSad
+IF ~!Global("Chapter","GLOBAL",%bg2_chapter_4%)!Global("Chapter","GLOBAL",%bg2_chapter_5%)Global("NSAllGoHome","GLOBAL",2)~ THEN BEGIN EdoremSad
 SAY @7
 =
 @8 
@@ -64,7 +64,7 @@ END
 
 
 
-IF ~Global("Chapter","GLOBAL",4)Global("NSAllGoHome","GLOBAL",2)~ THEN BEGIN EdoremSad1
+IF ~Global("Chapter","GLOBAL",%bg2_chapter_4%)Global("NSAllGoHome","GLOBAL",2)~ THEN BEGIN EdoremSad1
 SAY @7
 =
 @8 
@@ -73,7 +73,7 @@ END
 
 
 
-IF ~Global("Chapter","GLOBAL",5)Global("NSAllGoHome","GLOBAL",2)~ THEN BEGIN EdoremSad2
+IF ~Global("Chapter","GLOBAL",%bg2_chapter_5%)Global("NSAllGoHome","GLOBAL",2)~ THEN BEGIN EdoremSad2
 SAY @7
 =
 @8 
