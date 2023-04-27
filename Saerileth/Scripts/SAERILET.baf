@@ -1179,6 +1179,7 @@ END
 IF
  PartyHasItem("misc8t")
  Global("SaerilethCerndBaby","LOCALS",0)
+ InParty(Myself)
 THEN
  RESPONSE #100
  SetGlobal("SaerilethCerndBaby","LOCALS",1)
@@ -1194,6 +1195,7 @@ THEN
  RESPONSE #100
  SetGlobal("SaerilethCarsomyr","LOCALS",1)
  StartDialogueNoSet(Player1)
+ InParty(Myself)
 END
 
 
