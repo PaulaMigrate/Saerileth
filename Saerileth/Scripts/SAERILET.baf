@@ -1174,8 +1174,6 @@ THEN
  StartDialogueNoSet(Player1)
 END
 
-
-
 IF
  PartyHasItem("misc8t")
  Global("SaerilethCerndBaby","LOCALS",0)
@@ -1186,19 +1184,15 @@ THEN
  StartDialogueNoSet(Player1)
 END
 
-
-
 IF
  PartyHasItem("sw2h10")
- Global("SaerilethCarsomyr","LOCALS",0)
+ Global("SaerilethCarsomyr","LOCALS",0)  
+ InParty(Myself)
 THEN
  RESPONSE #100
  SetGlobal("SaerilethCarsomyr","LOCALS",1)
  StartDialogueNoSet(Player1)
- InParty(Myself)
 END
-
-
 
 IF
  Detect(Player1)
@@ -1210,8 +1204,6 @@ THEN
  StartDialogueNoSet(Player1)
 END
 
-
-
 IF
  Detect(Player1)
  AreaCheck("AR0414")
@@ -1221,8 +1213,6 @@ THEN
  SetGlobal("SaerilethHellPlane","LOCALS",1)
  StartDialogueNoSet(Player1)
 END
-
-
 
 IF
  InParty(Myself)
@@ -2057,6 +2047,7 @@ END
 
 
 IF
+Global("BodiAppear","GLOBAL",1)
  InParty("Saerileth")
  ReputationGT(Player1,12)
  GlobalLT("Linvail","GLOBAL",1)
