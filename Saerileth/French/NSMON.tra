@@ -1,183 +1,183 @@
-@0    = ~Buvez une ciguë, puis mourrez, Ignare!~
-@1    = ~Hé bien, il semble que quelqu'un aie besoin d'apprendre quelques manières.~
-@2    = ~Vous êtes Mon, n'est ce pas?~
-@3    = ~Je cherche une clé de portail. Donnez la moi, et j'épargnerai votre vie!~
-@4    = ~Je cherche une clé de portail. Sauriez vous où puis je en acheter une?~
-@5    = ~Et êtes vous mon instructeur aujourd'hui, imbécile?~
+@0    = ~Buvez une ciguÃ«, puis mourrez, Ignare!~
+@1    = ~HÃ© bien, il semble que quelqu'un aie besoin d'apprendre quelques maniÃ¨res.~
+@2    = ~Vous Ãªtes Mon, n'est ce pas?~
+@3    = ~Je cherche une clÃ© de portail. Donnez la moi, et j'Ã©pargnerai votre vie!~
+@4    = ~Je cherche une clÃ© de portail. Sauriez vous oÃ¹ puis je en acheter une?~
+@5    = ~Et Ãªtes vous mon instructeur aujourd'hui, imbÃ©cile?~
 @6    = ~C'est cela. Il est temps de mourir pourriture!~
-@7    = ~Ca se pourrait, mais je préférerais négocier avec vous.~
-@8    = ~Non, et vous êtes chanceux que je ne le sois pas. Donnez moi la clé. Je sais que vous la possédez, et je vous laisserai la vie sauve.~
-@9    = ~Non, et vous êtes chanceux que je ne le sois pas. Tout ce que je veux est acheter une clé de portail pour Ysgard.~
+@7    = ~Ca se pourrait, mais je prÃ©fÃ©rerais nÃ©gocier avec vous.~
+@8    = ~Non, et vous Ãªtes chanceux que je ne le sois pas. Donnez moi la clÃ©. Je sais que vous la possÃ©dez, et je vous laisserai la vie sauve.~
+@9    = ~Non, et vous Ãªtes chanceux que je ne le sois pas. Tout ce que je veux est acheter une clÃ© de portail pour Ysgard.~
 @10   = ~Je le suis. qu'y a t'il, pourriture?~
-@11   = ~Quel salaud que vous êtes! La force ne domine pas dans la Cage, stupide pièce d'épave! Vous allez faire connaissance avec les ténèbres.~
-@12   = ~Elle ne domine peut être pas dans la Cage, mais elle mettra fin à *votre* vie!~
-@13   = ~Très bien. Combien voulez vous pour la clé menant à Ysgard?~
-@14   = ~Ca se peut. Où voulez vous aller?~
-@15   = ~A Ysgard. Combien voulez vous pour la clé?~
-@16   = ~Revenir à Toril.~
-@17   = ~Actuellement, J'ai changé d'avis. Je pense que je vais vous tuer pour la clé.~
+@11   = ~Quel salaud que vous Ãªtes! La force ne domine pas dans la Cage, stupide piÃ¨ce d'Ã©pave! Vous allez faire connaissance avec les tÃ©nÃ¨bres.~
+@12   = ~Elle ne domine peut Ãªtre pas dans la Cage, mais elle mettra fin Ã  *votre* vie!~
+@13   = ~TrÃ¨s bien. Combien voulez vous pour la clÃ© menant Ã  Ysgard?~
+@14   = ~Ca se peut. OÃ¹ voulez vous aller?~
+@15   = ~A Ysgard. Combien voulez vous pour la clÃ©?~
+@16   = ~Revenir Ã  Toril.~
+@17   = ~Actuellement, J'ai changÃ© d'avis. Je pense que je vais vous tuer pour la clÃ©.~
 @18   = ~Vous serez une encoche en plus sur ma ceinture, Ignare!~
-@19   = ~Très bien. Que voulez vous?~
-@20   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour ce joli arc noir. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@19   = ~TrÃ¨s bien. Que voulez vous?~
+@20   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour ce joli arc noir. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @21   = ~D'accord, Prenez l'arc de Gesen.~
-@22   = ~Non, je donnerai plutôt l'argent.~
-@23   = ~Le prix est trop élevé. Votre vie est sans valeur, donc il est temps de mourir!~
-@24   = ~Très bien! Voilà votre clé.~
-@25   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cette intéressante hache d'anti-magie. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@22   = ~Non, je donnerai plutÃ´t l'argent.~
+@23   = ~Le prix est trop Ã©levÃ©. Votre vie est sans valeur, donc il est temps de mourir!~
+@24   = ~TrÃ¨s bien! VoilÃ  votre clÃ©.~
+@25   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cette intÃ©ressante hache d'anti-magie. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @26   = ~D'accord, prenez la Hache de Bala.~
-@27   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cet intéressant Anneau du grand Bélier. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
-@28   = ~D'accord, prenez l'Anneau du grand Bélier.~
-@29   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cet anneau de mort rouge que vous possédez. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
-@30   = ~D'accord, prenez l'anneau des sans pitié.~
-@31   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour ce bâton de lumière bleue. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
-@32   = ~D'accord, prenez le Bâton de Guérison.~
-@33   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour ce bracelet d'or et d'argent. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@27   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cet intÃ©ressant Anneau du grand BÃ©lier. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
+@28   = ~D'accord, prenez l'Anneau du grand BÃ©lier.~
+@29   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cet anneau de mort rouge que vous possÃ©dez. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
+@30   = ~D'accord, prenez l'anneau des sans pitiÃ©.~
+@31   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour ce bÃ¢ton de lumiÃ¨re bleue. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
+@32   = ~D'accord, prenez le BÃ¢ton de GuÃ©rison.~
+@33   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour ce bracelet d'or et d'argent. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @34   = ~D'accord, prenez les Bracelets d'Archer.~
-@35   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cette étrange baguette. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@35   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cette Ã©trange baguette. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @36   = ~D'accord, prenez la Baguette de Merveille.~
-@37   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cette étoile du matin verte. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@37   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cette Ã©toile du matin verte. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @38   = ~D'accord, prenez la Queue de Wiverne.~
-@39   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cette dague à deux broches. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@39   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cette dague Ã  deux broches. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @40   = ~D'accord, prenez la Dague de Pixie.~
-@41   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cette belle épée longue. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@41   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cette belle Ã©pÃ©e longue. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @42   = ~D'accord, prenez la Lame des Roses.~
-@43   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cette épée longue légère. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@43   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cette Ã©pÃ©e longue lÃ©gÃ¨re. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @44   = ~D'accord, prenez Kundane.~
-@45   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour cette ceinture dorée. C'est ça, ou bien 2500 pièces d'or. Faites votre choix.~
+@45   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour cette ceinture dorÃ©e. C'est Ã§a, ou bien 2500 piÃ¨ces d'or. Faites votre choix.~
 @46   = ~D'accord, prenez le ceinturon de Franchise.~
-@47   = ~Hé bien, les clés de portails sont précieuses dans la Cage, mais je vous en céderai une pour 2500 pièces d'or. Je préfère habituellement un objet magique, mais vous n'avez rien de ce que je désire.~
+@47   = ~HÃ© bien, les clÃ©s de portails sont prÃ©cieuses dans la Cage, mais je vous en cÃ©derai une pour 2500 piÃ¨ces d'or. Je prÃ©fÃ¨re habituellement un objet magique, mais vous n'avez rien de ce que je dÃ©sire.~
 @48   = ~Je paierai.~
-@49   = ~Excellent. Voilà votre clé.~
+@49   = ~Excellent. VoilÃ  votre clÃ©.~
 @50   = ~Je n'ai pas assez. Je reviendrai plus tard.~
 @51   = ~Je doute que vous ayez l'objet. Je quitte la Ruche avant qu'il ne soit trop tard.~
-@52   = ~Ignare. Je ne *veux* pas une clé de Prime! Si vous n'avez pas l'intention de rester dans les Plans, alors quittez les!~
+@52   = ~Ignare. Je ne *veux* pas une clÃ© de Prime! Si vous n'avez pas l'intention de rester dans les Plans, alors quittez les!~
 @53   = ~Il est temps de mourir!~
-@54   = ~Et pour Ysgard? Combien prenez vous pour cette clé?~
-@55   = ~Alors avez vous l'objet, imbécile?~
-@56   = ~Non, et j'ai décidé de vous tuer à la place!~
+@54   = ~Et pour Ysgard? Combien prenez vous pour cette clÃ©?~
+@55   = ~Alors avez vous l'objet, imbÃ©cile?~
+@56   = ~Non, et j'ai dÃ©cidÃ© de vous tuer Ã  la place!~
 @57   = ~Oui, je l'ai. La voila.~
 @58   = ~Non, mais je m'y mets.~
-@59   = ~Vous êtes une tête de noeuds, ignorant!~
-@60   = ~Vous feriez mieux de vous dépêcher, imbécile!. Je suis entrain de me diriger vers la Salle de fêtes pour manger un morceau.~
+@59   = ~Vous Ãªtes une tÃªte de noeuds, ignorant!~
+@60   = ~Vous feriez mieux de vous dÃ©pÃªcher, imbÃ©cile!. Je suis entrain de me diriger vers la Salle de fÃªtes pour manger un morceau.~
 
 
 
-@5000 = ~Le Deva Déchu
+@5000 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5001 = ~Le Deva Déchu
+@5001 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle semble assez emballée avec moi. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle semble assez emballÃ©e avec moi. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5002 = ~Saerileth Enlevée
+@5002 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Premièrement nous devons chercher Jharak dans la cité de Sigil, de manière à obtenir de lui le sceptre de Tyr.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. PremiÃ¨rement nous devons chercher Jharak dans la citÃ© de Sigil, de maniÃ¨re Ã  obtenir de lui le sceptre de Tyr.~
 
-@5003 = ~Saerileth Enlevée
+@5003 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immédiatement.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immÃ©diatement.~
 
-@5004 = ~Saerileth Enlevée
+@5004 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissé à son sort.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissÃ© Ã  son sort.~
 
-@5005 = ~Saerileth Enlevée
+@5005 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé Jharak, mais il nous a envoyé rapporter une clé avant de nous dire la localisation du sceptre de Tyr.~
+Nous avons trouvÃ© Jharak, mais il nous a envoyÃ© rapporter une clÃ© avant de nous dire la localisation du sceptre de Tyr.~
 
-@5006 = ~Saerileth Enlevée
+@5006 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé la clé, et nous allons retourner voir Jharak avec elle de suite.~
+Nous avons trouvÃ© la clÃ©, et nous allons retourner voir Jharak avec elle de suite.~
 
-@5007 = ~Saerileth Enlevée
+@5007 = ~Saerileth EnlevÃ©e
 
-Jharak nous a envoyé parler avec le tavernier, qui possède le Sceptre.~
+Jharak nous a envoyÃ© parler avec le tavernier, qui possÃ¨de le Sceptre.~
 
-@5008 = ~Saerileth Enlevée
+@5008 = ~Saerileth EnlevÃ©e
 
-Nous avons obtenu le Sceptre de Tyr. L'âme de Saerileth est en danger, et nous devons nous dépêcher de rejoindre Edorem aussi vite que possible.~
+Nous avons obtenu le Sceptre de Tyr. L'Ã¢me de Saerileth est en danger, et nous devons nous dÃ©pÃªcher de rejoindre Edorem aussi vite que possible.~
 
 @5009 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
 @5010 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. J'ai sorti Saerileth de mon groupe, et elle est restée dans les Plans. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. J'ai sorti Saerileth de mon groupe, et elle est restÃ©e dans les Plans. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
-@5011 = ~Le Deva Déchu
+@5011 = ~Le Deva DÃ©chu
 
-Nous avons trouvé Kesevar le Déchu, mais il affirme que sa punition est imméritée. Il a été envoyé à la recherche de la seule personne qui peut témoigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
+Nous avons trouvÃ© Kesevar le DÃ©chu, mais il affirme que sa punition est immÃ©ritÃ©e. Il a Ã©tÃ© envoyÃ© Ã  la recherche de la seule personne qui peut tÃ©moigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
 
-@5012 = ~Le Deva Déchu
+@5012 = ~Le Deva DÃ©chu
 
-Gunshain, comme cela s'est produit, a révélé le nom de Kesevar, mais il a aussi tenté de nous tuer! Nous l'avons expédié, et nous devons retourner voir Kesevar rapidement.~
+Gunshain, comme cela s'est produit, a rÃ©vÃ©lÃ© le nom de Kesevar, mais il a aussi tentÃ© de nous tuer! Nous l'avons expÃ©diÃ©, et nous devons retourner voir Kesevar rapidement.~
 
-@5013 = ~Le Deva Déchu
+@5013 = ~Le Deva DÃ©chu
 
-Saerileth a déclaré Kesevar innocent, et sa proclamation a fait immédiatement effet. Le déva a repris sa splendeur, et Saerileth reste en ma compagnie.~
+Saerileth a dÃ©clarÃ© Kesevar innocent, et sa proclamation a fait immÃ©diatement effet. Le dÃ©va a repris sa splendeur, et Saerileth reste en ma compagnie.~
 
-@5014 = ~Le Deva Déchu
+@5014 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
-@5015 = ~Le Deva Déchu
+@5015 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
 @5016 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5017 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5018 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! Mon adultère a brisé le coeur de Saerileth, et elle est morte. La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! Mon adultÃ¨re a brisÃ© le coeur de Saerileth, et elle est morte. La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5019 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5020 = ~Delilah la Courtisane
 
-Saerileth m'a assuré que cette Delilah est un démon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple où nous pouvons être capable de trouver de l'aide pour dissiper les illusions démoniaques.~
+Saerileth m'a assurÃ© que cette Delilah est un dÃ©mon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple oÃ¹ nous pouvons Ãªtre capable de trouver de l'aide pour dissiper les illusions dÃ©moniaques.~
 
 @5021 = ~Delilah la Courtisane
 
-J'ai refusé de venir en aide à ceux qui se sont fait attrapé par l'étreinte du démon. Ils ont apporté leur destin sur eux mêmes. Saerileth est attristée, mais approuve que leur punition est juste.~
+J'ai refusÃ© de venir en aide Ã  ceux qui se sont fait attrapÃ© par l'Ã©treinte du dÃ©mon. Ils ont apportÃ© leur destin sur eux mÃªmes. Saerileth est attristÃ©e, mais approuve que leur punition est juste.~
 
 @5022 = ~Delilah la Courtisane
 
-J'ai reçu du prêtre de Waukyne un parchemin qui possède la capacité de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorénavant visible.~
+J'ai reÃ§u du prÃªtre de Waukyne un parchemin qui possÃ¨de la capacitÃ© de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorÃ©navant visible.~
 
 @5023 = ~Delilah la Courtisane
 
-La magie du parchemin a été un véritable succès. Qu'il s'agisse de la magie du parchemin ou des prières de Saerileth, je n'en suis pas certain. Cependant, cela a marché, et les démon a été forcé d'abandonner leur plan et de retourner aux Abysses.~
+La magie du parchemin a Ã©tÃ© un vÃ©ritable succÃ¨s. Qu'il s'agisse de la magie du parchemin ou des priÃ¨res de Saerileth, je n'en suis pas certain. Cependant, cela a marchÃ©, et les dÃ©mon a Ã©tÃ© forcÃ© d'abandonner leur plan et de retourner aux Abysses.~
 
 @5024 = ~Vaincre Khalabaxin
 
-J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+J'ai acceptÃ© la requÃªte de Sir Havun Clarenshide pour l'aider Ã  vaincre le dragon Khalabaxin. Je le trouverai prÃ©s de son nouveau repÃ¨re, la cave au delÃ  de la riviÃ¨re dans les collines d'Umar.~
 
 @5025 = ~Vaincre Khalabaxin
 
-J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner Ã  l'Ordre du Coeur Radieux et dire Ã  Sir Havun Clarenshide ce dont il s'agit.~
 
 @5026 = ~Vaincre Khalabaxin
 
-Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+Je suis retournÃ© Ã  l'Ordre du Coeur Radieux avec les nouvelles de ma dÃ©faite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais Ãªtre accompli.~
 
 @5027 = ~Vaincre les vampires
 
-Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+Sir Havun m'a informÃ© de l'existence d'un nid de vampires ici dans la citÃ©. Je suis de la partie pour les chercher et les dÃ©truire. Ils vivent dans les cryptes sous le cimetiÃ¨re. L'ordre enverra l'un de leur mage mercenaire pour m'aider Ã  percer la dÃ©fense du nid.~
 
 @5028 = ~Vaincre les vampires
 
-J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a Ã©chappÃ©. Elle possÃ¨de quelques informations intÃ©ressantes Ã  me communiquer... Elle savais que j'Ã©tais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires Ã  Sir Havun.~
 
 @5029 = ~Les Vampires vaincus
 
-Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~
+Je suis retournÃ© Ã  l'Ordre du coeur Radieux avec les nouvelles de ma dÃ©faite des vampires. L'Ordre m'a offert le passage Ã  Spellhold comme rÃ©compense!~

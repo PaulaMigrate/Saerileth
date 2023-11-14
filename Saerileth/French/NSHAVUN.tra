@@ -1,83 +1,83 @@
-@0 = ~Etes vous prêts à partir?~
+@0 = ~Etes vous prÃªts Ã  partir?~
 @1 = ~Oui, nous le sommes.~
 @2 = ~Non, pas encore.~
-@3 = ~Très bien. Allons y tout de suite.~
+@3 = ~TrÃ¨s bien. Allons y tout de suite.~
 @4 = ~Alors s'il vous plait, revenez quand vous aurez fini vos arrangements.~
-@5 = ~S'il vous plait, dépêchez vous! Le temps est le plus précieux.~
+@5 = ~S'il vous plait, dÃ©pÃªchez vous! Le temps est le plus prÃ©cieux.~
 @6 = ~Etes vous revenus victorieux?~
 @7 = ~Oui, Sir Clarenshide, nous le sommes. Khalabaxin n'est plus.~
 @8 = ~Oui, je pensais que ce serait plus difficile. Nous sommes les vainqueurs.~
-@9 = ~Vous avez nos remerciements, <PRO_LADYLORD> <CHARNAME>. Vous avez accompli un grand service pour nous, ainsi qu'à tous ces innocents tombés sur Khalabaxin qui ont cherché à le chasser.~
+@9 = ~Vous avez nos remerciements, <PRO_LADYLORD> <CHARNAME>. Vous avez accompli un grand service pour nous, ainsi qu'Ã  tous ces innocents tombÃ©s sur Khalabaxin qui ont cherchÃ© Ã  le chasser.~
 @10 = ~Et en gratitude nous vous offrons quelque chose de grande valeur.~
-@11 = ~Vous cherchez quelqu'un capturé par les mages cagoulés--non, vous n'avez pas été espionné. Vos exploits sont trop visibles pour rester inconnus.~
-@12 = ~Nous avons avec difficulté, déterminé l'endroit de ceux qui ont été capturés: une prison pour magiciens nommée Spellhold.~
-@13 = ~Oui, j'ai besoin tout d'abord de remplir mes provisions à nouveau.~
-@14 = ~Oui, je suis prêt. Allons y!~
-@15 = ~Très bien, mon <PRO_LADYLORD>. Revenez quand vous serez prêt.~
+@11 = ~Vous cherchez quelqu'un capturÃ© par les mages cagoulÃ©s--non, vous n'avez pas Ã©tÃ© espionnÃ©. Vos exploits sont trop visibles pour rester inconnus.~
+@12 = ~Nous avons avec difficultÃ©, dÃ©terminÃ© l'endroit de ceux qui ont Ã©tÃ© capturÃ©s: une prison pour magiciens nommÃ©e Spellhold.~
+@13 = ~Oui, j'ai besoin tout d'abord de remplir mes provisions Ã  nouveau.~
+@14 = ~Oui, je suis prÃªt. Allons y!~
+@15 = ~TrÃ¨s bien, mon <PRO_LADYLORD>. Revenez quand vous serez prÃªt.~
 @16 = ~Alors allons y tout de suite.~
-@17 = ~Salutations, <CHARNAME>, et bonne rencontre. J'ai une requête à vous faire, si vous voulez l'entendre.~
-@18 = ~Non, je ne désire pas parler à des gens comme vous. Fichez le camp!~
-@19 = ~Parlez, homme, et rapidement si vous tenez à la vie!~
-@20 = ~Bonne rencontre, mon bon chevalier. Je serai honoré d'écouter votre requête.~
-@21 = ~Et vous êtes?~
-@22 = ~Je suis toujours prêt à aider un guerrier de confiance.~
-@23 = ~Très bien. Partez en paix.~
-@24 = ~Il n'y a pas besoin d'autant de discourtoisie. Je comprend que vous êtes las de toutes ces batailles, mais sachez que je ne suis pas votre ennemi.~
-@25 = ~En effet, J'ai besoin d'un compagnon comme vous. Je m'appelle Havun Clarenshide, et je suis un serviteur de l'Ordre du Coeur Radieux. Un de nos membres a découvert le repaire d'un terrible dragon. Nous nous sommes approchés par deux fois, et les deux fois nous avons été repoussés.~
-@26 = ~Ainsi, vous souhaitez que je m'occupe de ce problème pour vous?~
+@17 = ~Salutations, <CHARNAME>, et bonne rencontre. J'ai une requÃªte Ã  vous faire, si vous voulez l'entendre.~
+@18 = ~Non, je ne dÃ©sire pas parler Ã  des gens comme vous. Fichez le camp!~
+@19 = ~Parlez, homme, et rapidement si vous tenez Ã  la vie!~
+@20 = ~Bonne rencontre, mon bon chevalier. Je serai honorÃ© d'Ã©couter votre requÃªte.~
+@21 = ~Et vous Ãªtes?~
+@22 = ~Je suis toujours prÃªt Ã  aider un guerrier de confiance.~
+@23 = ~TrÃ¨s bien. Partez en paix.~
+@24 = ~Il n'y a pas besoin d'autant de discourtoisie. Je comprend que vous Ãªtes las de toutes ces batailles, mais sachez que je ne suis pas votre ennemi.~
+@25 = ~En effet, J'ai besoin d'un compagnon comme vous. Je m'appelle Havun Clarenshide, et je suis un serviteur de l'Ordre du Coeur Radieux. Un de nos membres a dÃ©couvert le repaire d'un terrible dragon. Nous nous sommes approchÃ©s par deux fois, et les deux fois nous avons Ã©tÃ© repoussÃ©s.~
+@26 = ~Ainsi, vous souhaitez que je m'occupe de ce problÃ¨me pour vous?~
 @27 = ~Vous voulez que je combatte un dragon pour vous?!~
 @28 = ~Indiquez moi le chemin. Je n'aurai pas de repos aussi longtemps que ce mal vivra!~
-@29 = ~Comment oser occire cette bête avec des guerriers bien armés qui sont venus dans son antre et troublé son repos, pour aucune autre raison que de le tuer?~
+@29 = ~Comment oser occire cette bÃªte avec des guerriers bien armÃ©s qui sont venus dans son antre et troublÃ© son repos, pour aucune autre raison que de le tuer?~
 @30 = ~Quelle sorte de dragon est ce?~
-@31 = ~Je vous remercie. J'ai besoin d'un compagnon comme vous. Je m'apelle Havun Clarenshide, et je suis un serviteur du Coeur de l'Ordre Radieux. Un de nos membres a découvert le repaire d'un terrible dragon. Nous nous sommes approchés par deux fois, et les deux fois nous avons été repoussés.~
-@32 = ~Je m'appelle Havun Clarenshide, et je suis un serviteur du Coeur de l'Ordre Radieux. Un de nos membres a découvert le repaire d'un terrible dragon. Nous nous sommes approchés par deux fois, et les deux fois nous avons été repoussés.~
-@33 = ~Je vous recueille comme un guerrier de confiance et de lumière. Je m'appelle Havun Clarenshide, et je suis un serviteur du Coeur de l'Ordre Radieux. J'ai besoin d'un compagnon comme vous. Un de nos membres a découvert le repaire d'un terrible dragon. Nous nous sommes approchés par deux fois, et les deux fois nous avons été repoussés.~
-@34 = ~Le dragon est puissant, mais votre réputation vous précède. Je ne demande rien d'autre que votre assistance pour débarrasser ce territoire d'une vil créature.~
-@35 = ~Très bien, je vous aiderai.~
-@36 = ~je ne désire pas combattre un dragon. Trouvez quelqu'un d'autre.~
-@37 = ~Je vous aiderais bien, mais je suis occupé. Est ce que cela peut attendre un peu?~
-@38 = ~Vous acceptez le défi? L'ordre sera heureux de l'entendre! Allez donc aux Collines d'Umar. Là, au delà de la première rivière, prés de la grotte, vous trouverez le dragon, Khalabaxin.~
-@39 = ~Il est futé, Prenez garde à ses crocs et son souffle! Quand vous aurez occis ce grand serpent, retrouvez moi aux quartiers de l'Ordre. Je vous attendrai là bas.~
-@40 = ~Vous ne comprenez pas, <CHARNAME>. Nous ne détruisons pas les créatures sans distinction, même si nous semblons être non informés. Nous protégeons les faibles, trouvons un abri pour la veuve et l'orphelin, et proposons notre aide où nous le pouvons.~
-@41 = ~Ce dragon a détruit plusieurs villages sans ses saccages. Sa soif de sang est assouvie pour le moment, mais nous ne savons pas combien de temps ça durera. Il se pourrait qu'il s'éveille à nouveau et reprenne le carnage.~
-@42 = ~Très bien, <CHARNAME>. Votre réticence à nous aider est cependant, surprenante. Allez en paix, alors.~
+@31 = ~Je vous remercie. J'ai besoin d'un compagnon comme vous. Je m'apelle Havun Clarenshide, et je suis un serviteur du Coeur de l'Ordre Radieux. Un de nos membres a dÃ©couvert le repaire d'un terrible dragon. Nous nous sommes approchÃ©s par deux fois, et les deux fois nous avons Ã©tÃ© repoussÃ©s.~
+@32 = ~Je m'appelle Havun Clarenshide, et je suis un serviteur du Coeur de l'Ordre Radieux. Un de nos membres a dÃ©couvert le repaire d'un terrible dragon. Nous nous sommes approchÃ©s par deux fois, et les deux fois nous avons Ã©tÃ© repoussÃ©s.~
+@33 = ~Je vous recueille comme un guerrier de confiance et de lumiÃ¨re. Je m'appelle Havun Clarenshide, et je suis un serviteur du Coeur de l'Ordre Radieux. J'ai besoin d'un compagnon comme vous. Un de nos membres a dÃ©couvert le repaire d'un terrible dragon. Nous nous sommes approchÃ©s par deux fois, et les deux fois nous avons Ã©tÃ© repoussÃ©s.~
+@34 = ~Le dragon est puissant, mais votre rÃ©putation vous prÃ©cÃ¨de. Je ne demande rien d'autre que votre assistance pour dÃ©barrasser ce territoire d'une vil crÃ©ature.~
+@35 = ~TrÃ¨s bien, je vous aiderai.~
+@36 = ~je ne dÃ©sire pas combattre un dragon. Trouvez quelqu'un d'autre.~
+@37 = ~Je vous aiderais bien, mais je suis occupÃ©. Est ce que cela peut attendre un peu?~
+@38 = ~Vous acceptez le dÃ©fi? L'ordre sera heureux de l'entendre! Allez donc aux Collines d'Umar. LÃ , au delÃ  de la premiÃ¨re riviÃ¨re, prÃ©s de la grotte, vous trouverez le dragon, Khalabaxin.~
+@39 = ~Il est futÃ©, Prenez garde Ã  ses crocs et son souffle! Quand vous aurez occis ce grand serpent, retrouvez moi aux quartiers de l'Ordre. Je vous attendrai lÃ  bas.~
+@40 = ~Vous ne comprenez pas, <CHARNAME>. Nous ne dÃ©truisons pas les crÃ©atures sans distinction, mÃªme si nous semblons Ãªtre non informÃ©s. Nous protÃ©geons les faibles, trouvons un abri pour la veuve et l'orphelin, et proposons notre aide oÃ¹ nous le pouvons.~
+@41 = ~Ce dragon a dÃ©truit plusieurs villages sans ses saccages. Sa soif de sang est assouvie pour le moment, mais nous ne savons pas combien de temps Ã§a durera. Il se pourrait qu'il s'Ã©veille Ã  nouveau et reprenne le carnage.~
+@42 = ~TrÃ¨s bien, <CHARNAME>. Votre rÃ©ticence Ã  nous aider est cependant, surprenante. Allez en paix, alors.~
 @43 = ~Pendant un moment, mais le temps presse. Ce dragon se repose maintenant, mais il pourrait recommencer son carnage n'importe quand.~
-@44 = ~Alors allez y, quand vous aurez le temps aux collines d'Umar. Là, au delà de la première rivière, prés de la grotte, vous trouverez le dragon, Khalabaxin.~
-@45 = ~Il est futé, Prenez garde à ses crocs et son souffle! Quand vous aurez occis ce grand serpent, retrouvez moi aux quartiers de l'Ordre. Je vous attendrai là bas.~
-@46 = ~Sa cache est d'une couleur violacée. Je suppose qu'il s'agit de quelque gemme de dragon que je ne connais pas. Peut être une améthyste.~
-@47 = ~Vous avez montré une grande valeur face à un mal puissant. Seriez vous intéressés pour une autre tâche au service de l'Ordre?~
+@44 = ~Alors allez y, quand vous aurez le temps aux collines d'Umar. LÃ , au delÃ  de la premiÃ¨re riviÃ¨re, prÃ©s de la grotte, vous trouverez le dragon, Khalabaxin.~
+@45 = ~Il est futÃ©, Prenez garde Ã  ses crocs et son souffle! Quand vous aurez occis ce grand serpent, retrouvez moi aux quartiers de l'Ordre. Je vous attendrai lÃ  bas.~
+@46 = ~Sa cache est d'une couleur violacÃ©e. Je suppose qu'il s'agit de quelque gemme de dragon que je ne connais pas. Peut Ãªtre une amÃ©thyste.~
+@47 = ~Vous avez montrÃ© une grande valeur face Ã  un mal puissant. Seriez vous intÃ©ressÃ©s pour une autre tÃ¢che au service de l'Ordre?~
 @48 = ~Non, merci. J'en ai eu assez de courir partout et de faire votre sale travail.~
-@49 = ~Hé bien, je vous aiderais bien, mais j'ai besoin de trouver mon chemin pour Spellhold. Mon amie est captive là bas.~
-@50 = ~Bien sur, je serais heureux de continuer à aider l'Ordre. Que proposez vous?~
-@51 = ~Très bien. C'est votre choix, et je ne vous importunerai pas plus là dessus. Mais sachez que l'Ordre ne fait pas faire de 'sale travail.'~
-@52 = ~Nous travaillons à soutenir la loi et servir le véritable bien.  Je suis peiné que vous considérez notre mission au dessous de vous.~
-@53 = ~Spellhold? Peut être que l'Ordre peut trouver un moyen pour vous y amener. Nous trouverons un navire solide.~
+@49 = ~HÃ© bien, je vous aiderais bien, mais j'ai besoin de trouver mon chemin pour Spellhold. Mon amie est captive lÃ  bas.~
+@50 = ~Bien sur, je serais heureux de continuer Ã  aider l'Ordre. Que proposez vous?~
+@51 = ~TrÃ¨s bien. C'est votre choix, et je ne vous importunerai pas plus lÃ  dessus. Mais sachez que l'Ordre ne fait pas faire de 'sale travail.'~
+@52 = ~Nous travaillons Ã  soutenir la loi et servir le vÃ©ritable bien.  Je suis peinÃ© que vous considÃ©rez notre mission au dessous de vous.~
+@53 = ~Spellhold? Peut Ãªtre que l'Ordre peut trouver un moyen pour vous y amener. Nous trouverons un navire solide.~
 @54 = ~Pendant ce temps, nous aiderez vous une fois de plus?~
 @55 = ~Oui, de quoi est il question?~
 @56 = ~Non, ce n'est pas la peine de prendre plus de risque.~
-@57 = ~Nous avons découvert qu'il existe un nid de vampires logeant à Athkatla. Ils vivent dans les cryptes au dessous de la cité. L'Ordre requiert votre aide pour détruire ces monstres répugnants.~
-@58 = ~Bien sur! Tant de mal ne peut continuer à exister!~
-@59 = ~Je détruirai ce nid de vampires pour l'Ordre.~
-@60 = ~Je le ferai, mais seulement si je suis assuré de partir pour Spellhold.~
+@57 = ~Nous avons dÃ©couvert qu'il existe un nid de vampires logeant Ã  Athkatla. Ils vivent dans les cryptes au dessous de la citÃ©. L'Ordre requiert votre aide pour dÃ©truire ces monstres rÃ©pugnants.~
+@58 = ~Bien sur! Tant de mal ne peut continuer Ã  exister!~
+@59 = ~Je dÃ©truirai ce nid de vampires pour l'Ordre.~
+@60 = ~Je le ferai, mais seulement si je suis assurÃ© de partir pour Spellhold.~
 @61 = ~Des vampires? De multiples vampires? Comptez sur moi!~
-@62 = ~Je comprends. Que les dieux puissent vous sourire dans votre voyage. Bonne journée.~
-@63 = ~Excellent. Je suis satisfait que vous soyez d'accord. Très bien. Faites votre chemin au cimetière et aventurez vous dans les cryptes, au dessous. J'appellerai notre mage mercenaire que vous trouverez là bas. Il a les moyens d'ouvrir la porte qui mène au repaire des monstres.~
-@64 = ~Vous avez ma parole du fait que vous aurez les moyens de pénétrer à Spellhold. L'Ordre utilisera toute ses ressources.~
-@65 = ~Pendant ce temps, faites votre chemin au cimetière et aventurez vous dans les cryptes, au dessous. J'appellerai notre mage mercenaire que vous trouverez là bas. Il a les moyens d'ouvrir la porte qui mène au repaire des monstres.~
-@66 = ~Avec vous réussi? Est ce que les vampires sont détruits?~
-@67 = ~Oui, nous avons éliminé les vampires, excepté leur leader, Bodhi. Elle m'a échappé.~
-@68 = ~Non, le leader des vampires s'est échappé!~
-@69 = ~C'est un succès en effet, et vous avez les remerciements de l'Ordre.~
-@70 = ~Comment connaissez *vous* l'existence de Spellhold? J'ai essayé d'en apprendre un peu plus sur cet endroit, en vain, et vous me dîtes maintenant que vous connaissez Spellhold?~
-@71 = ~L'Ordre possède beaucoup de sources d'informations et est toujours vigilent. Nous voyons ces organisations, tel que les Mages Cagoulés, qui exercent le pouvoir.~
-@72 = ~Ne demandez pas comment nous connaissons la localisation de Spellohold. Où que je vous le dise, nos agents seraient découverts.~
-@73 = ~Très bien, je le respecte. Je suis prêt à y aller.~
-@74 = ~Je vois. Je réfléchirai à votre offre pendant que je ravitaille mes provisions.~
-@75 = ~<CHARNAME>, nous aiderez vous à occire ce monstre?~
-@76 = ~Nous avons affrété un navire pour vous, désireriez vous vous rendre à Spellhold.~
-@77 = ~Nous avons détruit les vampires, mais leur leader avait des informations intéressantes à dire avant de partir! Vous m'avez envoyé en mission suicide parce que je suis un enfant de Bhaal!~
-@78 = ~Un enfant de Bhaal? Nous avions entendu tant de rumeurs, mais elles ne coïncidaient pas avec notre requête. Nous avons demandé votre aide grâce à votre force.~
-@79 = ~Nous avons aussi prêté attention à votre réputation, qui est la plus estimée. Et nous avons eu raison de le faire, puisque vous êtes revenus victorieux!~
+@62 = ~Je comprends. Que les dieux puissent vous sourire dans votre voyage. Bonne journÃ©e.~
+@63 = ~Excellent. Je suis satisfait que vous soyez d'accord. TrÃ¨s bien. Faites votre chemin au cimetiÃ¨re et aventurez vous dans les cryptes, au dessous. J'appellerai notre mage mercenaire que vous trouverez lÃ  bas. Il a les moyens d'ouvrir la porte qui mÃ¨ne au repaire des monstres.~
+@64 = ~Vous avez ma parole du fait que vous aurez les moyens de pÃ©nÃ©trer Ã  Spellhold. L'Ordre utilisera toute ses ressources.~
+@65 = ~Pendant ce temps, faites votre chemin au cimetiÃ¨re et aventurez vous dans les cryptes, au dessous. J'appellerai notre mage mercenaire que vous trouverez lÃ  bas. Il a les moyens d'ouvrir la porte qui mÃ¨ne au repaire des monstres.~
+@66 = ~Avec vous rÃ©ussi? Est ce que les vampires sont dÃ©truits?~
+@67 = ~Oui, nous avons Ã©liminÃ© les vampires, exceptÃ© leur leader, Bodhi. Elle m'a Ã©chappÃ©.~
+@68 = ~Non, le leader des vampires s'est Ã©chappÃ©!~
+@69 = ~C'est un succÃ¨s en effet, et vous avez les remerciements de l'Ordre.~
+@70 = ~Comment connaissez *vous* l'existence de Spellhold? J'ai essayÃ© d'en apprendre un peu plus sur cet endroit, en vain, et vous me dÃ®tes maintenant que vous connaissez Spellhold?~
+@71 = ~L'Ordre possÃ¨de beaucoup de sources d'informations et est toujours vigilent. Nous voyons ces organisations, tel que les Mages CagoulÃ©s, qui exercent le pouvoir.~
+@72 = ~Ne demandez pas comment nous connaissons la localisation de Spellohold. OÃ¹ que je vous le dise, nos agents seraient dÃ©couverts.~
+@73 = ~TrÃ¨s bien, je le respecte. Je suis prÃªt Ã  y aller.~
+@74 = ~Je vois. Je rÃ©flÃ©chirai Ã  votre offre pendant que je ravitaille mes provisions.~
+@75 = ~<CHARNAME>, nous aiderez vous Ã  occire ce monstre?~
+@76 = ~Nous avons affrÃ©tÃ© un navire pour vous, dÃ©sireriez vous vous rendre Ã  Spellhold.~
+@77 = ~Nous avons dÃ©truit les vampires, mais leur leader avait des informations intÃ©ressantes Ã  dire avant de partir! Vous m'avez envoyÃ© en mission suicide parce que je suis un enfant de Bhaal!~
+@78 = ~Un enfant de Bhaal? Nous avions entendu tant de rumeurs, mais elles ne coÃ¯ncidaient pas avec notre requÃªte. Nous avons demandÃ© votre aide grÃ¢ce Ã  votre force.~
+@79 = ~Nous avons aussi prÃªtÃ© attention Ã  votre rÃ©putation, qui est la plus estimÃ©e. Et nous avons eu raison de le faire, puisque vous Ãªtes revenus victorieux!~
 
 
 
@@ -85,24 +85,24 @@
 
 @5024 = ~Vaincre Khalabaxin
 
-J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+J'ai acceptÃ© la requÃªte de Sir Havun Clarenshide pour l'aider Ã  vaincre le dragon Khalabaxin. Je le trouverai prÃ©s de son nouveau repÃ¨re, la cave au delÃ  de la riviÃ¨re dans les collines d'Umar.~
 
 @5025 = ~Vaincre Khalabaxin
 
-J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner Ã  l'Ordre du Coeur Radieux et dire Ã  Sir Havun Clarenshide ce dont il s'agit.~
 
 @5026 = ~Vaincre Khalabaxin
 
-Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+Je suis retournÃ© Ã  l'Ordre du Coeur Radieux avec les nouvelles de ma dÃ©faite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais Ãªtre accompli.~
 
 @5027 = ~Vaincre les vampires
 
-Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+Sir Havun m'a informÃ© de l'existence d'un nid de vampires ici dans la citÃ©. Je suis de la partie pour les chercher et les dÃ©truire. Ils vivent dans les cryptes sous le cimetiÃ¨re. L'ordre enverra l'un de leur mage mercenaire pour m'aider Ã  percer la dÃ©fense du nid.~
 
 @5028 = ~Vaincre les vampires
 
-J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a Ã©chappÃ©. Elle possÃ¨de quelques informations intÃ©ressantes Ã  me communiquer... Elle savais que j'Ã©tais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires Ã  Sir Havun.~
 
 @5029 = ~Les vampires vaincus
 
-Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~
+Je suis retournÃ© Ã  l'Ordre du coeur Radieux avec les nouvelles de ma dÃ©faite des vampires. L'Ordre m'a offert le passage Ã  Spellhold comme rÃ©compense!~

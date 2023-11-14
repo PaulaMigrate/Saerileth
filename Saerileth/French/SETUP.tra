@@ -1,12 +1,12 @@
 @0    = ~Mod Saerileth Romance (BG2:SoA & TOB NPC) cree par nethrin et Sillara~
 @1    = ~Saerileth~
 @2    = ~Bonjour, enfant de dieu. Es tu l'enfant de Bhaal dont j'ai entendu parler?~ [SAERI001]
-@3    = ~La honte éternelle tombe sur moi!~ [SAERI002]
+@3    = ~La honte Ã©ternelle tombe sur moi!~ [SAERI002]
 @4    = ~Il est bon de voyager avec une telle compagnie comme celle ci.~ [SAERI003]
 @5    = ~Si tu ne modifies pas ta voie, je quitterai ta compagnie.~ [SAERI004]
-@6    = ~Je vois les ténèbres remplissant ton coeur. Sors les de toi!~ [SAERI005]
-@7    = ~Dorénavant, toi et moi sommes ennemis!~ [SAERI006]
-@8    = ~Je t'amènerai dans la voie de Tyr.~ [SAERI007]
+@6    = ~Je vois les tÃ©nÃ¨bres remplissant ton coeur. Sors les de toi!~ [SAERI005]
+@7    = ~DorÃ©navant, toi et moi sommes ennemis!~ [SAERI006]
+@8    = ~Je t'amÃ¨nerai dans la voie de Tyr.~ [SAERI007]
 @9    = ~Je ne peux plus continuer. Je besoin de me reposer.~ [SAERI008]
 @10   = ~Il est mauvais de gaspiller du temps ainsi. Il y en a qui ont besoin de notre aide.~ [SAERI009]
 @11   = ~Au nom de Tyr, je t'attaque!~ [SAERI010]
@@ -15,15 +15,15 @@
 @14   = ~Tyr!~ [SAERI013]
 @15   = ~Le marteau de justice tombe sur toi!~ [SAERI014]
 @16   = ~Aaahhh!~ [SAERI015]
-@17   = ~Je retourne à Tyr.~ [SAERI016]
+@17   = ~Je retourne Ã  Tyr.~ [SAERI016]
 @18   = ~Mon sang coule pour la justice.~ [SAERI017]
 @19   = ~Ces arbres sont grands, pourtant ils ne parlent pas.~ [SAERI018]
-@20   = ~La seule cité que j'ai vu avant de venir ici était Sigil. Elle est mieux.~ [SAERI019]
-@21   = ~Je souhaiterais être de nouveau à Sigil.~ [SAERI020]
-@22   = ~La lumière du jour apporte du réconfort à mes yeux.~ [SAERI021]
-@23   = ~Les ténèbres sont souvent un camouflage pour les mauvaises actions.~ [SAERI022]
+@20   = ~La seule citÃ© que j'ai vu avant de venir ici Ã©tait Sigil. Elle est mieux.~ [SAERI019]
+@21   = ~Je souhaiterais Ãªtre de nouveau Ã  Sigil.~ [SAERI020]
+@22   = ~La lumiÃ¨re du jour apporte du rÃ©confort Ã  mes yeux.~ [SAERI021]
+@23   = ~Les tÃ©nÃ¨bres sont souvent un camouflage pour les mauvaises actions.~ [SAERI022]
 @24   = ~Que ferais tu avec moi?~ [SAERI023]
-@25   = ~Parle, je t'écoute.~ [SAERI024]
+@25   = ~Parle, je t'Ã©coute.~ [SAERI024]
 @26   = ~J'entends ta voix.~ [SAERI025]
 @27   = ~Donne tes ordres.~ [SAERI026]
 @28   = ~Saerileth attends tes ordres.~ [SAERI027]
@@ -32,36 +32,36 @@
 @31   = ~Ce sera fait.~ [SAERI030]
 @32   = ~Que la justice de Tyr puisse te trouver.~ [SAERI031]
 @33   = ~Je te suis sur l'ordre de Tyr.~ [SAERI032]
-@34   = ~Le devoir et le désir sont uniques.~ [SAERI033]
-@35   = ~Aucune tâche n'est indigne de quelqu'un voué à servir.~ [SAERI034]
+@34   = ~Le devoir et le dÃ©sir sont uniques.~ [SAERI033]
+@35   = ~Aucune tÃ¢che n'est indigne de quelqu'un vouÃ© Ã  servir.~ [SAERI034]
 @36   = ~Je le ferai.~ [SAERI035]
-@37   = ~La mort est toujours sombre, mais peut toujours être noble.~ [SAERI036]
-@38   = ~Ma vie est à Tyr; il peut faire avec elle tout ce qu'il souhaite.~ [SAERI037]
+@37   = ~La mort est toujours sombre, mais peut toujours Ãªtre noble.~ [SAERI036]
+@38   = ~Ma vie est Ã  Tyr; il peut faire avec elle tout ce qu'il souhaite.~ [SAERI037]
 @39   = ~La justice est pourtant aveugle pour ne pas faire d'erreurs.~ [SAERI038]
-@40   = ~La justice te possède!~ [SAERI039]
+@40   = ~La justice te possÃ¨de!~ [SAERI039]
 @41   = ~Tu seras pourtant mien!~ [SAERI040]
-@42   = ~Tu peux être insensible à mon souffle, mais pas à celui de la justice!~ [SAERI041]
+@42   = ~Tu peux Ãªtre insensible Ã  mon souffle, mais pas Ã  celui de la justice!~ [SAERI041]
 @43   = ~Je ne peux plus rien porter.~ [SAERI042]
 @44   = ~Tyr pardonne moi!~ [SAERI043]
 @45   = ~Ce n'est pas honorable.~ [SAERI044]
 @46   = ~Se cacher ne me ressemble pas.~ [SAERI045]
 @47   = ~Je ne suis pas un voleur!~ [SAERI046]
-@48   = ~Quand vous la questionnez sur son passé, Saerileth vous dit qu'elle est née sur le Mont Céleste et a y a vécu jusqu'à l'âge de ses quatorze ans. Elle a passé son enfance dans le temple de Tyr sur le Mont Céleste, et est allé à Sigil l'année dernière, pour y servir les clercs de Tyr. De là elle a été envoyée à Toril, pour chercher l'enfant de Bhaal, et requérir l'aide de <PRO_HISHER>.~
+@48   = ~Quand vous la questionnez sur son passÃ©, Saerileth vous dit qu'elle est nÃ©e sur le Mont CÃ©leste et a y a vÃ©cu jusqu'Ã  l'Ã¢ge de ses quatorze ans. Elle a passÃ© son enfance dans le temple de Tyr sur le Mont CÃ©leste, et est allÃ© Ã  Sigil l'annÃ©e derniÃ¨re, pour y servir les clercs de Tyr. De lÃ  elle a Ã©tÃ© envoyÃ©e Ã  Toril, pour chercher l'enfant de Bhaal, et requÃ©rir l'aide de <PRO_HISHER>.~
 @49   = ~Kesevar~
 @50   = ~Clerc de Tyr~
 @51   = ~Gunshain~
 @52   = ~Edorem~
-@53   = ~Démon~
+@53   = ~DÃ©mon~
 @54   = ~Jeune mage~
 @55   = ~Deva Astral~
-@56   = ~Alu-démon~
+@56   = ~Alu-dÃ©mon~
 @57   = ~Chien lunaire~
-@58   = ~Homme poussiéreux~
+@58   = ~Homme poussiÃ©reux~
 @59   = ~Serviteur zombie ~
 @60   = ~Zombie~
 @61   = ~Courtisane~
 @62   = ~Tiefling~
-@63   = ~Planétaire~
+@63   = ~PlanÃ©taire~
 @64   = ~Marchande~
 @65   = ~Cambion~
 @66   = ~Barman~
@@ -75,43 +75,43 @@
 @74   = ~Abishai~
 @75   = ~Cornugon~
 @76   = ~Partisan de Gunshain~
-@77   = ~Proxénète~
+@77   = ~ProxÃ©nÃ¨te~
 @78   = ~Sir Reginald~
 @79   = ~Kenny~
 @80   = ~Dick~
 @81   = ~Delilah~
 @82   = ~Succube~
-@83   = ~Symbole sacré de Saerileth~
-@84   = ~C'est le symbole sacré de Tyr. Elle le porte comme une couronne parmi ses cheveux noirs, et ne l'enlève jamais.~
-@85   = ~C'est le symbole sacré de Tyr appartenant à Saerileth. Elle le porte comme une couronne parmi ses cheveux noirs, et ne l'enlève jamais. Il est imprégné du pouvoir de Tyr et protège la vie de Saerileth.
+@83   = ~Symbole sacrÃ© de Saerileth~
+@84   = ~C'est le symbole sacrÃ© de Tyr. Elle le porte comme une couronne parmi ses cheveux noirs, et ne l'enlÃ¨ve jamais.~
+@85   = ~C'est le symbole sacrÃ© de Tyr appartenant Ã  Saerileth. Elle le porte comme une couronne parmi ses cheveux noirs, et ne l'enlÃ¨ve jamais. Il est imprÃ©gnÃ© du pouvoir de Tyr et protÃ¨ge la vie de Saerileth.
 
 STATISTIQUES
-Capacité Spéciale:
+CapacitÃ© SpÃ©ciale:
 Protection permanente contre le mal
 
 Utilisable par:
 Saerileth~
 @86   = ~Le Jugement de Tyr~
-@87   = ~Sur ce parchemin, est écrit la condamnation de Kesevar.~
+@87   = ~Sur ce parchemin, est Ã©crit la condamnation de Kesevar.~
 @88   = ~Sceptre de Tyr~
-@89   = ~Ce sceptre brille avec la radiance de Tyr. Edorem prétend que son pouvoir nous aidera à vaincre Glourkist.~
+@89   = ~Ce sceptre brille avec la radiance de Tyr. Edorem prÃ©tend que son pouvoir nous aidera Ã  vaincre Glourkist.~
 @90   = ~Marteau de Tyr~
-@91   = ~Cette relique de l'Ordre de Tyr a été donné par Sir Edorem, en gratitude de votre participation au secours de Saerileth.
+@91   = ~Cette relique de l'Ordre de Tyr a Ã©tÃ© donnÃ© par Sir Edorem, en gratitude de votre participation au secours de Saerileth.
 
 STATISTIQUES
-Capacités Spéciales:
+CapacitÃ©s SpÃ©ciales:
 Bonus CA +2 
-10% de résistance aux dégâts écrasants
-Ajoute 1 point de dégât électrique
+10% de rÃ©sistance aux dÃ©gÃ¢ts Ã©crasants
+Ajoute 1 point de dÃ©gÃ¢t Ã©lectrique
 
 TACO: +2 de bonus
-Dégâts: 1d4+3 (+1 électrique)
-Type de dégâts : contondant
+DÃ©gÃ¢ts: 1d4+3 (+1 Ã©lectrique)
+Type de dÃ©gÃ¢ts : contondant
 Poids: 5
 Facteur de vitesse: 2
-Type de compétence: Marteau de guerre
-Type: Arme à une main
-Nécessite: 9 de Force
+Type de compÃ©tence: Marteau de guerre
+Type: Arme Ã  une main
+NÃ©cessite: 9 de Force
 Non Utilisable par:
 Alignement mauvais
 Barde
@@ -119,29 +119,29 @@ Mage
 Moine
 Voleur~
 @92   = ~L'anneau de mariage de Saerileth~
-@93   = ~C'est l'anneau avec lequel <CHARNAME> s'est marié avec Saerileth. Il a été enchanté par les elfes de Suldanessellar pour remercier <CHARNAME> et Saerileth pour leur agissement sur l'arbre de vie.
+@93   = ~C'est l'anneau avec lequel <CHARNAME> s'est mariÃ© avec Saerileth. Il a Ã©tÃ© enchantÃ© par les elfes de Suldanessellar pour remercier <CHARNAME> et Saerileth pour leur agissement sur l'arbre de vie.
 
 STATISTIQUES
-Capacités Spéciales:
+CapacitÃ©s SpÃ©ciales:
 Bonus de CA +3
-+3 à tous les jets de sauvegarde~
-@94   = ~Mèche de cheveux~
-@95   = ~Cette mèche de cheveux est apparemment une clé pour ouvrir un portail à Ysgard.~
-@96   = ~Corps de Saerileth. Elle gît inconsciente, peut être mourante.~
++3 Ã  tous les jets de sauvegarde~
+@94   = ~MÃ¨che de cheveux~
+@95   = ~Cette mÃ¨che de cheveux est apparemment une clÃ© pour ouvrir un portail Ã  Ysgard.~
+@96   = ~Corps de Saerileth. Elle gÃ®t inconsciente, peut Ãªtre mourante.~
 @97   = ~Vin de Saerileth~
-@98   = ~C'est un présent de Saerileth pour vous, une bouteille de vin fabriqué avec des grappes d'un Plan extérieur.~
+@98   = ~C'est un prÃ©sent de Saerileth pour vous, une bouteille de vin fabriquÃ© avec des grappes d'un Plan extÃ©rieur.~
 @99   = ~Collier d'amour~
-@100  = ~Cet éclatant collier d'or a été fabriqué en chêne pour commémorer l'union de Bria et Darian. Qui sont ils est inconnu, mais une magie indiscernable est sur le médaillon. Lorsque vous l'ouvrez, il s'illumine d'une douce lumière rouge. La légende dit que la lumière brûle comme représentation de leur amour parfait.~
+@100  = ~Cet Ã©clatant collier d'or a Ã©tÃ© fabriquÃ© en chÃªne pour commÃ©morer l'union de Bria et Darian. Qui sont ils est inconnu, mais une magie indiscernable est sur le mÃ©daillon. Lorsque vous l'ouvrez, il s'illumine d'une douce lumiÃ¨re rouge. La lÃ©gende dit que la lumiÃ¨re brÃ»le comme reprÃ©sentation de leur amour parfait.~
 @101  = ~Bouclier d'Hermes +1~
-@102  = ~Ce bouclier fut forgé en l'honneur d'Arborea du nom d'Hermes. C'était apparemment un dieu aux pieds ailés, car ce bouclier accroît la vitesse de son porteur..
+@102  = ~Ce bouclier fut forgÃ© en l'honneur d'Arborea du nom d'Hermes. C'Ã©tait apparemment un dieu aux pieds ailÃ©s, car ce bouclier accroÃ®t la vitesse de son porteur..
 
 STATISTIQUES
-Capacités spéciales:
+CapacitÃ©s spÃ©ciales:
 Augmente la vitesse
 
 Bonus de la Classe d'Armure: 2
 Poids: 3
-Nécessite: 4 de Force
+NÃ©cessite: 4 de Force
 Non Utilisable par:
 Barde
 Mage
@@ -149,90 +149,90 @@ Voleur
 Moine
 Druide~
 @103  = ~Bouclier Elementaire +4~
-@104  = ~Ce grand bouclier magique a été forgé dans le chaos tourbillonnant des limbes, où sont de nombreux éléments. Il fournit une certaine protection d'éléments due à leur nature partagée.
+@104  = ~Ce grand bouclier magique a Ã©tÃ© forgÃ© dans le chaos tourbillonnant des limbes, oÃ¹ sont de nombreux Ã©lÃ©ments. Il fournit une certaine protection d'Ã©lÃ©ments due Ã  leur nature partagÃ©e.
 
 STATISTIQUES:
-Capacités spéciales:
-+10% de résistance au feu, eu froid, à l'acide et à l'électricité
+CapacitÃ©s spÃ©ciales:
++10% de rÃ©sistance au feu, eu froid, Ã  l'acide et Ã  l'Ã©lectricitÃ©
 
 Bonus de la Classe d'Armure: 5
 Poids: 5
-Nécessite: 12 de Force
+NÃ©cessite: 12 de Force
 Non Utilisable par:
 Barde
 Druide
 Mage
 Voleur~
-@105  = ~Ce grand bouclier magique a été forgé dans le chaos tourbillonnant des limbes, où se trouvent de nombreux éléments. Il fournit une certaine protection d'élements due à leur nature partagée.
+@105  = ~Ce grand bouclier magique a Ã©tÃ© forgÃ© dans le chaos tourbillonnant des limbes, oÃ¹ se trouvent de nombreux Ã©lÃ©ments. Il fournit une certaine protection d'Ã©lements due Ã  leur nature partagÃ©e.
 
 STATISTIQUES:
 
-Capacités: +10% de résistance au feu, au froid, à l'acide et au poison
+CapacitÃ©s: +10% de rÃ©sistance au feu, au froid, Ã  l'acide et au poison
 
 Bonus de la Classe d'Armure: 5
 poids: 5
-Nécessite: 12 de Force
+NÃ©cessite: 12 de Force
 Non Utilisable par:
 Barde
 Druide
 Mage
 Voleur~
-@106  = ~Parchemin de dévoilement~
-@107  = ~Ce parchemin a été conservé dans le temple de Waukyne pendant quelques années. Vendu au temple par un voyageur inconnu, cet objet contient un grand pouvoir dont les prêtres de Waukyne ont été incapable d'exploiter.~
+@106  = ~Parchemin de dÃ©voilement~
+@107  = ~Ce parchemin a Ã©tÃ© conservÃ© dans le temple de Waukyne pendant quelques annÃ©es. Vendu au temple par un voyageur inconnu, cet objet contient un grand pouvoir dont les prÃªtres de Waukyne ont Ã©tÃ© incapable d'exploiter.~
 @108  = ~Bar~
-@109  = ~Saerileth a résisté à toute tentative par <CHARNAME> ou quelqu'un d'autre pour la ramener à la vie. Elle a été enterré à l'extérieur du temple de Tyr dans le Tethyr, et les prêtre se sont occupés de sa tombe. Finalement Tyr a rappelé à la vie Saerileth, et elle est devenue sa proxie des Plans, une puissante guerrière, mais aveugle comme le Dieu Mutilé lui-même. <CHARNAME> n'a plus jamais revu sa femme.~
-@110  = ~Saerileth et <CHARNAME> vécurent longtemps heureux dans Férune, et Saerileth donna naissance grâce à lui à sept garçons, tous aussi beaux de visage que leur mère, et aussi fort de volonté que leur père. De ces enfants, le troisième, un garçon nommé Kesevar, devint un Elu de Tyr. Pendant longtemps, le couple parcourut Férune, combattant le mal où qu'il puisse se trouver. A deux reprises, <CHARNAME> et Dame Saerileth furent appelés pour défendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses années au service du bien, celui étant presque achevé, Saerileth et <CHARNAME> partirent de Férune pour le Mont Céleste, où ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais revu Toril à nouveau.~
-@111  = ~Saerileth ne resta pas longtemps dans Toril après l'épreuve du trône de Bhaal de <CHARNAME>. Elle retourna à Sigil, et s'y maria avec Sir Edorem. Leur nonces furent somptueuses, et <CHARNAME> de Chateau-suif fût là pour leur souhaiter le bonheur. Des deux paladins <CHARNAME> y trouva des amis loyaux et de véritables alliés, et ils furent toujours prêt pour aider <PRO_HIMHER>. En effet, leur deuxième enfant porta le nom de <CHARNAME> en son honneur. Il vint un jour, cependant, où l'appel de <CHARNAME> fût sans réponse. Il comprit que Saerileth et son amour Edorem furent morts au service de Tyr.~
-@112  = ~Saerileth, l’Elue de Tyr, aida <CHARNAME> dans l’ascension de <PRO_HISHER> à la divinité, mais n’abandonna jamais sa foi en Tyr. Après que l’Enfant de Bhaal assuma la place de <PRO_HISHER> parmi les dieux, Saerileth retourna à Sigil, et s’y maria avec Sir Edorem. De lui, elle donna naissance à sept garçons, et Tyr leur accorda l’honneur de devenir ses Proxies. Ils devirent immortels, changeant en deva. Même ensemble, Saerileth et Edorem terrassèrent l’injustice où qu’elle puisse se trouver, mais ils revinrent voir plus souvent Toril que les autres mondes, pour le bien de <CHARNAME>, qui a honoré les deux Elus.~
-@113  = ~Saerileth et <CHARNAME> vécurent longtemps heureux dans Férune, et Saerileth donna naissance grâce à lui de quatre fils et trois filles, tous aussi beaux que leur mère, et aussi fort de volonté que leur père. Le premier de leurs enfants, une fille nommée Saerileth, devint une des Elus de Tyr. Pendant longtemps, le couple parcourut Férune, combattant le mal où qu’il se puisse être trouvé. A deux reprises, <CHARNAME> et Dame Saerileth furent appelés pour défendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses années au service du bien, celui étant presque achevé, Saerileth et <CHARNAME> partirent de Férune pour le Mont Céleste, où ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril à nouveau.~
-@114  = ~Saerileth et <CHARNAME> vécurent longtemps heureux dans Férune, et Saerileth donna naissance grâce à lui de quatre fils et trois filles, tous aussi beaux que leur mère, et aussi fort de volonté que leur père. Le premier de leurs enfants, une fille nommée Alaren, devint une des Elus de Tyr. Pendant longtemps, le couple parcourut Férune, combattant le mal où qu’il se puisse être trouvé. A deux reprises, <CHARNAME> et Dame Saerileth furent appelés pour défendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses années au service du bien, celui étant presque achevé, Saerileth et <CHARNAME> partirent de Férune pour le Mont Céleste, où ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril à nouveau. ~
-@115  = ~Saerileth et <CHARNAME> vécurent longtemps heureux dans Férune, et Saerileth donna naissance grâce à lui de quatre fils et trois filles, tous aussi beaux que leur mère, et aussi fort de volonté que leur père. Le premier de leurs enfants, une fille nommée Arlluvia, devint une des Elus de Tyr. Pendant longtemps, le couple parcourut Férune, combattant le mal où qu’il se puisse être trouvé. A deux reprises, <CHARNAME> et Dame Saerileth furent appelés pour défendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses années au service du bien, celui étant presque achevé, Saerileth et <CHARNAME> partirent de Férune pour le Mont Céleste, où ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril à nouveau.~
-@116  = ~Saerileth et <CHARNAME> vécurent longtemps heureux dans Férune, et Saerileth donna naissance grâce à lui à sept garçons, tous aussi beaux de visage que leur mère, et aussi fort de volonté que leur père. De ces enfants, le premier, un garçon nommé Gorion, devint un Elu de Tyr. Pendant longtemps, le couple parcourut Férune, combattant le mal où qu'il puisse se trouver. A deux reprises, <CHARNAME> et Dame Saerileth furent appelés pour défendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses années au service du bien, celui étant presque achevé, Saerileth et <CHARNAME> partirent de Férune pour le Mont Céleste, où ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril à nouveau.~
-@117  = ~Saerileth et <CHARNAME> vécurent longtemps heureux dans Férune, et Saerileth donna naissance grâce à lui à sept garçons, tous aussi beaux de visage que leur mère, et aussi fort de volonté que leur père. De ces enfants, le premier, un garçon nommé Caladus, devint un Elu de Tyr. Pendant longtemps, le couple parcourut Férune, combattant le mal où qu'il puisse se trouver. A deux reprises, <CHARNAME> et Dame Saerileth furent appelés pour défendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses années au service du bien, celui étant presque achevé, Saerileth et <CHARNAME> partirent de Férune pour le Mont Céleste, où ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril à nouveau.~
+@109  = ~Saerileth a rÃ©sistÃ© Ã  toute tentative par <CHARNAME> ou quelqu'un d'autre pour la ramener Ã  la vie. Elle a Ã©tÃ© enterrÃ© Ã  l'extÃ©rieur du temple de Tyr dans le Tethyr, et les prÃªtre se sont occupÃ©s de sa tombe. Finalement Tyr a rappelÃ© Ã  la vie Saerileth, et elle est devenue sa proxie des Plans, une puissante guerriÃ¨re, mais aveugle comme le Dieu MutilÃ© lui-mÃªme. <CHARNAME> n'a plus jamais revu sa femme.~
+@110  = ~Saerileth et <CHARNAME> vÃ©curent longtemps heureux dans FÃ©rune, et Saerileth donna naissance grÃ¢ce Ã  lui Ã  sept garÃ§ons, tous aussi beaux de visage que leur mÃ¨re, et aussi fort de volontÃ© que leur pÃ¨re. De ces enfants, le troisiÃ¨me, un garÃ§on nommÃ© Kesevar, devint un Elu de Tyr. Pendant longtemps, le couple parcourut FÃ©rune, combattant le mal oÃ¹ qu'il puisse se trouver. A deux reprises, <CHARNAME> et Dame Saerileth furent appelÃ©s pour dÃ©fendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses annÃ©es au service du bien, celui Ã©tant presque achevÃ©, Saerileth et <CHARNAME> partirent de FÃ©rune pour le Mont CÃ©leste, oÃ¹ ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais revu Toril Ã  nouveau.~
+@111  = ~Saerileth ne resta pas longtemps dans Toril aprÃ¨s l'Ã©preuve du trÃ´ne de Bhaal de <CHARNAME>. Elle retourna Ã  Sigil, et s'y maria avec Sir Edorem. Leur nonces furent somptueuses, et <CHARNAME> de Chateau-suif fÃ»t lÃ  pour leur souhaiter le bonheur. Des deux paladins <CHARNAME> y trouva des amis loyaux et de vÃ©ritables alliÃ©s, et ils furent toujours prÃªt pour aider <PRO_HIMHER>. En effet, leur deuxiÃ¨me enfant porta le nom de <CHARNAME> en son honneur. Il vint un jour, cependant, oÃ¹ l'appel de <CHARNAME> fÃ»t sans rÃ©ponse. Il comprit que Saerileth et son amour Edorem furent morts au service de Tyr.~
+@112  = ~Saerileth, lâ€™Elue de Tyr, aida <CHARNAME> dans lâ€™ascension de <PRO_HISHER> Ã  la divinitÃ©, mais nâ€™abandonna jamais sa foi en Tyr. AprÃ¨s que lâ€™Enfant de Bhaal assuma la place de <PRO_HISHER> parmi les dieux, Saerileth retourna Ã  Sigil, et sâ€™y maria avec Sir Edorem. De lui, elle donna naissance Ã  sept garÃ§ons, et Tyr leur accorda lâ€™honneur de devenir ses Proxies. Ils devirent immortels, changeant en deva. MÃªme ensemble, Saerileth et Edorem terrassÃ¨rent lâ€™injustice oÃ¹ quâ€™elle puisse se trouver, mais ils revinrent voir plus souvent Toril que les autres mondes, pour le bien de <CHARNAME>, qui a honorÃ© les deux Elus.~
+@113  = ~Saerileth et <CHARNAME> vÃ©curent longtemps heureux dans FÃ©rune, et Saerileth donna naissance grÃ¢ce Ã  lui de quatre fils et trois filles, tous aussi beaux que leur mÃ¨re, et aussi fort de volontÃ© que leur pÃ¨re. Le premier de leurs enfants, une fille nommÃ©e Saerileth, devint une des Elus de Tyr. Pendant longtemps, le couple parcourut FÃ©rune, combattant le mal oÃ¹ quâ€™il se puisse Ãªtre trouvÃ©. A deux reprises, <CHARNAME> et Dame Saerileth furent appelÃ©s pour dÃ©fendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses annÃ©es au service du bien, celui Ã©tant presque achevÃ©, Saerileth et <CHARNAME> partirent de FÃ©rune pour le Mont CÃ©leste, oÃ¹ ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril Ã  nouveau.~
+@114  = ~Saerileth et <CHARNAME> vÃ©curent longtemps heureux dans FÃ©rune, et Saerileth donna naissance grÃ¢ce Ã  lui de quatre fils et trois filles, tous aussi beaux que leur mÃ¨re, et aussi fort de volontÃ© que leur pÃ¨re. Le premier de leurs enfants, une fille nommÃ©e Alaren, devint une des Elus de Tyr. Pendant longtemps, le couple parcourut FÃ©rune, combattant le mal oÃ¹ quâ€™il se puisse Ãªtre trouvÃ©. A deux reprises, <CHARNAME> et Dame Saerileth furent appelÃ©s pour dÃ©fendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses annÃ©es au service du bien, celui Ã©tant presque achevÃ©, Saerileth et <CHARNAME> partirent de FÃ©rune pour le Mont CÃ©leste, oÃ¹ ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril Ã  nouveau. ~
+@115  = ~Saerileth et <CHARNAME> vÃ©curent longtemps heureux dans FÃ©rune, et Saerileth donna naissance grÃ¢ce Ã  lui de quatre fils et trois filles, tous aussi beaux que leur mÃ¨re, et aussi fort de volontÃ© que leur pÃ¨re. Le premier de leurs enfants, une fille nommÃ©e Arlluvia, devint une des Elus de Tyr. Pendant longtemps, le couple parcourut FÃ©rune, combattant le mal oÃ¹ quâ€™il se puisse Ãªtre trouvÃ©. A deux reprises, <CHARNAME> et Dame Saerileth furent appelÃ©s pour dÃ©fendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses annÃ©es au service du bien, celui Ã©tant presque achevÃ©, Saerileth et <CHARNAME> partirent de FÃ©rune pour le Mont CÃ©leste, oÃ¹ ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril Ã  nouveau.~
+@116  = ~Saerileth et <CHARNAME> vÃ©curent longtemps heureux dans FÃ©rune, et Saerileth donna naissance grÃ¢ce Ã  lui Ã  sept garÃ§ons, tous aussi beaux de visage que leur mÃ¨re, et aussi fort de volontÃ© que leur pÃ¨re. De ces enfants, le premier, un garÃ§on nommÃ© Gorion, devint un Elu de Tyr. Pendant longtemps, le couple parcourut FÃ©rune, combattant le mal oÃ¹ qu'il puisse se trouver. A deux reprises, <CHARNAME> et Dame Saerileth furent appelÃ©s pour dÃ©fendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses annÃ©es au service du bien, celui Ã©tant presque achevÃ©, Saerileth et <CHARNAME> partirent de FÃ©rune pour le Mont CÃ©leste, oÃ¹ ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril Ã  nouveau.~
+@117  = ~Saerileth et <CHARNAME> vÃ©curent longtemps heureux dans FÃ©rune, et Saerileth donna naissance grÃ¢ce Ã  lui Ã  sept garÃ§ons, tous aussi beaux de visage que leur mÃ¨re, et aussi fort de volontÃ© que leur pÃ¨re. De ces enfants, le premier, un garÃ§on nommÃ© Caladus, devint un Elu de Tyr. Pendant longtemps, le couple parcourut FÃ©rune, combattant le mal oÃ¹ qu'il puisse se trouver. A deux reprises, <CHARNAME> et Dame Saerileth furent appelÃ©s pour dÃ©fendre Suldanesselar des drows. Depuis, <CHARNAME> et Saerileth ne parcourent jamais les, et jamais <CHARNAME> ne vit le foyer de Saerileth. Finalement, lorsque leur nombreuses annÃ©es au service du bien, celui Ã©tant presque achevÃ©, Saerileth et <CHARNAME> partirent de FÃ©rune pour le Mont CÃ©leste, oÃ¹ ils purent  voir ensemble le lieu de naissance de Saerileth. Ils ne virent plus jamais Toril Ã  nouveau.~
 @118  = ~~
-@119  = ~Faucheuse d'âme brisée ~
-@120  = ~<CHARNAME> a imprudemment donné cette épée impie à Saerileth pour l'utiliser. C'est alors que la jeune paladin a invoqué la force de Tyr pour l'aider à la détruire. Tout ce qu'il en reste est maintenant un tas de débris sans valeur.~
+@119  = ~Faucheuse d'Ã¢me brisÃ©e ~
+@120  = ~<CHARNAME> a imprudemment donnÃ© cette Ã©pÃ©e impie Ã  Saerileth pour l'utiliser. C'est alors que la jeune paladin a invoquÃ© la force de Tyr pour l'aider Ã  la dÃ©truire. Tout ce qu'il en reste est maintenant un tas de dÃ©bris sans valeur.~
 @121  = ~Hana~
-@122  = ~Orchidée noire~
-@123  = ~Vous avez acheté cette fleur pour Saerileth. En achetant l'orchidée noire, vous avez souhaité la flatter, ainsi qu'exposer quelque chose de votre appréciation de sa beauté inhabituelle.~
+@122  = ~OrchidÃ©e noire~
+@123  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant l'orchidÃ©e noire, vous avez souhaitÃ© la flatter, ainsi qu'exposer quelque chose de votre apprÃ©ciation de sa beautÃ© inhabituelle.~
 @124  = ~Langue de serpent~
-@125  = ~Vous avez acheté cette fleur pour Saerileth. En achetant la langue de serpent, vous avez souhaité confesser la jalousie de ses affections. Peut être que sous êtes simplement jaloux de ses attentions en général, la voulant totalement pour vous. Ou peut être que vous êtes jaloux d'un certain individu qui fait une apparition de temps à autre.~
+@125  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant la langue de serpent, vous avez souhaitÃ© confesser la jalousie de ses affections. Peut Ãªtre que sous Ãªtes simplement jaloux de ses attentions en gÃ©nÃ©ral, la voulant totalement pour vous. Ou peut Ãªtre que vous Ãªtes jaloux d'un certain individu qui fait une apparition de temps Ã  autre.~
 @126  = ~Lys calla~
-@127  = ~Vous avez acheté cette fleur pour Saerileth. En achetant le lys calla, vous avez souhaité honorer sa modestie, ainsi que louer sa beauté.~
+@127  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant le lys calla, vous avez souhaitÃ© honorer sa modestie, ainsi que louer sa beautÃ©.~
 @128  = ~Oeillet~
-@129  = ~Vous avez acheté cette fleur pour Saerileth. En achetant l'oeillet, vous avez souhaité proclamé votre amour, ainsi que votre fidélité envers elle.~
+@129  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant l'oeillet, vous avez souhaitÃ© proclamÃ© votre amour, ainsi que votre fidÃ©litÃ© envers elle.~
 @130  = ~Marguerite~
-@131  = ~Vous avez acheté cette fleur pour Saerileth. En achetant la marguerite, vous avez souhaité honorer son innocence, ainsi que déclarer votre désir de le préserver.~
+@131  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant la marguerite, vous avez souhaitÃ© honorer son innocence, ainsi que dÃ©clarer votre dÃ©sir de le prÃ©server.~
 @132  = ~Myosotis~
-@133  = ~Vous avez acheté cette fleur pour Saerileth. En achetant le myosotis, vous avez souhaité déclarer la constance de votre amour véritable.~
-@134  = ~Orchidée~
-@135  = ~Vous avez acheté cette fleur pour Saerileth. En achetant l'orchidée, vous avez souhaité être badin, ainsi que la flatter avec une belle fleur.~
+@133  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant le myosotis, vous avez souhaitÃ© dÃ©clarer la constance de votre amour vÃ©ritable.~
+@134  = ~OrchidÃ©e~
+@135  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant l'orchidÃ©e, vous avez souhaitÃ© Ãªtre badin, ainsi que la flatter avec une belle fleur.~
 @136  = ~Rose~
-@137  = ~Vous avez acheté cette fleur pour Saerileth. En achetant la rose, vous avez souhaité lui communiquer la nécessité que votre amour doit rester secret. Vous êtes un enfant de Bhaal et vous possédez beaucoup d'ennemis cachés. Cette fleur symbolise votre désir de protéger Saerileth du mal.~
+@137  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant la rose, vous avez souhaitÃ© lui communiquer la nÃ©cessitÃ© que votre amour doit rester secret. Vous Ãªtes un enfant de Bhaal et vous possÃ©dez beaucoup d'ennemis cachÃ©s. Cette fleur symbolise votre dÃ©sir de protÃ©ger Saerileth du mal.~
 @138  = ~Rose rouge~
-@139  = ~Vous avez acheté cette fleur pour Saerileth. En achetant la rose rouge, vous avez souhaité votre désir de posséder son corps et de ne faire qu'un avec elle.~
+@139  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant la rose rouge, vous avez souhaitÃ© votre dÃ©sir de possÃ©der son corps et de ne faire qu'un avec elle.~
 @140  = ~Violette~
-@141  = ~Vous avez acheté cette fleur pour Saerileth. En achetant la violette, vous avez souhaité lui assurer que vous serez toujours là pour elle, et que votre amour n'aura jamais de fin.~
-@142  = ~Nymphéa~
-@143  = ~Vous avez acheté cette fleur pour Saerileth. En achetant le nymphéa, vous avez souhaité lui dire que votre amour n'est pas seulement que pour sa beauté, mais aussi ses vertus intérieures, spécialement sa pureté de coeur.~
+@141  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant la violette, vous avez souhaitÃ© lui assurer que vous serez toujours lÃ  pour elle, et que votre amour n'aura jamais de fin.~
+@142  = ~NymphÃ©a~
+@143  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant le nymphÃ©a, vous avez souhaitÃ© lui dire que votre amour n'est pas seulement que pour sa beautÃ©, mais aussi ses vertus intÃ©rieures, spÃ©cialement sa puretÃ© de coeur.~
 @144  = ~Rose blanche~
-@145  = ~Vous avez acheté cette fleur pour Saerileth. En achetant la rose blanche, vous avez souhaité lui rappeler que vous êtes digne de son amour. Vous avez aussi voulu exprimer l'innocence de votre amour.~
+@145  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant la rose blanche, vous avez souhaitÃ© lui rappeler que vous Ãªtes digne de son amour. Vous avez aussi voulu exprimer l'innocence de votre amour.~
 @146  = ~Lys blanc~
-@147  = ~Vous avez acheté cette fleur pour Saerileth. En achetant le lys blanc, vous avez souhaité louer l'innocence de sa jeunesse.~
-@148  = ~Saerileth ne resta pas longtemps dans Toril, après l'épreuve du trône de Bhaal de <CHARNAME>. Elle partit bientôt pour le Mont Céleste et y assuma le rôle d’une Fille de la Justice. Saerileth devint proxie ainsi qu’immortel en changeant en deva. Elle fût toujours une alliée de <CHARNAME>, et ses appels pour l’aider ne furent jamais sans réponse. Après la mort de <CHARNAME>, elle ne retourna plus jamais à Toril, car la mémoire de son amour infortuné pour <CHARNAME> de Château Suif était trop forte pour elle. Elle vécut seule jusqu’à la fin de ses jours, en faisant son deuil.~
-@149  = ~Saerileth, l’Elue de Tyr, aida <CHARNAME> dans l’ascension de <PRO_HISHER> à la divinité, mais n’abandonna jamais sa foi en Tyr. Après que l’Enfant de Bhaal assuma la place de <PRO_HISHER> parmi les dieux, Saerileth retourna au Mont Céleste et y assuma le rôle d’une Fille de la Justice. Saerileth devint proxie ainsi qu’immortel en changeant en deva,. Même seule, Saerileth terrassa l’injustice où qu’elle puisse se trouver, mais elle revint voir plus souvent Toril que les autres mondes, pour le bien de <CHARNAME>, que Saerileth l’Elue de Tyr a si chèrement aimée.~
+@147  = ~Vous avez achetÃ© cette fleur pour Saerileth. En achetant le lys blanc, vous avez souhaitÃ© louer l'innocence de sa jeunesse.~
+@148  = ~Saerileth ne resta pas longtemps dans Toril, aprÃ¨s l'Ã©preuve du trÃ´ne de Bhaal de <CHARNAME>. Elle partit bientÃ´t pour le Mont CÃ©leste et y assuma le rÃ´le dâ€™une Fille de la Justice. Saerileth devint proxie ainsi quâ€™immortel en changeant en deva. Elle fÃ»t toujours une alliÃ©e de <CHARNAME>, et ses appels pour lâ€™aider ne furent jamais sans rÃ©ponse. AprÃ¨s la mort de <CHARNAME>, elle ne retourna plus jamais Ã  Toril, car la mÃ©moire de son amour infortunÃ© pour <CHARNAME> de ChÃ¢teau Suif Ã©tait trop forte pour elle. Elle vÃ©cut seule jusquâ€™Ã  la fin de ses jours, en faisant son deuil.~
+@149  = ~Saerileth, lâ€™Elue de Tyr, aida <CHARNAME> dans lâ€™ascension de <PRO_HISHER> Ã  la divinitÃ©, mais nâ€™abandonna jamais sa foi en Tyr. AprÃ¨s que lâ€™Enfant de Bhaal assuma la place de <PRO_HISHER> parmi les dieux, Saerileth retourna au Mont CÃ©leste et y assuma le rÃ´le dâ€™une Fille de la Justice. Saerileth devint proxie ainsi quâ€™immortel en changeant en deva,. MÃªme seule, Saerileth terrassa lâ€™injustice oÃ¹ quâ€™elle puisse se trouver, mais elle revint voir plus souvent Toril que les autres mondes, pour le bien de <CHARNAME>, que Saerileth lâ€™Elue de Tyr a si chÃ¨rement aimÃ©e.~
 @150  = ~Sir Havun Clarenshide~
 @151  = ~Khalabaxin~
 @152  = ~Bodhi~
 @153  = ~Lim Lim~
-@154  = ~Une créature curieuse.~
-@155  = ~Saerileth et <CHARNAME> vécurent longtemps heureux dans Férune, et Saerileth donna naissance grâce à lui à trois garçons, tous aussi beaux de visage que leur mère, et aussi fort de volonté que leur père. De ces enfants, le premier, un garçon nommé Gwalchavad, devint un Elu de Tyr. Pendant longtemps, le couple parcourut Férune, combattant le mal où qu'il puisse se trouver. Finalement ils s’installèrent dans Suldanesselar, alors que Saerileth était humaine. Les puissantes actions de <CHARNAME> ont acheté sa grâce pour elle. A deux reprises, <CHARNAME> et Dame Saerileth furent appelés pour défendre Suldanesselar des drows . Ici, ils se quittèrent avec honneur. Ce fût après la seconde bataille que ceux qui ont vu le couple commencèrent à se demander comment la beauté de Dame Saerileth ne flétrît pas alors qu’elle grandit normalement pour une humaine. En effet, lorsque finalement <CHARNAME> fût pris dans Arvanaith, Saerileth fût à ses cotés pour sa fin. Après la mort de son amour, Dame Saerileth reçut la forme d’une deva, et vint à Arvanaith. Elle y retrouva son amour, et leur amour fut tel qu’ils ne se séparèrent plus.~
+@154  = ~Une crÃ©ature curieuse.~
+@155  = ~Saerileth et <CHARNAME> vÃ©curent longtemps heureux dans FÃ©rune, et Saerileth donna naissance grÃ¢ce Ã  lui Ã  trois garÃ§ons, tous aussi beaux de visage que leur mÃ¨re, et aussi fort de volontÃ© que leur pÃ¨re. De ces enfants, le premier, un garÃ§on nommÃ© Gwalchavad, devint un Elu de Tyr. Pendant longtemps, le couple parcourut FÃ©rune, combattant le mal oÃ¹ qu'il puisse se trouver. Finalement ils sâ€™installÃ¨rent dans Suldanesselar, alors que Saerileth Ã©tait humaine. Les puissantes actions de <CHARNAME> ont achetÃ© sa grÃ¢ce pour elle. A deux reprises, <CHARNAME> et Dame Saerileth furent appelÃ©s pour dÃ©fendre Suldanesselar des drows . Ici, ils se quittÃ¨rent avec honneur. Ce fÃ»t aprÃ¨s la seconde bataille que ceux qui ont vu le couple commencÃ¨rent Ã  se demander comment la beautÃ© de Dame Saerileth ne flÃ©trÃ®t pas alors quâ€™elle grandit normalement pour une humaine. En effet, lorsque finalement <CHARNAME> fÃ»t pris dans Arvanaith, Saerileth fÃ»t Ã  ses cotÃ©s pour sa fin. AprÃ¨s la mort de son amour, Dame Saerileth reÃ§ut la forme dâ€™une deva, et vint Ã  Arvanaith. Elle y retrouva son amour, et leur amour fut tel quâ€™ils ne se sÃ©parÃ¨rent plus.~
 @156  = ~D'aqilar~
-@157  = ~Tome mystérieux~
-@158  = ~Livre sacré de l'influence de Tyr~
-@159  = ~Livre sacré de sa sagesse de Tyr~
-@160  = ~Saerileth a reçu ce volume de Tyr Lui-même, comme récompense pour avoir vaincu l'avatar de Demogorgon.~
-@161  = ~Ce tome confèrera à son lecteur une petite portion d'influence divine de Tyr.
+@157  = ~Tome mystÃ©rieux~
+@158  = ~Livre sacrÃ© de l'influence de Tyr~
+@159  = ~Livre sacrÃ© de sa sagesse de Tyr~
+@160  = ~Saerileth a reÃ§u ce volume de Tyr Lui-mÃªme, comme rÃ©compense pour avoir vaincu l'avatar de Demogorgon.~
+@161  = ~Ce tome confÃ¨rera Ã  son lecteur une petite portion d'influence divine de Tyr.
 
 STATISTIQUES:
 
@@ -240,7 +240,7 @@ Augmente le charisme de 1 point permanant.
 
 Non utilisable par:
 non-bons~
-@162  = ~Ce tome conferera à son lecteur une petite portion de sagesse divine de Tyr.
+@162  = ~Ce tome conferera Ã  son lecteur une petite portion de sagesse divine de Tyr.
 
 STATISTIQUES:
 
@@ -248,8 +248,8 @@ Augmente la sagesse de 1 point permanant.
 
 Non utilisable par:
 non-bons~
-@163  = ~Immédiatement après l’épreuve du trône de Bhaal de <CHARNAME>, Saerileth partit de Toril pour parler à Sir Edorem. Elle devint alors son épouse, comme <CHARNAME> le lui a ordonné. Pendant trois ans, les deux Elus de Tyr combattirent  pour Tyr, et sont donc devinrent immortels et Proxies. Saerileth, en deva remplie de pouvoir et de beauté, suivit Tyr jusqu’à la fin de ses jours, dévouée à Sir Edorem, mais toujours le cœur brisé. Sa passion pour <CHARNAME> de Chateau Suif était aussi imperturbable que toujours, mais ne l’aimera pas, par obéissance à sa volonté.~
-@164  = ~Immédiatement après l’ascension de <CHARNAME> à la divinité, Saerileth partit de Toril pour parler à Sir Edorem. Elle se maria avec l’Elue de Tyr à Sigil, comme <CHARNAME> le lui a demandé Durant ses jours de mortel. Les deux Elus de Tyr devirent mortels et Proxies ensemble. Le lien de Saerileth et de Sir Edorem fut éternel. Quand après d’innombrables années, Tyr dut transmettre un message au dieu <CHARNAME>, ce fut Saerileth que le Dieu Aveugle lui envoya . Saerileth apparut en deva, pleine de pouvoir et de beauté, devant le trône de son amour antérieur. <CHARNAME>  remarqua de suite avec ses yeux divins, que sa passion pour elle n’a jamais cessé. Cependant elle nia qu’elle l’aimait quand il lui dit. "Comment pourrais je t’aimer? Tu as résigné ma main et donc mon Coeur est donc en la possession de Sir Edorem. Par conséquent je ne t’aimerai plus. Ni maintenant. C’était mon message et sur l'heure, je pars."~
+@163  = ~ImmÃ©diatement aprÃ¨s lâ€™Ã©preuve du trÃ´ne de Bhaal de <CHARNAME>, Saerileth partit de Toril pour parler Ã  Sir Edorem. Elle devint alors son Ã©pouse, comme <CHARNAME> le lui a ordonnÃ©. Pendant trois ans, les deux Elus de Tyr combattirent  pour Tyr, et sont donc devinrent immortels et Proxies. Saerileth, en deva remplie de pouvoir et de beautÃ©, suivit Tyr jusquâ€™Ã  la fin de ses jours, dÃ©vouÃ©e Ã  Sir Edorem, mais toujours le cÅ“ur brisÃ©. Sa passion pour <CHARNAME> de Chateau Suif Ã©tait aussi imperturbable que toujours, mais ne lâ€™aimera pas, par obÃ©issance Ã  sa volontÃ©.~
+@164  = ~ImmÃ©diatement aprÃ¨s lâ€™ascension de <CHARNAME> Ã  la divinitÃ©, Saerileth partit de Toril pour parler Ã  Sir Edorem. Elle se maria avec lâ€™Elue de Tyr Ã  Sigil, comme <CHARNAME> le lui a demandÃ© Durant ses jours de mortel. Les deux Elus de Tyr devirent mortels et Proxies ensemble. Le lien de Saerileth et de Sir Edorem fut Ã©ternel. Quand aprÃ¨s dâ€™innombrables annÃ©es, Tyr dut transmettre un message au dieu <CHARNAME>, ce fut Saerileth que le Dieu Aveugle lui envoya . Saerileth apparut en deva, pleine de pouvoir et de beautÃ©, devant le trÃ´ne de son amour antÃ©rieur. <CHARNAME>  remarqua de suite avec ses yeux divins, que sa passion pour elle nâ€™a jamais cessÃ©. Cependant elle nia quâ€™elle lâ€™aimait quand il lui dit. "Comment pourrais je tâ€™aimer? Tu as rÃ©signÃ© ma main et donc mon Coeur est donc en la possession de Sir Edorem. Par consÃ©quent je ne tâ€™aimerai plus. Ni maintenant. Câ€™Ã©tait mon message et sur l'heure, je pars."~
 
 
 // WeiDU prompts

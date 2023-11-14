@@ -9,15 +9,15 @@
 @8    = ~Cože? Po tom všem mne odvrhneš?~
 @9    = ~Mùžeš pøece jít za Edoremem.~
 @10   = ~Když nad tím tak uvažuju, vlastnì tì nepotøebuju.~
-@11   = ~A jest tedy po tvém, má lásko. Budu tì navždy chovat hluboko ve svém srdci.~
+@11   = ~A jest tedy po tvém, má lásko. Budu tì navždy chovat hluboko ve svém srdci.~
 @12   = ~Tolik jsi mne vylekal, <CHARNAME>.~
 @13   = ~Ani já bez tebe. (Saerileth tì políbí na tváø.) Dìkuji ti, milovaný.~
-@14   = ~A nyní se navrame domù.~
+@14   = ~A nyní se navrame domù.~
 @15   = ~Mé srdce jest naplnìno radostí! Dal jsi mi zpìt život a s ním i svou lásku!~
-@16   = ~(Saerileth ti políbí ruku.) Pøedrahý <CHARNAME>. Radovat se však budeme pozdìji. Jest toho mnoho, co má být øeèeno, nyní se však navrame domù.~
+@16   = ~(Saerileth ti políbí ruku.) Pøedrahý <CHARNAME>. Radovat se však budeme pozdìji. Jest toho mnoho, co má být øeèeno, nyní se však navrame domù.~
 @17   = ~Jako vždy, i nyní hovoøíš správnì. Nemeškejme tu déle.~
 @18   = ~<CHARNAME>! Lord Edorem! (Saerilethin oblièej se rozzáøí radostí a její oèi se na dlouhou chvíli zahledí na rytíøe, než se znovu obrátí k tobì.)~
-@19   = ~Máš mou nehynoucí vdìènost, <CHARNAME>. Nemeškejme tu však déle a opusme toto místo.~ [SAERI164]
+@19   = ~Máš mou nehynoucí vdìènost, <CHARNAME>. Nemeškejme tu však déle a opusme toto místo.~ [SAERI164]
 @20   = ~Správnì. Pojïme odsud!~
 @21   = ~Byls ke mnì milý, <CHARNAME>, a jestli mi odmítneš svou pøítomnost, Tyr mi ukáže jinou stezku, po níž mám kráèet.~
 @22   = ~Jsem ti nesmírnì vdìèná, <CHARNAME>. A jest i Tyrovou vùlí, abych dále cestovala ve tvé spoleènosti.~
@@ -25,7 +25,7 @@
 @24   = ~Dobøes promluvil. Pojïme tedy. (Když mluví, její oèi stále sledují Edorema.)~
 @25   = ~Korganovi se dostalo spravedlivé odplaty. Budeš mne ještì chtít po svém boku?~
 @26   = ~Jistì, Saerileth. Jsem rád, že jsi mohla odplatit za své pøíkoøí.~
-@27   = ~Tys stejnì krvežíznivý jako on. Ztra se mi z oèí!~
+@27   = ~Tys stejnì krvežíznivý jako on. Ztra se mi z oèí!~
 @28   = ~Jsem zarmoucena, že o mì smýšlíš tak zle. Buï sbohem, <CHARNAME>.~
 @29   = ~Odvrhneš mne, aè mùj úkol stále není dokonán?~ [SAERI165]
 @30   = ~Správnì. Tak to na výletech chodí.~
@@ -49,7 +49,7 @@
 @48   = ~Modlím se, aby jeho duše nakonec nalezla pokoj.~
 @49   = ~Jasnì, byla to nehoda, ale už se tím nesmíme dál trápit. Pojïme.~
 @50   = ~Nevìøím, že jsi zabila Anomena! Jdi pryè. Radìji bych mìl jeho živého a tebe v tratolišti krve.~
-@51   = ~Má lásko! Jsi v poøádku? A je Anomen zatracený, že proti tobì pozvedl ruku! Pojï, musíme jít.~
+@51   = ~Má lásko! Jsi v poøádku? A je Anomen zatracený, že proti tobì pozvedl ruku! Pojï, musíme jít.~
 @52   = ~Saerileth, jsem rád, že se ti nic nestalo. Pojï, musíme jít.~
 @53   = ~Trápím se, že již netoužíš po mé spoleènosti. Tys--nespravedlivý, že mne chceš odvrhnout jen proto, že jsem bránila svùj život.~
 @54   = ~(Saerilethin oblièej zbledne.) Tys--nespravedlivý, že mne chceš odvrhnout jen proto, že jsem bránila svùj život.~
@@ -87,7 +87,7 @@ Našli jsme klíè k portálu, pramínek vlasù, a teï se s ním musíme vráti
 
 @5007 = ~Saerileth unesena
 
-Jharak nám øekl, a si promluvíme s barmanem, který prý má onu hùl.~
+Jharak nám øekl, a si promluvíme s barmanem, který prý má onu hùl.~
 
 @5008 = ~Saerileth unesena
 

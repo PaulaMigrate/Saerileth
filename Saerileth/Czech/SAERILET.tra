@@ -9,9 +9,9 @@
 @8    = ~Vítej a buï pozdraven. Mé jméno jest Saerileth a hledala jsem tì v poslušnosti Tyrovi.~
 @9    = ~Dobrá, když jsi mì tedy našla, co po mnì chceš?~
 @10   = ~Tyr? Co se mnou má co do èinìní?~
-@11   = ~Nechci mít nic spoleèného s Tyrovým poskokem! Ztra se!~
+@11   = ~Nechci mít nic spoleèného s Tyrovým poskokem! Ztra se!~
 @12   = ~Svatí otcové z chrámu, v nìmž jsem vyrostla, mne poslali, abych nalezla a zahubila Kesevara, padlého ochránce Tyrova chrámu.~
-@13   = ~Otcové mi pravili: 'Vyhledej jedno z Bhaalových dìtí, nebo oni jsou silou na zemi, u níž nalezneš pomoc. Najdi božské dítì a <PRO_HISHER> spoleènost tì zavede až ke Kesevarovi.'~
+@13   = ~Otcové mi pravili: 'Vyhledej jedno z Bhaalových dìtí, nebo oni jsou silou na zemi, u níž nalezneš pomoc. Najdi božské dítì a <PRO_HISHER> spoleènost tì zavede až ke Kesevarovi.'~
 @14   = ~'Božské dítì jest nástrojem osudu a záhuba <PRO_HISHER> vìku spoèívá na <PRO_HIMHER> ramenou.'~
 @15   = ~Zešílelas? Nemám vùbec tušení, o èem to blábolíš!~
 @16   = ~Dooobrá. Asi bych tì teda mìl radši pøibrat.~
@@ -22,7 +22,7 @@
 @21   = ~Slyšela jsem, že se øíká: ani ti nejvìtší neznají vlastní konec, však pøec tys ten, jehož hledám.~
 @22   = ~Božská moc tvého otce zpívá ve tvém nitru a mé uši slyší její píseò.~
 @23   = ~Dovolíš mi postavit se po tvém boku, nebo ne?~
-@24   = ~Ani omylem. Ztra se, lásko!~
+@24   = ~Ani omylem. Ztra se, lásko!~
 @25   = ~Možná, ale mám nìjaké otázky.~
 @26   = ~Ne, ale pøeju ti, aby se ti podaøilo to, o co se snažíš.~
 @27   = ~Tys spokojen? Svou dùvìru dals mi bez výèitek a za to ti patøí mùj dík. Dokud tedy tvá noha neopustí stezky dobra, budu ráda tvou spoleènicí na cestách.~
@@ -36,12 +36,12 @@
 @35   = ~Vlastnì už nemám další otázky. Rád tì pøiberu.~
 @36   = ~Kéž tì provází Tyrovo požehnání. Snad naleznu jiné božské dítì, jež mi podá pomocnou ruku.~
 @37   = ~Mùj domov leží na úboèí Celestie, v øíši Tyrovì. Jeho sláva jest svìtlem i teplem oné zemì.~
-@38   = ~Ztra se, lásko!~
+@38   = ~Ztra se, lásko!~
 @39   = ~Ty jsi pøišla z domova bohù?!~
 @40   = ~Pak tedy budu rád, když se pøipojíš.~
 @41   = ~Tyr mne odìl svou mocí a já bojuji pro jeho slávu, s jeho jménem na rtech.~
 @42   = ~Nepotøebuju takové fanatiky jako ty.~
-@43   = ~Tvùj jazyk jest mi cizí, nebo jsem vyrostla na úboèích Celestie v øíši Tyrovì. Tvou øeè jsem se nauèila od svatých otcù. Snad jest možné, že mne nìco nauèili špatnì.~
+@43   = ~Tvùj jazyk jest mi cizí, nebo jsem vyrostla na úboèích Celestie v øíši Tyrovì. Tvou øeè jsem se nauèila od svatých otcù. Snad jest možné, že mne nìco nauèili špatnì.~
 @44   = ~Kesevarùv úkol byl bránit chrám pøes silami temnoty, jež se ho snažily znièit. Avšak ukázal se nevìrným a prolil krev na svatém místì.~
 @45   = ~Prchl jako muž obtížen vinou. Hledám ho, aby ho dostihla Tyrova spravedlnost.~
 @46   = ~Tak jest. Pøijmeš mne tedy?~
@@ -51,8 +51,8 @@
 @50   = ~Ty 'cítíš'?~
 @51   = ~Kdo *jsi*?~
 @52   = ~Tak jest. Mé jméno jest Saerileth a hledám tì v poslušnosti Tyrovi.~
-@53   = ~Odpus mi. Má horlivost pøedešla mùj úsudek. V této vìci se skláním pøed tvým rozhodnutím.~
-@54   = ~Pro tvou krásu, mùj pane. Mé oèi dnes poprvé prohlédly, nebo mùj svìt se naplnil novým svìtlem.~
+@53   = ~Odpus mi. Má horlivost pøedešla mùj úsudek. V této vìci se skláním pøed tvým rozhodnutím.~
+@54   = ~Pro tvou krásu, mùj pane. Mé oèi dnes poprvé prohlédly, nebo mùj svìt se naplnil novým svìtlem.~
 @55   = ~Takhle mluvíš s každým cizincem?~
 @56   = ~I mùj svìt se naplnil svìtlem z tváøe neznámé cizinky. Jak se jmenuješ, má paní?~
 @57   = ~Ehmmm--kdo *jsi*?~
@@ -102,7 +102,7 @@ Našli jsme klíè k portálu, pramínek vlasù, a teï se s ním musíme vráti
 
 @5007 = ~Saerileth unesena
 
-Jharak nám øekl, a si promluvíme s barmanem, který prý má onu hùl.~
+Jharak nám øekl, a si promluvíme s barmanem, který prý má onu hùl.~
 
 @5008 = ~Saerileth unesena
 

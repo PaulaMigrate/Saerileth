@@ -1,158 +1,158 @@
-@0    = ~Co? Ty ses vrátil? To nemáš nic lepšího na práci?~
-@1    = ~Jistìe mám lepší vìci na práci, napøíklad ukázat všem, co jsi skuteènì zaè! (Pøeèíst svitek.)~
-@2    = ~Tvùj èas tady je u konce, pekelnı zplozenèe! (Pøeèíst svitek.)~
-@3    = ~Pøišla na mne záhuba!~
-@4    = ~Proè se ptáš mì? Jestli chceš vyuít Dalilinıch slueb, a u ty sám, nebo kdokoli z tvıch pøátel, pak si musíš mluvit s ní.~
-@5    = ~Mùj pane, mohu tì pozvat na noc nevıslovné rozkoše? Dalila nemá v kráse sobì rovnou pod celièkımi nebesy!~
-@6    = ~Ztichni, bídnı obchodníku s lidmi! Nejsi hoden hovoøit s lordem <CHARNAME>.~
-@7    = ~Mùj pane, snanì tì prosím: nemluv s tím démonem!~
-@8    = ~Neboj se, Saerileth. Nìco tu není v poøádku a já jen chci zjistit, co se tu dìje.~
-@9    = ~Dobrá, Saerileth. Pojïme pryè.~
-@10   = ~Máš té ducha schopného rozlišit dobré a zlé. I já tu cítím veliké zlo. Buï ale opatrnı, má lásko.~
-@11   = ~Mùj pane, nechtìla jsem bıt neuctivá. Hovoøila jsem ve spìchu. Necítíš tu však té veliké zlo?~
-@12   = ~Ne, ve skuteènosti ne. Ty ano?~
-@13   = ~Teï kdy jsi to zmínila, si ho taky zaèínám uvìdomovat.~
-@14   = ~Z nìjakého dùvodu se obávám o osud onìch muù.~
-@15   = ~Vskutku, a to veliké zlo. Tøesu se o duše onìch muù, by jsou otroky svıch vášní.~
-@16   = ~Jest tu pøi díle veliké zlo, <CHARNAME>. Nic takového jsem necítila od doby, kdy jsem prodlévala v Baatoru.~
-@17   = ~Nevím, o èem to mluvíte! Jen vám nabízím tu nejvybranìjší krásku ve zdejších konèinách. Urèitì se na ni musíte aspoò zajít podívat.~
-@18   = ~Její krása nemá sobì rovnou, jistì vás nezklame. Zajdìte do hospody tady ve mìstì a pøesvìdète se sami.~
-@19   = ~Máš skuteènì ducha schopného rozlišit dobré a zlé. Té tu cítím veliké zlo. Buï ale opatrnı, nebo zlo nás mùe snadno omámit.~
-@20   = ~<CHARNAME>, copak tu necítíš veliké zlo? ~
-@21   = ~Na co èumíš, ty trubko?~
-@22   = ~Paní <CHARNAME>, copak nechápeš, e tito mui, aè jsou otroky vlastních ádostí, se nachází ve smrtelném nebezpeèí?~
-@23   = ~Jest tu pøi díle veliké zlo, <CHARNAME>. Nic takového jsem necítila od doby, kdy jsem prodlévala v Baatoru.~
-@24   = ~Máš také ducha schopného rozlišit dobré a zlé. Té tu cítím veliké zlo, <CHARNAME>. Nic takového jsem necítila od doby, kdy jsem prodlévala v Baatoru.~
-@25   = ~Pohnìte se, dìvky! Nemám èas s váma vanit!~
-@26   = ~Nue, pánové, chcete dobøe strávit nìco ze svého èasu? Snad kousek nevinného potìšení bez vaší panièky? ~
+@0    = ~Co? Ty ses vrÃ¡til? To nemÃ¡Å¡ nic lepÅ¡Ã­ho na prÃ¡ci?~
+@1    = ~JistÃ¬Å¾e mÃ¡m lepÅ¡Ã­ vÃ¬ci na prÃ¡ci, napÃ¸Ã­klad ukÃ¡zat vÅ¡em, co jsi skuteÃ¨nÃ¬ zaÃ¨! (PÃ¸eÃ¨Ã­st svitek.)~
+@2    = ~TvÃ¹j Ã¨as tady je u konce, pekelnÃ½ zplozenÃ¨e! (PÃ¸eÃ¨Ã­st svitek.)~
+@3    = ~PÃ¸iÅ¡la na mne zÃ¡huba!~
+@4    = ~ProÃ¨ se ptÃ¡Å¡ mÃ¬? Jestli chceÅ¡ vyuÅ¾Ã­t DalilinÃ½ch sluÅ¾eb, a uÅ¾ ty sÃ¡m, nebo kdokoli z tvÃ½ch pÃ¸Ã¡tel, pak si musÃ­Å¡ mluvit s nÃ­.~
+@5    = ~MÃ¹j pane, mohu tÃ¬ pozvat na noc nevÃ½slovnÃ© rozkoÅ¡e? Dalila nemÃ¡ v krÃ¡se sobÃ¬ rovnou pod celiÃ¨kÃ½mi nebesy!~
+@6    = ~Ztichni, bÃ­dnÃ½ obchodnÃ­ku s lidmi! Nejsi hoden hovoÃ¸it s lordem <CHARNAME>.~
+@7    = ~MÃ¹j pane, snaÅ¾nÃ¬ tÃ¬ prosÃ­m: nemluv s tÃ­m dÃ©monem!~
+@8    = ~Neboj se, Saerileth. NÃ¬co tu nenÃ­ v poÃ¸Ã¡dku a jÃ¡ jen chci zjistit, co se tu dÃ¬je.~
+@9    = ~DobrÃ¡, Saerileth. PojÃ¯me pryÃ¨.~
+@10   = ~MÃ¡Å¡ tÃ©Å¾ ducha schopnÃ©ho rozliÅ¡it dobrÃ© a zlÃ©. I jÃ¡ tu cÃ­tÃ­m velikÃ© zlo. BuÃ¯ ale opatrnÃ½, mÃ¡ lÃ¡sko.~
+@11   = ~MÃ¹j pane, nechtÃ¬la jsem bÃ½t neuctivÃ¡. HovoÃ¸ila jsem ve spÃ¬chu. NecÃ­tÃ­Å¡ tu vÅ¡ak tÃ©Å¾ velikÃ© zlo?~
+@12   = ~Ne, ve skuteÃ¨nosti ne. Ty ano?~
+@13   = ~TeÃ¯ kdyÅ¾ jsi to zmÃ­nila, si ho taky zaÃ¨Ã­nÃ¡m uvÃ¬domovat.~
+@14   = ~Z nÃ¬jakÃ©ho dÃ¹vodu se obÃ¡vÃ¡m o osud onÃ¬ch muÅ¾Ã¹.~
+@15   = ~Vskutku, a to velikÃ© zlo. TÃ¸esu se o duÅ¡e onÃ¬ch muÅ¾Ã¹, by jsou otroky svÃ½ch vÃ¡Å¡nÃ­.~
+@16   = ~Jest tu pÃ¸i dÃ­le velikÃ© zlo, <CHARNAME>. Nic takovÃ©ho jsem necÃ­tila od doby, kdy jsem prodlÃ©vala v Baatoru.~
+@17   = ~NevÃ­m, o Ã¨em to mluvÃ­te! Jen vÃ¡m nabÃ­zÃ­m tu nejvybranÃ¬jÅ¡Ã­ krÃ¡sku ve zdejÅ¡Ã­ch konÃ¨inÃ¡ch. UrÃ¨itÃ¬ se na ni musÃ­te aspoÃ² zajÃ­t podÃ­vat.~
+@18   = ~JejÃ­ krÃ¡sa nemÃ¡ sobÃ¬ rovnou, jistÃ¬ vÃ¡s nezklame. ZajdÃ¬te do hospody tady ve mÃ¬stÃ¬ a pÃ¸esvÃ¬dÃ¨te se sami.~
+@19   = ~MÃ¡Å¡ skuteÃ¨nÃ¬ ducha schopnÃ©ho rozliÅ¡it dobrÃ© a zlÃ©. TÃ©Å¾ tu cÃ­tÃ­m velikÃ© zlo. BuÃ¯ ale opatrnÃ½, nebo zlo nÃ¡s mÃ¹Å¾e snadno omÃ¡mit.~
+@20   = ~<CHARNAME>, copak tu necÃ­tÃ­Å¡ velikÃ© zlo? ~
+@21   = ~Na co Ã¨umÃ­Å¡, ty trubko?~
+@22   = ~PanÃ­ <CHARNAME>, coÅ¾pak nechÃ¡peÅ¡, Å¾e tito muÅ¾i, aÃ¨ jsou otroky vlastnÃ­ch Å¾Ã¡dostÃ­, se nachÃ¡zÃ­ ve smrtelnÃ©m nebezpeÃ¨Ã­?~
+@23   = ~Jest tu pÃ¸i dÃ­le velikÃ© zlo, <CHARNAME>. Nic takovÃ©ho jsem necÃ­tila od doby, kdy jsem prodlÃ©vala v Baatoru.~
+@24   = ~MÃ¡Å¡ takÃ© ducha schopnÃ©ho rozliÅ¡it dobrÃ© a zlÃ©. TÃ©Å¾ tu cÃ­tÃ­m velikÃ© zlo, <CHARNAME>. Nic takovÃ©ho jsem necÃ­tila od doby, kdy jsem prodlÃ©vala v Baatoru.~
+@25   = ~PohnÃ¬te se, dÃ¬vky! NemÃ¡m Ã¨as s vÃ¡ma Å¾vanit!~
+@26   = ~NuÅ¾e, pÃ¡novÃ©, chcete dobÃ¸e strÃ¡vit nÃ¬co ze svÃ©ho Ã¨asu? Snad kousek nevinnÃ©ho potÃ¬Å¡enÃ­ bez vaÅ¡Ã­ paniÃ¨ky? ~
 @27   = ~Nemluv tak nahlas!~
-@28   = ~Je tak krásná, jak všichni tvrdí?~
-@29   = ~Krásnìjší. Slova nemohou dostateènì popsat její nádheru. Ostatnì nespoléhej se jen na øeèi: pojï a pøesvìdè se sám. Podìl se s ní o potìšení, která nabízí její lùko.~
-@30   = ~Kdy já nevím...~
-@31   = ~Podívejte, pøátelé, nikoho nebudeme do nièeho nutit, ale malé pokoukáníèko pøece nièemu neublíí, nebo ne?~
-@32   = ~Myslím, e trochu se podívat, není koneckoncù nic špatného...~
-@33   = ~Tfuj, rolníci! Jestli se mi bude líbit, co uvidím, pak chci mít pøednost! Hodlám zaplatit poøádnou sumu a nebudu se o ni dìlit s takovımi nemytımi burany!~
-@34   = ~Proè ty--~
-@35   = ~--Pánové! Nehádejme se na ulici. Øekl jsem vám, kde ji najít. Pojïte a já vás budu následovat. A budeme z dosahu všeteènıch uší, jistì pøijdeme na nìjaké rozumné øešení.~
+@28   = ~Je tak krÃ¡snÃ¡, jak vÅ¡ichni tvrdÃ­?~
+@29   = ~KrÃ¡snÃ¬jÅ¡Ã­. Slova nemohou dostateÃ¨nÃ¬ popsat jejÃ­ nÃ¡dheru. OstatnÃ¬ nespolÃ©hej se jen na Ã¸eÃ¨i: pojÃ¯ a pÃ¸esvÃ¬dÃ¨ se sÃ¡m. PodÃ¬l se s nÃ­ o potÃ¬Å¡enÃ­, kterÃ¡ nabÃ­zÃ­ jejÃ­ lÃ¹Å¾ko.~
+@30   = ~KdyÅ¾ jÃ¡ nevÃ­m...~
+@31   = ~PodÃ­vejte, pÃ¸Ã¡telÃ©, nikoho nebudeme do niÃ¨eho nutit, ale malÃ© pokoukÃ¡nÃ­Ã¨ko pÃ¸ece niÃ¨emu neublÃ­Å¾Ã­, nebo ne?~
+@32   = ~MyslÃ­m, Å¾e trochu se podÃ­vat, nenÃ­ koneckoncÃ¹ nic Å¡patnÃ©ho...~
+@33   = ~Tfuj, rolnÃ­ci! Jestli se mi bude lÃ­bit, co uvidÃ­m, pak chci mÃ­t pÃ¸ednost! HodlÃ¡m zaplatit poÃ¸Ã¡dnou sumu a nebudu se o ni dÃ¬lit s takovÃ½mi nemytÃ½mi burany!~
+@34   = ~ProÃ¨ ty--~
+@35   = ~--PÃ¡novÃ©! NehÃ¡dejme se na ulici. Ã˜ekl jsem vÃ¡m, kde ji najÃ­t. PojÃ¯te a jÃ¡ vÃ¡s budu nÃ¡sledovat. AÅ¾ budeme z dosahu vÅ¡eteÃ¨nÃ½ch uÅ¡Ã­, jistÃ¬ pÃ¸ijdeme na nÃ¬jakÃ© rozumnÃ© Ã¸eÅ¡enÃ­.~
 
 
 
-@5000 = ~Padlı Deva
+@5000 = ~PadlÃ½ Deva
 
-Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Hledá padlého devu a bylo jí øeèeno, e ho jistì najde, pokud bude cestovat s Bhaalovım dítìtem. Další podrobnosti mi nejsou známy.~
+PÃ¸ibral jsem do naÅ¡Ã­ spoleÃ¨nosti mladou Tyrovu paladinku jmÃ©nem Saerileth. HledÃ¡ padlÃ©ho devu a bylo jÃ­ Ã¸eÃ¨eno, Å¾e ho jistÃ¬ najde, pokud bude cestovat s BhaalovÃ½m dÃ­tÃ¬tem. DalÅ¡Ã­ podrobnosti mi nejsou znÃ¡my.~
 
-@5001 = ~Padlı Deva
+@5001 = ~PadlÃ½ Deva
 
-Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Zdá se, e se jí docela líbím. Hledá padlého devu a bylo jí øeèeno, e ho jistì najde, pokud bude cestovat s Bhaalovım dítìtem. Další podrobnosti mi nejsou známy.~
+PÃ¸ibral jsem do naÅ¡Ã­ spoleÃ¨nosti mladou Tyrovu paladinku jmÃ©nem Saerileth. ZdÃ¡ se, Å¾e se jÃ­ docela lÃ­bÃ­m. HledÃ¡ padlÃ©ho devu a bylo jÃ­ Ã¸eÃ¨eno, Å¾e ho jistÃ¬ najde, pokud bude cestovat s BhaalovÃ½m dÃ­tÃ¬tem. DalÅ¡Ã­ podrobnosti mi nejsou znÃ¡my.~
 
 @5002 = ~Saerileth unesena
 
-Saerileth unesl mocnı pán démonù. Spojili jsme své síly s mocnım Tyrovım rytíøem, kterı ji hodlá osvobodit. Nejdøíve musíme do Sigilu, kde musíme vyhledat Jharaka a získat od nìho Tyrovu hùl.~
+Saerileth unesl mocnÃ½ pÃ¡n dÃ©monÃ¹. Spojili jsme svÃ© sÃ­ly s mocnÃ½m TyrovÃ½m rytÃ­Ã¸em, kterÃ½ ji hodlÃ¡ osvobodit. NejdÃ¸Ã­ve musÃ­me do Sigilu, kde musÃ­me vyhledat Jharaka a zÃ­skat od nÃ¬ho Tyrovu hÃ¹l.~
 
 @5003 = ~Saerileth unesena
 
-Saerileth unesl mocnı pán démonù. Spojili jsme své síly s mocnım Tyrovım rytíøem, kterı ji hodlá osvobodit. Právì se chystáme vyrazit do Baatoru.~
+Saerileth unesl mocnÃ½ pÃ¡n dÃ©monÃ¹. Spojili jsme svÃ© sÃ­ly s mocnÃ½m TyrovÃ½m rytÃ­Ã¸em, kterÃ½ ji hodlÃ¡ osvobodit. PrÃ¡vÃ¬ se chystÃ¡me vyrazit do Baatoru.~
 
 @5004 = ~Saerileth unesena
 
-Saerileth unesl mocnı pán démonù. Je pøíliš nebezpeèné pokoušet se ji zachránit. Ponechali jsme ji tedy jejímu osudu.~
+Saerileth unesl mocnÃ½ pÃ¡n dÃ©monÃ¹. Je pÃ¸Ã­liÅ¡ nebezpeÃ¨nÃ© pokouÅ¡et se ji zachrÃ¡nit. Ponechali jsme ji tedy jejÃ­mu osudu.~
 
 @5005 = ~Saerileth unesena
 
-Nalezli jsme Jharaka, ale ten nás poslal otevøít nìjakı portál, potom e nám øekne, kde najdeme Tyrovu hùl.~
+Nalezli jsme Jharaka, ale ten nÃ¡s poslal otevÃ¸Ã­t nÃ¬jakÃ½ portÃ¡l, potom Å¾e nÃ¡m Ã¸ekne, kde najdeme Tyrovu hÃ¹l.~
 
 @5006 = ~Saerileth unesena
 
-Našli jsme klíè k portálu, pramínek vlasù, a teï se s ním musíme vrátit k Jharakovi. ~
+NaÅ¡li jsme klÃ­Ã¨ k portÃ¡lu, pramÃ­nek vlasÃ¹, a teÃ¯ se s nÃ­m musÃ­me vrÃ¡tit k Jharakovi. ~
 
 @5007 = ~Saerileth unesena
 
-Jharak nám øekl, a si promluvíme s barmanem, kterı prı má onu hùl.~
+Jharak nÃ¡m Ã¸ekl, a si promluvÃ­me s barmanem, kterÃ½ prÃ½ mÃ¡ onu hÃ¹l.~
 
 @5008 = ~Saerileth unesena
 
-Získali jsme Tyrovu hùl. Saerilethina duše je v nebezpeèí, musíme si tedy co nejrychleji pospíšit za Edoremem.~
+ZÃ­skali jsme Tyrovu hÃ¹l. Saerilethina duÅ¡e je v nebezpeÃ¨Ã­, musÃ­me si tedy co nejrychleji pospÃ­Å¡it za Edoremem.~
 
-@5009 = ~Saerileth zachránìna
+@5009 = ~Saerileth zachrÃ¡nÃ¬na
 
-Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+ZachrÃ¡nili jsme Saerileth ze spÃ¡rÃ¹ pÃ¡na dÃ©monÃ¹ Glourkista a jsme opÃ¬t v bezpeÃ¨Ã­ na Torilu. Lord Edorem, TyrÃ¹v paladin, nÃ¡m z vdÃ¬Ã¨nosti za jejÃ­ zÃ¡chranu vÃ¬noval mocnÃ© kladivo.~
 
-@5010 = ~Saerileth zachránìna
+@5010 = ~Saerileth zachrÃ¡nÃ¬na
 
-Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Propustil jsem Saerileth ze svıch slueb a ona zùstala ve sférách. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+ZachrÃ¡nili jsme Saerileth ze spÃ¡rÃ¹ pÃ¡na dÃ©monÃ¹ Glourkista a jsme opÃ¬t v bezpeÃ¨Ã­ na Torilu. Propustil jsem Saerileth ze svÃ½ch sluÅ¾eb a ona zÃ¹stala ve sfÃ©rÃ¡ch. Lord Edorem, TyrÃ¹v paladin, nÃ¡m z vdÃ¬Ã¨nosti za jejÃ­ zÃ¡chranu vÃ¬noval mocnÃ© kladivo.~
 
-@5011 = ~Padlı Deva
+@5011 = ~PadlÃ½ Deva
 
-Nalezli jsme Kesevara Padlého, ale tvrdí, e si trest nezaslouí. Poslal nás hledat jediného svìdka, kterı mùe dosvìdèit jeho nevinu: Bhaalova zplozence jménem Gunshain.~
+Nalezli jsme Kesevara PadlÃ©ho, ale tvrdÃ­, Å¾e si trest nezaslouÅ¾Ã­. Poslal nÃ¡s hledat jedinÃ©ho svÃ¬dka, kterÃ½ mÃ¹Å¾e dosvÃ¬dÃ¨it jeho nevinu: Bhaalova zplozence jmÃ©nem Gunshain.~
 
-@5012 = ~Padlı Deva
+@5012 = ~PadlÃ½ Deva
 
-Jak se ukázalo, Gunshain skuteènì oèistil Kesevarovo jméno, ale taky se nás pokusil zabít! Postarali jsme se o nìj a teï se musíme rychle vrátit ke Kesevarovi.~
+Jak se ukÃ¡zalo, Gunshain skuteÃ¨nÃ¬ oÃ¨istil Kesevarovo jmÃ©no, ale taky se nÃ¡s pokusil zabÃ­t! Postarali jsme se o nÃ¬j a teÃ¯ se musÃ­me rychle vrÃ¡tit ke Kesevarovi.~
 
-@5013 = ~Padlı Deva
+@5013 = ~PadlÃ½ Deva
 
-Saerileth prohlásila Kesevara za nevinného a její rozsudek mìl okamitı efekt. Deva se navrátil zpìt do své døívìjší slávy a Saerileth zùstala po mém boku.~
+Saerileth prohlÃ¡sila Kesevara za nevinnÃ©ho a jejÃ­ rozsudek mÃ¬l okamÅ¾itÃ½ efekt. Deva se navrÃ¡til zpÃ¬t do svÃ© dÃ¸Ã­vÃ¬jÅ¡Ã­ slÃ¡vy a Saerileth zÃ¹stala po mÃ©m boku.~
 
-@5014 = ~Padlı Deva
+@5014 = ~PadlÃ½ Deva
 
-Ukázalo se, e Kesevar nakonec nebyl vinen. Protoe ho znièila, Saerileth ztratila Tyrovu pøízeò. Má milovaná odešla zpìt do sfér, aby se pokusila odèinit své selhání. U ji nikdy nespatøím.~
+UkÃ¡zalo se, Å¾e Kesevar nakonec nebyl vinen. ProtoÅ¾e ho zniÃ¨ila, Saerileth ztratila Tyrovu pÃ¸Ã­zeÃ². MÃ¡ milovanÃ¡ odeÅ¡la zpÃ¬t do sfÃ©r, aby se pokusila odÃ¨init svÃ© selhÃ¡nÃ­. UÅ¾ ji nikdy nespatÃ¸Ã­m.~
 
-@5015 = ~Padlı Deva
+@5015 = ~PadlÃ½ Deva
 
-Ukázalo se, e Kesevar nakonec nebyl vinen. Protoe ho znièila, Saerileth ztratila Tyrovu pøízeò. Mladá paladinka odešla zpìt do sfér, aby se pokusila odèinit své selhání. U ji nikdy nespatøím.~
+UkÃ¡zalo se, Å¾e Kesevar nakonec nebyl vinen. ProtoÅ¾e ho zniÃ¨ila, Saerileth ztratila Tyrovu pÃ¸Ã­zeÃ². MladÃ¡ paladinka odeÅ¡la zpÃ¬t do sfÃ©r, aby se pokusila odÃ¨init svÃ© selhÃ¡nÃ­. UÅ¾ ji nikdy nespatÃ¸Ã­m.~
 
-@5016 = ~Nevìstka Dalila
+@5016 = ~NevÃ¬stka Dalila
 
-Nìjakı èlovìk v Amkethranu prohlašuje, e Dalila, o které tvrdí, e je nejkrásnìjší enou v celém kraji, prodává potìšení svého lùka ve zdejší hospodì. Má ena, Saerileth, i já sám si dìláme starosti o osud muù, kteøí k ní vešli.~
+NÃ¬jakÃ½ Ã¨lovÃ¬k v Amkethranu prohlaÅ¡uje, Å¾e Dalila, o kterÃ© tvrdÃ­, Å¾e je nejkrÃ¡snÃ¬jÅ¡Ã­ Å¾enou v celÃ©m kraji, prodÃ¡vÃ¡ potÃ¬Å¡enÃ­ svÃ©ho lÃ¹Å¾ka ve zdejÅ¡Ã­ hospodÃ¬. MÃ¡ Å¾ena, Saerileth, i jÃ¡ sÃ¡m si dÃ¬lÃ¡me starosti o osud muÅ¾Ã¹, kteÃ¸Ã­ k nÃ­ veÅ¡li.~
 
-@5017 = ~Nevìstka Dalila
+@5017 = ~NevÃ¬stka Dalila
 
-Nìjakı èlovìk v Amkethranu prohlašuje, e Dalila, o které tvrdí, e je nejkrásnìjší enou v celém kraji, prodává potìšení svého lùka ve zdejší hospodì. Dìlám si starosti o osud muù, kteøí k ní vešli.~
+NÃ¬jakÃ½ Ã¨lovÃ¬k v Amkethranu prohlaÅ¡uje, Å¾e Dalila, o kterÃ© tvrdÃ­, Å¾e je nejkrÃ¡snÃ¬jÅ¡Ã­ Å¾enou v celÃ©m kraji, prodÃ¡vÃ¡ potÃ¬Å¡enÃ­ svÃ©ho lÃ¹Å¾ka ve zdejÅ¡Ã­ hospodÃ¬. DÃ¬lÃ¡m si starosti o osud muÅ¾Ã¹, kteÃ¸Ã­ k nÃ­ veÅ¡li.~
 
-@5018 = ~Nevìstka Dalila
+@5018 = ~NevÃ¬stka Dalila
 
-Podlehl jsem pùvabùm Dalily, jen abych zjistil, e je sukuba! Mé cizoloství zlomilo Saerileth srdce a v ten okamik zemøela. Sukuba se vrátila do Abyssu a já jsem menším muem, ne jsem bıval.~
+Podlehl jsem pÃ¹vabÃ¹m Dalily, jen abych zjistil, Å¾e je sukuba! MÃ© cizoloÅ¾stvÃ­ zlomilo Saerileth srdce a v ten okamÅ¾ik zemÃ¸ela. Sukuba se vrÃ¡tila do Abyssu a jÃ¡ jsem menÅ¡Ã­m muÅ¾em, neÅ¾ jsem bÃ½val.~
 
-@5019 = ~Nevìstka Dalila
+@5019 = ~NevÃ¬stka Dalila
 
-Podlehl jsem pùvabùm Dalily, jen abych zjistil, e je sukuba! Sukuba se vrátila do Abyssu a já jsem menším muem, ne jsem bıval.~
+Podlehl jsem pÃ¹vabÃ¹m Dalily, jen abych zjistil, Å¾e je sukuba! Sukuba se vrÃ¡tila do Abyssu a jÃ¡ jsem menÅ¡Ã­m muÅ¾em, neÅ¾ jsem bÃ½val.~
 
-@5020 = ~Nevìstka Dalila
+@5020 = ~NevÃ¬stka Dalila
 
-Saerileth mne ujistila, e Dalila je démon, ale e ji nemùeme zabít, ani bychom zatratili mue, kteøí jí propadli. Musíme najít nìjakı chrám, kde by nám mohli pomoct zlomit její démonickou iluzi.~
+Saerileth mne ujistila, Å¾e Dalila je dÃ©mon, ale Å¾e ji nemÃ¹Å¾eme zabÃ­t, aniÅ¾ bychom zatratili muÅ¾e, kteÃ¸Ã­ jÃ­ propadli. MusÃ­me najÃ­t nÃ¬jakÃ½ chrÃ¡m, kde by nÃ¡m mohli pomoct zlomit jejÃ­ dÃ©monickou iluzi.~
 
-@5021 = ~Nevìstka Dalila
+@5021 = ~NevÃ¬stka Dalila
 
-Odmítl jsem pomoct tìm chlípníkùm, které tak omámilo démonovo objetí. Sami jsou strùjci svého osudu. Saerileth posmutnìla, ale souhlasí, e jejich trest je spravedlivı.~
+OdmÃ­tl jsem pomoct tÃ¬m chlÃ­pnÃ­kÃ¹m, kterÃ© tak omÃ¡milo dÃ©monovo objetÃ­. Sami jsou strÃ¹jci svÃ©ho osudu. Saerileth posmutnÃ¬la, ale souhlasÃ­, Å¾e jejich trest je spravedlivÃ½.~
 
-@5022 = ~Nevìstka Dalila
+@5022 = ~NevÃ¬stka Dalila
 
-Od Waukeenina knìze jsem získal svitek, kterı by mìl mít schopnost zrušit iluzi. Ještì se ukáe, jestli bude jeho moc staèit proti pekelné magii.~
+Od Waukeenina knÃ¬ze jsem zÃ­skal svitek, kterÃ½ by mÃ¬l mÃ­t schopnost zruÅ¡it iluzi. JeÅ¡tÃ¬ se ukÃ¡Å¾e, jestli bude jeho moc staÃ¨it proti pekelnÃ© magii.~
 
-@5023 = ~Nevìstka Dalila
+@5023 = ~NevÃ¬stka Dalila
 
-Magickı svitek úèinkoval. Nevím jistì, jestli to bylo mocí samotného svitku nebo Saerilethinımi modlitbami, ale tak nebo onak, úèinkovalo to a démon byl pøinucen opustit naši sféru a navrátit se do Abyssu.~
+MagickÃ½ svitek ÃºÃ¨inkoval. NevÃ­m jistÃ¬, jestli to bylo mocÃ­ samotnÃ©ho svitku nebo SaerilethinÃ½mi modlitbami, ale tak nebo onak, ÃºÃ¨inkovalo to a dÃ©mon byl pÃ¸inucen opustit naÅ¡i sfÃ©ru a navrÃ¡tit se do Abyssu.~
 
-@5024 = ~Poraení Khabalaxina
+@5024 = ~PoraÅ¾enÃ­ Khabalaxina
 
-Pøijal jsem ádost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblí jeho nového doupìte, v jeskyni u øeky v Umaøinì vrchovinì.~
+PÃ¸ijal jsem Å¾Ã¡dost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblÃ­Å¾ jeho novÃ©ho doupÃ¬te, v jeskyni u Ã¸eky v UmaÃ¸inÃ¬ vrchovinÃ¬.~
 
-@5025 = ~Poraení Khabalaxina
+@5025 = ~PoraÅ¾enÃ­ Khabalaxina
 
-Porazil jsem draka Khalabaxina. Nyní se musím vrátit do Øádu záøícího srdce a ohlásit siru Havunu Clarenshidovi, co se stalo.~
+Porazil jsem draka Khalabaxina. NynÃ­ se musÃ­m vrÃ¡tit do Ã˜Ã¡du zÃ¡Ã¸Ã­cÃ­ho srdce a ohlÃ¡sit siru Havunu Clarenshidovi, co se stalo.~
 
-@5026 = ~Poraení Khabalaxina
+@5026 = ~PoraÅ¾enÃ­ Khabalaxina
 
-Vrátil jsem se do Øádu zaøícího srdce s novinkami o svém vítìzství nad drakem Khabalaxinem. Zdá se, e dílo Øádu není nikdy hotovo.~
+VrÃ¡til jsem se do Ã˜Ã¡du zaÃ¸Ã­cÃ­ho srdce s novinkami o svÃ©m vÃ­tÃ¬zstvÃ­ nad drakem Khabalaxinem. ZdÃ¡ se, Å¾e dÃ­lo Ã˜Ã¡du nenÃ­ nikdy hotovo.~
 
-@5027 = ~Znièení upírù
+@5027 = ~ZniÃ¨enÃ­ upÃ­rÃ¹
 
-Sir Havun mne informoval, e nìkde ve mìstì se nachází vampıøí hnízdo. Mám ho najít a znièit. Bydlí v kryptách pod høbitovem. Øád s námi pošle jednoho ze svıch najatıch èarodìjù, aby mi pomohl odstranit ochrany, které hnízdo mùe mít.~
+Sir Havun mne informoval, Å¾e nÃ¬kde ve mÃ¬stÃ¬ se nachÃ¡zÃ­ vampÃ½Ã¸Ã­ hnÃ­zdo. MÃ¡m ho najÃ­t a zniÃ¨it. BydlÃ­ v kryptÃ¡ch pod hÃ¸bitovem. Ã˜Ã¡d s nÃ¡mi poÅ¡le jednoho ze svÃ½ch najatÃ½ch Ã¨arodÃ¬jÃ¹, aby mi pomohl odstranit ochrany, kterÃ© hnÃ­zdo mÃ¹Å¾e mÃ­t.~
 
-@5028 = ~Znièení upírù
+@5028 = ~ZniÃ¨enÃ­ upÃ­rÃ¹
 
-Znièil jsem upíry, ale jejich vùdce, Bodhi, mi unikla. Øíkala o mnì nìkolik zajímavıch vìcí... mimo jiné vìdìla, e jsem Bhaalùv zplozenec! Teï musím jít ohlásit úspìšné splnìní úkolu siru Havunovi.~
+ZniÃ¨il jsem upÃ­ry, ale jejich vÃ¹dce, Bodhi, mi unikla. Ã˜Ã­kala o mnÃ¬ nÃ¬kolik zajÃ­mavÃ½ch vÃ¬cÃ­... mimo jinÃ© vÃ¬dÃ¬la, Å¾e jsem BhaalÃ¹v zplozenec! TeÃ¯ musÃ­m jÃ­t ohlÃ¡sit ÃºspÃ¬Å¡nÃ© splnÃ¬nÃ­ Ãºkolu siru Havunovi.~
 
-@5029 = ~Upíøi znièeni
+@5029 = ~UpÃ­Ã¸i zniÃ¨eni
 
-Vrátil jsem se do Záøícího srdce s novinkami o poráce upírù. Øád mi nabídl, e mne za odmìnu dopraví do Èarotvrze!~
+VrÃ¡til jsem se do ZÃ¡Ã¸Ã­cÃ­ho srdce s novinkami o porÃ¡Å¾ce upÃ­rÃ¹. Ã˜Ã¡d mi nabÃ­dl, Å¾e mne za odmÃ¬nu dopravÃ­ do Ãˆarotvrze!~

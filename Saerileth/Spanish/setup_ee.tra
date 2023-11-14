@@ -1,22 +1,22 @@
-@85  = ~Este es el SÌmbolo de Tyr perteneciente a Saerileth. Lo usa en forma de corona y nunca se lo quita. Tiene el poder de Tyr y protege la vida de Saerileth.
+@85  = ~Este es el S√≠mbolo de Tyr perteneciente a Saerileth. Lo usa en forma de corona y nunca se lo quita. Tiene el poder de Tyr y protege la vida de Saerileth.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
 Habilidades Especiales:
-ProtecciÛn permanente contra el mal~
+Protecci√≥n permanente contra el mal~
 
-@91  = ~Esta reliquia de la Orden de Tyr fue entregada por Lord Edorem para agradecer vuestra participaciÛn en el rescate de Saerileth.
+@91  = ~Esta reliquia de la Orden de Tyr fue entregada por Lord Edorem para agradecer vuestra participaci√≥n en el rescate de Saerileth.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
 Aptitudes especiales:
   +2 a la Clase de Armadura
-  +10 de resistencia a daÒo contundente
-  DaÒo elÈctrico adicional +1
+  +10 de resistencia a da√±o contundente
+  Da√±o el√©ctrico adicional +1
 
 GAC0: Bonificador +2 
-DaÒo: 1D4 + 3 (+1 elÈctrico)
-Tipo de DaÒo: Contundente
+Da√±o: 1D4 + 3 (+1 el√©ctrico)
+Tipo de Da√±o: Contundente
 Peso: 5
 Factor de velocidad: 2
 Talento marcial: Martillo de guerra
@@ -25,7 +25,7 @@ Requisito: Fuerza 9~
 
 @102 = ~Este escudo fue forjado en honor a un dios en Arborea llamado Hermes. Aparentemente era un dios de pies ligeros, porque este escudo aumenta la velocidad de movimiento de quien lo use.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
 Aptitud especial:
   Aumenta la velocidad de movimiento
@@ -34,36 +34,36 @@ Clase de armadura: 2
 Peso: 3
 Requisito: Fuerza 4~
 
-@104 = ~Este escudo fue forjado en el caos del Limbo, utilizando varios elementos. Da protecciÛn contra tales elementos.
+@104 = ~Este escudo fue forjado en el caos del Limbo, utilizando varios elementos. Da protecci√≥n contra tales elementos.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
 Aptitudes especiales:
- +10 resistencia al fuego, frÌo, ·cido y electricidad
+ +10 resistencia al fuego, fr√≠o, √°cido y electricidad
 
 Clase de armadura: 5
 Peso: 5
 Requisito: Fuerza 12~
 
-@105 = ~Este escudo fue forjado en el caos del Limbo, utilizando varios elementos. Da protecciÛn contra tales elementos.
+@105 = ~Este escudo fue forjado en el caos del Limbo, utilizando varios elementos. Da protecci√≥n contra tales elementos.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
 Aptitudes especiales:
- +10 resistencia al fuego, frÌo, ·cido y electricidad
+ +10 resistencia al fuego, fr√≠o, √°cido y electricidad
 
 Clase de armadura: 5
 Peso: 5
 Requisito: Fuerza 12~
 
-@161 = ~Este tomo da una pequeÒa parte del poder de Tyr.
+@161 = ~Este tomo da una peque√±a parte del poder de Tyr.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
 Incrementa el Carisma en +1 permanentemente.~
 
-@162 = ~Este tomo da una pequeÒa parte del poder de Tyr.
+@162 = ~Este tomo da una peque√±a parte del poder de Tyr.
 
-CARACTERÕSTICAS:
+CARACTER√çSTICAS:
 
-Incrementa la SabidurÌa en +1 permanentemente.~
+Incrementa la Sabidur√≠a en +1 permanentemente.~

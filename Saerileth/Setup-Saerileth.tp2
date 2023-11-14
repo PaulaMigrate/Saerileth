@@ -1,9 +1,9 @@
 BACKUP ~Saerileth\backup~
 //AUTHOR ~gilalion@gmail.com~
 
-SUPPORT ~PaulaMigrate@mail.com~
+SUPPORT ~https://github.com/PaulaMigrate/Saerileth~
 
-VERSION ~v22~
+VERSION ~v23~
 
 
 ALWAYS
@@ -18,17 +18,6 @@ ACTION_IF GAME_IS ~eet~ BEGIN
     OUTER_SET EVAL ~%name_source%~ = bg2_chapter
   END
 
-  ACTION_DEFINE_ARRAY nsnoconvert BEGIN END
-  ACTION_DEFINE_ARRAY nsreload BEGIN setup END
-
-  LAF HANDLE_CHARSETS
-    INT_VAR
-      infer_charset = 1
-    STR_VAR
-      tra_path = EVAL ~%MOD_FOLDER%~
-      noconvert_array = nsnoconvert
-      reload_array = nsreload
-  END
 END
 
 AUTO_TRA ~Saerileth/%s~
@@ -57,15 +46,17 @@ LANGUAGE ~Cesky~
          ~Czech~
          ~Saerileth/Czech/setup.tra~
          
+LANGUAGE ~Chinese~
+         ~Chinese~
+         ~Saerileth/Chinese/setup.tra~
+         
 BEGIN ~Saerileth mod~
 
-REQUIRE_PREDICATE (GAME_IS ~tob bgt bg2ee eet~) ~You do not appear to have TOB installed.~
+REQUIRE_PREDICATE (GAME_IS ~bg2ee eet~) ~Mod not for your game~
 
-ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
-  COPY ~Saerileth/PortraitsEE~ ~override~
-END ELSE BEGIN
-COPY ~Saerileth\Portraits~ ~override~
-END
+
+COPY ~Saerileth/PortraitsEE~ ~override~
+
 
 COPY ~Saerileth\Areas~ ~override~
 
@@ -383,10 +374,8 @@ COPY ~Saerileth\nsblank.mus~ ~music~
 COPY_EXISTING ~songlist.2da~ ~override~
 SET_2DA_ENTRY 0 2 3 ~NSBLANK.MUS~
 
-// load up ee-specific tra files on BG2EE
-ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
-  LOAD_TRA ~Saerileth/%LANGUAGE%/setup_ee.tra~
-END
+LOAD_TRA ~Saerileth/%LANGUAGE%/setup_ee.tra~
+
 
 COPY ~Saerileth\Items\NSCROWN.itm~ ~override\NSCROWN.itm~
 SAY NAME1 @83
@@ -664,8 +653,4 @@ UNLESS ~SAERILETH~
 
 LAF HANDLE_AUDIO END
 
-ACTION_IF GAME_IS ~bg2ee eet~ BEGIN
 COPY ~Saerileth/PVRZ~ ~override~
-END ELSE BEGIN
-LAF HANDLE_TILESETS END
-END

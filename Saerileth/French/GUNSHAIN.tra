@@ -1,137 +1,137 @@
-@0    = ~Ainsi, le déchu a finalement trouvé un laquais qui peut faire une brèche dans les murs!~ [SAERI155]
+@0    = ~Ainsi, le dÃ©chu a finalement trouvÃ© un laquais qui peut faire une brÃ¨che dans les murs!~ [SAERI155]
 @1    = ~Es tu Gunshain, alors?~ [SAERI156]
 @2    = ~je suis Gunshain, enfant de Bhaal--et je vois que tu voyages avec un autre des enfants.~ [SAERI157]
-@3    = ~Si je ne me trompe pas, tu es <CHARNAME> de Château Suif. Je me ferai un plaisir de te tuer. Après tout, je pourrai être *l'unique* héritier!~
-@4    = ~Nous ne venons pas nous battre contre toi, Gunshain. Nous cherchons seulement la vérité sur la chute de Kesevar.~
-@5    = ~Voulez  vous dire que vous désirez savoir, si il a sauvé ma mère et moi, des gardiens de la mort?~
-@6    = ~(Gunshain ricane.) *Bien sur* qu'il l'a fait. Ma chienne de mère s'est réfugiée à travers les plans pour échapper aux gardiens de la mort, et elle s'est faite attraper.~
-@7    = ~A quoi d'autre vous attendiez vous de la part d'une simple mortelle ? Mais toi, <CHARNAME>, tu es différent des autres enfant de Bhaal que j'ai occis.~
-@8    = ~Il y a tellement d'essence de notre père en toi. Si je te laissais la vie sauve, tu serais mon plus grand rival.~
+@3    = ~Si je ne me trompe pas, tu es <CHARNAME> de ChÃ¢teau Suif. Je me ferai un plaisir de te tuer. AprÃ¨s tout, je pourrai Ãªtre *l'unique* hÃ©ritier!~
+@4    = ~Nous ne venons pas nous battre contre toi, Gunshain. Nous cherchons seulement la vÃ©ritÃ© sur la chute de Kesevar.~
+@5    = ~Voulez  vous dire que vous dÃ©sirez savoir, si il a sauvÃ© ma mÃ¨re et moi, des gardiens de la mort?~
+@6    = ~(Gunshain ricane.) *Bien sur* qu'il l'a fait. Ma chienne de mÃ¨re s'est rÃ©fugiÃ©e Ã  travers les plans pour Ã©chapper aux gardiens de la mort, et elle s'est faite attraper.~
+@7    = ~A quoi d'autre vous attendiez vous de la part d'une simple mortelle ? Mais toi, <CHARNAME>, tu es diffÃ©rent des autres enfant de Bhaal que j'ai occis.~
+@8    = ~Il y a tellement d'essence de notre pÃ¨re en toi. Si je te laissais la vie sauve, tu serais mon plus grand rival.~
 @9    = ~De quoi parles tu? Je suis encore vivant!~
-@10   = ~Ce n'est pas le problème. Nous possédons ce que nous sommes venus chercher, et nous partons.~
-@11   = ~C'est *ça*! Cela me rend malade d'être menacé par de stupides frères! Meurs!~
-@12   = ~Pour un moment aussi court que celui là, tu es déjà considéré comme mort!~ [SAERI158]
+@10   = ~Ce n'est pas le problÃ¨me. Nous possÃ©dons ce que nous sommes venus chercher, et nous partons.~
+@11   = ~C'est *Ã§a*! Cela me rend malade d'Ãªtre menacÃ© par de stupides frÃ¨res! Meurs!~
+@12   = ~Pour un moment aussi court que celui lÃ , tu es dÃ©jÃ  considÃ©rÃ© comme mort!~ [SAERI158]
 @13   = ~Ah, mais je crains que je ne puisse te laisser vivre!~ [SAERI159]
 @14   = ~Toi d'abord!~ [SAERI160]
 
 
 
-@5000 = ~Le Deva Déchu
+@5000 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5001 = ~Le Deva Déchu
+@5001 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle semble assez emballée avec moi. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle semble assez emballÃ©e avec moi. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5002 = ~Saerileth Enlevée
+@5002 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Premièrement nous devons chercher Jharak dans la cité de Sigil, de manière à obtenir de lui le sceptre de Tyr.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. PremiÃ¨rement nous devons chercher Jharak dans la citÃ© de Sigil, de maniÃ¨re Ã  obtenir de lui le sceptre de Tyr.~
 
-@5003 = ~Saerileth Enlevée
+@5003 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immédiatement.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immÃ©diatement.~
 
-@5004 = ~Saerileth Enlevée
+@5004 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissé à son sort.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissÃ© Ã  son sort.~
 
-@5005 = ~Saerileth Enlevée
+@5005 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé Jharak, mais il nous a envoyé rapporter une clé avant de nous dire la localisation du sceptre de Tyr.~
+Nous avons trouvÃ© Jharak, mais il nous a envoyÃ© rapporter une clÃ© avant de nous dire la localisation du sceptre de Tyr.~
 
-@5006 = ~Saerileth Enlevée
+@5006 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé la clé, et nous allons retourner voir Jharak avec elle de suite.~
+Nous avons trouvÃ© la clÃ©, et nous allons retourner voir Jharak avec elle de suite.~
 
-@5007 = ~Saerileth Enlevée
+@5007 = ~Saerileth EnlevÃ©e
 
-Jharak nous a envoyé parler avec le tavernier, qui possède le Sceptre.~
+Jharak nous a envoyÃ© parler avec le tavernier, qui possÃ¨de le Sceptre.~
 
-@5008 = ~Saerileth Enlevée
+@5008 = ~Saerileth EnlevÃ©e
 
-Nous avons obtenu le Sceptre de Tyr. L'âme de Saerileth est en danger, et nous devons nous dépêcher de rejoindre Edorem aussi vite que possible.~
+Nous avons obtenu le Sceptre de Tyr. L'Ã¢me de Saerileth est en danger, et nous devons nous dÃ©pÃªcher de rejoindre Edorem aussi vite que possible.~
 
 @5009 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
 @5010 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. J'ai sorti Saerileth de mon groupe, et elle est restée dans les Plans. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. J'ai sorti Saerileth de mon groupe, et elle est restÃ©e dans les Plans. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
-@5011 = ~Le Deva Déchu
+@5011 = ~Le Deva DÃ©chu
 
-Nous avons trouvé Kesevar le Déchu, mais il affirme que sa punition est imméritée. Il a été envoyé à la recherche de la seule personne qui peut témoigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
+Nous avons trouvÃ© Kesevar le DÃ©chu, mais il affirme que sa punition est immÃ©ritÃ©e. Il a Ã©tÃ© envoyÃ© Ã  la recherche de la seule personne qui peut tÃ©moigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
 
-@5012 = ~Le Deva Déchu
+@5012 = ~Le Deva DÃ©chu
 
-Gunshain, comme cela s'est produit, a révélé le nom de Kesevar, mais il a aussi tenté de nous tuer! Nous l'avons expédié, et nous devons retourner voir Kesevar rapidement.~
+Gunshain, comme cela s'est produit, a rÃ©vÃ©lÃ© le nom de Kesevar, mais il a aussi tentÃ© de nous tuer! Nous l'avons expÃ©diÃ©, et nous devons retourner voir Kesevar rapidement.~
 
-@5013 = ~Le Deva Déchu
+@5013 = ~Le Deva DÃ©chu
 
-Saerileth a déclaré Kesevar innocent, et sa proclamation a fait immédiatement effet. Le déva a repris sa splendeur, et Saerileth reste en ma compagnie.~
+Saerileth a dÃ©clarÃ© Kesevar innocent, et sa proclamation a fait immÃ©diatement effet. Le dÃ©va a repris sa splendeur, et Saerileth reste en ma compagnie.~
 
-@5014 = ~Le Deva Déchu
+@5014 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
-@5015 = ~Le Deva Déchu
+@5015 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
 @5016 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5017 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5018 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! Mon adultère a brisé le coeur de Saerileth, et elle est morte. La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! Mon adultÃ¨re a brisÃ© le coeur de Saerileth, et elle est morte. La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5019 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5020 = ~Delilah la Courtisane
 
-Saerileth m'a assuré que cette Delilah est un démon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple où nous pouvons être capable de trouver de l'aide pour dissiper les illusions démoniaques.~
+Saerileth m'a assurÃ© que cette Delilah est un dÃ©mon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple oÃ¹ nous pouvons Ãªtre capable de trouver de l'aide pour dissiper les illusions dÃ©moniaques.~
 
 @5021 = ~Delilah la Courtisane
 
-J'ai refusé de venir en aide à ceux qui se sont fait attrapé par l'étreinte du démon. Ils ont apporté leur destin sur eux mêmes. Saerileth est attristée, mais approuve que leur punition est juste.~
+J'ai refusÃ© de venir en aide Ã  ceux qui se sont fait attrapÃ© par l'Ã©treinte du dÃ©mon. Ils ont apportÃ© leur destin sur eux mÃªmes. Saerileth est attristÃ©e, mais approuve que leur punition est juste.~
 
 @5022 = ~Delilah la Courtisane
 
-J'ai reçu du prêtre de Waukyne un parchemin qui possède la capacité de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorénavant visible.~
+J'ai reÃ§u du prÃªtre de Waukyne un parchemin qui possÃ¨de la capacitÃ© de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorÃ©navant visible.~
 
 @5023 = ~Delilah la Courtisane
 
-La magie du parchemin a été un véritable succès. Qu'il s'agisse de la magie du parchemin ou des prières de Saerileth, je n'en suis pas certain. Cependant, cela a marché, et les démon a été forcé d'abandonner leur plan et de retourner aux Abysses.~
+La magie du parchemin a Ã©tÃ© un vÃ©ritable succÃ¨s. Qu'il s'agisse de la magie du parchemin ou des priÃ¨res de Saerileth, je n'en suis pas certain. Cependant, cela a marchÃ©, et les dÃ©mon a Ã©tÃ© forcÃ© d'abandonner leur plan et de retourner aux Abysses.~
 
 @5024 = ~Vaincre Khalabaxin
 
-J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+J'ai acceptÃ© la requÃªte de Sir Havun Clarenshide pour l'aider Ã  vaincre le dragon Khalabaxin. Je le trouverai prÃ©s de son nouveau repÃ¨re, la cave au delÃ  de la riviÃ¨re dans les collines d'Umar.~
 
 @5025 = ~Vaincre Khalabaxin
 
-J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner Ã  l'Ordre du Coeur Radieux et dire Ã  Sir Havun Clarenshide ce dont il s'agit.~
 
 @5026 = ~Vaincre Khalabaxin
 
-Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+Je suis retournÃ© Ã  l'Ordre du Coeur Radieux avec les nouvelles de ma dÃ©faite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais Ãªtre accompli.~
 
 @5027 = ~Vaincre les vampires
 
-Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+Sir Havun m'a informÃ© de l'existence d'un nid de vampires ici dans la citÃ©. Je suis de la partie pour les chercher et les dÃ©truire. Ils vivent dans les cryptes sous le cimetiÃ¨re. L'ordre enverra l'un de leur mage mercenaire pour m'aider Ã  percer la dÃ©fense du nid.~
 
 @5028 = ~Vaincre les vampires
 
-J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a Ã©chappÃ©. Elle possÃ¨de quelques informations intÃ©ressantes Ã  me communiquer... Elle savais que j'Ã©tais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires Ã  Sir Havun.~
 
 @5029 = ~Les vampires vaincus
 
-Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~
+Je suis retournÃ© Ã  l'Ordre du coeur Radieux avec les nouvelles de ma dÃ©faite des vampires. L'Ordre m'a offert le passage Ã  Spellhold comme rÃ©compense!~

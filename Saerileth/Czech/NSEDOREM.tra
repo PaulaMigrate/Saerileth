@@ -1,465 +1,465 @@
-@0    = ~Selhal jsem! Saerileth jest pryè a já nedokázal zabránit jejímu zajetí!~ [SAERI143]
+@0    = ~Selhal jsem! Saerileth jest pryÃ¨ a jÃ¡ nedokÃ¡zal zabrÃ¡nit jejÃ­mu zajetÃ­!~ [SAERI143]
 @1    = ~Kdo jsi a o co tu jde?~
 @2    = ~Kde je? Mluv, chlape!~
-@3    = ~To mì tìší, e jsi selhal. Ušetøil jsi mi nepøíjemnou chvilku, protoe bych ji stejnì musel vykopnout ze skupiny.~
-@4    = ~Nemám èas poslouchat tvoje naøíkavé omluvy! Musíme hned najít Saerileth!~
-@5    = ~Mé jméno jest Edorem a slouím Tyrovi. Znám Saerileth od chvíle, kdy poprvé navštívila Sigil. ~
-@6    = ~Dal pro ni poslat Glourkist. Jest to mocnı pán démonù, jeden z tìch, jejich stezky Saerileth zkøíila, kdy pobıvala v Sigilu.~
+@3    = ~To mÃ¬ tÃ¬Å¡Ã­, Å¾e jsi selhal. UÅ¡etÃ¸il jsi mi nepÃ¸Ã­jemnou chvilku, protoÅ¾e bych ji stejnÃ¬ musel vykopnout ze skupiny.~
+@4    = ~NemÃ¡m Ã¨as poslouchat tvoje naÃ¸Ã­kavÃ© omluvy! MusÃ­me hned najÃ­t Saerileth!~
+@5    = ~MÃ© jmÃ©no jest Edorem a slouÅ¾Ã­m Tyrovi. ZnÃ¡m Saerileth od chvÃ­le, kdy poprvÃ© navÅ¡tÃ­vila Sigil. ~
+@6    = ~Dal pro ni poslat Glourkist. Jest to mocnÃ½ pÃ¡n dÃ©monÃ¹, jeden z tÃ¬ch, jejichÅ¾ stezky Saerileth zkÃ¸Ã­Å¾ila, kdyÅ¾ pobÃ½vala v Sigilu.~
 @7    = ~Jak?~
-@8    = ~Dobrá, pùjdeme toho Glourkista najít!~
-@9    = ~Saerileth byla opravdu skvìlá, ale nestojí mi za opletaèky s 'pánem démonù'!~
-@10   = ~Saerileth byla dobrá kamarádka, ale nejsem si jistı, jestli chci bojovat s nìjakım 'pánem démonù'!~
-@11   = ~Jak se máme dostat do Sigilu?~
-@12   = ~Ukázala jednomu z Glourkistovıch nepøátel, jak pouít portál do Tyrova chrámu, a kdy onen mu jednal dle jejích slov, unikl pánu démonù ze spárù.~
-@13   = ~Namísto své ztracené odmìny si vzal Saerileth, však nikdo neví, co s ní zamıšlí.~
-@14   = ~Zadr, stateènı muí! Glourkistùv hnìv jest strašlivı a jeho moc veliká. Jestli se mu chceš postavit, budeš potøebovat pomoc.~
-@15   = ~Najdi Tyrovo ezlo. Jharak ví, kde se nachází, musíme ho tedy nalézt a pøesvìdèit ho, aby nám o nìm øekl.~
-@16   = ~Dobrá, získám to ezlo.~
-@17   = ~Dej si voraz! ádnou pomoc nepotøebuju. Toho Glourkista srovnám s prstem v nose sám!~
-@18   = ~Èasu je málo. Musíme Saerileth zachránit co nejdøíve a mnoho èasu nám u nezbıvá.~
-@19   = ~Pak tedy odejdu a ty uèiò, co mùeš. Buï sbohem.~
-@20   = ~V takovém boji však nemáš nadìji. Glourkistùv hnìv jest strašlivı a jeho moc veliká. Jestli se mu chceš postavit, budeš potøebovat pomoc.~
-@21   = ~Ani omylem. Poøád mi to nestojí za to.~
-@22   = ~Skvìlé. Prokazuješ nesmírnı soucit se svou spoleènicí. Dle posledních zpráv se Jharak zabydlel v Úlu. Vyhledáme ho tedy tam. ~
-@23   = ~Dobrá tedy. Máš-li takovou dùvìru ve své schopnosti, boské dítì, pak tedy pojïme.~
-@24   = ~Kráèím sférami a mám moc tì tam vzít. Glourkistùv hnìv jest však strašlivı a jeho moc veliká. Jestli se mu chceš postavit, budeš potøebovat pomoc.~
-@25   = ~Nalezni Tyrovo ezlo. Jharak, jeden z obyvatelù Úlu, ví, kde se nachází. Vyhledej ho tedy.~
-@26   = ~Nemyslím, e mi stojí za ty potíe.~
-@27   = ~Jest v Sigilu, mìstì ve vnìjších sférách. Glourkist pro ni dal poslat. Jest to mocnı pán démonù, jeho stezky Saerileth zkøíila, kdy pøebıvala v Sigilu.~
-@28   = ~Ty se vùbec nestaráš o její osud? Dobrá tedy, budu ji hledat sám.~
-@29   = ~Zkøíil bych s tebou meè pro takovou nespravedlnost, ale èasu jest málo a já musím odejít.~
-@30   = ~Budu tì zde oèekávat, <CHARNAME>. Musím udret spojení do Baatoru.~
-@31   = ~Najdi rychle Jharaka! A pøines mi Tyrovo ezlo!~
-@32   = ~Saerilethina duše je v nebezpeèí! Neotálej tedy!~ [SAERI144]
-@33   = ~Nemùu najít Jharaka!~
-@34   = ~Rozmyslel jsem si to. Nestojí mi za to.~
-@35   = ~Pospíším si.~
-@36   = ~Nevìøící zbabìlèe! Dáš mi své slovo a pak ho porušíš!~
-@37   = ~Tyrova spravedlnost však pøesto bude vykonána. Beze mne neodejdeš ze Sigilu a já neopustím své místo, protoe musím udret spojení ke Glourkistovi otevøené.~
-@38   = ~Najdi Jharaka a ezlo, nebo se ji nikdy nevrátíš domù.~
-@39   = ~Uèiò tak.~
-@40   = ~Urèitì jest v Úlu nìkdo, kdo nám mùe pomoci! Poptej se u tìch, kdo se zrodili ve Vyšších sférách.~
-@41   = ~Získal jsi ezlo. Pak si tedy pospìšme pomoci Saerileth!~ [SAERI145]
-@42   = ~Vrátil jsem tì do tvé sféry. A nyní se i já navrátím za Saerileth, mou milovanou.~ [SAERI149]
-@43   = ~Upøímnì ti dìkuji, <CHARNAME>. A jako malou náhradu za to, cos pro Tyra vykonal pøi záchranì jeho drahé Vyvolené, ti dávám toto.~ [SAERI150]
-@44   = ~Jest to mocné kladivo, posvìcené Tyrem. Pouij ho ke konání dobra ve jménu Tyra Jednorukého.~
-@45   = ~(Rytíø nespustí oèi ze Saerileth, ale mluví dál k tobì.)~
-@46   = ~Upøímnì ti dìkuji, <CHARNAME>. A jako malou náhradu za to, cos pro Tyra vykonal pøi záchranì jeho drahé Vyvolené, ti dávám toto.~ [SAERI150]
-@47   = ~Jest to mocné kladivo, posvìcené Tyrem. Pouij ho ke konání dobra ve jménu Zlomeného Boha.~
-@48   = ~Vítej, Saerileth, Tyrova Vyvolená.~ [SAERI141]
-@49   = ~Lorde Edoreme! (Saerileth se otoèí a usmìje se na zlatovlasého rytíøe.)~
-@50   = ~Ráda vidím, es v poøádku.~
-@51   = ~A ty, Saerileth, i tys--v poøádku?~
-@52   = ~(Edorem se podívá na tebe a jeho vıraz se zmìní.) A ty, boské dítì, peèuješ o ni, jak právem zasluhuje?~
-@53   = ~Nepotøebuje ádnou chùvu.~
-@54   = ~Proè se na mì tak díváš?~
-@55   = ~Co tady vlastnì chceš?~
-@56   = ~(Edoremovy oèi, modré jako ty, je má ve tváøi Saerileth, náhle zaplanou.) Pøec si zaslouí cestovat s nìkım lepším ne s nájemnım oldákem!~
-@57   = ~Copak nechápeš?~
-@58   = ~Máš nìjakı *dùvod*, proè jsi tady?~
-@59   = ~Co od nás chceš?~
-@60   = ~Jistìe to chápu.~
-@61   = ~Miluju ji. Jistìe to chápu!~
-@62   = ~(Edorem na chvíli sklopí zrak, a kdy odpovídá, znovu se obrátí k Saerileth.) ~
-@63   = ~Pøináším dar Saerileth od knìí Tyrovıch. (Pøedá Saerileth lahvièku s léèivım lektvarem.)~
-@64   = ~Buï zdráva, Saerileth. (Rytíø se jí pokloní, ale kdy odchází do své sféry, jeho planoucí oèi se dívají pøímo na tebe.)~
-@65   = ~Já? Od tebe nechci nic, boské dítì. (Kdy se na tebe dívá, jeho oèi záøí ocelovou modøí.)~
-@66   = ~Kolik toho zøíš, boské dítì? (Edoremovy oèi se na tebe soustøedí se zvláštním zaujetím.)~
-@67   = ~Znáš cenu, jakou má její srdce?~
-@68   = ~Nejsem do ní zamilovanı, jestli myslíš tohle.~
-@69   = ~Vím, jakou má Saerileth cenu, rytíøi.~
-@70   = ~Co tu tedy *dìláš*?~
-@71   = ~Ty ji miluješ? (Edoremùv hlas je pohrdavì chladnı.) Ty si *dovoluješ* ji milovat?~
-@72   = ~(Se znaènım úsilím se Edorem ovládne.) Kvùli tomu jsem však nepøišel.~
-@73   = ~Pochybuji, e jest to pravda. (Edorem se obrátí zpìt k Saerileth.)~
-@74   = ~Pøináším ti dar od knìí Tyrovıch. (Pøedá Saerileth lahvièku s léèivım lektvarem.)~
-@75   = ~To toho tak málo víš o Saerilethinì minulosti, e se tì musím tázat? Nejsi si vìdom, jakı poklad byl svìøen do tvé péèe?~
-@76   = ~Nevidíš, e si zaslouí cestovat s nìkım lepším ne s nájemnım oldákem? Nechápeš to?~
-@77   = ~(Edoremova tváø se na chvíli uklidní, ale na okamik ztratí øeè; všimne si toti, e Saerileth propukla v pláè.)~
-@78   = ~Tys zlomil mé srdce. (Saerileth sepne ruce a usedavì pláèe.)~
-@79   = ~(Edorem na tebe vrhne temnı pohled a ukloní Saerileth.) Budu na ni dávat pozor. Bylo by pro ni lepší, kdybys zanechal svıch pochùzek.~
-@80   = ~(Obrátí se zpátky k Saerileth a vezme ji do náruèí. I na jeho hrudi však dál usedavì naøíká.)~
-@81   = ~(Edorem se ti strnule ukloní a dál drí Saerileth za ruku.) Saerileth, Vyvolená Tyrova, jest tvé srdce stále ještì volné?~ [SAERI142]
-@82   = ~(Saerileth se zvedne a její vrozená zdvoøilost ji neopouští ani pøes rumìnec na jejích tváøích.) ~
-@83   = ~Nikoli, mùj pane. Není.~
-@84   = ~Pak toto Bhaalovo dítì zajalo tvé srdce, Saerileth? Pokud jest tomu tak, pak tì jistì obelstil!~
-@85   = ~Dobøe se naò podívej, na hulváta, co se nestydí lhát dámì! (Edorem se rychle pohne a sebere ti všechny magické pøedmìty, které vylepšují tvé charisma.)~
-@86   = ~Pohleï na nìj, Saerileth!~
-@87   = ~Co to má bıt? Lorde Edoreme, proè bys byl tak nezdvoøilı? (Saerileth se k tobì otoèí.)~
-@88   = ~Prosím, má lásko, odpus--~
-@89   = ~(Edoremovy oèi se do tebe vpalují.)~
-@90   = ~Odpustit? Mám ti odpustit takovou nestydatost?!~
-@91   = ~Kvùli Saerileth ti tuto nehoráznost odpouštím.~
-@92   = ~U Tyra! Ty ji také milujš!~
-@93   = ~(Edorem náhle zbledne.) Ty-tys ji neobelstil! Skuteènìs tím, kım se zdáš bıt, navzdory èarám, je tì obklopují.~
-@94   = ~(Rytíø pøed tebou formálnì poklekne.) Obvinil jsem tì neprávem, <CHARNAME>, synu Bhaalùv.~
-@95   = ~Jestlie si ádáš souboj, jen by z tebe smyl poskvrnu mého obvinìní, budi tedy. Pokud ne, opustím tì a ji tì nebudu obtìovat.~
-@96   = ~Za tohle si narazím tvoje srdce na èepel!~
-@97   = ~(Edorem vstane a formálnì se ukloní.) Stanov si podmínky, nebo se stane, jak ádáš.~
-@98   = ~(Rytíøovou vznešenou tváøí se na chvilku mihne triumfální vıraz a pak u tì úplnì ignoruje.)~
-@99   = ~Pohleï, Saerileth, na toho bídáka, jen tì omámil! Krása boského dítìte i jeho síla, vše jest jen klam a faleš!~
-@100  = ~Pouil èáry, aby tì obloudil! Pohleï na jeho skuteènou tváø!~
-@101  = ~(Edorem se ti formálnì ukloní a a v jeho tváøi se mísí smutek a obavy.) Ty-tys ji neobelstil! Skuteènìs tím, kım se zdáš bıt, navzdory èarám, je tì obklopují.~
-@102  = ~Obvinil jsem tì neprávem, <CHARNAME>, synu Bhaalùv. Za tvé odpuštìní, je si nezaslouím, ti patøí mùj dík.~
-@103  = ~Nyní tì opustím a ji tì nebudu obtìovat. (Znovu se podívá na Saerileth, a kdy mluví, jeho zmuèené oèi na chvíli prodlévají na její tváøi.)~
-@104  = ~Buï sbohem, Saerileth, nejkrásnìjší ze všech dìtí svìta.~
-@105  = ~(Edoremovy oèi se nemohou odtrhnout od tvého oblièeje a v jeho tváøi se objevuje smutek a obavy.)~
-@106  = ~Pravdu díš, <CHARNAME>, ochránce Saerileth. Mé vlastní skutky mne zahanbují. Skuteènìs tím, kım se zdáš bıt, navzdory èarám, je tì obklopují.~
-@107  = ~Obvinil jsem tì neprávem, <CHARNAME>, synu Bhaalùv. Jestlie si ádáš souboj, jen by z tebe smyl poskvrnu mého obvinìní, budi tedy. Pokud ne, opustím tì a ji tì nebudu obtìovat.~
-@108  = ~Nikoli, tak to *nesmí* bıt. (Saerilethina tváø je bledá a z oèí jí teèou slzy.)~
-@109  = ~Nejsem tak slepá abych nechápala, e bojuješ právì tak pro me, jako pro svou pıchu, <CHARNAME>!~
-@110  = ~Není pøec tøeba, abys pro mé city tasil meè--~
-@111  = ~Ne, Saerileth. Byl jsem jen naštvanı. Neublíím mu.~
-@112  = ~Nebojuju o tvou lásku, Saerileth. Bojuju kvùli své vlastní cti.~
-@113  = ~Já tvrdím, e *musím* bojovat o tvé srdce, má lásko, a kvùli tobì se postavím tomuhle pomlouvaènému rytíøi--nebo komukoli jinému.~
-@114  = ~(Saerileth si úlevou povzdechne a pøestává plakat.) Dìkuji ti, milovanı. Lord Edorem jest Tyrùv Vyvolenı a aè jeho péèe o mne není na místì, pøec nechci, aby došel úhony.~
-@115  = ~Má láska patøí jen tobì, jak jistì víš. (Saerileth stále svírá tvou dlaò, kdy se dívá na Edorema, a v jejím pohledu je nekoneèná lítost.)~
-@116  = ~Nyní chápu slova, je jsi pronesl pøi našem louèení v Sigilu. Lituji tì, mùj pane, avšak mé srdce mi ji nepatøí, a tak ti ho nemohu dát.~
-@117  = ~Jest to <CHARNAME>, komu nyní patøí.~
-@118  = ~Chápu to, <CHARNAME>, skuteènì ti rozumím, však pøec tì ádám, ušetøi jeho ivot.~
-@119  = ~(Saerileth pøed tebou poklekne se zdvienımi paemi, v rituálním gestu prosebníka.) Pro lásku, ji ke mnì chováš, odpus mu toto provinìní.~
-@120  = ~Jest to Tyrùv Vyvolenı a já tì prosím o jeho ivot.~
-@121  = ~Dobrá, Saerileth. e mì tak pìknì prosíš, ušetøím ho.~
-@122  = ~Ne, Saerileth, ani kvùli tvojí lásce mu to nemùu odpustit. Edorem zemøe.~
-@123  = ~(Saerileth tì vezme za ruku a z oèí jí proudem teèou slzy.) Mùj nejdraší, mé srdce patøí tobì, jak jistì víš.~
-@124  = ~Prosím tì, na kolenou tì ádám, neubliuj lordu Edoremovi. Jest to Tyrùv Vyvolenı a jest mou povinností postavit se na jeho obranu.~
-@125  = ~(Saerileth se usmìje pøes své slzy.) Dìkuji ti, milovanı. (Saerileth stále svírá tvou dlaò, kdy se dívá na Edorema, a v jejím pohledu je nekoneèná lítost.)~
-@126  = ~Pak jsi zahubil Saerileth! Nebo má poslušnost Tyrovi jest i nad láskou, ji k tobì chovám, srdce mého srdce.~
-@127  = ~Nemohu jen tak pøihlíet, kdy hodláš zahubit Tyrova sluebníka.~
-@128  = ~(Saerileth se snaí vytáhnout zbraò z pochvy, ale náhle padá bez dechu k Edoremovım nohám.)~
-@129  = ~Buï proklet, <CHARNAME>, právìs znièil nejkrásnìjší stvoøení, je bohové kdy uèinili! Cenil sis své pıchy více ne jejího srdce i ivota!~
-@130  = ~Nemılil jsem se tedy; tøebae jest tvá krása skuteèné, tvé srdce jest pøec stejnì èerné.~
-@131  = ~(Ne se zmùeš na odpovìï, rytíø zmizí tvım oèím a bere Saerileth s sebou.)~
-@132  = ~(Saerileth tì obejme a pøivine se k tobì, její slzy ti padají na hruï.)~
-@133  = ~Ach, <CHARNAME>, proè musí naše láska pùsobit rány tak vznešenému srdci? Lord Edorem jest Tyrùv Vyvolenı a ke mnì se vdy choval nesmírnì laskavì.~
-@134  = ~Však pøec mé srdce patøí jen tobì. (Saerileth poloí svou hlavu na tvou hruï a dlouhou chvíli se tì pevnì drí.)~
-@135  = ~(Saerilethiny oèi se strachem rozšíøí a po jejích lících teèou slzy. I kdy stále mluví s tebou, vloí svou ruku do Edoremovy dlanì.)~
-@136  = ~Nikdy bych nevìøila, es toho schopen! e ty-ty! Ty, na koho jsem spoléhala po celı ten èas--bys mne obelstil!~
-@137  = ~Oèarovals mne, právì tak, jak dí lord Edorem. (Saerilethin hlas se ztrácí v jejím vzlykání a Edorem ji pevnì sevøe v objetí.)~
-@138  = ~Saerileth! Ale já tì miluju! Proè mi to dìláš?~
-@139  = ~Jsem poøád ten samı <CHARNAME>, kterému jsi øekla, e ho miluješ! To je tvé srdce tak pøelétavé, Saerileth?~
-@140  = ~Kdy jsi tak vrtkavá, tak u tì nechci! A si tì Edorem nechá!~
-@141  = ~Chápu. Take to došlo a tak daleko. U mì tedy nemiluješ?~
-@142  = ~Já? Nedìlám ti nic, <CHARNAME>! Byls to ty, kdo mne obelstil. Ji na tebe nemohu spoléhat, proto i má láska k tobì musí uvadnout.~
-@143  = ~(Saerileth dál zlomenì pláèe a Edorem ji hladí po vlasech.) Jest tedy tvou vùlí, abych ji nekráèela po tvém boku? Nebo i po tom všem stále touíš, aby Saerileth byla tvou spoleènicí?~
-@144  = ~Saerileth, nechoï pryè. Chci si znovu získat tvoji dùvìru.~
-@145  = ~Tak si bì. Zmiz a spánembohem. U tì nikdy nechci vidìt.~
-@146  = ~Rozumím. Pøesto bych si pøál mít tì po boku, Saerileth, i kdy naše láska nemá ádnou budoucnost.~
-@147  = ~Mé srdce? Co ty víš o mém srdci? (Saerilethiny oèi jsou zamené a její hlas je tichı, pøerıvanı vzlyky.)~
-@148  = ~V lásce pøec musí bıt dùvìra. Jak však mohu spoléhat na toho, kdo pouije èáry, aby mne obelstil? Nemohu ti ji vìøit, a tak i má láska k tobì musí uvadnout.~
-@149  = ~(Saerileth nic neøíká a dál pláèe.)~
-@150  = ~Miluješ mne? Co ty víš o lásce? (Saerilethiny oèi jsou zamené a její hlas je tichı, pøerıvanı vzlyky.)~
-@151  = ~Tak to nesmí bıt, <CHARNAME>, pøinejmenším nikoli tak, jak se zdá, e doufáš. Jestlie se ti kdy nauèím znovu dùvìøovat, stále to bude pøíliš pozdì, abych tì dále milovala.~
-@152  = ~Nevím, co dále øíci. Co ádáš ty?~
-@153  = ~Jdi si! U tì nechci nikdy vidìt.~
-@154  = ~(Saerileth beze slova pøikıvne.)~
-@155  = ~Jak si ádáš. (Saerileth není schopná slova a dál zlomenì pláèe na Edoremovì hrudi.)~
-@156  = ~A já si ji vskutku nechám, prokleté boské dítì. (Edoremovou tváøí probleskne vítìzství.)~
-@157  = ~Však u ji více nespatøíš. Saerileth se navrátí po mém boku. (Edoremovou tváøí probleskne vítìzství.)~
-@158  = ~Pak toto dítì Bhaalovo zajalo tvé srdce, Saerileth? Jak to mùe bıt?~
-@159  = ~Nepamatuješ si snad na slova, je jsem ti øíkal pøi našem louèení?~
-@160  = ~Pamatuji si je dobøe, lorde Edoreme. Však pravila jsem ti pøec, e mé srdce ti doposud nepatøí.~
-@161  = ~Pravila jsi, e není ještì mé--ale neøeklas mi, e ho èasem snad nemohu získat.~
-@162  = ~(Rytíøova krásná tváø je utrápená, ale jeho hlas, hlubokı a vášnivı, neprozrazuje ádnou slabost.)~
-@163  = ~A èasu se mi nedostalo. Jednorukı tì vyslal do Základní a nyní se zdá, e jsem tì tu ztratil.~
-@164  = ~Nemùeš pøec ztratit, co nikdy nebylo tvım. (Saerileth pevnì svírá tvou dlaò.)~
-@165  = ~Jest tomu vskutku tak, <CHARNAME>, synu Bhaalùv? Jest Saerileth tvou jedinou a pravou láskou?~
-@166  = ~Ano, Edoreme. Saerileth je má jediná láska. Je mi líto.~
-@167  = ~Miluju Saerileth, ale není správné, abych ti ji pøebral. Vzdám se svého nároku na ni ve tvùj prospìch.~
-@168  = ~Je má a ty ji nikdy nebudeš mít!~
-@169  = ~Mám Saerileth celkem rád, to ano, ale nemùu øíct, e je to má jediná a pravá láska.~
-@170  = ~Nepohrdám lítostí, je-li laskavá--a na místì. Alespoò jsem tedy na chvíli zahlédl Saerileth, nejpohlednìjší stvoøení tohoto i jakéhokoli jiného svìta.~
-@171  = ~Z toho se budu radovat více, ne si mùe kterıkoli smrtelník pøát.~
-@172  = ~Ty bys tak uèinil? (V Edoremovì tváøi je zøetelnì vidìt pøekvapení, silnìjší ne náhlá radost.)~
+@8    = ~DobrÃ¡, pÃ¹jdeme toho Glourkista najÃ­t!~
+@9    = ~Saerileth byla opravdu skvÃ¬lÃ¡, ale nestojÃ­ mi za opletaÃ¨ky s 'pÃ¡nem dÃ©monÃ¹'!~
+@10   = ~Saerileth byla dobrÃ¡ kamarÃ¡dka, ale nejsem si jistÃ½, jestli chci bojovat s nÃ¬jakÃ½m 'pÃ¡nem dÃ©monÃ¹'!~
+@11   = ~Jak se mÃ¡me dostat do Sigilu?~
+@12   = ~UkÃ¡zala jednomu z GlourkistovÃ½ch nepÃ¸Ã¡tel, jak pouÅ¾Ã­t portÃ¡l do Tyrova chrÃ¡mu, a kdyÅ¾ onen muÅ¾ jednal dle jejÃ­ch slov, unikl pÃ¡nu dÃ©monÃ¹ ze spÃ¡rÃ¹.~
+@13   = ~NamÃ­sto svÃ© ztracenÃ© odmÃ¬ny si vzal Saerileth, vÅ¡ak nikdo nevÃ­, co s nÃ­ zamÃ½Å¡lÃ­.~
+@14   = ~ZadrÅ¾, stateÃ¨nÃ½ muÅ¾Ã­! GlourkistÃ¹v hnÃ¬v jest straÅ¡livÃ½ a jeho moc velikÃ¡. Jestli se mu chceÅ¡ postavit, budeÅ¡ potÃ¸ebovat pomoc.~
+@15   = ~Najdi Tyrovo Å½ezlo. Jharak vÃ­, kde se nachÃ¡zÃ­, musÃ­me ho tedy nalÃ©zt a pÃ¸esvÃ¬dÃ¨it ho, aby nÃ¡m o nÃ¬m Ã¸ekl.~
+@16   = ~DobrÃ¡, zÃ­skÃ¡m to Å¾ezlo.~
+@17   = ~Dej si voraz! Å½Ã¡dnou pomoc nepotÃ¸ebuju. Toho Glourkista srovnÃ¡m s prstem v nose sÃ¡m!~
+@18   = ~Ãˆasu je mÃ¡lo. MusÃ­me Saerileth zachrÃ¡nit co nejdÃ¸Ã­ve a mnoho Ã¨asu nÃ¡m uÅ¾ nezbÃ½vÃ¡.~
+@19   = ~Pak tedy odejdu a ty uÃ¨iÃ², co mÃ¹Å¾eÅ¡. BuÃ¯ sbohem.~
+@20   = ~V takovÃ©m boji vÅ¡ak nemÃ¡Å¡ nadÃ¬ji. GlourkistÃ¹v hnÃ¬v jest straÅ¡livÃ½ a jeho moc velikÃ¡. Jestli se mu chceÅ¡ postavit, budeÅ¡ potÃ¸ebovat pomoc.~
+@21   = ~Ani omylem. PoÃ¸Ã¡d mi to nestojÃ­ za to.~
+@22   = ~SkvÃ¬lÃ©. ProkazujeÅ¡ nesmÃ­rnÃ½ soucit se svou spoleÃ¨nicÃ­. Dle poslednÃ­ch zprÃ¡v se Jharak zabydlel v Ãšlu. VyhledÃ¡me ho tedy tam. ~
+@23   = ~DobrÃ¡ tedy. MÃ¡Å¡-li takovou dÃ¹vÃ¬ru ve svÃ© schopnosti, boÅ¾skÃ© dÃ­tÃ¬, pak tedy pojÃ¯me.~
+@24   = ~KrÃ¡Ã¨Ã­m sfÃ©rami a mÃ¡m moc tÃ¬ tam vzÃ­t. GlourkistÃ¹v hnÃ¬v jest vÅ¡ak straÅ¡livÃ½ a jeho moc velikÃ¡. Jestli se mu chceÅ¡ postavit, budeÅ¡ potÃ¸ebovat pomoc.~
+@25   = ~Nalezni Tyrovo Å½ezlo. Jharak, jeden z obyvatelÃ¹ Ãšlu, vÃ­, kde se nachÃ¡zÃ­. Vyhledej ho tedy.~
+@26   = ~NemyslÃ­m, Å¾e mi stojÃ­ za ty potÃ­Å¾e.~
+@27   = ~Jest v Sigilu, mÃ¬stÃ¬ ve vnÃ¬jÅ¡Ã­ch sfÃ©rÃ¡ch. Glourkist pro ni dal poslat. Jest to mocnÃ½ pÃ¡n dÃ©monÃ¹, jehoÅ¾ stezky Saerileth zkÃ¸Ã­Å¾ila, kdyÅ¾ pÃ¸ebÃ½vala v Sigilu.~
+@28   = ~Ty se vÃ¹bec nestarÃ¡Å¡ o jejÃ­ osud? DobrÃ¡ tedy, budu ji hledat sÃ¡m.~
+@29   = ~ZkÃ¸Ã­Å¾il bych s tebou meÃ¨ pro takovou nespravedlnost, ale Ã¨asu jest mÃ¡lo a jÃ¡ musÃ­m odejÃ­t.~
+@30   = ~Budu tÃ¬ zde oÃ¨ekÃ¡vat, <CHARNAME>. MusÃ­m udrÅ¾et spojenÃ­ do Baatoru.~
+@31   = ~Najdi rychle Jharaka! A pÃ¸ines mi Tyrovo Å¾ezlo!~
+@32   = ~Saerilethina duÅ¡e je v nebezpeÃ¨Ã­! NeotÃ¡lej tedy!~ [SAERI144]
+@33   = ~NemÃ¹Å¾u najÃ­t Jharaka!~
+@34   = ~Rozmyslel jsem si to. NestojÃ­ mi za to.~
+@35   = ~PospÃ­Å¡Ã­m si.~
+@36   = ~NevÃ¬Ã¸Ã­cÃ­ zbabÃ¬lÃ¨e! DÃ¡Å¡ mi svÃ© slovo a pak ho poruÅ¡Ã­Å¡!~
+@37   = ~Tyrova spravedlnost vÅ¡ak pÃ¸esto bude vykonÃ¡na. Beze mne neodejdeÅ¡ ze Sigilu a jÃ¡ neopustÃ­m svÃ© mÃ­sto, protoÅ¾e musÃ­m udrÅ¾et spojenÃ­ ke Glourkistovi otevÃ¸enÃ©.~
+@38   = ~Najdi Jharaka a Å½ezlo, nebo se jiÅ¾ nikdy nevrÃ¡tÃ­Å¡ domÃ¹.~
+@39   = ~UÃ¨iÃ² tak.~
+@40   = ~UrÃ¨itÃ¬ jest v Ãšlu nÃ¬kdo, kdo nÃ¡m mÃ¹Å¾e pomoci! Poptej se u tÃ¬ch, kdo se zrodili ve VyÅ¡Å¡Ã­ch sfÃ©rÃ¡ch.~
+@41   = ~ZÃ­skal jsi Å¾ezlo. Pak si tedy pospÃ¬Å¡me pomoci Saerileth!~ [SAERI145]
+@42   = ~VrÃ¡til jsem tÃ¬ do tvÃ© sfÃ©ry. A nynÃ­ se i jÃ¡ navrÃ¡tÃ­m za Saerileth, mou milovanou.~ [SAERI149]
+@43   = ~UpÃ¸Ã­mnÃ¬ ti dÃ¬kuji, <CHARNAME>. A jako malou nÃ¡hradu za to, cos pro Tyra vykonal pÃ¸i zÃ¡chranÃ¬ jeho drahÃ© VyvolenÃ©, ti dÃ¡vÃ¡m toto.~ [SAERI150]
+@44   = ~Jest to mocnÃ© kladivo, posvÃ¬cenÃ© Tyrem. PouÅ¾ij ho ke konÃ¡nÃ­ dobra ve jmÃ©nu Tyra JednorukÃ©ho.~
+@45   = ~(RytÃ­Ã¸ nespustÃ­ oÃ¨i ze Saerileth, ale mluvÃ­ dÃ¡l k tobÃ¬.)~
+@46   = ~UpÃ¸Ã­mnÃ¬ ti dÃ¬kuji, <CHARNAME>. A jako malou nÃ¡hradu za to, cos pro Tyra vykonal pÃ¸i zÃ¡chranÃ¬ jeho drahÃ© VyvolenÃ©, ti dÃ¡vÃ¡m toto.~ [SAERI150]
+@47   = ~Jest to mocnÃ© kladivo, posvÃ¬cenÃ© Tyrem. PouÅ¾ij ho ke konÃ¡nÃ­ dobra ve jmÃ©nu ZlomenÃ©ho Boha.~
+@48   = ~VÃ­tej, Saerileth, Tyrova VyvolenÃ¡.~ [SAERI141]
+@49   = ~Lorde Edoreme! (Saerileth se otoÃ¨Ã­ a usmÃ¬je se na zlatovlasÃ©ho rytÃ­Ã¸e.)~
+@50   = ~RÃ¡da vidÃ­m, Å¾es v poÃ¸Ã¡dku.~
+@51   = ~A ty, Saerileth, i tys--v poÃ¸Ã¡dku?~
+@52   = ~(Edorem se podÃ­vÃ¡ na tebe a jeho vÃ½raz se zmÃ¬nÃ­.) A ty, boÅ¾skÃ© dÃ­tÃ¬, peÃ¨ujeÅ¡ o ni, jak prÃ¡vem zasluhuje?~
+@53   = ~NepotÃ¸ebuje Å¾Ã¡dnou chÃ¹vu.~
+@54   = ~ProÃ¨ se na mÃ¬ tak dÃ­vÃ¡Å¡?~
+@55   = ~Co tady vlastnÃ¬ chceÅ¡?~
+@56   = ~(Edoremovy oÃ¨i, modrÃ© jako ty, jeÅ¾ mÃ¡ ve tvÃ¡Ã¸i Saerileth, nÃ¡hle zaplanou.) PÃ¸ec si zaslouÅ¾Ã­ cestovat s nÃ¬kÃ½m lepÅ¡Ã­m neÅ¾ s nÃ¡jemnÃ½m Å¾oldÃ¡kem!~
+@57   = ~Copak nechÃ¡peÅ¡?~
+@58   = ~MÃ¡Å¡ nÃ¬jakÃ½ *dÃ¹vod*, proÃ¨ jsi tady?~
+@59   = ~Co od nÃ¡s chceÅ¡?~
+@60   = ~JistÃ¬Å¾e to chÃ¡pu.~
+@61   = ~Miluju ji. JistÃ¬Å¾e to chÃ¡pu!~
+@62   = ~(Edorem na chvÃ­li sklopÃ­ zrak, a kdyÅ¾ odpovÃ­dÃ¡, znovu se obrÃ¡tÃ­ k Saerileth.) ~
+@63   = ~PÃ¸inÃ¡Å¡Ã­m dar Saerileth od knÃ¬Å¾Ã­ TyrovÃ½ch. (PÃ¸edÃ¡ Saerileth lahviÃ¨ku s lÃ©Ã¨ivÃ½m lektvarem.)~
+@64   = ~BuÃ¯ zdrÃ¡va, Saerileth. (RytÃ­Ã¸ se jÃ­ poklonÃ­, ale kdyÅ¾ odchÃ¡zÃ­ do svÃ© sfÃ©ry, jeho planoucÃ­ oÃ¨i se dÃ­vajÃ­ pÃ¸Ã­mo na tebe.)~
+@65   = ~JÃ¡? Od tebe nechci nic, boÅ¾skÃ© dÃ­tÃ¬. (KdyÅ¾ se na tebe dÃ­vÃ¡, jeho oÃ¨i zÃ¡Ã¸Ã­ ocelovou modÃ¸Ã­.)~
+@66   = ~Kolik toho zÃ¸Ã­Å¡, boÅ¾skÃ© dÃ­tÃ¬? (Edoremovy oÃ¨i se na tebe soustÃ¸edÃ­ se zvlÃ¡Å¡tnÃ­m zaujetÃ­m.)~
+@67   = ~ZnÃ¡Å¡ cenu, jakou mÃ¡ jejÃ­ srdce?~
+@68   = ~Nejsem do nÃ­ zamilovanÃ½, jestli myslÃ­Å¡ tohle.~
+@69   = ~VÃ­m, jakou mÃ¡ Saerileth cenu, rytÃ­Ã¸i.~
+@70   = ~Co tu tedy *dÃ¬lÃ¡Å¡*?~
+@71   = ~Ty ji milujeÅ¡? (EdoremÃ¹v hlas je pohrdavÃ¬ chladnÃ½.) Ty si *dovolujeÅ¡* ji milovat?~
+@72   = ~(Se znaÃ¨nÃ½m ÃºsilÃ­m se Edorem ovlÃ¡dne.) KvÃ¹li tomu jsem vÅ¡ak nepÃ¸iÅ¡el.~
+@73   = ~Pochybuji, Å¾e jest to pravda. (Edorem se obrÃ¡tÃ­ zpÃ¬t k Saerileth.)~
+@74   = ~PÃ¸inÃ¡Å¡Ã­m ti dar od knÃ¬Å¾Ã­ TyrovÃ½ch. (PÃ¸edÃ¡ Saerileth lahviÃ¨ku s lÃ©Ã¨ivÃ½m lektvarem.)~
+@75   = ~To toho tak mÃ¡lo vÃ­Å¡ o SaerilethinÃ¬ minulosti, Å¾e se tÃ¬ musÃ­m tÃ¡zat? Nejsi si vÃ¬dom, jakÃ½ poklad byl svÃ¬Ã¸en do tvÃ© pÃ©Ã¨e?~
+@76   = ~NevidÃ­Å¡, Å¾e si zaslouÅ¾Ã­ cestovat s nÃ¬kÃ½m lepÅ¡Ã­m neÅ¾ s nÃ¡jemnÃ½m Å¾oldÃ¡kem? NechÃ¡peÅ¡ to?~
+@77   = ~(Edoremova tvÃ¡Ã¸ se na chvÃ­li uklidnÃ­, ale na okamÅ¾ik ztratÃ­ Ã¸eÃ¨; vÅ¡imne si totiÅ¾, Å¾e Saerileth propukla v plÃ¡Ã¨.)~
+@78   = ~Tys zlomil mÃ© srdce. (Saerileth sepne ruce a usedavÃ¬ plÃ¡Ã¨e.)~
+@79   = ~(Edorem na tebe vrhne temnÃ½ pohled a uklonÃ­ Saerileth.) Budu na ni dÃ¡vat pozor. Bylo by pro ni lepÅ¡Ã­, kdybys zanechal svÃ½ch pochÃ¹zek.~
+@80   = ~(ObrÃ¡tÃ­ se zpÃ¡tky k Saerileth a vezme ji do nÃ¡ruÃ¨Ã­. I na jeho hrudi vÅ¡ak dÃ¡l usedavÃ¬ naÃ¸Ã­kÃ¡.)~
+@81   = ~(Edorem se ti strnule uklonÃ­ a dÃ¡l drÅ¾Ã­ Saerileth za ruku.) Saerileth, VyvolenÃ¡ Tyrova, jest tvÃ© srdce stÃ¡le jeÅ¡tÃ¬ volnÃ©?~ [SAERI142]
+@82   = ~(Saerileth se zvedne a jejÃ­ vrozenÃ¡ zdvoÃ¸ilost ji neopouÅ¡tÃ­ ani pÃ¸es rumÃ¬nec na jejÃ­ch tvÃ¡Ã¸Ã­ch.) ~
+@83   = ~Nikoli, mÃ¹j pane. NenÃ­.~
+@84   = ~Pak toto Bhaalovo dÃ­tÃ¬ zajalo tvÃ© srdce, Saerileth? Pokud jest tomu tak, pak tÃ¬ jistÃ¬ obelstil!~
+@85   = ~DobÃ¸e se naÃ² podÃ­vej, na hulvÃ¡ta, co se nestydÃ­ lhÃ¡t dÃ¡mÃ¬! (Edorem se rychle pohne a sebere ti vÅ¡echny magickÃ© pÃ¸edmÃ¬ty, kterÃ© vylepÅ¡ujÃ­ tvÃ© charisma.)~
+@86   = ~PohleÃ¯ na nÃ¬j, Saerileth!~
+@87   = ~Co to mÃ¡ bÃ½t? Lorde Edoreme, proÃ¨ bys byl tak nezdvoÃ¸ilÃ½? (Saerileth se k tobÃ¬ otoÃ¨Ã­.)~
+@88   = ~ProsÃ­m, mÃ¡ lÃ¡sko, odpus--~
+@89   = ~(Edoremovy oÃ¨i se do tebe vpalujÃ­.)~
+@90   = ~Odpustit? MÃ¡m ti odpustit takovou nestydatost?!~
+@91   = ~KvÃ¹li Saerileth ti tuto nehorÃ¡znost odpouÅ¡tÃ­m.~
+@92   = ~U Tyra! Ty ji takÃ© milujÅ¡!~
+@93   = ~(Edorem nÃ¡hle zbledne.) Ty-tys ji neobelstil! SkuteÃ¨nÃ¬s tÃ­m, kÃ½m se zdÃ¡Å¡ bÃ½t, navzdory Ã¨arÃ¡m, jeÅ¾ tÃ¬ obklopujÃ­.~
+@94   = ~(RytÃ­Ã¸ pÃ¸ed tebou formÃ¡lnÃ¬ poklekne.) Obvinil jsem tÃ¬ neprÃ¡vem, <CHARNAME>, synu BhaalÃ¹v.~
+@95   = ~JestliÅ¾e si Å¾Ã¡dÃ¡Å¡ souboj, jenÅ¾ by z tebe smyl poskvrnu mÃ©ho obvinÃ¬nÃ­, budiÅ¾ tedy. Pokud ne, opustÃ­m tÃ¬ a jiÅ¾ tÃ¬ nebudu obtÃ¬Å¾ovat.~
+@96   = ~Za tohle si narazÃ­m tvoje srdce na Ã¨epel!~
+@97   = ~(Edorem vstane a formÃ¡lnÃ¬ se uklonÃ­.) Stanov si podmÃ­nky, nebo se stane, jak Å¾Ã¡dÃ¡Å¡.~
+@98   = ~(RytÃ­Ã¸ovou vzneÅ¡enou tvÃ¡Ã¸Ã­ se na chvilku mihne triumfÃ¡lnÃ­ vÃ½raz a pak uÅ¾ tÃ¬ ÃºplnÃ¬ ignoruje.)~
+@99   = ~PohleÃ¯, Saerileth, na toho bÃ­dÃ¡ka, jenÅ¾ tÃ¬ omÃ¡mil! KrÃ¡sa boÅ¾skÃ©ho dÃ­tÃ¬te i jeho sÃ­la, vÅ¡e jest jen klam a faleÅ¡!~
+@100  = ~PouÅ¾il Ã¨Ã¡ry, aby tÃ¬ obloudil! PohleÃ¯ na jeho skuteÃ¨nou tvÃ¡Ã¸!~
+@101  = ~(Edorem se ti formÃ¡lnÃ¬ uklonÃ­ a a v jeho tvÃ¡Ã¸i se mÃ­sÃ­ smutek a obavy.) Ty-tys ji neobelstil! SkuteÃ¨nÃ¬s tÃ­m, kÃ½m se zdÃ¡Å¡ bÃ½t, navzdory Ã¨arÃ¡m, jeÅ¾ tÃ¬ obklopujÃ­.~
+@102  = ~Obvinil jsem tÃ¬ neprÃ¡vem, <CHARNAME>, synu BhaalÃ¹v. Za tvÃ© odpuÅ¡tÃ¬nÃ­, jeÅ¾ si nezaslouÅ¾Ã­m, ti patÃ¸Ã­ mÃ¹j dÃ­k.~
+@103  = ~NynÃ­ tÃ¬ opustÃ­m a jiÅ¾ tÃ¬ nebudu obtÃ¬Å¾ovat. (Znovu se podÃ­vÃ¡ na Saerileth, a kdyÅ¾ mluvÃ­, jeho zmuÃ¨enÃ© oÃ¨i na chvÃ­li prodlÃ©vajÃ­ na jejÃ­ tvÃ¡Ã¸i.)~
+@104  = ~BuÃ¯ sbohem, Saerileth, nejkrÃ¡snÃ¬jÅ¡Ã­ ze vÅ¡ech dÃ¬tÃ­ svÃ¬ta.~
+@105  = ~(Edoremovy oÃ¨i se nemohou odtrhnout od tvÃ©ho obliÃ¨eje a v jeho tvÃ¡Ã¸i se objevuje smutek a obavy.)~
+@106  = ~Pravdu dÃ­Å¡, <CHARNAME>, ochrÃ¡nce Saerileth. MÃ© vlastnÃ­ skutky mne zahanbujÃ­. SkuteÃ¨nÃ¬s tÃ­m, kÃ½m se zdÃ¡Å¡ bÃ½t, navzdory Ã¨arÃ¡m, jeÅ¾ tÃ¬ obklopujÃ­.~
+@107  = ~Obvinil jsem tÃ¬ neprÃ¡vem, <CHARNAME>, synu BhaalÃ¹v. JestliÅ¾e si Å¾Ã¡dÃ¡Å¡ souboj, jenÅ¾ by z tebe smyl poskvrnu mÃ©ho obvinÃ¬nÃ­, budiÅ¾ tedy. Pokud ne, opustÃ­m tÃ¬ a jiÅ¾ tÃ¬ nebudu obtÃ¬Å¾ovat.~
+@108  = ~Nikoli, tak to *nesmÃ­* bÃ½t. (Saerilethina tvÃ¡Ã¸ je bledÃ¡ a z oÃ¨Ã­ jÃ­ teÃ¨ou slzy.)~
+@109  = ~Nejsem tak slepÃ¡ abych nechÃ¡pala, Å¾e bojujeÅ¡ prÃ¡vÃ¬ tak pro me, jako pro svou pÃ½chu, <CHARNAME>!~
+@110  = ~NenÃ­ pÃ¸ec tÃ¸eba, abys pro mÃ© city tasil meÃ¨--~
+@111  = ~Ne, Saerileth. Byl jsem jen naÅ¡tvanÃ½. NeublÃ­Å¾Ã­m mu.~
+@112  = ~Nebojuju o tvou lÃ¡sku, Saerileth. Bojuju kvÃ¹li svÃ© vlastnÃ­ cti.~
+@113  = ~JÃ¡ tvrdÃ­m, Å¾e *musÃ­m* bojovat o tvÃ© srdce, mÃ¡ lÃ¡sko, a kvÃ¹li tobÃ¬ se postavÃ­m tomuhle pomlouvaÃ¨nÃ©mu rytÃ­Ã¸i--nebo komukoli jinÃ©mu.~
+@114  = ~(Saerileth si Ãºlevou povzdechne a pÃ¸estÃ¡vÃ¡ plakat.) DÃ¬kuji ti, milovanÃ½. Lord Edorem jest TyrÃ¹v VyvolenÃ½ a aÃ¨ jeho pÃ©Ã¨e o mne nenÃ­ na mÃ­stÃ¬, pÃ¸ec nechci, aby doÅ¡el Ãºhony.~
+@115  = ~MÃ¡ lÃ¡ska patÃ¸Ã­ jen tobÃ¬, jak jistÃ¬ vÃ­Å¡. (Saerileth stÃ¡le svÃ­rÃ¡ tvou dlaÃ², kdyÅ¾ se dÃ­vÃ¡ na Edorema, a v jejÃ­m pohledu je nekoneÃ¨nÃ¡ lÃ­tost.)~
+@116  = ~NynÃ­ chÃ¡pu slova, jeÅ¾ jsi pronesl pÃ¸i naÅ¡em louÃ¨enÃ­ v Sigilu. Lituji tÃ¬, mÃ¹j pane, avÅ¡ak mÃ© srdce mi jiÅ¾ nepatÃ¸Ã­, a tak ti ho nemohu dÃ¡t.~
+@117  = ~Jest to <CHARNAME>, komu nynÃ­ patÃ¸Ã­.~
+@118  = ~ChÃ¡pu to, <CHARNAME>, skuteÃ¨nÃ¬ ti rozumÃ­m, vÅ¡ak pÃ¸ec tÃ¬ Å¾Ã¡dÃ¡m, uÅ¡etÃ¸i jeho Å¾ivot.~
+@119  = ~(Saerileth pÃ¸ed tebou poklekne se zdviÅ¾enÃ½mi paÅ¾emi, v rituÃ¡lnÃ­m gestu prosebnÃ­ka.) Pro lÃ¡sku, jiÅ¾ ke mnÃ¬ chovÃ¡Å¡, odpus mu toto provinÃ¬nÃ­.~
+@120  = ~Jest to TyrÃ¹v VyvolenÃ½ a jÃ¡ tÃ¬ prosÃ­m o jeho Å¾ivot.~
+@121  = ~DobrÃ¡, Saerileth. Å½e mÃ¬ tak pÃ¬knÃ¬ prosÃ­Å¡, uÅ¡etÃ¸Ã­m ho.~
+@122  = ~Ne, Saerileth, ani kvÃ¹li tvojÃ­ lÃ¡sce mu to nemÃ¹Å¾u odpustit. Edorem zemÃ¸e.~
+@123  = ~(Saerileth tÃ¬ vezme za ruku a z oÃ¨Ã­ jÃ­ proudem teÃ¨ou slzy.) MÃ¹j nejdraÅ¾Å¡Ã­, mÃ© srdce patÃ¸Ã­ tobÃ¬, jak jistÃ¬ vÃ­Å¡.~
+@124  = ~ProsÃ­m tÃ¬, na kolenou tÃ¬ Å¾Ã¡dÃ¡m, neubliÅ¾uj lordu Edoremovi. Jest to TyrÃ¹v VyvolenÃ½ a jest mou povinnostÃ­ postavit se na jeho obranu.~
+@125  = ~(Saerileth se usmÃ¬je pÃ¸es svÃ© slzy.) DÃ¬kuji ti, milovanÃ½. (Saerileth stÃ¡le svÃ­rÃ¡ tvou dlaÃ², kdyÅ¾ se dÃ­vÃ¡ na Edorema, a v jejÃ­m pohledu je nekoneÃ¨nÃ¡ lÃ­tost.)~
+@126  = ~Pak jsi zahubil Saerileth! Nebo mÃ¡ posluÅ¡nost Tyrovi jest i nad lÃ¡skou, jiÅ¾ k tobÃ¬ chovÃ¡m, srdce mÃ©ho srdce.~
+@127  = ~Nemohu jen tak pÃ¸ihlÃ­Å¾et, kdyÅ¾ hodlÃ¡Å¡ zahubit Tyrova sluÅ¾ebnÃ­ka.~
+@128  = ~(Saerileth se snaÅ¾Ã­ vytÃ¡hnout zbraÃ² z pochvy, ale nÃ¡hle padÃ¡ bez dechu k EdoremovÃ½m nohÃ¡m.)~
+@129  = ~BuÃ¯ proklet, <CHARNAME>, prÃ¡vÃ¬s zniÃ¨il nejkrÃ¡snÃ¬jÅ¡Ã­ stvoÃ¸enÃ­, jeÅ¾ bohovÃ© kdy uÃ¨inili! Cenil sis svÃ© pÃ½chy vÃ­ce neÅ¾ jejÃ­ho srdce i Å¾ivota!~
+@130  = ~NemÃ½lil jsem se tedy; tÃ¸ebaÅ¾e jest tvÃ¡ krÃ¡sa skuteÃ¨nÃ©, tvÃ© srdce jest pÃ¸ec stejnÃ¬ Ã¨ernÃ©.~
+@131  = ~(NeÅ¾ se zmÃ¹Å¾eÅ¡ na odpovÃ¬Ã¯, rytÃ­Ã¸ zmizÃ­ tvÃ½m oÃ¨Ã­m a bere Saerileth s sebou.)~
+@132  = ~(Saerileth tÃ¬ obejme a pÃ¸ivine se k tobÃ¬, jejÃ­ slzy ti padajÃ­ na hruÃ¯.)~
+@133  = ~Ach, <CHARNAME>, proÃ¨ musÃ­ naÅ¡e lÃ¡ska pÃ¹sobit rÃ¡ny tak vzneÅ¡enÃ©mu srdci? Lord Edorem jest TyrÃ¹v VyvolenÃ½ a ke mnÃ¬ se vÅ¾dy choval nesmÃ­rnÃ¬ laskavÃ¬.~
+@134  = ~VÅ¡ak pÃ¸ec mÃ© srdce patÃ¸Ã­ jen tobÃ¬. (Saerileth poloÅ¾Ã­ svou hlavu na tvou hruÃ¯ a dlouhou chvÃ­li se tÃ¬ pevnÃ¬ drÅ¾Ã­.)~
+@135  = ~(Saerilethiny oÃ¨i se strachem rozÅ¡Ã­Ã¸Ã­ a po jejÃ­ch lÃ­cÃ­ch teÃ¨ou slzy. I kdyÅ¾ stÃ¡le mluvÃ­ s tebou, vloÅ¾Ã­ svou ruku do Edoremovy dlanÃ¬.)~
+@136  = ~Nikdy bych nevÃ¬Ã¸ila, Å¾es toho schopen! Å½e ty-ty! Ty, na koho jsem spolÃ©hala po celÃ½ ten Ã¨as--bys mne obelstil!~
+@137  = ~OÃ¨arovals mne, prÃ¡vÃ¬ tak, jak dÃ­ lord Edorem. (Saerilethin hlas se ztrÃ¡cÃ­ v jejÃ­m vzlykÃ¡nÃ­ a Edorem ji pevnÃ¬ sevÃ¸e v objetÃ­.)~
+@138  = ~Saerileth! Ale jÃ¡ tÃ¬ miluju! ProÃ¨ mi to dÃ¬lÃ¡Å¡?~
+@139  = ~Jsem poÃ¸Ã¡d ten samÃ½ <CHARNAME>, kterÃ©mu jsi Ã¸ekla, Å¾e ho milujeÅ¡! To je tvÃ© srdce tak pÃ¸elÃ©tavÃ©, Saerileth?~
+@140  = ~KdyÅ¾ jsi tak vrtkavÃ¡, tak uÅ¾ tÃ¬ nechci! A si tÃ¬ Edorem nechÃ¡!~
+@141  = ~ChÃ¡pu. TakÅ¾e to doÅ¡lo aÅ¾ tak daleko. UÅ¾ mÃ¬ tedy nemilujeÅ¡?~
+@142  = ~JÃ¡? NedÃ¬lÃ¡m ti nic, <CHARNAME>! Byls to ty, kdo mne obelstil. JiÅ¾ na tebe nemohu spolÃ©hat, proto i mÃ¡ lÃ¡ska k tobÃ¬ musÃ­ uvadnout.~
+@143  = ~(Saerileth dÃ¡l zlomenÃ¬ plÃ¡Ã¨e a Edorem ji hladÃ­ po vlasech.) Jest tedy tvou vÃ¹lÃ­, abych jiÅ¾ nekrÃ¡Ã¨ela po tvÃ©m boku? Nebo i po tom vÅ¡em stÃ¡le touÅ¾Ã­Å¡, aby Saerileth byla tvou spoleÃ¨nicÃ­?~
+@144  = ~Saerileth, nechoÃ¯ pryÃ¨. Chci si znovu zÃ­skat tvoji dÃ¹vÃ¬ru.~
+@145  = ~Tak si bÃ¬Å¾. Zmiz a spÃ¡nembohem. UÅ¾ tÃ¬ nikdy nechci vidÃ¬t.~
+@146  = ~RozumÃ­m. PÃ¸esto bych si pÃ¸Ã¡l mÃ­t tÃ¬ po boku, Saerileth, i kdyÅ¾ naÅ¡e lÃ¡ska nemÃ¡ Å¾Ã¡dnou budoucnost.~
+@147  = ~MÃ© srdce? Co ty vÃ­Å¡ o mÃ©m srdci? (Saerilethiny oÃ¨i jsou zamÅ¾enÃ© a jejÃ­ hlas je tichÃ½, pÃ¸erÃ½vanÃ½ vzlyky.)~
+@148  = ~V lÃ¡sce pÃ¸ec musÃ­ bÃ½t dÃ¹vÃ¬ra. Jak vÅ¡ak mohu spolÃ©hat na toho, kdo pouÅ¾ije Ã¨Ã¡ry, aby mne obelstil? Nemohu ti jiÅ¾ vÃ¬Ã¸it, a tak i mÃ¡ lÃ¡ska k tobÃ¬ musÃ­ uvadnout.~
+@149  = ~(Saerileth nic neÃ¸Ã­kÃ¡ a dÃ¡l plÃ¡Ã¨e.)~
+@150  = ~MilujeÅ¡ mne? Co ty vÃ­Å¡ o lÃ¡sce? (Saerilethiny oÃ¨i jsou zamÅ¾enÃ© a jejÃ­ hlas je tichÃ½, pÃ¸erÃ½vanÃ½ vzlyky.)~
+@151  = ~Tak to nesmÃ­ bÃ½t, <CHARNAME>, pÃ¸inejmenÅ¡Ã­m nikoli tak, jak se zdÃ¡, Å¾e doufÃ¡Å¡. JestliÅ¾e se ti kdy nauÃ¨Ã­m znovu dÃ¹vÃ¬Ã¸ovat, stÃ¡le to bude pÃ¸Ã­liÅ¡ pozdÃ¬, abych tÃ¬ dÃ¡le milovala.~
+@152  = ~NevÃ­m, co dÃ¡le Ã¸Ã­ci. Co Å¾Ã¡dÃ¡Å¡ ty?~
+@153  = ~Jdi si! UÅ¾ tÃ¬ nechci nikdy vidÃ¬t.~
+@154  = ~(Saerileth beze slova pÃ¸ikÃ½vne.)~
+@155  = ~Jak si Å¾Ã¡dÃ¡Å¡. (Saerileth nenÃ­ schopnÃ¡ slova a dÃ¡l zlomenÃ¬ plÃ¡Ã¨e na EdoremovÃ¬ hrudi.)~
+@156  = ~A jÃ¡ si ji vskutku nechÃ¡m, prokletÃ© boÅ¾skÃ© dÃ­tÃ¬. (Edoremovou tvÃ¡Ã¸Ã­ probleskne vÃ­tÃ¬zstvÃ­.)~
+@157  = ~VÅ¡ak uÅ¾ ji vÃ­ce nespatÃ¸Ã­Å¡. Saerileth se navrÃ¡tÃ­ po mÃ©m boku. (Edoremovou tvÃ¡Ã¸Ã­ probleskne vÃ­tÃ¬zstvÃ­.)~
+@158  = ~Pak toto dÃ­tÃ¬ Bhaalovo zajalo tvÃ© srdce, Saerileth? Jak to mÃ¹Å¾e bÃ½t?~
+@159  = ~NepamatujeÅ¡ si snad na slova, jeÅ¾ jsem ti Ã¸Ã­kal pÃ¸i naÅ¡em louÃ¨enÃ­?~
+@160  = ~Pamatuji si je dobÃ¸e, lorde Edoreme. VÅ¡ak pravila jsem ti pÃ¸ec, Å¾e mÃ© srdce ti doposud nepatÃ¸Ã­.~
+@161  = ~Pravila jsi, Å¾e nenÃ­ jeÅ¡tÃ¬ mÃ©--ale neÃ¸eklas mi, Å¾e ho Ã¨asem snad nemohu zÃ­skat.~
+@162  = ~(RytÃ­Ã¸ova krÃ¡snÃ¡ tvÃ¡Ã¸ je utrÃ¡penÃ¡, ale jeho hlas, hlubokÃ½ a vÃ¡Å¡nivÃ½, neprozrazuje Å¾Ã¡dnou slabost.)~
+@163  = ~A Ã¨asu se mi nedostalo. JednorukÃ½ tÃ¬ vyslal do ZÃ¡kladnÃ­ a nynÃ­ se zdÃ¡, Å¾e jsem tÃ¬ tu ztratil.~
+@164  = ~NemÃ¹Å¾eÅ¡ pÃ¸ec ztratit, co nikdy nebylo tvÃ½m. (Saerileth pevnÃ¬ svÃ­rÃ¡ tvou dlaÃ².)~
+@165  = ~Jest tomu vskutku tak, <CHARNAME>, synu BhaalÃ¹v? Jest Saerileth tvou jedinou a pravou lÃ¡skou?~
+@166  = ~Ano, Edoreme. Saerileth je mÃ¡ jedinÃ¡ lÃ¡ska. Je mi lÃ­to.~
+@167  = ~Miluju Saerileth, ale nenÃ­ sprÃ¡vnÃ©, abych ti ji pÃ¸ebral. VzdÃ¡m se svÃ©ho nÃ¡roku na ni ve tvÃ¹j prospÃ¬ch.~
+@168  = ~Je mÃ¡ a ty ji nikdy nebudeÅ¡ mÃ­t!~
+@169  = ~MÃ¡m Saerileth celkem rÃ¡d, to ano, ale nemÃ¹Å¾u Ã¸Ã­ct, Å¾e je to mÃ¡ jedinÃ¡ a pravÃ¡ lÃ¡ska.~
+@170  = ~NepohrdÃ¡m lÃ­tostÃ­, je-li laskavÃ¡--a na mÃ­stÃ¬. AlespoÃ² jsem tedy na chvÃ­li zahlÃ©dl Saerileth, nejpohlednÃ¬jÅ¡Ã­ stvoÃ¸enÃ­ tohoto i jakÃ©hokoli jinÃ©ho svÃ¬ta.~
+@171  = ~Z toho se budu radovat vÃ­ce, neÅ¾ si mÃ¹Å¾e kterÃ½koli smrtelnÃ­k pÃ¸Ã¡t.~
+@172  = ~Ty bys tak uÃ¨inil? (V EdoremovÃ¬ tvÃ¡Ã¸i je zÃ¸etelnÃ¬ vidÃ¬t pÃ¸ekvapenÃ­, silnÃ¬jÅ¡Ã­ neÅ¾ nÃ¡hlÃ¡ radost.)~
 @173  = ~Ty bys mi dal Saerileth?~
-@174  = ~Tak se zdá. (Edorem se tobì i Saerileth ukloní.) Alespoò jsem tedy na chvíli zahlédl Saerileth, nejpohlednìjší stvoøení tohoto i jakéhokoli jiného svìta.~
-@175  = ~Pak není? Myslíš snad, e nalezneš krásnìjší pannu? (Edorem si pohrdavì odfrkne.)~
-@176  = ~Pøec ti však dìkuji, vdy jsi svımi slovy propustil Saerileth z jejího otroctví.~
-@177  = ~Ty-ty bys mne pøenechal lordu Edoremovi? (Saerilethina tváø je bledá a utrápená.) ~
-@178  = ~Z jaké pøíèiny? Kde jsem neobstála, má lásko? Však nejsi mou láskou více, kdy jsi mne zavrhl.~
-@179  = ~I v tom tì však chci poslechnout, neb má slova k tobì byla pravdivá. Jestlie mne dáš lordu Edoremovi, pak lordu Edoremovi budu patøit.~
-@180  = ~Tys-tys mne nikdy nemiloval? A tvá slova o lásce byly vše jen--li? (Saerilethina tváø je popelavá a její modré oèi témìø zèernaly.)~
-@181  = ~Saerileth! (Edoremùv hlas má v sobì touebnou radost.) Nalezl jsem tì tedy!~ [SAERI151]
-@182  = ~Lord Edorem? Co pohledáváš v tìchto krajích? (Saerilethino oboèí se ve zmatku zamraèí.)~ [SAERI152]
-@183  = ~Nezøíš mne snad ráda? (Edorem náhle zaváhá.)~
-@184  = ~Nikoli, mùj pane! (Saerileth k nìmu bezdìènì vykroèí.) Není èasu, kdy by pro mne nebylo radostí spatøit tvou tváø.~
-@185  = ~To rád slyším. (Edorem se pøiblíí k Saerileth a poloí jí ruku na rameno.)~
-@186  = ~A co se tıká mé pochùzky zde, touím jen zvìdìt, jak se ti daøí.~
-@187  = ~Daøí se mi dobøe, lorde Edoreme. (Saerileth se pokouší usmát, ale náhle vlhké oèi zrazují její slova.)~
-@188  = ~Jest laskavé, es kvùli mnì šel takovou dálku.~
-@189  = ~Kvùli tobì bych pøekroèil Baator.~
-@190  = ~A té jsi tak uèinil.~
-@191  = ~(Pár odejde kousek opodál, a tak nezaslechneš nic z jejich dalšího rozhovoru.)~
-@192  = ~(A kdy se Edorem louèí, øekne ti pár slov.)~
-@193  = ~Mé díky tobì, <CHARNAME>, za tvou péèi o Saerileth. Svìøuji ti ji do èasù, je pøichází.~
-@194  = ~Pøišel jsem, abych tì spatøil, Saerileth.~ [SAERI153]
-@195  = ~Lord Edorem! Nemyslela jsem, e by ses vrátil tak brzy. Mám z toho velikou radost.~ [SAERI154]
-@196  = ~(Rytíø poloí svou ruku na Saerilethinu pai.) Jest to pro tebe tìké, zde v Základní.~
-@197  = ~Jest to vùle Tyrova, pane.~
-@198  = ~To jest pravda, však naše povinnosti nejsou vdy snadné. Vím, e ti schází sféry.~
-@199  = ~Jak to víš? (Saerileth se mu podívá pøímo do modrıch oèí, tak podobnıch jejím vlastním.)~
-@200  = ~Jest to pravda, však já o tom s tebou nikdy nehovoøila.~
-@201  = ~Nemusíš hovoøit, Saerileth. Tvé oèi mnoho prozradí. Praví mi, té, e na tvém srdci jest šrám, kterı nepochází ze Základní.~
-@202  = ~Myslela jsem, e miluji, lorde Edoreme. A myslela jsem, e má láska jest opìtována. Však mé srdce bylo odmítnuto a má dùvìra zklamána.~
-@203  = ~Ach. Myslel jsem, e jest tomu tak. (Edorem na tebe vrhne postranní pohled, ale dál mluví se Saerileth.)~
-@204  = ~Saerileth, jistìs neuèinila nic, zaè by ses mìla stydìt.~
-@205  = ~Nestydím se, jen jsem plná zármutku. (Ze Saerilethinıch oèí teèou slzy a stékají jí na tváøe.)~
-@206  = ~Ta bolest pøejde, Saerileth. Slibuji, e tomu tak bude.~
-@207  = ~Jak to mùeš vìdìt? (Saerilethiny oèi se tì na chvíli dotknou.)~
-@208  = ~Nebo tvé srdce jest jen pošramocené, nikoli zlomené. Tvá láska nebyla láskou, avšak jen poblouznìním.~
-@209  = ~Proè tak hovoøíš? Co ty o tom víš? (V Saerilethinì hlase není ádnı hnìv, spíše dychtivé oèekávání.)~
-@210  = ~Vím, protoe ve tvé lásce nikdy nebyla dùvìra. Vdy v ní byly pochybnosti a láska ádné nezná.~
-@211  = ~Doufám, e tvá slova jsou pravdivá, nebo v nich nacházím mnoho útìchy.~
-@212  = ~To jest víc, ne jsem doufal, e tì kdy uslyším pravit, a jsem rád, e jsem ti mohl pomoci. Vrátím se pro tebe, Saerileth. Pro tuto chvíli však buï sbohem.~
-@213  = ~Nevìdìla jsem, es zøel tolik. (Saerilethin pohled ztìkne.)~
-@214  = ~Jizvy Baatoru neodcházejí tak rychle, však, Saerileth, ty *nejsi* sama.~
-@215  = ~Odpus mi, lorde Edoreme. Jsem plná zármutku. (Ze Saerilethinıch oèí teèou slzy a stékají jí na tváøe.)~
-@216  = ~Jak jsi mohl vìdìt, e se tak stane? (Zdá se, e Saerilethiny oèi se na chvíli zahledìly do prázdna.)~
-@217  = ~Protoe jsem vìdìl, mohu ti pomoci. Nenechám tì tomu èelit o samotì.~
-@218  = ~Ty mne--neopustíš?~
-@219  = ~Jak jistì víš, není mi dovoleno zùstat v Základní. Ale vrátím se k tobì, aè budeš stále zde.~
-@220  = ~A a z ní budeš propuštìna, budu na tebe èekat.~
-@221  = ~Ve tvıch slovech je tolik útìchy.~
-@222  = ~To jest víc, ne jsem doufal, e tì kdy uslyším pravit. (Edorem se Saerileth zdvoøile ukloní.)~
-@223  = ~Navrátím se k tobì brzy, Saerileth. Pro tuto chvíli však buï sbohem.~
-@224  = ~(Právì jsi dokonèil pøípravy na nocování, kdy se ozve praskot provázející pøechod mezi sférami a objeví se lord Edorem.)~
-@225  = ~Lord Edorem! (Saerileth se otoèí za zvukem.)~ [SAERI285]
-@226  = ~Jsi potìšena, e mne zøíš, Saerileth? (Edorem vezme obì Saerilethiny dlanì do svıch.)~ [SAERI286]
-@227  = ~Jsem, lorde Edoreme. (Saerilethiny oèi zazáøí jasem, kterı jsi v nich nikdy pøedtím nevidìl.)~
-@228  = ~Proè jsi však zavítal?~
-@229  = ~Abych tì zahlédl, z ádného jiného dùvodu.~
-@230  = ~(Rytíø nepouští Saerilethiny ruce a ani ona se nechce vyprostit z jeho sevøení.)~
-@231  = ~Pohled na tebe jest balzámem pro mé srdce. Základní mne vyèerpává--ne však, e bych si pøála dlít jinde!~
-@232  = ~Zde mne drí vùle Zranìného Tyra.~
-@233  = ~Tvá oddanost-- (Zarazí se a sevøe Saerileth do náruèí.)~
-@234  = ~Drahá Saerileth, ve tvıch oèích jsem zahlédl Tyrovu slávu.~
-@235  = ~(Saerileth, s oblièejem zaboøenım v Edoremovì hrudi, neodpovídá, ale její ramena se jemnì otøesou.)~
-@236  = ~Znovu se za tebou navrátím, Saerileth.~
-@237  = ~(Saerileth vzhlédne.) Musíš snad odejít tak brzy?~
-@238  = ~Pokud si pøeješ, mohu s tebou zùstat, dokud se neodebereš ke spánku, abych s tebou pohovoøil.~
-@239  = ~Pøeji si tak.~
-@240  = ~(Ozve se známı zvuk otevírajícího se portálu mezi sférami a postava lorda Edorema, která se z nìj vynoøí, tì u vùbec nepøekvapuje.)~
+@174  = ~Tak se zdÃ¡. (Edorem se tobÃ¬ i Saerileth uklonÃ­.) AlespoÃ² jsem tedy na chvÃ­li zahlÃ©dl Saerileth, nejpohlednÃ¬jÅ¡Ã­ stvoÃ¸enÃ­ tohoto i jakÃ©hokoli jinÃ©ho svÃ¬ta.~
+@175  = ~Pak nenÃ­? MyslÃ­Å¡ snad, Å¾e nalezneÅ¡ krÃ¡snÃ¬jÅ¡Ã­ pannu? (Edorem si pohrdavÃ¬ odfrkne.)~
+@176  = ~PÃ¸ec ti vÅ¡ak dÃ¬kuji, vÅ¾dy jsi svÃ½mi slovy propustil Saerileth z jejÃ­ho otroctvÃ­.~
+@177  = ~Ty-ty bys mne pÃ¸enechal lordu Edoremovi? (Saerilethina tvÃ¡Ã¸ je bledÃ¡ a utrÃ¡penÃ¡.) ~
+@178  = ~Z jakÃ© pÃ¸Ã­Ã¨iny? Kde jsem neobstÃ¡la, mÃ¡ lÃ¡sko? VÅ¡ak nejsi mou lÃ¡skou vÃ­ce, kdyÅ¾ jsi mne zavrhl.~
+@179  = ~I v tom tÃ¬ vÅ¡ak chci poslechnout, neb mÃ¡ slova k tobÃ¬ byla pravdivÃ¡. JestliÅ¾e mne dÃ¡Å¡ lordu Edoremovi, pak lordu Edoremovi budu patÃ¸it.~
+@180  = ~Tys-tys mne nikdy nemiloval? A tvÃ¡ slova o lÃ¡sce byly vÅ¡e jen--lÅ¾i? (Saerilethina tvÃ¡Ã¸ je popelavÃ¡ a jejÃ­ modrÃ© oÃ¨i tÃ©mÃ¬Ã¸ zÃ¨ernaly.)~
+@181  = ~Saerileth! (EdoremÃ¹v hlas mÃ¡ v sobÃ¬ touÅ¾ebnou radost.) Nalezl jsem tÃ¬ tedy!~ [SAERI151]
+@182  = ~Lord Edorem? Co pohledÃ¡vÃ¡Å¡ v tÃ¬chto krajÃ­ch? (Saerilethino oboÃ¨Ã­ se ve zmatku zamraÃ¨Ã­.)~ [SAERI152]
+@183  = ~NezÃ¸Ã­Å¡ mne snad rÃ¡da? (Edorem nÃ¡hle zavÃ¡hÃ¡.)~
+@184  = ~Nikoli, mÃ¹j pane! (Saerileth k nÃ¬mu bezdÃ¬Ã¨nÃ¬ vykroÃ¨Ã­.) NenÃ­ Ã¨asu, kdy by pro mne nebylo radostÃ­ spatÃ¸it tvou tvÃ¡Ã¸.~
+@185  = ~To rÃ¡d slyÅ¡Ã­m. (Edorem se pÃ¸iblÃ­Å¾Ã­ k Saerileth a poloÅ¾Ã­ jÃ­ ruku na rameno.)~
+@186  = ~A co se tÃ½kÃ¡ mÃ© pochÃ¹zky zde, touÅ¾Ã­m jen zvÃ¬dÃ¬t, jak se ti daÃ¸Ã­.~
+@187  = ~DaÃ¸Ã­ se mi dobÃ¸e, lorde Edoreme. (Saerileth se pokouÅ¡Ã­ usmÃ¡t, ale nÃ¡hle vlhkÃ© oÃ¨i zrazujÃ­ jejÃ­ slova.)~
+@188  = ~Jest laskavÃ©, Å¾es kvÃ¹li mnÃ¬ Å¡el takovou dÃ¡lku.~
+@189  = ~KvÃ¹li tobÃ¬ bych pÃ¸ekroÃ¨il Baator.~
+@190  = ~A tÃ©Å¾ jsi tak uÃ¨inil.~
+@191  = ~(PÃ¡r odejde kousek opodÃ¡l, a tak nezaslechneÅ¡ nic z jejich dalÅ¡Ã­ho rozhovoru.)~
+@192  = ~(AÅ¾ kdyÅ¾ se Edorem louÃ¨Ã­, Ã¸ekne ti pÃ¡r slov.)~
+@193  = ~MÃ© dÃ­ky tobÃ¬, <CHARNAME>, za tvou pÃ©Ã¨i o Saerileth. SvÃ¬Ã¸uji ti ji do Ã¨asÃ¹, jeÅ¾ pÃ¸ichÃ¡zÃ­.~
+@194  = ~PÃ¸iÅ¡el jsem, abych tÃ¬ spatÃ¸il, Saerileth.~ [SAERI153]
+@195  = ~Lord Edorem! Nemyslela jsem, Å¾e by ses vrÃ¡til tak brzy. MÃ¡m z toho velikou radost.~ [SAERI154]
+@196  = ~(RytÃ­Ã¸ poloÅ¾Ã­ svou ruku na Saerilethinu paÅ¾i.) Jest to pro tebe tÃ¬Å¾kÃ©, zde v ZÃ¡kladnÃ­.~
+@197  = ~Jest to vÃ¹le Tyrova, pane.~
+@198  = ~To jest pravda, vÅ¡ak naÅ¡e povinnosti nejsou vÅ¾dy snadnÃ©. VÃ­m, Å¾e ti schÃ¡zÃ­ sfÃ©ry.~
+@199  = ~Jak to vÃ­Å¡? (Saerileth se mu podÃ­vÃ¡ pÃ¸Ã­mo do modrÃ½ch oÃ¨Ã­, tak podobnÃ½ch jejÃ­m vlastnÃ­m.)~
+@200  = ~Jest to pravda, vÅ¡ak jÃ¡ o tom s tebou nikdy nehovoÃ¸ila.~
+@201  = ~NemusÃ­Å¡ hovoÃ¸it, Saerileth. TvÃ© oÃ¨i mnoho prozradÃ­. PravÃ­ mi, tÃ©Å¾, Å¾e na tvÃ©m srdci jest Å¡rÃ¡m, kterÃ½ nepochÃ¡zÃ­ ze ZÃ¡kladnÃ­.~
+@202  = ~Myslela jsem, Å¾e miluji, lorde Edoreme. A myslela jsem, Å¾e mÃ¡ lÃ¡ska jest opÃ¬tovÃ¡na. VÅ¡ak mÃ© srdce bylo odmÃ­tnuto a mÃ¡ dÃ¹vÃ¬ra zklamÃ¡na.~
+@203  = ~Ach. Myslel jsem, Å¾e jest tomu tak. (Edorem na tebe vrhne postrannÃ­ pohled, ale dÃ¡l mluvÃ­ se Saerileth.)~
+@204  = ~Saerileth, jistÃ¬s neuÃ¨inila nic, zaÃ¨ by ses mÃ¬la stydÃ¬t.~
+@205  = ~NestydÃ­m se, jen jsem plnÃ¡ zÃ¡rmutku. (Ze SaerilethinÃ½ch oÃ¨Ã­ teÃ¨ou slzy a stÃ©kajÃ­ jÃ­ na tvÃ¡Ã¸e.)~
+@206  = ~Ta bolest pÃ¸ejde, Saerileth. Slibuji, Å¾e tomu tak bude.~
+@207  = ~Jak to mÃ¹Å¾eÅ¡ vÃ¬dÃ¬t? (Saerilethiny oÃ¨i se tÃ¬ na chvÃ­li dotknou.)~
+@208  = ~Nebo tvÃ© srdce jest jen poÅ¡ramocenÃ©, nikoli zlomenÃ©. TvÃ¡ lÃ¡ska nebyla lÃ¡skou, avÅ¡ak jen poblouznÃ¬nÃ­m.~
+@209  = ~ProÃ¨ tak hovoÃ¸Ã­Å¡? Co ty o tom vÃ­Å¡? (V SaerilethinÃ¬ hlase nenÃ­ Å¾Ã¡dnÃ½ hnÃ¬v, spÃ­Å¡e dychtivÃ© oÃ¨ekÃ¡vÃ¡nÃ­.)~
+@210  = ~VÃ­m, protoÅ¾e ve tvÃ© lÃ¡sce nikdy nebyla dÃ¹vÃ¬ra. VÅ¾dy v nÃ­ byly pochybnosti a lÃ¡ska Å¾Ã¡dnÃ© neznÃ¡.~
+@211  = ~DoufÃ¡m, Å¾e tvÃ¡ slova jsou pravdivÃ¡, nebo v nich nachÃ¡zÃ­m mnoho ÃºtÃ¬chy.~
+@212  = ~To jest vÃ­c, neÅ¾ jsem doufal, Å¾e tÃ¬ kdy uslyÅ¡Ã­m pravit, a jsem rÃ¡d, Å¾e jsem ti mohl pomoci. VrÃ¡tÃ­m se pro tebe, Saerileth. Pro tuto chvÃ­li vÅ¡ak buÃ¯ sbohem.~
+@213  = ~NevÃ¬dÃ¬la jsem, Å¾es zÃ¸el tolik. (Saerilethin pohled ztÃ¬Å¾kne.)~
+@214  = ~Jizvy Baatoru neodchÃ¡zejÃ­ tak rychle, vÅ¡ak, Saerileth, ty *nejsi* sama.~
+@215  = ~Odpus mi, lorde Edoreme. Jsem plnÃ¡ zÃ¡rmutku. (Ze SaerilethinÃ½ch oÃ¨Ã­ teÃ¨ou slzy a stÃ©kajÃ­ jÃ­ na tvÃ¡Ã¸e.)~
+@216  = ~Jak jsi mohl vÃ¬dÃ¬t, Å¾e se tak stane? (ZdÃ¡ se, Å¾e Saerilethiny oÃ¨i se na chvÃ­li zahledÃ¬ly do prÃ¡zdna.)~
+@217  = ~ProtoÅ¾e jsem vÃ¬dÃ¬l, mohu ti pomoci. NenechÃ¡m tÃ¬ tomu Ã¨elit o samotÃ¬.~
+@218  = ~Ty mne--neopustÃ­Å¡?~
+@219  = ~Jak jistÃ¬ vÃ­Å¡, nenÃ­ mi dovoleno zÃ¹stat v ZÃ¡kladnÃ­. Ale vrÃ¡tÃ­m se k tobÃ¬, aÃ¨ budeÅ¡ stÃ¡le zde.~
+@220  = ~A aÅ¾ z nÃ­ budeÅ¡ propuÅ¡tÃ¬na, budu na tebe Ã¨ekat.~
+@221  = ~Ve tvÃ½ch slovech je tolik ÃºtÃ¬chy.~
+@222  = ~To jest vÃ­c, neÅ¾ jsem doufal, Å¾e tÃ¬ kdy uslyÅ¡Ã­m pravit. (Edorem se Saerileth zdvoÃ¸ile uklonÃ­.)~
+@223  = ~NavrÃ¡tÃ­m se k tobÃ¬ brzy, Saerileth. Pro tuto chvÃ­li vÅ¡ak buÃ¯ sbohem.~
+@224  = ~(PrÃ¡vÃ¬ jsi dokonÃ¨il pÃ¸Ã­pravy na nocovÃ¡nÃ­, kdyÅ¾ se ozve praskot provÃ¡zejÃ­cÃ­ pÃ¸echod mezi sfÃ©rami a objevÃ­ se lord Edorem.)~
+@225  = ~Lord Edorem! (Saerileth se otoÃ¨Ã­ za zvukem.)~ [SAERI285]
+@226  = ~Jsi potÃ¬Å¡ena, Å¾e mne zÃ¸Ã­Å¡, Saerileth? (Edorem vezme obÃ¬ Saerilethiny dlanÃ¬ do svÃ½ch.)~ [SAERI286]
+@227  = ~Jsem, lorde Edoreme. (Saerilethiny oÃ¨i zazÃ¡Ã¸Ã­ jasem, kterÃ½ jsi v nich nikdy pÃ¸edtÃ­m nevidÃ¬l.)~
+@228  = ~ProÃ¨ jsi vÅ¡ak zavÃ­tal?~
+@229  = ~Abych tÃ¬ zahlÃ©dl, z Å¾Ã¡dnÃ©ho jinÃ©ho dÃ¹vodu.~
+@230  = ~(RytÃ­Ã¸ nepouÅ¡tÃ­ Saerilethiny ruce a ani ona se nechce vyprostit z jeho sevÃ¸enÃ­.)~
+@231  = ~Pohled na tebe jest balzÃ¡mem pro mÃ© srdce. ZÃ¡kladnÃ­ mne vyÃ¨erpÃ¡vÃ¡--ne vÅ¡ak, Å¾e bych si pÃ¸Ã¡la dlÃ­t jinde!~
+@232  = ~Zde mne drÅ¾Ã­ vÃ¹le ZranÃ¬nÃ©ho Tyra.~
+@233  = ~TvÃ¡ oddanost-- (ZarazÃ­ se a sevÃ¸e Saerileth do nÃ¡ruÃ¨Ã­.)~
+@234  = ~DrahÃ¡ Saerileth, ve tvÃ½ch oÃ¨Ã­ch jsem zahlÃ©dl Tyrovu slÃ¡vu.~
+@235  = ~(Saerileth, s obliÃ¨ejem zaboÃ¸enÃ½m v EdoremovÃ¬ hrudi, neodpovÃ­dÃ¡, ale jejÃ­ ramena se jemnÃ¬ otÃ¸esou.)~
+@236  = ~Znovu se za tebou navrÃ¡tÃ­m, Saerileth.~
+@237  = ~(Saerileth vzhlÃ©dne.) MusÃ­Å¡ snad odejÃ­t tak brzy?~
+@238  = ~Pokud si pÃ¸ejeÅ¡, mohu s tebou zÃ¹stat, dokud se neodebereÅ¡ ke spÃ¡nku, abych s tebou pohovoÃ¸il.~
+@239  = ~PÃ¸eji si tak.~
+@240  = ~(Ozve se znÃ¡mÃ½ zvuk otevÃ­rajÃ­cÃ­ho se portÃ¡lu mezi sfÃ©rami a postava lorda Edorema, kterÃ¡ se z nÃ¬j vynoÃ¸Ã­, tÃ¬ uÅ¾ vÃ¹bec nepÃ¸ekvapuje.)~
 @241  = ~Saerileth!~ [SAERI287]
-@242  = ~Edoreme. (Saerileth vydechne jeho jméno.)~ [SAERI288]
-@243  = ~Pøicházím z chrámu a nemohu se zdret dlouho. Musíme odejít do Acheronu.~
-@244  = ~(Saerilethin oblièej zbledne.) Ne--však já mám jistì jít s tebou!~
-@245  = ~Nikoli, krásná Saerileth. Svatí otcové rozhodli, e tvé místo jest pro nyní na Základní.~
-@246  = ~(Saerileth skloní svou hlavu.) A se stane Tyrova vùle.~
-@247  = ~(Její hlas se zlomí, kdy to øíká, a nezvedá svùj zrak ze zemì.)~
-@248  = ~Jest ti líto, e mne vidíš odcházet! V to jsem ani nedoufal!~
-@249  = ~Proès tak pøekvapen? Byls mi vdy nesmírnì drahım.~
-@250  = ~Však nyní jsem ti drahı více, ne snad?~
-@251  = ~Jsem zahanbena, e se mé srdce tak snadno mìní.~
-@252  = ~Zmılila ses, Saerileth. Doposud jsi nikdy nemilovala. (Zlatovlası rytíø na tebe vrhne postranní pohled.)~
-@253  = ~Jest pravdou, e toto není jako tehdy.~
-@254  = ~Jsi ji dospìlá ena, Sarileth. Tvé srdce jest--~
-@255  = ~Tvé?~
-@256  = ~O tuto vìc tì nesmím ještì ádat. Nikoli døíve, ne se navrátíme z této bitvy.~
-@257  = ~Pak na tebe tedy poèkám, Edoreme, Tyrùv Vyvolenı.~
-@258  = ~(Rytíø se skloní a políbí Saerileth na tváø. Pak zmizí.)~
+@242  = ~Edoreme. (Saerileth vydechne jeho jmÃ©no.)~ [SAERI288]
+@243  = ~PÃ¸ichÃ¡zÃ­m z chrÃ¡mu a nemohu se zdrÅ¾et dlouho. MusÃ­me odejÃ­t do Acheronu.~
+@244  = ~(Saerilethin obliÃ¨ej zbledne.) Ne--vÅ¡ak jÃ¡ mÃ¡m jistÃ¬ jÃ­t s tebou!~
+@245  = ~Nikoli, krÃ¡snÃ¡ Saerileth. SvatÃ­ otcovÃ© rozhodli, Å¾e tvÃ© mÃ­sto jest pro nynÃ­ na ZÃ¡kladnÃ­.~
+@246  = ~(Saerileth sklonÃ­ svou hlavu.) A se stane Tyrova vÃ¹le.~
+@247  = ~(JejÃ­ hlas se zlomÃ­, kdyÅ¾ to Ã¸Ã­kÃ¡, a nezvedÃ¡ svÃ¹j zrak ze zemÃ¬.)~
+@248  = ~Jest ti lÃ­to, Å¾e mne vidÃ­Å¡ odchÃ¡zet! V to jsem ani nedoufal!~
+@249  = ~ProÃ¨s tak pÃ¸ekvapen? Byls mi vÅ¾dy nesmÃ­rnÃ¬ drahÃ½m.~
+@250  = ~VÅ¡ak nynÃ­ jsem ti drahÃ½ vÃ­ce, ne snad?~
+@251  = ~Jsem zahanbena, Å¾e se mÃ© srdce tak snadno mÃ¬nÃ­.~
+@252  = ~ZmÃ½lila ses, Saerileth. Doposud jsi nikdy nemilovala. (ZlatovlasÃ½ rytÃ­Ã¸ na tebe vrhne postrannÃ­ pohled.)~
+@253  = ~Jest pravdou, Å¾e toto nenÃ­ jako tehdy.~
+@254  = ~Jsi jiÅ¾ dospÃ¬lÃ¡ Å¾ena, Sarileth. TvÃ© srdce jest--~
+@255  = ~TvÃ©?~
+@256  = ~O tuto vÃ¬c tÃ¬ nesmÃ­m jeÅ¡tÃ¬ Å¾Ã¡dat. Nikoli dÃ¸Ã­ve, neÅ¾ se navrÃ¡tÃ­me z tÃ©to bitvy.~
+@257  = ~Pak na tebe tedy poÃ¨kÃ¡m, Edoreme, TyrÃ¹v VyvolenÃ½.~
+@258  = ~(RytÃ­Ã¸ se sklonÃ­ a polÃ­bÃ­ Saerileth na tvÃ¡Ã¸. Pak zmizÃ­.)~
 @259  = ~Edoreme.~ [SAERI288]
-@260  = ~Nikdy jsem nepocítila takovou vìc--jest to snad láska, lorde Edoreme?~
-@261  = ~Ano, Saerileth. Jsi dospìlá ena a tvé srdce jest--~
-@262  = ~(Záøící postava lorda Edorema vykroèí z portálu málem døív, ne se plnì objeví. Bìí vstøíc Saerileth, která také vyráí, aby ho uvítala.)~
-@263  = ~Má paní! Má Saerileth! Jsem zde, abych tì získal!~ [SAERI289]
-@264  = ~(Saerileth se skloní k Edoremovì dlani a pokryje ji polibky.)~
-@265  = ~Mám tedy nyní odejít s tebou?~ [SAERI290]
-@266  = ~Nikoli. (Edorem si pøitáhne Saerilethinu tváø blí ke své.) Ještì to nemùe bıt.~
-@267  = ~Vùle Zranìného boha je i mou vùlí, právì tak jako tvou. Poèkám tedy na tebe, dokud nezanikne mnohovesmír--mùj bratøe, mùj mistøe, mùj pane!~
-@268  = ~Má Saerileth, má paní a manelko. Jsem zde, abych ti sloil slib.~
-@269  = ~(Saerileth Edorema políbí.) A já tobì, mùj pane, pøíteli a maneli.~
-@270  = ~Vrátím se pro tebe, a budu moci.~
-@271  = ~Jestli to bude vùle Tyrova, setkáme se v Sigilu. Ne-li, budu èekat na tvùj návrat.~
-@272  = ~Modlím se, aby ten èas nastal brzy.~
-@273  = ~Má duše se souí, kdykoli jsme od sebe oddìleni.~
-@274  = ~(Rytíø ještì jednou políbí Saerileth, pak zmizí a nechá ji, jemnì naøíkající, stát ve tmì.)~
-@275  = ~Lorde Edoreme! Cos to uèinil? Kde jest tvá zdvoøilost? Jak se *opovauješ* vztáhnout ruku na <CHARNAME>?~
-@276  = ~Zdalipak jest to tvá vìc, je-li <CHARNAME> má láska? Špiníš svou èest i svùj úøad a proè to všechno?~
-@277  = ~Ty, kdos byl mım vùdcem ve slubách Slepého Tyra, ty, kdos mne uèil--~
-@278  = ~Pohleï, Saerileth, pohleï pozornì na toho Bhaalovo dítì, které ukradlo tvé srdce!~
-@279  = ~Co vidíš, kdy se na mì podíváš, má Saerileth?~
-@280  = ~Chci okamitì vìdìt, co má tohle znamenat!~
-@281  = ~Zøím svého milovaného, v mıch oèích jest stále tentı a já ráda políbím jeho dlaò, abych jej uctila.~
-@282  = ~(Saerileth se otoèí k Edoremovi.) Ale ty, ty obílená hrobko! Milovala jsem tì pøec jako vlastního bratra, a tys takto zneuil mou dùvìru!~
-@283  = ~Proès uèinil takovou vìc, tak neèestnı skutek zlé vùle? Uèili tì pøec, právì tak jako mne, abychom hledìli k srdci, nikoli na pùvod!~
-@284  = ~Odejdi z mé pøítomnosti a ji nás neobtìuj! Tvé podivné pøedsudky tì vyluèují z mé spoleènosti!~
-@285  = ~(Tváø lorda Edorema je popelavá a klesne na jedno koleno.)~
-@286  = ~Odpus mi, <CHARNAME>, ádám tì! Neobestils Saerileth a já nemohu øíci nic na obranu svıch èinù.~
-@287  = ~Netroufám si oslovit Saerileth, avšak, dobrı pane, miluji ji. Nebylo Tyrovou vùlí, aby milovala mne a tys ji získal.~
-@288  = ~Však od tebe, ve tvé blaenosti, kdys získal srdce nekrásnìjšího stvoøení celého mnohovesmíru, snad mohu èekat odpuštìní.~
-@289  = ~Nezaslouím si je, však mùj trest jest u teï vìtší ne mé provinìní.~
-@290  = ~Mluvíš dobøe, Edoreme. Tvoje provinìní je veliké, ale taky nemùeš mít Saerileth. To je samo o sobì dostateènı trest.~
-@291  = ~Nemùe bıt vìtší ztráta, ne ztratit Saerileth.~
-@292  = ~Takovou uráku mùeš smıt jen svojí krví!~
-@293  = ~Za tohle budu mít tvoje srdce na èepeli!~
-@294  = ~Ztratit mne? Jak mùeš ztratit nìco, cos nikdy nevlastnil? Odejdi, lorde Edoreme, navra se do Sigilu!~
-@295  = ~(Saerileth se otoèí zády k rytíøi, kterı smutnì sklání svou hlavu.)~
-@296  = ~Buï sbohem, <CHARNAME>. Zapøísahám tì, peèuj o ni dobøe. Edorem vás však ji nebude více obtìovat.~
-@297  = ~Nikoli, má lásko. Neposkvrò svùj meè jeho krví. Aè jest nezdvoøák, pøec jest stále Tyrùv Vyvolenı.~
-@298  = ~Mùj Øád by mi zapovìdìl milovat tì, zahubíš-li jej.~
-@299  = ~(Saerileth odkráèí pryè od rytíøe a nechá tì s Edoremem o samotì.)~
-@300  = ~Jestli tì uspokojí jen má krev, <CHARNAME>, pak mou krev budeš mít. Vezmu si svùj ivot, jen co se navrátím do Sigilu.~
-@301  = ~(Lord Edorem si poloí dlaò na srdce a zmizí.)~
-@302  = ~Co jest to? Tys, ty, koho jsem milovala, tys mne tak obelstil? Proè bys tak zneuil mou dùvìru?~
-@303  = ~Nikdy bych nevìøila, es toho schopen! e ty, ty, na koho jsem celı ten èas tak spoléhala--<CHARNAME>--ty--~
-@304  = ~(Saerileth pøemùou slzy a tiše pláèe do dlaní.)~
-@305  = ~(Dotknout se Saerileth.) Co je špatnì?~
-@306  = ~To jsi mì milovala, jen abys mì opustila kvùli nìèemu tak povrchnímu jako mùj vzhled?~
-@307  = ~(Obrátit se k Edoremovi.) Kdy se u pøestaneš stavìt mezi Saerileth a mnì?!~
-@308  = ~Nedotıkej se mne! Nejsi má láska! Tys lháø. Mu, jeho jsem milovala, jest jen sen.~
-@309  = ~Pak proè, <CHARNAME>, proè jsi obelstil mé oèi? Nemyslels, e bych tì jinak milovala?~
-@310  = ~Je-li tomu tak, pak tys tím obelstìnım, nebo nemohu nikdy milovat toho, jemu nevìøím. A nikdy, nikdy nemohu vìøit tomu, kdo mne obelhává.~
-@311  = ~Nemùeš mi to odpustit?~
-@312  = ~Saerileth, ale já tì miluju! Proè mi to dìláš?~
-@313  = ~Došlo to tedy a tak daleko? U mì nemiluješ?~
-@314  = ~Já, <CHARNAME>? Já neopouštím nic. To tys mne obelstil! V lásce pøec musí panovat dùvìra. Však jak mám spoléhat na toho, kdo pouije èáry, aby obelhal mùj zrak?~
-@315  = ~Ji na tebe nemohu spoléhat, tedy i má láska k tobì musí zahynout.~
-@316  = ~(Saerileth dál zlomenì vzlyká.) Jest to tvou vùlí, abych ti ji nestála po boku? Nebo i pøes to vše chceš, aby Saerileth dále pobıvala ve tvé spoleènosti?~
-@317  = ~Saerileth, neodcházej. Chtìl bych si znovu zaslouit tvoji dùvìru.~
-@318  = ~Ano, jdi! Zmiz a spánembohem! U tì nikdy nechci vidìt.~
-@319  = ~Rozumím. Chtìl bych, abys mi zùstala po boku, Saerileth, i kdy se naše láska nikdy nenaplní.~
-@320  = ~Tak to nesmí bıt, <CHARNAME>, pøinejmenším nikoli tak, jak se zdá, e doufáš. Jestlie se ti kdy znovu nauèím dùvìøovat, stále to bude pøíliš pozdì, abych tì dále milovala.~
-@321  = ~U nemám, co bych øekla. Co tedy zvolíš?~
-@322  = ~Ano, jdi! U nikdy nechci vidìt tvùj oblièej.~
-@323  = ~Jak ádáš. (Saerileth se, stále plaèící, obrátí k odchodu.)~
-@324  = ~(Saerileth beze slova pøikıvne.)~
-@325  = ~Ji ji tedy nespatøíš. Saerileth se navrátí se mnou. (Edoremùv oblièej se triumfálnì rozzáøí.)~
-@326  = ~Vskutku, navrátím se do Tyrova chrámu, kde se plnì vydám jeho vùli.~
-@327  = ~(Saerileth je slepá k Edoremovì radosti, kdy ho bere za ruku.) Buï sbohem, <CHARNAME>. Ji se nesetkáme.~
-@328  = ~Nestavím se mezi vás! Tys ji pøec odvrhl svımi lstmi! Zeptej se jí sám, synu Bhaalùv!~
-@329  = ~Je pravda, Saerileth, e mì u nemiluješ?~
-@330  = ~Nemyslel bych, e budeš tak povrchní, Saerileth. To mì kvùli tomu opravdu opustíš?~
-@331  = ~Odpustit ti? Vskutku, mohu ti odpustit, <CHARNAME>, avšak ji nemùe bıt, e bych tì milovala.~
-@332  = ~Milovat tì? Co ty víš o lásce? (Saerilethiny oèi jsou plné slz a její hlas je tichı, pøerıvanı vzlyky.)~
-@333  = ~V lásce pøec musí panovat dùvìra. Jak bych mohla spoléhat na toho, kdo pouije èáry, aby mne obelstil?~
-@334  = ~Co se mnou tedy nyní uèiníš? Jest tvou vùlí, abych ji nekráèela po tvém boku?~
-@335  = ~Já, <CHARNAME>? Neuèinila jsem nic! To tys mne obelhal! V lásce pøec musí panovat dùvìra. A jak bych mohla spoléhat na toho, kdo pouije èáry, aby mne obelstil?~
-@336  = ~(Saerileth poklekne pøed prostovlasım rytíøem, vezme ho za ruku a pøitiskne k ní své rty.)~
-@337  = ~Z vùle <CHARNAME>, jsem tvou. A skonèí má sluba Zranìnému bohu, navrátím se do Sigilu a budu tvou nevìstou.~
-@338  = ~Tyr mi odpus, nebo jsem ti vìøila. Myslela jsem, e díš pravdu!~
-@339  = ~Má povinnost ke Zranìnému bohu jest mi však cennìjší ne ivot. Dokud mne zde tedy bude dret má sluba, zùstanu po tvém boku.~
-@340  = ~Tak dlouho, však ne déle.~
+@260  = ~Nikdy jsem nepocÃ­tila takovou vÃ¬c--jest to snad lÃ¡ska, lorde Edoreme?~
+@261  = ~Ano, Saerileth. Jsi dospÃ¬lÃ¡ Å¾ena a tvÃ© srdce jest--~
+@262  = ~(ZÃ¡Ã¸Ã­cÃ­ postava lorda Edorema vykroÃ¨Ã­ z portÃ¡lu mÃ¡lem dÃ¸Ã­v, neÅ¾ se plnÃ¬ objevÃ­. BÃ¬Å¾Ã­ vstÃ¸Ã­c Saerileth, kterÃ¡ takÃ© vyrÃ¡Å¾Ã­, aby ho uvÃ­tala.)~
+@263  = ~MÃ¡ panÃ­! MÃ¡ Saerileth! Jsem zde, abych tÃ¬ zÃ­skal!~ [SAERI289]
+@264  = ~(Saerileth se sklonÃ­ k EdoremovÃ¬ dlani a pokryje ji polibky.)~
+@265  = ~MÃ¡m tedy nynÃ­ odejÃ­t s tebou?~ [SAERI290]
+@266  = ~Nikoli. (Edorem si pÃ¸itÃ¡hne Saerilethinu tvÃ¡Ã¸ blÃ­Å¾ ke svÃ©.) JeÅ¡tÃ¬ to nemÃ¹Å¾e bÃ½t.~
+@267  = ~VÃ¹le ZranÃ¬nÃ©ho boha je i mou vÃ¹lÃ­, prÃ¡vÃ¬ tak jako tvou. PoÃ¨kÃ¡m tedy na tebe, dokud nezanikne mnohovesmÃ­r--mÃ¹j bratÃ¸e, mÃ¹j mistÃ¸e, mÃ¹j pane!~
+@268  = ~MÃ¡ Saerileth, mÃ¡ panÃ­ a manÅ¾elko. Jsem zde, abych ti sloÅ¾il slib.~
+@269  = ~(Saerileth Edorema polÃ­bÃ­.) A jÃ¡ tobÃ¬, mÃ¹j pane, pÃ¸Ã­teli a manÅ¾eli.~
+@270  = ~VrÃ¡tÃ­m se pro tebe, aÅ¾ budu moci.~
+@271  = ~Jestli to bude vÃ¹le Tyrova, setkÃ¡me se v Sigilu. Ne-li, budu Ã¨ekat na tvÃ¹j nÃ¡vrat.~
+@272  = ~ModlÃ­m se, aby ten Ã¨as nastal brzy.~
+@273  = ~MÃ¡ duÅ¡e se souÅ¾Ã­, kdykoli jsme od sebe oddÃ¬leni.~
+@274  = ~(RytÃ­Ã¸ jeÅ¡tÃ¬ jednou polÃ­bÃ­ Saerileth, pak zmizÃ­ a nechÃ¡ ji, jemnÃ¬ naÃ¸Ã­kajÃ­cÃ­, stÃ¡t ve tmÃ¬.)~
+@275  = ~Lorde Edoreme! Cos to uÃ¨inil? Kde jest tvÃ¡ zdvoÃ¸ilost? Jak se *opovaÅ¾ujeÅ¡* vztÃ¡hnout ruku na <CHARNAME>?~
+@276  = ~Zdalipak jest to tvÃ¡ vÃ¬c, je-li <CHARNAME> mÃ¡ lÃ¡ska? Å pinÃ­Å¡ svou Ã¨est i svÃ¹j ÃºÃ¸ad a proÃ¨ to vÅ¡echno?~
+@277  = ~Ty, kdos byl mÃ½m vÃ¹dcem ve sluÅ¾bÃ¡ch SlepÃ©ho Tyra, ty, kdos mne uÃ¨il--~
+@278  = ~PohleÃ¯, Saerileth, pohleÃ¯ pozornÃ¬ na toho Bhaalovo dÃ­tÃ¬, kterÃ© ukradlo tvÃ© srdce!~
+@279  = ~Co vidÃ­Å¡, kdyÅ¾ se na mÃ¬ podÃ­vÃ¡Å¡, mÃ¡ Saerileth?~
+@280  = ~Chci okamÅ¾itÃ¬ vÃ¬dÃ¬t, co mÃ¡ tohle znamenat!~
+@281  = ~ZÃ¸Ã­m svÃ©ho milovanÃ©ho, v mÃ½ch oÃ¨Ã­ch jest stÃ¡le tentÃ½Å¾ a jÃ¡ rÃ¡da polÃ­bÃ­m jeho dlaÃ², abych jej uctila.~
+@282  = ~(Saerileth se otoÃ¨Ã­ k Edoremovi.) Ale ty, ty obÃ­lenÃ¡ hrobko! Milovala jsem tÃ¬ pÃ¸ec jako vlastnÃ­ho bratra, a tys takto zneuÅ¾il mou dÃ¹vÃ¬ru!~
+@283  = ~ProÃ¨s uÃ¨inil takovou vÃ¬c, tak neÃ¨estnÃ½ skutek zlÃ© vÃ¹le? UÃ¨ili tÃ¬ pÃ¸ec, prÃ¡vÃ¬ tak jako mne, abychom hledÃ¬li k srdci, nikoli na pÃ¹vod!~
+@284  = ~Odejdi z mÃ© pÃ¸Ã­tomnosti a jiÅ¾ nÃ¡s neobtÃ¬Å¾uj! TvÃ© podivnÃ© pÃ¸edsudky tÃ¬ vyluÃ¨ujÃ­ z mÃ© spoleÃ¨nosti!~
+@285  = ~(TvÃ¡Ã¸ lorda Edorema je popelavÃ¡ a klesne na jedno koleno.)~
+@286  = ~Odpus mi, <CHARNAME>, Å¾Ã¡dÃ¡m tÃ¬! Neobestils Saerileth a jÃ¡ nemohu Ã¸Ã­ci nic na obranu svÃ½ch Ã¨inÃ¹.~
+@287  = ~NetroufÃ¡m si oslovit Saerileth, avÅ¡ak, dobrÃ½ pane, miluji ji. Nebylo Tyrovou vÃ¹lÃ­, aby milovala mne a tys ji zÃ­skal.~
+@288  = ~VÅ¡ak od tebe, ve tvÃ© blaÅ¾enosti, kdyÅ¾s zÃ­skal srdce nekrÃ¡snÃ¬jÅ¡Ã­ho stvoÃ¸enÃ­ celÃ©ho mnohovesmÃ­ru, snad mohu Ã¨ekat odpuÅ¡tÃ¬nÃ­.~
+@289  = ~NezaslouÅ¾Ã­m si je, vÅ¡ak mÃ¹j trest jest uÅ¾ teÃ¯ vÃ¬tÅ¡Ã­ neÅ¾ mÃ© provinÃ¬nÃ­.~
+@290  = ~MluvÃ­Å¡ dobÃ¸e, Edoreme. Tvoje provinÃ¬nÃ­ je velikÃ©, ale taky nemÃ¹Å¾eÅ¡ mÃ­t Saerileth. To je samo o sobÃ¬ dostateÃ¨nÃ½ trest.~
+@291  = ~NemÃ¹Å¾e bÃ½t vÃ¬tÅ¡Ã­ ztrÃ¡ta, neÅ¾ ztratit Saerileth.~
+@292  = ~Takovou urÃ¡Å¾ku mÃ¹Å¾eÅ¡ smÃ½t jen svojÃ­ krvÃ­!~
+@293  = ~Za tohle budu mÃ­t tvoje srdce na Ã¨epeli!~
+@294  = ~Ztratit mne? Jak mÃ¹Å¾eÅ¡ ztratit nÃ¬co, cos nikdy nevlastnil? Odejdi, lorde Edoreme, navra se do Sigilu!~
+@295  = ~(Saerileth se otoÃ¨Ã­ zÃ¡dy k rytÃ­Ã¸i, kterÃ½ smutnÃ¬ sklÃ¡nÃ­ svou hlavu.)~
+@296  = ~BuÃ¯ sbohem, <CHARNAME>. ZapÃ¸Ã­sahÃ¡m tÃ¬, peÃ¨uj o ni dobÃ¸e. Edorem vÃ¡s vÅ¡ak jiÅ¾ nebude vÃ­ce obtÃ¬Å¾ovat.~
+@297  = ~Nikoli, mÃ¡ lÃ¡sko. NeposkvrÃ² svÃ¹j meÃ¨ jeho krvÃ­. AÃ¨ jest nezdvoÃ¸Ã¡k, pÃ¸ec jest stÃ¡le TyrÃ¹v VyvolenÃ½.~
+@298  = ~MÃ¹j Ã˜Ã¡d by mi zapovÃ¬dÃ¬l milovat tÃ¬, zahubÃ­Å¡-li jej.~
+@299  = ~(Saerileth odkrÃ¡Ã¨Ã­ pryÃ¨ od rytÃ­Ã¸e a nechÃ¡ tÃ¬ s Edoremem o samotÃ¬.)~
+@300  = ~Jestli tÃ¬ uspokojÃ­ jen mÃ¡ krev, <CHARNAME>, pak mou krev budeÅ¡ mÃ­t. Vezmu si svÃ¹j Å¾ivot, jen co se navrÃ¡tÃ­m do Sigilu.~
+@301  = ~(Lord Edorem si poloÅ¾Ã­ dlaÃ² na srdce a zmizÃ­.)~
+@302  = ~Co jest to? Tys, ty, koho jsem milovala, tys mne tak obelstil? ProÃ¨ bys tak zneuÅ¾il mou dÃ¹vÃ¬ru?~
+@303  = ~Nikdy bych nevÃ¬Ã¸ila, Å¾es toho schopen! Å½e ty, ty, na koho jsem celÃ½ ten Ã¨as tak spolÃ©hala--<CHARNAME>--ty--~
+@304  = ~(Saerileth pÃ¸emÃ¹Å¾ou slzy a tiÅ¡e plÃ¡Ã¨e do dlanÃ­.)~
+@305  = ~(Dotknout se Saerileth.) Co je Å¡patnÃ¬?~
+@306  = ~To jsi mÃ¬ milovala, jen abys mÃ¬ opustila kvÃ¹li nÃ¬Ã¨emu tak povrchnÃ­mu jako mÃ¹j vzhled?~
+@307  = ~(ObrÃ¡tit se k Edoremovi.) Kdy se uÅ¾ pÃ¸estaneÅ¡ stavÃ¬t mezi Saerileth a mnÃ¬?!~
+@308  = ~NedotÃ½kej se mne! Nejsi mÃ¡ lÃ¡ska! Tys lhÃ¡Ã¸. MuÅ¾, jehoÅ¾ jsem milovala, jest jen sen.~
+@309  = ~Pak proÃ¨, <CHARNAME>, proÃ¨ jsi obelstil mÃ© oÃ¨i? Nemyslels, Å¾e bych tÃ¬ jinak milovala?~
+@310  = ~Je-li tomu tak, pak tys tÃ­m obelstÃ¬nÃ½m, nebo nemohu nikdy milovat toho, jemuÅ¾ nevÃ¬Ã¸Ã­m. A nikdy, nikdy nemohu vÃ¬Ã¸it tomu, kdo mne obelhÃ¡vÃ¡.~
+@311  = ~NemÃ¹Å¾eÅ¡ mi to odpustit?~
+@312  = ~Saerileth, ale jÃ¡ tÃ¬ miluju! ProÃ¨ mi to dÃ¬lÃ¡Å¡?~
+@313  = ~DoÅ¡lo to tedy aÅ¾ tak daleko? UÅ¾ mÃ¬ nemilujeÅ¡?~
+@314  = ~JÃ¡, <CHARNAME>? JÃ¡ neopouÅ¡tÃ­m nic. To tys mne obelstil! V lÃ¡sce pÃ¸ec musÃ­ panovat dÃ¹vÃ¬ra. VÅ¡ak jak mÃ¡m spolÃ©hat na toho, kdo pouÅ¾ije Ã¨Ã¡ry, aby obelhal mÃ¹j zrak?~
+@315  = ~JiÅ¾ na tebe nemohu spolÃ©hat, tedy i mÃ¡ lÃ¡ska k tobÃ¬ musÃ­ zahynout.~
+@316  = ~(Saerileth dÃ¡l zlomenÃ¬ vzlykÃ¡.) Jest to tvou vÃ¹lÃ­, abych ti jiÅ¾ nestÃ¡la po boku? Nebo i pÃ¸es to vÅ¡e chceÅ¡, aby Saerileth dÃ¡le pobÃ½vala ve tvÃ© spoleÃ¨nosti?~
+@317  = ~Saerileth, neodchÃ¡zej. ChtÃ¬l bych si znovu zaslouÅ¾it tvoji dÃ¹vÃ¬ru.~
+@318  = ~Ano, jdi! Zmiz a spÃ¡nembohem! UÅ¾ tÃ¬ nikdy nechci vidÃ¬t.~
+@319  = ~RozumÃ­m. ChtÃ¬l bych, abys mi zÃ¹stala po boku, Saerileth, i kdyÅ¾ se naÅ¡e lÃ¡ska nikdy nenaplnÃ­.~
+@320  = ~Tak to nesmÃ­ bÃ½t, <CHARNAME>, pÃ¸inejmenÅ¡Ã­m nikoli tak, jak se zdÃ¡, Å¾e doufÃ¡Å¡. JestliÅ¾e se ti kdy znovu nauÃ¨Ã­m dÃ¹vÃ¬Ã¸ovat, stÃ¡le to bude pÃ¸Ã­liÅ¡ pozdÃ¬, abych tÃ¬ dÃ¡le milovala.~
+@321  = ~UÅ¾ nemÃ¡m, co bych Ã¸ekla. Co tedy zvolÃ­Å¡?~
+@322  = ~Ano, jdi! UÅ¾ nikdy nechci vidÃ¬t tvÃ¹j obliÃ¨ej.~
+@323  = ~Jak Å¾Ã¡dÃ¡Å¡. (Saerileth se, stÃ¡le plaÃ¨Ã­cÃ­, obrÃ¡tÃ­ k odchodu.)~
+@324  = ~(Saerileth beze slova pÃ¸ikÃ½vne.)~
+@325  = ~JiÅ¾ ji tedy nespatÃ¸Ã­Å¡. Saerileth se navrÃ¡tÃ­ se mnou. (EdoremÃ¹v obliÃ¨ej se triumfÃ¡lnÃ¬ rozzÃ¡Ã¸Ã­.)~
+@326  = ~Vskutku, navrÃ¡tÃ­m se do Tyrova chrÃ¡mu, kde se plnÃ¬ vydÃ¡m jeho vÃ¹li.~
+@327  = ~(Saerileth je slepÃ¡ k EdoremovÃ¬ radosti, kdyÅ¾ ho bere za ruku.) BuÃ¯ sbohem, <CHARNAME>. JiÅ¾ se nesetkÃ¡me.~
+@328  = ~NestavÃ­m se mezi vÃ¡s! Tys ji pÃ¸ec odvrhl svÃ½mi lstmi! Zeptej se jÃ­ sÃ¡m, synu BhaalÃ¹v!~
+@329  = ~Je pravda, Saerileth, Å¾e mÃ¬ uÅ¾ nemilujeÅ¡?~
+@330  = ~Nemyslel bych, Å¾e budeÅ¡ tak povrchnÃ­, Saerileth. To mÃ¬ kvÃ¹li tomu opravdu opustÃ­Å¡?~
+@331  = ~Odpustit ti? Vskutku, mohu ti odpustit, <CHARNAME>, avÅ¡ak jiÅ¾ nemÃ¹Å¾e bÃ½t, Å¾e bych tÃ¬ milovala.~
+@332  = ~Milovat tÃ¬? Co ty vÃ­Å¡ o lÃ¡sce? (Saerilethiny oÃ¨i jsou plnÃ© slz a jejÃ­ hlas je tichÃ½, pÃ¸erÃ½vanÃ½ vzlyky.)~
+@333  = ~V lÃ¡sce pÃ¸ec musÃ­ panovat dÃ¹vÃ¬ra. Jak bych mohla spolÃ©hat na toho, kdo pouÅ¾ije Ã¨Ã¡ry, aby mne obelstil?~
+@334  = ~Co se mnou tedy nynÃ­ uÃ¨inÃ­Å¡? Jest tvou vÃ¹lÃ­, abych jiÅ¾ nekrÃ¡Ã¨ela po tvÃ©m boku?~
+@335  = ~JÃ¡, <CHARNAME>? NeuÃ¨inila jsem nic! To tys mne obelhal! V lÃ¡sce pÃ¸ec musÃ­ panovat dÃ¹vÃ¬ra. A jak bych mohla spolÃ©hat na toho, kdo pouÅ¾ije Ã¨Ã¡ry, aby mne obelstil?~
+@336  = ~(Saerileth poklekne pÃ¸ed prostovlasÃ½m rytÃ­Ã¸em, vezme ho za ruku a pÃ¸itiskne k nÃ­ svÃ© rty.)~
+@337  = ~Z vÃ¹le <CHARNAME>, jsem tvou. AÅ¾ skonÃ¨Ã­ mÃ¡ sluÅ¾ba ZranÃ¬nÃ©mu bohu, navrÃ¡tÃ­m se do Sigilu a budu tvou nevÃ¬stou.~
+@338  = ~Tyr mi odpus, nebo jsem ti vÃ¬Ã¸ila. Myslela jsem, Å¾e dÃ­Å¡ pravdu!~
+@339  = ~MÃ¡ povinnost ke ZranÃ¬nÃ©mu bohu jest mi vÅ¡ak cennÃ¬jÅ¡Ã­ neÅ¾ Å¾ivot. Dokud mne zde tedy bude drÅ¾et mÃ¡ sluÅ¾ba, zÃ¹stanu po tvÃ©m boku.~
+@340  = ~Tak dlouho, vÅ¡ak ne dÃ©le.~
 
 
 
 
 
-@5000 = ~Padlı Deva
+@5000 = ~PadlÃ½ Deva
 
-Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Hledá padlého devu a bylo jí øeèeno, e ho jistì najde, pokud bude cestovat s Bhaalovım dítìtem. Další podrobnosti mi nejsou známy.~
+PÃ¸ibral jsem do naÅ¡Ã­ spoleÃ¨nosti mladou Tyrovu paladinku jmÃ©nem Saerileth. HledÃ¡ padlÃ©ho devu a bylo jÃ­ Ã¸eÃ¨eno, Å¾e ho jistÃ¬ najde, pokud bude cestovat s BhaalovÃ½m dÃ­tÃ¬tem. DalÅ¡Ã­ podrobnosti mi nejsou znÃ¡my.~
 
-@5001 = ~Padlı Deva
+@5001 = ~PadlÃ½ Deva
 
-Pøibral jsem do naší spoleènosti mladou Tyrovu paladinku jménem Saerileth. Zdá se, e se jí docela líbím. Hledá padlého devu a bylo jí øeèeno, e ho jistì najde, pokud bude cestovat s Bhaalovım dítìtem. Další podrobnosti mi nejsou známy.~
+PÃ¸ibral jsem do naÅ¡Ã­ spoleÃ¨nosti mladou Tyrovu paladinku jmÃ©nem Saerileth. ZdÃ¡ se, Å¾e se jÃ­ docela lÃ­bÃ­m. HledÃ¡ padlÃ©ho devu a bylo jÃ­ Ã¸eÃ¨eno, Å¾e ho jistÃ¬ najde, pokud bude cestovat s BhaalovÃ½m dÃ­tÃ¬tem. DalÅ¡Ã­ podrobnosti mi nejsou znÃ¡my.~
 
 @5002 = ~Saerileth unesena
 
-Saerileth unesl mocnı pán démonù. Spojili jsme své síly s mocnım Tyrovım rytíøem, kterı ji hodlá osvobodit. Nejdøíve musíme do Sigilu, kde musíme vyhledat Jharaka a získat od nìho Tyrovu hùl.~
+Saerileth unesl mocnÃ½ pÃ¡n dÃ©monÃ¹. Spojili jsme svÃ© sÃ­ly s mocnÃ½m TyrovÃ½m rytÃ­Ã¸em, kterÃ½ ji hodlÃ¡ osvobodit. NejdÃ¸Ã­ve musÃ­me do Sigilu, kde musÃ­me vyhledat Jharaka a zÃ­skat od nÃ¬ho Tyrovu hÃ¹l.~
 
 @5003 = ~Saerileth unesena
 
-Saerileth unesl mocnı pán démonù. Spojili jsme své síly s mocnım Tyrovım rytíøem, kterı ji hodlá osvobodit. Právì se chystáme vyrazit do Baatoru.~
+Saerileth unesl mocnÃ½ pÃ¡n dÃ©monÃ¹. Spojili jsme svÃ© sÃ­ly s mocnÃ½m TyrovÃ½m rytÃ­Ã¸em, kterÃ½ ji hodlÃ¡ osvobodit. PrÃ¡vÃ¬ se chystÃ¡me vyrazit do Baatoru.~
 
 @5004 = ~Saerileth unesena
 
-Saerileth unesl mocnı pán démonù. Je pøíliš nebezpeèné pokoušet se ji zachránit. Ponechali jsme ji tedy jejímu osudu.~
+Saerileth unesl mocnÃ½ pÃ¡n dÃ©monÃ¹. Je pÃ¸Ã­liÅ¡ nebezpeÃ¨nÃ© pokouÅ¡et se ji zachrÃ¡nit. Ponechali jsme ji tedy jejÃ­mu osudu.~
 
 @5005 = ~Saerileth unesena
 
-Nalezli jsme Jharaka, ale ten nás poslal otevøít nìjakı portál, potom e nám øekne, kde najdeme Tyrovu hùl.~
+Nalezli jsme Jharaka, ale ten nÃ¡s poslal otevÃ¸Ã­t nÃ¬jakÃ½ portÃ¡l, potom Å¾e nÃ¡m Ã¸ekne, kde najdeme Tyrovu hÃ¹l.~
 
 @5006 = ~Saerileth unesena
 
-Našli jsme klíè k portálu, pramínek vlasù, a teï se s ním musíme vrátit k Jharakovi. ~
+NaÅ¡li jsme klÃ­Ã¨ k portÃ¡lu, pramÃ­nek vlasÃ¹, a teÃ¯ se s nÃ­m musÃ­me vrÃ¡tit k Jharakovi. ~
 
 @5007 = ~Saerileth unesena
 
-Jharak nám øekl, a si promluvíme s barmanem, kterı prı má onu hùl.~
+Jharak nÃ¡m Ã¸ekl, a si promluvÃ­me s barmanem, kterÃ½ prÃ½ mÃ¡ onu hÃ¹l.~
 
 @5008 = ~Saerileth unesena
 
-Získali jsme Tyrovu hùl. Saerilethina duše je v nebezpeèí, musíme si tedy co nejrychleji pospíšit za Edoremem.~
+ZÃ­skali jsme Tyrovu hÃ¹l. Saerilethina duÅ¡e je v nebezpeÃ¨Ã­, musÃ­me si tedy co nejrychleji pospÃ­Å¡it za Edoremem.~
 
-@5009 = ~Saerileth zachránìna
+@5009 = ~Saerileth zachrÃ¡nÃ¬na
 
-Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+ZachrÃ¡nili jsme Saerileth ze spÃ¡rÃ¹ pÃ¡na dÃ©monÃ¹ Glourkista a jsme opÃ¬t v bezpeÃ¨Ã­ na Torilu. Lord Edorem, TyrÃ¹v paladin, nÃ¡m z vdÃ¬Ã¨nosti za jejÃ­ zÃ¡chranu vÃ¬noval mocnÃ© kladivo.~
 
-@5010 = ~Saerileth zachránìna
+@5010 = ~Saerileth zachrÃ¡nÃ¬na
 
-Zachránili jsme Saerileth ze spárù pána démonù Glourkista a jsme opìt v bezpeèí na Torilu. Propustil jsem Saerileth ze svıch slueb a ona zùstala ve sférách. Lord Edorem, Tyrùv paladin, nám z vdìènosti za její záchranu vìnoval mocné kladivo.~
+ZachrÃ¡nili jsme Saerileth ze spÃ¡rÃ¹ pÃ¡na dÃ©monÃ¹ Glourkista a jsme opÃ¬t v bezpeÃ¨Ã­ na Torilu. Propustil jsem Saerileth ze svÃ½ch sluÅ¾eb a ona zÃ¹stala ve sfÃ©rÃ¡ch. Lord Edorem, TyrÃ¹v paladin, nÃ¡m z vdÃ¬Ã¨nosti za jejÃ­ zÃ¡chranu vÃ¬noval mocnÃ© kladivo.~
 
-@5011 = ~Padlı Deva
+@5011 = ~PadlÃ½ Deva
 
-Nalezli jsme Kesevara Padlého, ale tvrdí, e si trest nezaslouí. Poslal nás hledat jediného svìdka, kterı mùe dosvìdèit jeho nevinu: Bhaalova zplozence jménem Gunshain.~
+Nalezli jsme Kesevara PadlÃ©ho, ale tvrdÃ­, Å¾e si trest nezaslouÅ¾Ã­. Poslal nÃ¡s hledat jedinÃ©ho svÃ¬dka, kterÃ½ mÃ¹Å¾e dosvÃ¬dÃ¨it jeho nevinu: Bhaalova zplozence jmÃ©nem Gunshain.~
 
-@5012 = ~Padlı Deva
+@5012 = ~PadlÃ½ Deva
 
-Jak se ukázalo, Gunshain skuteènì oèistil Kesevarovo jméno, ale taky se nás pokusil zabít! Postarali jsme se o nìj a teï se musíme rychle vrátit ke Kesevarovi.~
+Jak se ukÃ¡zalo, Gunshain skuteÃ¨nÃ¬ oÃ¨istil Kesevarovo jmÃ©no, ale taky se nÃ¡s pokusil zabÃ­t! Postarali jsme se o nÃ¬j a teÃ¯ se musÃ­me rychle vrÃ¡tit ke Kesevarovi.~
 
-@5013 = ~Padlı Deva
+@5013 = ~PadlÃ½ Deva
 
-Saerileth prohlásila Kesevara za nevinného a její rozsudek mìl okamitı efekt. Deva se navrátil zpìt do své døívìjší slávy a Saerileth zùstala po mém boku.~
+Saerileth prohlÃ¡sila Kesevara za nevinnÃ©ho a jejÃ­ rozsudek mÃ¬l okamÅ¾itÃ½ efekt. Deva se navrÃ¡til zpÃ¬t do svÃ© dÃ¸Ã­vÃ¬jÅ¡Ã­ slÃ¡vy a Saerileth zÃ¹stala po mÃ©m boku.~
 
-@5014 = ~Padlı Deva
+@5014 = ~PadlÃ½ Deva
 
-Ukázalo se, e Kesevar nakonec nebyl vinen. Protoe ho znièila, Saerileth ztratila Tyrovu pøízeò. Má milovaná odešla zpìt do sfér, aby se pokusila odèinit své selhání. U ji nikdy nespatøím.~
+UkÃ¡zalo se, Å¾e Kesevar nakonec nebyl vinen. ProtoÅ¾e ho zniÃ¨ila, Saerileth ztratila Tyrovu pÃ¸Ã­zeÃ². MÃ¡ milovanÃ¡ odeÅ¡la zpÃ¬t do sfÃ©r, aby se pokusila odÃ¨init svÃ© selhÃ¡nÃ­. UÅ¾ ji nikdy nespatÃ¸Ã­m.~
 
-@5015 = ~Padlı Deva
+@5015 = ~PadlÃ½ Deva
 
-Ukázalo se, e Kesevar nakonec nebyl vinen. Protoe ho znièila, Saerileth ztratila Tyrovu pøízeò. Mladá paladinka odešla zpìt do sfér, aby se pokusila odèinit své selhání. U ji nikdy nespatøím.~
+UkÃ¡zalo se, Å¾e Kesevar nakonec nebyl vinen. ProtoÅ¾e ho zniÃ¨ila, Saerileth ztratila Tyrovu pÃ¸Ã­zeÃ². MladÃ¡ paladinka odeÅ¡la zpÃ¬t do sfÃ©r, aby se pokusila odÃ¨init svÃ© selhÃ¡nÃ­. UÅ¾ ji nikdy nespatÃ¸Ã­m.~
 
-@5016 = ~Nevìstka Dalila
+@5016 = ~NevÃ¬stka Dalila
 
-Nìjakı èlovìk v Amkethranu prohlašuje, e Dalila, o které tvrdí, e je nejkrásnìjší enou v celém kraji, prodává potìšení svého lùka ve zdejší hospodì. Má ena, Saerileth, i já sám si dìláme starosti o osud muù, kteøí k ní vešli.~
+NÃ¬jakÃ½ Ã¨lovÃ¬k v Amkethranu prohlaÅ¡uje, Å¾e Dalila, o kterÃ© tvrdÃ­, Å¾e je nejkrÃ¡snÃ¬jÅ¡Ã­ Å¾enou v celÃ©m kraji, prodÃ¡vÃ¡ potÃ¬Å¡enÃ­ svÃ©ho lÃ¹Å¾ka ve zdejÅ¡Ã­ hospodÃ¬. MÃ¡ Å¾ena, Saerileth, i jÃ¡ sÃ¡m si dÃ¬lÃ¡me starosti o osud muÅ¾Ã¹, kteÃ¸Ã­ k nÃ­ veÅ¡li.~
 
-@5017 = ~Nevìstka Dalila
+@5017 = ~NevÃ¬stka Dalila
 
-Nìjakı èlovìk v Amkethranu prohlašuje, e Dalila, o které tvrdí, e je nejkrásnìjší enou v celém kraji, prodává potìšení svého lùka ve zdejší hospodì. Dìlám si starosti o osud muù, kteøí k ní vešli.~
+NÃ¬jakÃ½ Ã¨lovÃ¬k v Amkethranu prohlaÅ¡uje, Å¾e Dalila, o kterÃ© tvrdÃ­, Å¾e je nejkrÃ¡snÃ¬jÅ¡Ã­ Å¾enou v celÃ©m kraji, prodÃ¡vÃ¡ potÃ¬Å¡enÃ­ svÃ©ho lÃ¹Å¾ka ve zdejÅ¡Ã­ hospodÃ¬. DÃ¬lÃ¡m si starosti o osud muÅ¾Ã¹, kteÃ¸Ã­ k nÃ­ veÅ¡li.~
 
-@5018 = ~Nevìstka Dalila
+@5018 = ~NevÃ¬stka Dalila
 
-Podlehl jsem pùvabùm Dalily, jen abych zjistil, e je sukuba! Mé cizoloství zlomilo Saerileth srdce a v ten okamik zemøela. Sukuba se vrátila do Abyssu a já jsem menším muem, ne jsem bıval.~
+Podlehl jsem pÃ¹vabÃ¹m Dalily, jen abych zjistil, Å¾e je sukuba! MÃ© cizoloÅ¾stvÃ­ zlomilo Saerileth srdce a v ten okamÅ¾ik zemÃ¸ela. Sukuba se vrÃ¡tila do Abyssu a jÃ¡ jsem menÅ¡Ã­m muÅ¾em, neÅ¾ jsem bÃ½val.~
 
-@5019 = ~Nevìstka Dalila
+@5019 = ~NevÃ¬stka Dalila
 
-Podlehl jsem pùvabùm Dalily, jen abych zjistil, e je sukuba! Sukuba se vrátila do Abyssu a já jsem menším muem, ne jsem bıval.~
+Podlehl jsem pÃ¹vabÃ¹m Dalily, jen abych zjistil, Å¾e je sukuba! Sukuba se vrÃ¡tila do Abyssu a jÃ¡ jsem menÅ¡Ã­m muÅ¾em, neÅ¾ jsem bÃ½val.~
 
-@5020 = ~Nevìstka Dalila
+@5020 = ~NevÃ¬stka Dalila
 
-Saerileth mne ujistila, e Dalila je démon, ale e ji nemùeme zabít, ani bychom zatratili mue, kteøí jí propadli. Musíme najít nìjakı chrám, kde by nám mohli pomoct zlomit její démonickou iluzi.~
+Saerileth mne ujistila, Å¾e Dalila je dÃ©mon, ale Å¾e ji nemÃ¹Å¾eme zabÃ­t, aniÅ¾ bychom zatratili muÅ¾e, kteÃ¸Ã­ jÃ­ propadli. MusÃ­me najÃ­t nÃ¬jakÃ½ chrÃ¡m, kde by nÃ¡m mohli pomoct zlomit jejÃ­ dÃ©monickou iluzi.~
 
-@5021 = ~Nevìstka Dalila
+@5021 = ~NevÃ¬stka Dalila
 
-Odmítl jsem pomoct tìm chlípníkùm, které tak omámilo démonovo objetí. Sami jsou strùjci svého osudu. Saerileth posmutnìla, ale souhlasí, e jejich trest je spravedlivı.~
+OdmÃ­tl jsem pomoct tÃ¬m chlÃ­pnÃ­kÃ¹m, kterÃ© tak omÃ¡milo dÃ©monovo objetÃ­. Sami jsou strÃ¹jci svÃ©ho osudu. Saerileth posmutnÃ¬la, ale souhlasÃ­, Å¾e jejich trest je spravedlivÃ½.~
 
-@5022 = ~Nevìstka Dalila
+@5022 = ~NevÃ¬stka Dalila
 
-Od Waukeenina knìze jsem získal svitek, kterı by mìl mít schopnost zrušit iluzi. Ještì se ukáe, jestli bude jeho moc staèit proti pekelné magii.~
+Od Waukeenina knÃ¬ze jsem zÃ­skal svitek, kterÃ½ by mÃ¬l mÃ­t schopnost zruÅ¡it iluzi. JeÅ¡tÃ¬ se ukÃ¡Å¾e, jestli bude jeho moc staÃ¨it proti pekelnÃ© magii.~
 
-@5023 = ~Nevìstka Dalila
+@5023 = ~NevÃ¬stka Dalila
 
-Magickı svitek úèinkoval. Nevím jistì, jestli to bylo mocí samotného svitku nebo Saerilethinımi modlitbami, ale tak nebo onak, úèinkovalo to a démon byl pøinucen opustit naši sféru a navrátit se do Abyssu.~
+MagickÃ½ svitek ÃºÃ¨inkoval. NevÃ­m jistÃ¬, jestli to bylo mocÃ­ samotnÃ©ho svitku nebo SaerilethinÃ½mi modlitbami, ale tak nebo onak, ÃºÃ¨inkovalo to a dÃ©mon byl pÃ¸inucen opustit naÅ¡i sfÃ©ru a navrÃ¡tit se do Abyssu.~
 
-@5024 = ~Poraení Khabalaxina
+@5024 = ~PoraÅ¾enÃ­ Khabalaxina
 
-Pøijal jsem ádost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblí jeho nového doupìte, v jeskyni u øeky v Umaøinì vrchovinì.~
+PÃ¸ijal jsem Å¾Ã¡dost sira Havuna Clarenshida, abych mu pomohl proti draku Khalabaxinovi. Najdu ho poblÃ­Å¾ jeho novÃ©ho doupÃ¬te, v jeskyni u Ã¸eky v UmaÃ¸inÃ¬ vrchovinÃ¬.~
 
-@5025 = ~Poraení Khabalaxina
+@5025 = ~PoraÅ¾enÃ­ Khabalaxina
 
-Porazil jsem draka Khalabaxina. Nyní se musím vrátit do Øádu záøícího srdce a ohlásit siru Havunu Clarenshidovi, co se stalo.~
+Porazil jsem draka Khalabaxina. NynÃ­ se musÃ­m vrÃ¡tit do Ã˜Ã¡du zÃ¡Ã¸Ã­cÃ­ho srdce a ohlÃ¡sit siru Havunu Clarenshidovi, co se stalo.~
 
-@5026 = ~Poraení Khabalaxina
+@5026 = ~PoraÅ¾enÃ­ Khabalaxina
 
-Vrátil jsem se do Øádu zaøícího srdce s novinkami o svém vítìzství nad drakem Khabalaxinem. Zdá se, e dílo Øádu není nikdy hotovo.~
+VrÃ¡til jsem se do Ã˜Ã¡du zaÃ¸Ã­cÃ­ho srdce s novinkami o svÃ©m vÃ­tÃ¬zstvÃ­ nad drakem Khabalaxinem. ZdÃ¡ se, Å¾e dÃ­lo Ã˜Ã¡du nenÃ­ nikdy hotovo.~
 
-@5027 = ~Znièení upírù
+@5027 = ~ZniÃ¨enÃ­ upÃ­rÃ¹
 
-Sir Havun mne informoval, e nìkde ve mìstì se nachází vampıøí hnízdo. Mám ho najít a znièit. Bydlí v kryptách pod høbitovem. Øád s námi pošle jednoho ze svıch najatıch èarodìjù, aby mi pomohl odstranit ochrany, které hnízdo mùe mít.~
+Sir Havun mne informoval, Å¾e nÃ¬kde ve mÃ¬stÃ¬ se nachÃ¡zÃ­ vampÃ½Ã¸Ã­ hnÃ­zdo. MÃ¡m ho najÃ­t a zniÃ¨it. BydlÃ­ v kryptÃ¡ch pod hÃ¸bitovem. Ã˜Ã¡d s nÃ¡mi poÅ¡le jednoho ze svÃ½ch najatÃ½ch Ã¨arodÃ¬jÃ¹, aby mi pomohl odstranit ochrany, kterÃ© hnÃ­zdo mÃ¹Å¾e mÃ­t.~
 
-@5028 = ~Znièení upírù
+@5028 = ~ZniÃ¨enÃ­ upÃ­rÃ¹
 
-Znièil jsem upíry, ale jejich vùdce, Bodhi, mi unikla. Øíkala o mnì nìkolik zajímavıch vìcí... mimo jiné vìdìla, e jsem Bhaalùv zplozenec! Teï musím jít ohlásit úspìšné splnìní úkolu siru Havunovi.~
+ZniÃ¨il jsem upÃ­ry, ale jejich vÃ¹dce, Bodhi, mi unikla. Ã˜Ã­kala o mnÃ¬ nÃ¬kolik zajÃ­mavÃ½ch vÃ¬cÃ­... mimo jinÃ© vÃ¬dÃ¬la, Å¾e jsem BhaalÃ¹v zplozenec! TeÃ¯ musÃ­m jÃ­t ohlÃ¡sit ÃºspÃ¬Å¡nÃ© splnÃ¬nÃ­ Ãºkolu siru Havunovi.~
 
-@5029 = ~Upíøi znièeni
+@5029 = ~UpÃ­Ã¸i zniÃ¨eni
 
-Vrátil jsem se do Záøícího srdce s novinkami o poráce upírù. Øád mi nabídl, e mne za odmìnu dopraví do Èarotvrze!~
+VrÃ¡til jsem se do ZÃ¡Ã¸Ã­cÃ­ho srdce s novinkami o porÃ¡Å¾ce upÃ­rÃ¹. Ã˜Ã¡d mi nabÃ­dl, Å¾e mne za odmÃ¬nu dopravÃ­ do Ãˆarotvrze!~

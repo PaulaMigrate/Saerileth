@@ -48,3 +48,11 @@ THEN
 		ActionOverride("NSBODHI",StartDialogueNoSet(Player1))
 		SetInterrupt(TRUE)
 END
+
+IF
+Global("NSBodhiKill","GLOBAL",1)
+GlobalLT("aranjob","GLOBAL",3)
+THEN
+RESPONSE #100
+SetGlobal("aranjob","GLOBAL",4)
+END

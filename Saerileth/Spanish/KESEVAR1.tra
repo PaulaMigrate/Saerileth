@@ -1,46 +1,46 @@
-@0    = ~Me alegro de veros sanos y juntos. Tyr os da la bendición.~ 
-@1    = ~Me alegra veros bien, ¿pero qué le pasó a Saerileth?.~
-@2    = ~Iré y buscaré al Elegido de Tyr, a quién debo mi alma.~ 
-@3    = ~¡Saludos y bienvenido, hijo de dios! ¿Pero dónde está la Elegida de Tyr?.~ [SAERI175] ~¡Saludos y bienvenida, hija de dios! ¿Pero dónde está la Elegida de Tyr?.~ [SAERI175]
-@4    = ~¡Necesitamos desesperadamente vuestra ayuda! ¡Saerileth ha sido transformada en una no muerta!.~ 
-@5    = ~¡Perdonadme por traeros estas malas noticias, pero Saerileth se perderá si vos no nos podéis ayudar!.~
-@6    = ~Esto no puede ser. ¡La oscuridad no la reclamará!.~
-@7    = ~¡Entonces ayudadme! ¡Venid conmigo, de regreso a Athkatla!.~ 
-@8    = ~¿Bien, qué estamos esperando? ¡Vayamos!.~
-@9    = ~Habláis en acertijos. Hablad claro y decidme que le pasó.~ 
-@10   = ~¡Ella ha sido transformada en una no muerta!.~
-@11   = ~¡Ella ha sido convertida en un fantasma y un vampiro!.~
-@12   = ~¡La oscuridad de Bodhi la ha eclipsado, y ahora ella mora en la no muerte!.~ 
-@13   = ~<CHARNAME>, ¿creéis que Tyr la puede sanar a través de mí? ¿Esa fuerza de Tyr es suficiente para tumbar las puertas del infierno y desterrar esta oscuridad?.~
-@14   = ~¡Sí, claro que sí! ¿Por qué si no estaría aquí?.~ 
-@15   = ~Sí, lo creo.~
+@0    = ~Me alegro de veros sanos y juntos. Tyr os da la bendiciÃ³n.~ 
+@1    = ~Me alegra veros bien, Â¿pero quÃ© le pasÃ³ a Saerileth?.~
+@2    = ~IrÃ© y buscarÃ© al Elegido de Tyr, a quiÃ©n debo mi alma.~ 
+@3    = ~Â¡Saludos y bienvenido, hijo de dios! Â¿Pero dÃ³nde estÃ¡ la Elegida de Tyr?.~ [SAERI175] ~Â¡Saludos y bienvenida, hija de dios! Â¿Pero dÃ³nde estÃ¡ la Elegida de Tyr?.~ [SAERI175]
+@4    = ~Â¡Necesitamos desesperadamente vuestra ayuda! Â¡Saerileth ha sido transformada en una no muerta!.~ 
+@5    = ~Â¡Perdonadme por traeros estas malas noticias, pero Saerileth se perderÃ¡ si vos no nos podÃ©is ayudar!.~
+@6    = ~Esto no puede ser. Â¡La oscuridad no la reclamarÃ¡!.~
+@7    = ~Â¡Entonces ayudadme! Â¡Venid conmigo, de regreso a Athkatla!.~ 
+@8    = ~Â¿Bien, quÃ© estamos esperando? Â¡Vayamos!.~
+@9    = ~HablÃ¡is en acertijos. Hablad claro y decidme que le pasÃ³.~ 
+@10   = ~Â¡Ella ha sido transformada en una no muerta!.~
+@11   = ~Â¡Ella ha sido convertida en un fantasma y un vampiro!.~
+@12   = ~Â¡La oscuridad de Bodhi la ha eclipsado, y ahora ella mora en la no muerte!.~ 
+@13   = ~<CHARNAME>, Â¿creÃ©is que Tyr la puede sanar a travÃ©s de mÃ­? Â¿Esa fuerza de Tyr es suficiente para tumbar las puertas del infierno y desterrar esta oscuridad?.~
+@14   = ~Â¡SÃ­, claro que sÃ­! Â¿Por quÃ© si no estarÃ­a aquÃ­?.~ 
+@15   = ~SÃ­, lo creo.~
 @16   = ~Creo que Tyr puede sanar a sus sirvientes.~
-@17   = ~Aunque en mi corazón le sirvo a otro dios, sé que Tyr puede sanar a Saerileth.~
+@17   = ~Aunque en mi corazÃ³n le sirvo a otro dios, sÃ© que Tyr puede sanar a Saerileth.~
 @18   = ~Tengo mis dudas acerca de la habilidad de Tyr para sanar lo doblemente muerto.~ 
-@19   = ~He visto muchas cosas imposibles hechas posibles en mis viajes, pero esta hazaña es demasiado increíble.~
+@19   = ~He visto muchas cosas imposibles hechas posibles en mis viajes, pero esta hazaÃ±a es demasiado increÃ­ble.~
 @20   = ~No, no lo creo.~ 
 @21   = ~Entonces id. Vuestra fe ha hecho bien.~ 
-@22   = ~¿¡Qué!? ¿Qué queréis decir con que no vais a regresar con nosotros?.~
-@23   = ~¿Así como así? ¿Es tan fácil?.~ 
-@24   = ~(No digáis nada.)~
-@25   = ~Dudáis, hijo de dios, pero en vuestro interior sabéis que el poder de Tyr es suficiente. ¿Si no por qué me buscaríais?.~ ~Dudáis, hija de dios, pero en vuestro interior sabéis que el poder de Tyr es suficiente. ¿Si no por qué me buscaríais?.~
+@22   = ~Â¿Â¡QuÃ©!? Â¿QuÃ© querÃ©is decir con que no vais a regresar con nosotros?.~
+@23   = ~Â¿AsÃ­ como asÃ­? Â¿Es tan fÃ¡cil?.~ 
+@24   = ~(No digÃ¡is nada.)~
+@25   = ~DudÃ¡is, hijo de dios, pero en vuestro interior sabÃ©is que el poder de Tyr es suficiente. Â¿Si no por quÃ© me buscarÃ­ais?.~ ~DudÃ¡is, hija de dios, pero en vuestro interior sabÃ©is que el poder de Tyr es suficiente. Â¿Si no por quÃ© me buscarÃ­ais?.~
 @26   = ~Muy bien, le creo.~
 @27   = ~Vine porque estaba desesperado, no porque lo creo. No lo hago.~
-@28   = ~Entonces Saerileth está condenada.~ [SAERI440]
-@29   = ~Saerileth está sana y salva, y la regresaré a vos.~ [SAERI292]
-@30   = ~¿Por qué os maravilláis? Habéis reconocido el poder soberano de Tyr. ¿Por qué os asombra su muestra?.~
-@31   = ~(El deva levanta su mano en señal de bendición.) Adiós, hijo de dios.~ ~(El deva levanta su mano en señal de bendición.) Adiós, hija de dios.~
-@32   = ~¡Lo habéis hecho, Elegida de Tyr! ¡Y el dios Herido ha tenido misericordia con su sirviente!.~ [SAERI176]
-@33   = ~Me alegra, Kesevar el Justo, ¡Me Alegra de que hayáis regresado al favor de Tyr!.~ [SAERI177]
-@34   = ~Y las gracias también para vos, hijo de dios, por vuestra misericordia y vuestra ayuda.~ ~Y las gracias también para vos, hija de dios, por vuestra misericordia y vuestra ayuda.~
-@35   = ~Si hay algo que Kesevar pueda hacer por vos, sólo pedidlo.~
-@36   = ~Y ahora regresaré al Templo de Tyr en Tethyr, pues allí puedo ofrecerle mis oraciones al Herido por su justicia y misericordia.~
-@5000 = ~El Deva caído
+@28   = ~Entonces Saerileth estÃ¡ condenada.~ [SAERI440]
+@29   = ~Saerileth estÃ¡ sana y salva, y la regresarÃ© a vos.~ [SAERI292]
+@30   = ~Â¿Por quÃ© os maravillÃ¡is? HabÃ©is reconocido el poder soberano de Tyr. Â¿Por quÃ© os asombra su muestra?.~
+@31   = ~(El deva levanta su mano en seÃ±al de bendiciÃ³n.) AdiÃ³s, hijo de dios.~ ~(El deva levanta su mano en seÃ±al de bendiciÃ³n.) AdiÃ³s, hija de dios.~
+@32   = ~Â¡Lo habÃ©is hecho, Elegida de Tyr! Â¡Y el dios Herido ha tenido misericordia con su sirviente!.~ [SAERI176]
+@33   = ~Me alegra, Kesevar el Justo, Â¡Me Alegra de que hayÃ¡is regresado al favor de Tyr!.~ [SAERI177]
+@34   = ~Y las gracias tambiÃ©n para vos, hijo de dios, por vuestra misericordia y vuestra ayuda.~ ~Y las gracias tambiÃ©n para vos, hija de dios, por vuestra misericordia y vuestra ayuda.~
+@35   = ~Si hay algo que Kesevar pueda hacer por vos, sÃ³lo pedidlo.~
+@36   = ~Y ahora regresarÃ© al Templo de Tyr en Tethyr, pues allÃ­ puedo ofrecerle mis oraciones al Herido por su justicia y misericordia.~
+@5000 = ~El Deva caÃ­do
 
-He acogido a una joven paladín de Tyr llamada Saerileth en mi grupo. Está buscando un deva caído y le han dicho que lo encontraría viajando con el engendro de Baal. No hay más detalles disponibles.~
-@5001 = ~El Deva caído
+He acogido a una joven paladÃ­n de Tyr llamada Saerileth en mi grupo. EstÃ¡ buscando un deva caÃ­do y le han dicho que lo encontrarÃ­a viajando con el engendro de Baal. No hay mÃ¡s detalles disponibles.~
+@5001 = ~El Deva caÃ­do
 
-He acogido a una joven paladín de Tyr llamada Saerileth en mi grupo. Parece muy feliz conmigo.  Está buscando un deva caído y le han dicho que lo encontraría viajando con el engendro de Baal. No hay más detalles disponibles.~
+He acogido a una joven paladÃ­n de Tyr llamada Saerileth en mi grupo. Parece muy feliz conmigo.  EstÃ¡ buscando un deva caÃ­do y le han dicho que lo encontrarÃ­a viajando con el engendro de Baal. No hay mÃ¡s detalles disponibles.~
 @5002 = ~Saerileth Secuestrada
 
 Saerileth ha sido secuestra por un demonio-lord. Hemos unido nuestras fuerzas con caballeros de Tyr para intentar rescatarla. Primero debemos buscar a Jharak en la ciudad de Sigil para conseguir el Cetro de Tyr.~
@@ -52,76 +52,76 @@ Saerileth ha sido secuestra por un demonio-lord. Hemos unido nuestras fuerzas co
 Saerileth ha sido secuestra por un demonio-lord. Es muy arriesgado intentar rescatarla. La hemos dejado a su destino.~
 @5005 = ~Saerileth Secuestrada
 
-Hemos encontrado a Jharak, pero él nos envió a un portal antes de decirnos la localización del Cetro de Tyr.~
+Hemos encontrado a Jharak, pero Ã©l nos enviÃ³ a un portal antes de decirnos la localizaciÃ³n del Cetro de Tyr.~
 @5006 = ~Saerileth Secuestrada
 
 Hemos encontrado la llave, una cerradura de pelo, y estamos regresando a Jharak con ella inmediatamente.~
 @5007 = ~Saerileth Secuestrada
 
-Jharak nos ha enviado a hablar con el tabernero, él tiene el Cetro.~
+Jharak nos ha enviado a hablar con el tabernero, Ã©l tiene el Cetro.~
 @5008 = ~Saerileth Secuestrada
 
-Al final hemos conseguido el Cetro de Tyr. El alma de Saerileth está en peligro, y necesitamos llegar a Edorem lo más rápido posible.~
+Al final hemos conseguido el Cetro de Tyr. El alma de Saerileth estÃ¡ en peligro, y necesitamos llegar a Edorem lo mÃ¡s rÃ¡pido posible.~
 @5009 = ~Saerileth Rescatada
 
-Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez más. Lord Edorem, el paladín de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
+Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez mÃ¡s. Lord Edorem, el paladÃ­n de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
 @5010 = ~Saerileth Rescatada
 
-Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez más. He relevado a Saerileth, y está esperándome en los planos. Lord Edorem, el paladín de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
-@5011 = ~El Deva caído
+Hemos rescatado a Saerileth del demonio-lord Glourkist, y estamos a salvo en Toril una vez mÃ¡s. He relevado a Saerileth, y estÃ¡ esperÃ¡ndome en los planos. Lord Edorem, el paladÃ­n de Tyr, nos ha dado un martillo en agradecimiento por salvar a Saerileth.~
+@5011 = ~El Deva caÃ­do
 
-Hemos encontrado a Kesevar el Caído, pero dice que su castigo no es merecido. Ha mandado la búsqueda del único testigo que puede atestiguar su inocencia: el engendro de Baal de nombre Gunshain.~
-@5012 = ~El Deva caído
+Hemos encontrado a Kesevar el CaÃ­do, pero dice que su castigo no es merecido. Ha mandado la bÃºsqueda del Ãºnico testigo que puede atestiguar su inocencia: el engendro de Baal de nombre Gunshain.~
+@5012 = ~El Deva caÃ­do
 
-Gunshain, ha limpiado el nombre de Kesevar, ¡pero él también ha intentado matarnos! Nos hemos desecho de él, y hemos vuelto a por Kesevar rápidamente.~
-@5013 = ~El Deva caído
+Gunshain, ha limpiado el nombre de Kesevar, Â¡pero Ã©l tambiÃ©n ha intentado matarnos! Nos hemos desecho de Ã©l, y hemos vuelto a por Kesevar rÃ¡pidamente.~
+@5013 = ~El Deva caÃ­do
 
-Saerileth dijo que Kesevar era inocente, y su proclamación ha tenido efecto inmediato. El deva fue devuelto a su antigua gloria, y Saerileth se queda en mi compañía.~
-@5014 = ~El Deva caído
+Saerileth dijo que Kesevar era inocente, y su proclamaciÃ³n ha tenido efecto inmediato. El deva fue devuelto a su antigua gloria, y Saerileth se queda en mi compaÃ±Ã­a.~
+@5014 = ~El Deva caÃ­do
 
-Parece que Kesevar no es culpable después de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. Mi amor ha vuelto a los Planos para intentar expiar su pérdida. Nunca la volveré a ver.~
-@5015 = ~El Deva caído
+Parece que Kesevar no es culpable despuÃ©s de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. Mi amor ha vuelto a los Planos para intentar expiar su pÃ©rdida. Nunca la volverÃ© a ver.~
+@5015 = ~El Deva caÃ­do
 
-Parece que Kesevar no es culpable después de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. La joven paladín ha vuelto a los Planos para intentar expiar su pérdida. Nunca la volveré a ver.~
+Parece que Kesevar no es culpable despuÃ©s de todo. Por destruirlo, Saerileth ha perdido toda la honra de Tyr. La joven paladÃ­n ha vuelto a los Planos para intentar expiar su pÃ©rdida. Nunca la volverÃ© a ver.~
 @5016 = ~Delilah la Ramera
 
-Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer más hermosa de estas tierras, está vendiendo placeres con su cuerpo en la taberna local. Mi esposa, Saerileth y yo, tenemos graves dudas acerca del destino del hombre que fuera a verla.~
+Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer mÃ¡s hermosa de estas tierras, estÃ¡ vendiendo placeres con su cuerpo en la taberna local. Mi esposa, Saerileth y yo, tenemos graves dudas acerca del destino del hombre que fuera a verla.~
 @5017 = ~Delilah la Ramera
 
-Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer más hermosa de estas tierras, está vendiendo placeres con su cuerpo en la taberna local. Tengo graves dudas acerca del destino del hombre que fuera a verla.~
+Un hombre en Amkethran proclama que Delilah, de quien dice es la mujer mÃ¡s hermosa de estas tierras, estÃ¡ vendiendo placeres con su cuerpo en la taberna local. Tengo graves dudas acerca del destino del hombre que fuera a verla.~
 @5018 = ~Delilah la Ramera
 
-Sucumbí a los encantos de Delilah, ¡sólo para descubrir que era un súcubo! Mi adulterio rompió el corazón de Saerileth, y ella está muerta. El súcubo ha vuelto al Abismo, y ya no soy el hombre que era antes.~
+SucumbÃ­ a los encantos de Delilah, Â¡sÃ³lo para descubrir que era un sÃºcubo! Mi adulterio rompiÃ³ el corazÃ³n de Saerileth, y ella estÃ¡ muerta. El sÃºcubo ha vuelto al Abismo, y ya no soy el hombre que era antes.~
 @5019 = ~Delilah la Ramera
 
-Sucumbí a los encantos de Delilah, ¡sólo para descubrir que era un súcubo! El súcubo ha regresado al Abismo, y ya no soy el hombre que era antes.~
+SucumbÃ­ a los encantos de Delilah, Â¡sÃ³lo para descubrir que era un sÃºcubo! El sÃºcubo ha regresado al Abismo, y ya no soy el hombre que era antes.~
 @5020 = ~Delilah la Ramera
 
-Saerileth me aseguró que esa Delilah es un demonio, pero no podemos matarla sin destruir al hombre que está con ella. Necesitamos encontrar un templo donde tal vez podamos encontrar en las ilusiones demoníacas penetrantes.~
+Saerileth me asegurÃ³ que esa Delilah es un demonio, pero no podemos matarla sin destruir al hombre que estÃ¡ con ella. Necesitamos encontrar un templo donde tal vez podamos encontrar en las ilusiones demonÃ­acas penetrantes.~
 @5021 = ~Delilah la Ramera
 
-Me he negado a ayudar a aquellos capturados en el abrazo de los demonios. Les acarrearon su destino. Saerileth está entristecida, pero ella reconoce que su castigo es justo.~
+Me he negado a ayudar a aquellos capturados en el abrazo de los demonios. Les acarrearon su destino. Saerileth estÃ¡ entristecida, pero ella reconoce que su castigo es justo.~
 @5022 = ~Delilah la Ramera
 
-He recibido del sacerdote de Waukin un hechizo con la habilidad de cancelar las ilusiones. Aún está por verse si su poder funciona con las magias del infierno.~
+He recibido del sacerdote de Waukin un hechizo con la habilidad de cancelar las ilusiones. AÃºn estÃ¡ por verse si su poder funciona con las magias del infierno.~
 @5023 = ~Delilah la Ramera
 
-El pergamino tuvo éxito. Si fue el pergamino o los rezos de Saerileth, no lo sé. Sin embargo funcionó, y los demonios fueron forzados a regresar al Abismo.~
+El pergamino tuvo Ã©xito. Si fue el pergamino o los rezos de Saerileth, no lo sÃ©. Sin embargo funcionÃ³, y los demonios fueron forzados a regresar al Abismo.~
 @5024 = ~Derrotando a Khalabaxin
 
-He aceptado ayudar a Sir Havun Clarenshider contra el dragón Khalabaxin. Lo encontraré cerca de su nueva guarida, la cueva después del río en las colinas de Umar.~
+He aceptado ayudar a Sir Havun Clarenshider contra el dragÃ³n Khalabaxin. Lo encontrarÃ© cerca de su nueva guarida, la cueva despuÃ©s del rÃ­o en las colinas de Umar.~
 @5025 = ~Derrotando a Khalabaxin
 
-He destruido al dragón Khalabaxin. Ahora voy a volver a la Orden del Corazón Radiante y a contarle a Sir Havun Clarenshide lo que ha ocurrido.~
+He destruido al dragÃ³n Khalabaxin. Ahora voy a volver a la Orden del CorazÃ³n Radiante y a contarle a Sir Havun Clarenshide lo que ha ocurrido.~
 @5026 = ~Derrotando a Khalabaxin
 
-He vuelto al Corazón Radiante con noticias de mi victoria contra Khalabaxin. El trabajo de la Orden parece que nunca acabará.~
+He vuelto al CorazÃ³n Radiante con noticias de mi victoria contra Khalabaxin. El trabajo de la Orden parece que nunca acabarÃ¡.~
 @5027 = ~Derrotando a los Vampiros
 
-Sir Havun me ha informado de la existencia de una guarida de vampiros aquí en la ciudad. Tengo que buscarla y destruirla. Viven en las criptas debajo del cementerio. La Orden enviará uno de sus magos expertos para ayudarme en abrir una brecha en las defensas de la guarida.~
+Sir Havun me ha informado de la existencia de una guarida de vampiros aquÃ­ en la ciudad. Tengo que buscarla y destruirla. Viven en las criptas debajo del cementerio. La Orden enviarÃ¡ uno de sus magos expertos para ayudarme en abrir una brecha en las defensas de la guarida.~
 @5028 = ~Derrotando a los Vampiros
 
-He destruido a los vampiros, pero la líder, Bodhi, me eludió. Tiene cosas interesantes que decir sobre mí... ¡Ella sabía que era un engendro de Baal! Ahora voy a contar la destrucción de los vampiros a Sir Havun.~
+He destruido a los vampiros, pero la lÃ­der, Bodhi, me eludiÃ³. Tiene cosas interesantes que decir sobre mÃ­... Â¡Ella sabÃ­a que era un engendro de Baal! Ahora voy a contar la destrucciÃ³n de los vampiros a Sir Havun.~
 @5029 = ~Vampiros Derrotados
 
-He vuelto al Corazón Radiante con las noticias sobre mi victoria contra los vampiros. La Orden me ha ofrecido un pasaje a la Prisión del Hechicero como recompensa.~
+He vuelto al CorazÃ³n Radiante con las noticias sobre mi victoria contra los vampiros. La Orden me ha ofrecido un pasaje a la PrisiÃ³n del Hechicero como recompensa.~

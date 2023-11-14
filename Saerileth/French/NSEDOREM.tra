@@ -1,343 +1,343 @@
-@0    = ~J'ai échoué! Saerileth est partie, et je ne pouvais pas empêcher sa capture!~ [SAERI143]
-@1    = ~Qui êtes vous, et que se passe t'il ici?~
-@2    = ~Où se trouve t'elle? Parlez, homme!~
-@3    = ~Je suis content que vous ayez échoué. Ce kidnapping m'a sauvé des ennuis pour la sortir du groupe.~
-@4    = ~Je n'ai pas le temps d'écouter vos regrets larmoyants! Nous devons trouver Saerileth maintenant!~
-@5    = ~Je m'appelle Edorem et je sers Tyr.  Je connais Saerileth depuis son entrée à Sigil.~
-@6    = ~Glourkist a été envoyé pour elle. Il est un puissant seigneur démon, un de ceux que Saerileth a combattu durant son séjour à Sigil.~
+@0    = ~J'ai Ã©chouÃ©! Saerileth est partie, et je ne pouvais pas empÃªcher sa capture!~ [SAERI143]
+@1    = ~Qui Ãªtes vous, et que se passe t'il ici?~
+@2    = ~OÃ¹ se trouve t'elle? Parlez, homme!~
+@3    = ~Je suis content que vous ayez Ã©chouÃ©. Ce kidnapping m'a sauvÃ© des ennuis pour la sortir du groupe.~
+@4    = ~Je n'ai pas le temps d'Ã©couter vos regrets larmoyants! Nous devons trouver Saerileth maintenant!~
+@5    = ~Je m'appelle Edorem et je sers Tyr.  Je connais Saerileth depuis son entrÃ©e Ã  Sigil.~
+@6    = ~Glourkist a Ã©tÃ© envoyÃ© pour elle. Il est un puissant seigneur dÃ©mon, un de ceux que Saerileth a combattu durant son sÃ©jour Ã  Sigil.~
 @7    = ~Comment?~
-@8    = ~Hé bien, trouvons Glourkist!~
-@9    = ~Saerileth est forte, mais ne peut rien faire face à un 'seigneur démon'!~
-@10   = ~Saerileth est une amie véritable, mais je ne suis pas sure qu'elle puisse affronter un 'seigneur démon'!~
-@11   = ~Comment sommes nous supposés nous rendre à Sigil?~
-@12   = ~Elle a donné à un ennemi de Glourkist la connaissance pour utiliser la porte du temple de Tyr, et pour pouvoir l'utiliser, il a déjoué les plans du seigneur démon.~
-@13   = ~Pour remplacer son trophée perdu, il a pris Saerileth, mais ses plans sont pour elle maintenant, et personne ne les connaît.~
-@14   = ~Prenez garde! La colère de Glourkist est redoutable, et sa portée est longue. Si vous êtes face à lui, vous aurez besoin d'aide.~
-@15   = ~Cherchons le sceptre de Tyr. Jharak sait où il peut être, donc nous devons le trouver et le convaincre de nous dire où il se trouve.~
+@8    = ~HÃ© bien, trouvons Glourkist!~
+@9    = ~Saerileth est forte, mais ne peut rien faire face Ã  un 'seigneur dÃ©mon'!~
+@10   = ~Saerileth est une amie vÃ©ritable, mais je ne suis pas sure qu'elle puisse affronter un 'seigneur dÃ©mon'!~
+@11   = ~Comment sommes nous supposÃ©s nous rendre Ã  Sigil?~
+@12   = ~Elle a donnÃ© Ã  un ennemi de Glourkist la connaissance pour utiliser la porte du temple de Tyr, et pour pouvoir l'utiliser, il a dÃ©jouÃ© les plans du seigneur dÃ©mon.~
+@13   = ~Pour remplacer son trophÃ©e perdu, il a pris Saerileth, mais ses plans sont pour elle maintenant, et personne ne les connaÃ®t.~
+@14   = ~Prenez garde! La colÃ¨re de Glourkist est redoutable, et sa portÃ©e est longue. Si vous Ãªtes face Ã  lui, vous aurez besoin d'aide.~
+@15   = ~Cherchons le sceptre de Tyr. Jharak sait oÃ¹ il peut Ãªtre, donc nous devons le trouver et le convaincre de nous dire oÃ¹ il se trouve.~
 @16   = ~Je retrouverai ce sceptre.~
-@17   = ~Oubliez ça! Je n'ai pas besoin d'aide. Je combattrai ce Glourkist moi-même!~
-@18   = ~Le temps est précieux. Nous devons sauver Saerileth maintenant, et nous n'avons pas le temps pour cela.~
+@17   = ~Oubliez Ã§a! Je n'ai pas besoin d'aide. Je combattrai ce Glourkist moi-mÃªme!~
+@18   = ~Le temps est prÃ©cieux. Nous devons sauver Saerileth maintenant, et nous n'avons pas le temps pour cela.~
 @19   = ~Alors j'irai seul et je ferai ce que je peux. Adieu.~
-@20   = ~Mais il existe de l'espoir pour le prochain conflit. La colère de Glourkist est puissante, et sa portée est longue. Si vous vous retrouvez face à lui, vous aurez besoin d'aide.~
+@20   = ~Mais il existe de l'espoir pour le prochain conflit. La colÃ¨re de Glourkist est puissante, et sa portÃ©e est longue. Si vous vous retrouvez face Ã  lui, vous aurez besoin d'aide.~
 @21   = ~Non. Cela n'en vaut pas la peine.~
-@22   = ~Excellent. Vous montrez énormément de compassion pour votre amie. Au dernier rapport, Jharak a fait faire pour lui-même une maison dans la Ruche. Cherchons le là bas.~
-@23   = ~Très bien. Si vous êtes confiant en votre capacité, enfant de dieu, alors allons-y.~
-@24   = ~Je peux changer de plans avec la capacité de vous prendre d'ici. La colère de Glourkist est puissante, et sa portée est longue. Si vous vous retrouvez face à lui, vous aurez besoin d'aide..~
-@25   = ~Cherchez le sceptre de Tyr. Jharak, un résident de la Ruche dans Sigil, sais ou il se trouve. Cherchez le dehors.~
-@26   = ~Je ne pense pas qu'elle vaille la peine d'acquérir des ennuis.~
-@27   = ~Elle se trouve dans Sigil, une cité du plan extérieur. Glourkist a été envoyé pour elle. Il est un puissant seigneur démon, un de ceux que Saerileth a combattu durant son séjour à Sigil.~
-@28   = ~Vous n'éprouvez aucune compassion pour le destin de Saerileth? Très bien, je la chercherai seul.~
+@22   = ~Excellent. Vous montrez Ã©normÃ©ment de compassion pour votre amie. Au dernier rapport, Jharak a fait faire pour lui-mÃªme une maison dans la Ruche. Cherchons le lÃ  bas.~
+@23   = ~TrÃ¨s bien. Si vous Ãªtes confiant en votre capacitÃ©, enfant de dieu, alors allons-y.~
+@24   = ~Je peux changer de plans avec la capacitÃ© de vous prendre d'ici. La colÃ¨re de Glourkist est puissante, et sa portÃ©e est longue. Si vous vous retrouvez face Ã  lui, vous aurez besoin d'aide..~
+@25   = ~Cherchez le sceptre de Tyr. Jharak, un rÃ©sident de la Ruche dans Sigil, sais ou il se trouve. Cherchez le dehors.~
+@26   = ~Je ne pense pas qu'elle vaille la peine d'acquÃ©rir des ennuis.~
+@27   = ~Elle se trouve dans Sigil, une citÃ© du plan extÃ©rieur. Glourkist a Ã©tÃ© envoyÃ© pour elle. Il est un puissant seigneur dÃ©mon, un de ceux que Saerileth a combattu durant son sÃ©jour Ã  Sigil.~
+@28   = ~Vous n'Ã©prouvez aucune compassion pour le destin de Saerileth? TrÃ¨s bien, je la chercherai seul.~
 @29   = ~Je vous combattrais pour cette injustice; mais le temps est court, et je dois y aller.~
-@30   = ~Je vous attendrai ici, <CHARNAME>. Je dois maintenir la connexion à Baator.~
+@30   = ~Je vous attendrai ici, <CHARNAME>. Je dois maintenir la connexion Ã  Baator.~
 @31   = ~Trouvez Jharak, rapidement! Rapportez le sceptre de Tyr!~
-@32   = ~L'âme de Saerileth est en danger. Ne faîtes pas retarder!~ [SAERI144]
+@32   = ~L'Ã¢me de Saerileth est en danger. Ne faÃ®tes pas retarder!~ [SAERI144]
 @33   = ~Je ne trouve pas Jharak!~
-@34   = ~J'ai changé d'avis. Elle n'en vaut pas la peine.~
+@34   = ~J'ai changÃ© d'avis. Elle n'en vaut pas la peine.~
 @35   = ~Je ferai vite.~
-@36   = ~Vil lâche! Vous donnez votre parole, et maintenant vous l'annulez!~
-@37   = ~Cependant la justice de Tyr sera servie. Vous ne pouvez pas quitter la Cage sans moi, et je ne peux pas quitter mon poste ici, entrain d'ouvrir le conduit qui mène à Glourkist.~
-@38   = ~Trouvez Jharak et le Sceptre, ou vous ne pourrez jamais revenir à Toril à nouveau.~
+@36   = ~Vil lÃ¢che! Vous donnez votre parole, et maintenant vous l'annulez!~
+@37   = ~Cependant la justice de Tyr sera servie. Vous ne pouvez pas quitter la Cage sans moi, et je ne peux pas quitter mon poste ici, entrain d'ouvrir le conduit qui mÃ¨ne Ã  Glourkist.~
+@38   = ~Trouvez Jharak et le Sceptre, ou vous ne pourrez jamais revenir Ã  Toril Ã  nouveau.~
 @39   = ~Faites le.~
-@40   = ~Il existe d'autre personnes dans la Ruche qui peuvent nous aider! Demandez à ceux qui sont nés dans les Plans Supérieurs.~
-@41   = ~Vous avez retrouvé le sceptre. Précipitons nous au secours de Saerileth!~ [SAERI145]
-@42   = ~Vous êtes retourné à nouveau dans votre plan. Et maintenant, je retrouve la Saerileth de mon amour.~ [SAERI149]
-@43   = ~Je vous remercie sincèrement, <CHARNAME>. Et comme petite récompense pour ce que vous avez fait pour Tyr en secourant son Elue préférée, je vous donne ceci.~ [SAERI150]
-@44   = ~C'est un marteau puissant, sacré de Tyr. Utilisez le au nom de Tyr l'Impartial.~
-@45   = ~(Le chevalier ne peut pas éloigner son regard de Saerileth, mais continue de s'adresser à vous.)~
-@46   = ~Je vous remercie sincèrement, <CHARNAME>. Et comme petite récompense pour ce que vous avez fait pour Tyr en secourant son Elue préférée, je vous donne ceci.~ [SAERI150]
-@47   = ~C'est un marteau puissant, sacré de Tyr. Utilisez le au nom de Tyr l'Impartial.~
+@40   = ~Il existe d'autre personnes dans la Ruche qui peuvent nous aider! Demandez Ã  ceux qui sont nÃ©s dans les Plans SupÃ©rieurs.~
+@41   = ~Vous avez retrouvÃ© le sceptre. PrÃ©cipitons nous au secours de Saerileth!~ [SAERI145]
+@42   = ~Vous Ãªtes retournÃ© Ã  nouveau dans votre plan. Et maintenant, je retrouve la Saerileth de mon amour.~ [SAERI149]
+@43   = ~Je vous remercie sincÃ¨rement, <CHARNAME>. Et comme petite rÃ©compense pour ce que vous avez fait pour Tyr en secourant son Elue prÃ©fÃ©rÃ©e, je vous donne ceci.~ [SAERI150]
+@44   = ~C'est un marteau puissant, sacrÃ© de Tyr. Utilisez le au nom de Tyr l'Impartial.~
+@45   = ~(Le chevalier ne peut pas Ã©loigner son regard de Saerileth, mais continue de s'adresser Ã  vous.)~
+@46   = ~Je vous remercie sincÃ¨rement, <CHARNAME>. Et comme petite rÃ©compense pour ce que vous avez fait pour Tyr en secourant son Elue prÃ©fÃ©rÃ©e, je vous donne ceci.~ [SAERI150]
+@47   = ~C'est un marteau puissant, sacrÃ© de Tyr. Utilisez le au nom de Tyr l'Impartial.~
 @48   = ~Salutations, Saerileth, Elue de Tyr.~ [SAERI141]
 @49   = ~Sir Edorem! (Saerileth tourne son grand sourire, vers le chevalier au cheveux blond.)~
 @50   = ~Je suis contente de te voir bien-portant.~
 @51   = ~Et toi, Saerileth, te sens tu--bien-portante?~
-@52   = ~(Edorem vous regarde, et ses manières changent.) Et toi, enfant de dieu, vois tu ce dont elle mérite?~
+@52   = ~(Edorem vous regarde, et ses maniÃ¨res changent.) Et toi, enfant de dieu, vois tu ce dont elle mÃ©rite?~
 @53   = ~Elle n'a pas besoin d'un protecteur.~
 @54   = ~Pourquoi me regardez vous comme cela?~
-@55   = ~Que faîtes vous, là?~
-@56   = ~(Les yeux d'Edorem, bleus comme ceux de Saerileth, luisent soudainement.) Pourtant elle mérite d'être considérée comme un haut gradé, plutôt qu'un simple soldat!~
+@55   = ~Que faÃ®tes vous, lÃ ?~
+@56   = ~(Les yeux d'Edorem, bleus comme ceux de Saerileth, luisent soudainement.) Pourtant elle mÃ©rite d'Ãªtre considÃ©rÃ©e comme un haut gradÃ©, plutÃ´t qu'un simple soldat!~
 @57   = ~Ne le voyez vous pas?~
-@58   = ~Y a t'il une *raison* pour que vous soyez là?~
+@58   = ~Y a t'il une *raison* pour que vous soyez lÃ ?~
 @59   = ~Que voulez vous avec nous?~
 @60   = ~Je le vois certainement.~
 @61   = ~Je l'aime! Bien sur que je le vois!~
-@62   = ~(Edorem baisse rapidement les yeux, puis relève la tête vers Saerileth et répond.)~
-@63   = ~J'amène un présent pour Saerileth de la part des clerc de Tyr. (Il tend à Saerileth une fiole d'elixir de santé.)~
-@64   = ~Porte toi bien, Saerileth. (Le chevalier la tend à Saerileth, mais alors qu'il retourne à son plan, ses yeux se fixent sur vous.)~
+@62   = ~(Edorem baisse rapidement les yeux, puis relÃ¨ve la tÃªte vers Saerileth et rÃ©pond.)~
+@63   = ~J'amÃ¨ne un prÃ©sent pour Saerileth de la part des clerc de Tyr. (Il tend Ã  Saerileth une fiole d'elixir de santÃ©.)~
+@64   = ~Porte toi bien, Saerileth. (Le chevalier la tend Ã  Saerileth, mais alors qu'il retourne Ã  son plan, ses yeux se fixent sur vous.)~
 @65   = ~Moi? je ne veux rien de vous, enfant de dieu. (Les yeux d'Edorem sont bleus acier alors qu'il vous regarde.)~
-@66   = ~Comment le voyez vous, enfant de dieu? (Les yeux d'Edorem se fixent sur vous, avec une intensité particulière.)~
-@67   = ~Réalisez vous la valeur totale de son coeur?~
+@66   = ~Comment le voyez vous, enfant de dieu? (Les yeux d'Edorem se fixent sur vous, avec une intensitÃ© particuliÃ¨re.)~
+@67   = ~RÃ©alisez vous la valeur totale de son coeur?~
 @68   = ~Je ne suis pas amoureux d'elle, si c'est ce que vous voulez dire.~
 @69   = ~Je connais la valeur de Saerileth, chevalier.~
-@70   = ~Que *faîtes* vous ici?~
+@70   = ~Que *faÃ®tes* vous ici?~
 @71   = ~Vous l'aimez? (La voix d'Edorem est froide.) Vous *osez* l'aimer?~
-@72   = ~(Au prix d'un effort, Edorem se contrôle lui-même.) Mais ce n'est pas pour cela que je suis venu.~
-@73   = ~Je doute de ce que vous faîtes. (Edorem se tourne vers Saerileth.)~
-@74   = ~Je t'apporte un présent des clercs de Tyr. (Il tend à Saerileth une fiole d'elixir de santé.)~
-@75   = ~Ne savez vous rien à propos du passé de Saerileth que vous demandez? Etes vous si ignorant du trésor présent dans votre groupe?~
-@76   = ~Ne voyez vous pas qu'elle devrait être considérée comme un haut gradé plutôt qu'un simple soldat? Ne le voyez vous pas?~
-@77   = ~(Le visage d'Edorem se relaxe aussitôt, mais il ne peut parler; Saerileth fond aussitôt en larmes.)~
-@78   = ~Tu as brisé mon coeur. (Saerileth tortille ses mains, alors qu'elle pleure.)~
-@79   = ~(Edorem lance un regard vers vous, puis fait un signe de la tête en direction de Saerileth.) Je vais la chercher. Ca serait mieux si vous abandonniez.~
-@80   = ~(Il revient vers Saerileth, puis pose ses bras autour d'elle. Elle continue de pleurer d'une voix entrecoupée contre sa poitrine.)~
-@81   = ~(Edorem vous salue avec raideur, et offre ses mains à Saerileth.) Saerileth, Elue de Tyr, as tu encore ton coeur libre?~ [SAERI142]
-@82   = ~(Saerileth se lève, sa courtoisie innée encore évidente, malgré le rouge arrivant à ses joues.)~
+@72   = ~(Au prix d'un effort, Edorem se contrÃ´le lui-mÃªme.) Mais ce n'est pas pour cela que je suis venu.~
+@73   = ~Je doute de ce que vous faÃ®tes. (Edorem se tourne vers Saerileth.)~
+@74   = ~Je t'apporte un prÃ©sent des clercs de Tyr. (Il tend Ã  Saerileth une fiole d'elixir de santÃ©.)~
+@75   = ~Ne savez vous rien Ã  propos du passÃ© de Saerileth que vous demandez? Etes vous si ignorant du trÃ©sor prÃ©sent dans votre groupe?~
+@76   = ~Ne voyez vous pas qu'elle devrait Ãªtre considÃ©rÃ©e comme un haut gradÃ© plutÃ´t qu'un simple soldat? Ne le voyez vous pas?~
+@77   = ~(Le visage d'Edorem se relaxe aussitÃ´t, mais il ne peut parler; Saerileth fond aussitÃ´t en larmes.)~
+@78   = ~Tu as brisÃ© mon coeur. (Saerileth tortille ses mains, alors qu'elle pleure.)~
+@79   = ~(Edorem lance un regard vers vous, puis fait un signe de la tÃªte en direction de Saerileth.) Je vais la chercher. Ca serait mieux si vous abandonniez.~
+@80   = ~(Il revient vers Saerileth, puis pose ses bras autour d'elle. Elle continue de pleurer d'une voix entrecoupÃ©e contre sa poitrine.)~
+@81   = ~(Edorem vous salue avec raideur, et offre ses mains Ã  Saerileth.) Saerileth, Elue de Tyr, as tu encore ton coeur libre?~ [SAERI142]
+@82   = ~(Saerileth se lÃ¨ve, sa courtoisie innÃ©e encore Ã©vidente, malgrÃ© le rouge arrivant Ã  ses joues.)~
 @83   = ~Non, mon bon seigneur. Je ne l'ai pas.~
-@84   = ~Est ce cet enfant de Bhaal qui a pris ton coeur, Saerileth? S'il en est ainsi, alors il t'a déçu!~
-@85   = ~Regarde le bien, ce barbare qui mentirait à une femme! (Alors Edorem tend la main et vous arrache la magie génératrice de charisme que ses yeux planaires ont vu.)~
+@84   = ~Est ce cet enfant de Bhaal qui a pris ton coeur, Saerileth? S'il en est ainsi, alors il t'a dÃ©Ã§u!~
+@85   = ~Regarde le bien, ce barbare qui mentirait Ã  une femme! (Alors Edorem tend la main et vous arrache la magie gÃ©nÃ©ratrice de charisme que ses yeux planaires ont vu.)~
 @86   = ~Regarde le, Saerileth!~
 @87   = ~Qu'est ce qui se passe? Sir Edorem pourquoi te montres tu aussi discourtois? (Saerileth se tourne vers vous.)~
-@88   = ~S'il te plaît, mon amour, pardonne--~
-@89   = ~(Les yeux d'Edorem brûlent face aux votre.)~
+@88   = ~S'il te plaÃ®t, mon amour, pardonne--~
+@89   = ~(Les yeux d'Edorem brÃ»lent face aux votre.)~
 @90   = ~Pardonner? Comment puis je pardonner autant d'insolence?!~
 @91   = ~Pour l'amour de Saerileth, je pardonnerai cet outrage.~
-@92   = ~Par Tyr! Vous êtes amoureux d'elle, également!~
-@93   = ~(Le visage d'Edorem pâlit soudainement.) Vous--vous ne l'avez pas trompé! Vous êtes sincère dans ce que vous prétendez être, malgré la magie vous environnant.~
-@94   = ~(Le chevalier s'agenouille formellement devant vous.) Je vous ai accusé injustement, <CHARNAME>, fils de Bhaal.~
-@95   = ~Si le duel est ce qui est requis pour laver mon accusation de vous, alors qu'il en soit ainsi. S'il ne l'est pas, je partirai et ne vous dérangerai pas plus.~
+@92   = ~Par Tyr! Vous Ãªtes amoureux d'elle, Ã©galement!~
+@93   = ~(Le visage d'Edorem pÃ¢lit soudainement.) Vous--vous ne l'avez pas trompÃ©! Vous Ãªtes sincÃ¨re dans ce que vous prÃ©tendez Ãªtre, malgrÃ© la magie vous environnant.~
+@94   = ~(Le chevalier s'agenouille formellement devant vous.) Je vous ai accusÃ© injustement, <CHARNAME>, fils de Bhaal.~
+@95   = ~Si le duel est ce qui est requis pour laver mon accusation de vous, alors qu'il en soit ainsi. S'il ne l'est pas, je partirai et ne vous dÃ©rangerai pas plus.~
 @96   = ~J'aurai votre coeur sur une pique pour cela!~
-@97   = ~(Edorem se lève et incline sa tête formellement.) Citez vos conditions, ce sera fait comme vous le souhaitez.~
-@98   = ~(Un triomphe féroce se dessine sur le visage pâle du Chevalier, et il vous ignore complètement.)~
-@99   = ~Regarde, Saerileth, le filou qui t'a ensorcelé! La beauté de l'enfant d'un dieu et sa force de caractère, s'avèrent tous les deux faux, faux!~
-@100  = ~Il a utilisé des enchantements pour te duper! Regarde maintenant son vrai visage!~
-@101  = ~(Le chevalier s'incline formellement devant vous, son visage pâle se tordant avec peine et horreur.) Vous--vous ne l'avez pas trompé! Vous êtes sincère dans ce que vous vous prétendez être, malgré la magie vous environnant.~
-@102  = ~Je vous ai accusé injustement, <CHARNAME>, fils de Bhaal. Pour votre pardon immérité, je vous remercie.~
-@103  = ~Je partirai et ne vous dérangerai pas plus. (Il regarde Saerileth à nouveau, ses yeux tourmentés traçant la forme de son visage alors qu'il parle.)~
+@97   = ~(Edorem se lÃ¨ve et incline sa tÃªte formellement.) Citez vos conditions, ce sera fait comme vous le souhaitez.~
+@98   = ~(Un triomphe fÃ©roce se dessine sur le visage pÃ¢le du Chevalier, et il vous ignore complÃ¨tement.)~
+@99   = ~Regarde, Saerileth, le filou qui t'a ensorcelÃ©! La beautÃ© de l'enfant d'un dieu et sa force de caractÃ¨re, s'avÃ¨rent tous les deux faux, faux!~
+@100  = ~Il a utilisÃ© des enchantements pour te duper! Regarde maintenant son vrai visage!~
+@101  = ~(Le chevalier s'incline formellement devant vous, son visage pÃ¢le se tordant avec peine et horreur.) Vous--vous ne l'avez pas trompÃ©! Vous Ãªtes sincÃ¨re dans ce que vous vous prÃ©tendez Ãªtre, malgrÃ© la magie vous environnant.~
+@102  = ~Je vous ai accusÃ© injustement, <CHARNAME>, fils de Bhaal. Pour votre pardon immÃ©ritÃ©, je vous remercie.~
+@103  = ~Je partirai et ne vous dÃ©rangerai pas plus. (Il regarde Saerileth Ã  nouveau, ses yeux tourmentÃ©s traÃ§ant la forme de son visage alors qu'il parle.)~
 @104  = ~Adieu, Saerileth, la plus belle de tous les enfants du monde.~
 @105  = ~(Les yeux d'Edorem se concentrent sur votre visage, le bouleversement et l'horreur entrant en conflit avec honte sur sa figure.)~
-@106  = ~Vous parlez sincèrement, <CHARNAME>, gardien de Saerileth. Mes propres actes m'horrifient maintenant.  Vous êtes sincères comme vous prétendez être, malgré la magie vous environnant.~
-@107  = ~Je vous ai accusé injustement, et si le combat est ce qui est requis pour laver mon accusation de vous, alors qu'il en soit ainsi. S'il ne l'est pas, je partirai et ne vous dérangerai pas plus.~
-@108  = ~Non, ce ne sera *pas* le cas! (Le visage de Saerileth est rouge, et ses yeux ruissèlent de larmes.)~
-@109  = ~Je ne suis pas aussi aveugle pour voir que ce combat est aussi important pour ta fierté, <CHARNAME>!~
+@106  = ~Vous parlez sincÃ¨rement, <CHARNAME>, gardien de Saerileth. Mes propres actes m'horrifient maintenant.  Vous Ãªtes sincÃ¨res comme vous prÃ©tendez Ãªtre, malgrÃ© la magie vous environnant.~
+@107  = ~Je vous ai accusÃ© injustement, et si le combat est ce qui est requis pour laver mon accusation de vous, alors qu'il en soit ainsi. S'il ne l'est pas, je partirai et ne vous dÃ©rangerai pas plus.~
+@108  = ~Non, ce ne sera *pas* le cas! (Le visage de Saerileth est rouge, et ses yeux ruissÃ¨lent de larmes.)~
+@109  = ~Je ne suis pas aussi aveugle pour voir que ce combat est aussi important pour ta fiertÃ©, <CHARNAME>!~
 @110  = ~Il n'y a pas besoin de combattre pour ma tendresse--~
-@111  = ~Non, Saerileth! J'étais seulement en colère. Je ne le blesserai pas.~
+@111  = ~Non, Saerileth! J'Ã©tais seulement en colÃ¨re. Je ne le blesserai pas.~
 @112  = ~Je ne me bats pas pour ton amour, Saerileth. Je me bats pour le bien de mon propre honneur.~
 @113  = ~Je dis qu'il n'*y* a pas besoin de combattre pour mon coeur, mon amour, et je ne me tournerai pas vers ce chevalier diffamatoire--ou quelqu'un d'autre--pour ton amour.~
-@114  = ~(Saerileth soupire et prend votre main, ses larmes s'asséchant.) Je te remercie, chéri. Sir Edorem est un des Elus de Tyr, et son attention pour moi est déplacée, je ne l'aurais pas encore blessé~
-@115  = ~Mon amour est tien, aussi bien que tu le sais. (Serrant encore votre main, Saerileth regarde Edorem avec une pitié infinie.)~
-@116  = ~Maintenant je comprends au moins les mots que tu as dit à notre séparation dans Sigil. Je te plains, mon Seigneur, mais je ne peux te donner mon coeur.~
-@117  = ~Il appartient à <CHARNAME>.~
-@118  = ~(Les larmes de Saerileth coulent encore, alors qu'elle parle.) Je le comprends sincèrement, <CHARNAME>, mais je te supplie d'épargner sa vie.~
-@119  = ~(Saerileth s'agenouille devant vous avec ses paumes levées, la position d'un suppliant.) Pour ton amour pour moi, pardonne ce crime.~
+@114  = ~(Saerileth soupire et prend votre main, ses larmes s'assÃ©chant.) Je te remercie, chÃ©ri. Sir Edorem est un des Elus de Tyr, et son attention pour moi est dÃ©placÃ©e, je ne l'aurais pas encore blessÃ©~
+@115  = ~Mon amour est tien, aussi bien que tu le sais. (Serrant encore votre main, Saerileth regarde Edorem avec une pitiÃ© infinie.)~
+@116  = ~Maintenant je comprends au moins les mots que tu as dit Ã  notre sÃ©paration dans Sigil. Je te plains, mon Seigneur, mais je ne peux te donner mon coeur.~
+@117  = ~Il appartient Ã  <CHARNAME>.~
+@118  = ~(Les larmes de Saerileth coulent encore, alors qu'elle parle.) Je le comprends sincÃ¨rement, <CHARNAME>, mais je te supplie d'Ã©pargner sa vie.~
+@119  = ~(Saerileth s'agenouille devant vous avec ses paumes levÃ©es, la position d'un suppliant.) Pour ton amour pour moi, pardonne ce crime.~
 @120  = ~Il est un Elu de Tyr, et je plaide pour sa vie.~
-@121  = ~Très bien, Saerileth. Parce que tu l'as demandé, j'épargnerai sa vie.~
-@122  = ~Non, Saerileth, je ne peux pas pardonner même pour ton amour. Edorem doit mourir.~
+@121  = ~TrÃ¨s bien, Saerileth. Parce que tu l'as demandÃ©, j'Ã©pargnerai sa vie.~
+@122  = ~Non, Saerileth, je ne peux pas pardonner mÃªme pour ton amour. Edorem doit mourir.~
 @123  = ~(Saerileth prend votre main, ses larmes coulant toujours abondamment.) Mon amour, mon coeur est tien, aussi bien que tu le sais.~
-@124  = ~S'il te plaît, je t'en supplie, ne fais pas de mal à Sir Edorem. Il est un Elu de Tyr, et il de mon devoir de le défendre.~
-@125  = ~(Saerileth sourit à travers ses larmes.) Je te remercie, chéri. (Serrant encore votre main, Saerileth regarde Edorem avec une pitié infinie.)~
-@126  = ~Alors tu dois d'abord occire Saerileth! Mon devoir envers Tyr passe même au dessus de mon amour pour toi, coeur de mon coeur.~
+@124  = ~S'il te plaÃ®t, je t'en supplie, ne fais pas de mal Ã  Sir Edorem. Il est un Elu de Tyr, et il de mon devoir de le dÃ©fendre.~
+@125  = ~(Saerileth sourit Ã  travers ses larmes.) Je te remercie, chÃ©ri. (Serrant encore votre main, Saerileth regarde Edorem avec une pitiÃ© infinie.)~
+@126  = ~Alors tu dois d'abord occire Saerileth! Mon devoir envers Tyr passe mÃªme au dessus de mon amour pour toi, coeur de mon coeur.~
 @127  = ~Je ne dois pas rester passive pendant que tu occis un serviteur de Tyr.~
-@128  = ~(Saerileth tente de dégainer son arme, mais tombe inconsciente aux pieds de Sir Edorem.)~
-@129  = ~Ainsi, <CHARNAME>, vous avez détruit la création la plus parfaite des dieux! Votre fierté a été plus forte que son coeur et sa vie!~
-@130  = ~Je ne m'étais pas trompé alors; malgré votre beauté, votre coeur est noir.~
-@131  = ~(Avant que vous ne puissiez réagir, le chevalier disparaît de votre champ de vision, prenant Saerileth avec lui.)~
+@128  = ~(Saerileth tente de dÃ©gainer son arme, mais tombe inconsciente aux pieds de Sir Edorem.)~
+@129  = ~Ainsi, <CHARNAME>, vous avez dÃ©truit la crÃ©ation la plus parfaite des dieux! Votre fiertÃ© a Ã©tÃ© plus forte que son coeur et sa vie!~
+@130  = ~Je ne m'Ã©tais pas trompÃ© alors; malgrÃ© votre beautÃ©, votre coeur est noir.~
+@131  = ~(Avant que vous ne puissiez rÃ©agir, le chevalier disparaÃ®t de votre champ de vision, prenant Saerileth avec lui.)~
 @132  = ~(Saerileth pose ses bras autour de vous et s'y accroche, ses larmes coulant librement sur votre poitrine.)~
-@133  = ~Ah <CHARNAME>, pourquoi est ce que notre amour blesse autant un coeur noble? Sir Edorem est un Elu de Tyr, et il a toujours été bon pour moi.~
-@134  = ~Cependant mon coeur était réservé pour toi. (Saerileth se blottit contre votre poitrine, et ne se libère pas jusqu'à ce que vous vous retiriez.)~
-@135  = ~(Les yeux de Saerileth s'élargissent d'horreur, et les larmes coulent en vain de ses joues. Elle étend ses mains vers Edorem tandis qu'elle vous parle.)~
-@136  = ~Je n'aurais jamais cru cela de toi! Que toi--toi! celui pour qui j'avais toute me confiance--m'aie dupé!~
-@137  = ~Tu m'as envoûté, comme l'a dit Sir Edorem. (La voix de Saerileth est perdue dans ses sanglots, et Edorem l'enveloppe dans ses bras.)~
+@133  = ~Ah <CHARNAME>, pourquoi est ce que notre amour blesse autant un coeur noble? Sir Edorem est un Elu de Tyr, et il a toujours Ã©tÃ© bon pour moi.~
+@134  = ~Cependant mon coeur Ã©tait rÃ©servÃ© pour toi. (Saerileth se blottit contre votre poitrine, et ne se libÃ¨re pas jusqu'Ã  ce que vous vous retiriez.)~
+@135  = ~(Les yeux de Saerileth s'Ã©largissent d'horreur, et les larmes coulent en vain de ses joues. Elle Ã©tend ses mains vers Edorem tandis qu'elle vous parle.)~
+@136  = ~Je n'aurais jamais cru cela de toi! Que toi--toi! celui pour qui j'avais toute me confiance--m'aie dupÃ©!~
+@137  = ~Tu m'as envoÃ»tÃ©, comme l'a dit Sir Edorem. (La voix de Saerileth est perdue dans ses sanglots, et Edorem l'enveloppe dans ses bras.)~
 @138  = ~Saerileth! je t'aime! Pourquoi fais tu cela?~
-@139  = ~je suis encore le même <CHARNAME> qui a dit qu'il t'aimait! Est ce que ton coeur est si inégal que cela, Saerileth?~
+@139  = ~je suis encore le mÃªme <CHARNAME> qui a dit qu'il t'aimait! Est ce que ton coeur est si inÃ©gal que cela, Saerileth?~
 @140  = ~Si tu es inconstante, je ne veux pas de toi! Edorem peut te prendre!~
-@141  = ~Je vois. Nous en sommes arrivés là, alors? Tu ne m'aimes plus?~
-@142  = ~Moi? Je ne t'aime en rien, <CHARNAME>! Tu m'as dupé. Je ne peux plus te faire confiance, et donc mon amour pour toi mourra.~
-@143  = ~(Saerileth continue à sangloter d'une voix entrecoupée, et Edorem caresse ses cheveux.)Est il de votre volonté que Saerileth quitte votre groupe? Ou souhaiteriez vous posséder Saerileth pour compagne même après cet évènement?~
-@144  = ~Saerileth, ne pars pas. Je veux tenter de regagner ta confiance à nouveau.~
-@145  = ~Oui,pars! Pars et bon débarras! Je ne veux plus te voir de nouveau.~
-@146  = ~Je comprends. Je serai à tes cotés, Saerileth, même après avoir pensé que notre amour ne pourra jamais être.~
-@147  = ~Mon coeur? Que peux tu savoir de mon coeur? (Les yeux de Saerileth s'estompent avec des larmes, et sa voix est faible, brisée par les sanglots.)~
-@148  = ~L'amour se base sur la confiance. Comment puis je faire confiance à celui qui utilise des enchantements pour me duper? Je ne peux plus te faire confiance, et donc mon amour pour toi mourra.~
+@141  = ~Je vois. Nous en sommes arrivÃ©s lÃ , alors? Tu ne m'aimes plus?~
+@142  = ~Moi? Je ne t'aime en rien, <CHARNAME>! Tu m'as dupÃ©. Je ne peux plus te faire confiance, et donc mon amour pour toi mourra.~
+@143  = ~(Saerileth continue Ã  sangloter d'une voix entrecoupÃ©e, et Edorem caresse ses cheveux.)Est il de votre volontÃ© que Saerileth quitte votre groupe? Ou souhaiteriez vous possÃ©der Saerileth pour compagne mÃªme aprÃ¨s cet Ã©vÃ¨nement?~
+@144  = ~Saerileth, ne pars pas. Je veux tenter de regagner ta confiance Ã  nouveau.~
+@145  = ~Oui,pars! Pars et bon dÃ©barras! Je ne veux plus te voir de nouveau.~
+@146  = ~Je comprends. Je serai Ã  tes cotÃ©s, Saerileth, mÃªme aprÃ¨s avoir pensÃ© que notre amour ne pourra jamais Ãªtre.~
+@147  = ~Mon coeur? Que peux tu savoir de mon coeur? (Les yeux de Saerileth s'estompent avec des larmes, et sa voix est faible, brisÃ©e par les sanglots.)~
+@148  = ~L'amour se base sur la confiance. Comment puis je faire confiance Ã  celui qui utilise des enchantements pour me duper? Je ne peux plus te faire confiance, et donc mon amour pour toi mourra.~
 @149  = ~(Saerileth ne dit rien, puis continue de pleurer.)~
-@150  = ~T'aimer? Que peux tu savoir de l'amour? (Les yeux de Saerileth s'estompent avec des larmes, et sa voix est faible, brisée par les sanglots.)~
-@151  = ~Ca ne peut pas se faire, <CHARNAME>, au moins pour que tu ne puisses l'espérer. Si j'apprends encore à te faire confiance, il sera déjà pour moi trop tard pour t'aimer.~
+@150  = ~T'aimer? Que peux tu savoir de l'amour? (Les yeux de Saerileth s'estompent avec des larmes, et sa voix est faible, brisÃ©e par les sanglots.)~
+@151  = ~Ca ne peut pas se faire, <CHARNAME>, au moins pour que tu ne puisses l'espÃ©rer. Si j'apprends encore Ã  te faire confiance, il sera dÃ©jÃ  pour moi trop tard pour t'aimer.~
 @152  = ~Je n'en dirai pas plus. Souhaites tu que je parte?~
 @153  = ~Oui, pars! Je ne veux plus te voir de nouveau.~
-@154  = ~(Saerileth hoche la tête sans parler.)~
-@155  = ~Comme tu le souhaites. (Saerileth ne peut plus parler et continue de pleurer d'une voix entrecoupée contre la poitrine d'Edorem.)~
+@154  = ~(Saerileth hoche la tÃªte sans parler.)~
+@155  = ~Comme tu le souhaites. (Saerileth ne peut plus parler et continue de pleurer d'une voix entrecoupÃ©e contre la poitrine d'Edorem.)~
 @156  = ~Je la prends avec moi, enfant de seigneur du meurtre. (Le visage d'Edorem rougit de triomphe.)~
 @157  = ~Vous ne la verrez plus. Saerileth viendra avec moi. (Le visage d'Edorem rougit de triomphe.)~
-@158  = ~Est ce cet enfant de Bhaal qui a donc pris ton coeur, Saerileth? Comment peut il en être ainsi?~
-@159  = ~Ne te souviens tu pas des mots que je t'ai dit quand nous nous sommes séparés?~
-@160  = ~Je m'en rappelle bien, Sir Edorem. Cependant, je t'ai dit que mon coeur n'était pas encore tien.~
-@161  = ~Tu as dit que ton coeur n'était pas encore pour moi--mais tu n'as pas nié que je puisse le gagner avec le temps.~
-@162  = ~(Le visage du chevalier est angoissé, mais sa voix, basse et passionnée, ne trahit pas une quelconque faiblesse.)~
-@163  = ~Du temps, je n'en ai point eu. L'Impartial t'a proposé de te rendre au Plan primaire, et c'est à ce moment là qu'il me semble t'avoir perdu.~
-@164  = ~Tu ne peux pas perdre ce qui n'est pas à toi. (Saerileth presse votre main.)~
-@165  = ~En est il de même pour vous, <CHARNAME>, fils de Bhaal? Est ce que Saerileth est votre seul amour véritable?~
-@166  = ~Oui, Edorem. Saerileth est mon seul amour. Je suis désolé pour vous.~
-@167  = ~J'aime Saerileth,mais il n'est pas juste de vous la prendre. Je renoncerai à elle pour vous.~
+@158  = ~Est ce cet enfant de Bhaal qui a donc pris ton coeur, Saerileth? Comment peut il en Ãªtre ainsi?~
+@159  = ~Ne te souviens tu pas des mots que je t'ai dit quand nous nous sommes sÃ©parÃ©s?~
+@160  = ~Je m'en rappelle bien, Sir Edorem. Cependant, je t'ai dit que mon coeur n'Ã©tait pas encore tien.~
+@161  = ~Tu as dit que ton coeur n'Ã©tait pas encore pour moi--mais tu n'as pas niÃ© que je puisse le gagner avec le temps.~
+@162  = ~(Le visage du chevalier est angoissÃ©, mais sa voix, basse et passionnÃ©e, ne trahit pas une quelconque faiblesse.)~
+@163  = ~Du temps, je n'en ai point eu. L'Impartial t'a proposÃ© de te rendre au Plan primaire, et c'est Ã  ce moment lÃ  qu'il me semble t'avoir perdu.~
+@164  = ~Tu ne peux pas perdre ce qui n'est pas Ã  toi. (Saerileth presse votre main.)~
+@165  = ~En est il de mÃªme pour vous, <CHARNAME>, fils de Bhaal? Est ce que Saerileth est votre seul amour vÃ©ritable?~
+@166  = ~Oui, Edorem. Saerileth est mon seul amour. Je suis dÃ©solÃ© pour vous.~
+@167  = ~J'aime Saerileth,mais il n'est pas juste de vous la prendre. Je renoncerai Ã  elle pour vous.~
 @168  = ~Elle est mienne, et vous ne pouvez pas l'avoir!~
-@169  = ~J'aime Saerileth, en effet, mais je ne dis pas qu'elle est mon seul amour véritable.~
-@170  = ~Je ne rejette pas la pitié quand elle provient d'une bonne intention--et nécéssaire. J'avais espéré Saerileth, la créature la plus belle de n'importe quel monde.~
-@171  = ~En cela, j'avais eu plus de joie que n'importe quel mortel qui possède une raison d'espérer.~
-@172  = ~Vous le feriez? (L'étonnement, plus fort que la joie, se manifeste sur le visage d'Edorem.)~
+@169  = ~J'aime Saerileth, en effet, mais je ne dis pas qu'elle est mon seul amour vÃ©ritable.~
+@170  = ~Je ne rejette pas la pitiÃ© quand elle provient d'une bonne intention--et nÃ©cÃ©ssaire. J'avais espÃ©rÃ© Saerileth, la crÃ©ature la plus belle de n'importe quel monde.~
+@171  = ~En cela, j'avais eu plus de joie que n'importe quel mortel qui possÃ¨de une raison d'espÃ©rer.~
+@172  = ~Vous le feriez? (L'Ã©tonnement, plus fort que la joie, se manifeste sur le visage d'Edorem.)~
 @173  = ~Vous me donneriez Saerileth?~
-@174  = ~Alors il le semblerait que ce soit le cas. (Edorem vous salue à tous les deux.) J'avais espéré Saerileth, la créature la plus belle de n'importe quel monde.~
+@174  = ~Alors il le semblerait que ce soit le cas. (Edorem vous salue Ã  tous les deux.) J'avais espÃ©rÃ© Saerileth, la crÃ©ature la plus belle de n'importe quel monde.~
 @175  = ~Elle ne l'est pas? Pensez vous pouvoir trouver une jeune femme plus belle? (Edorem grommelle presque.)~
-@176  = ~Encore, je vous remercie pour cela, pour avoir par ces mots libéré Saerileth de votre emprise.~
-@177  = ~Tu--tu me résignerais pour Sir Edorem? (Le visage de Saerileth est blanc d'agonie.)~
-@178  = ~Pourquoi? Où t'ais je manqué, mon amour? Mais tu n'es pas mon amour, pour me mettre de coté.~
-@179  = ~Cependant je t'obéis, pour que je sois sincère envers toi. Si tu me laisses à Sir Edorem, alors j'appartiendrai à lui.~
-@180  = ~Tu--tu ne m'as jamais aimée? Tous les mots d'amour n'étaient que--mensonges? (Le visage de Saerileth est cendré, et ses yeux bleus sont presque noirs.)~
+@176  = ~Encore, je vous remercie pour cela, pour avoir par ces mots libÃ©rÃ© Saerileth de votre emprise.~
+@177  = ~Tu--tu me rÃ©signerais pour Sir Edorem? (Le visage de Saerileth est blanc d'agonie.)~
+@178  = ~Pourquoi? OÃ¹ t'ais je manquÃ©, mon amour? Mais tu n'es pas mon amour, pour me mettre de cotÃ©.~
+@179  = ~Cependant je t'obÃ©is, pour que je sois sincÃ¨re envers toi. Si tu me laisses Ã  Sir Edorem, alors j'appartiendrai Ã  lui.~
+@180  = ~Tu--tu ne m'as jamais aimÃ©e? Tous les mots d'amour n'Ã©taient que--mensonges? (Le visage de Saerileth est cendrÃ©, et ses yeux bleus sont presque noirs.)~
 @181  = ~Saerileth! (La voix d'Edorem manifeste une joie avide.) Je te retrouve bien!~ [SAERI151]
-@182  = ~Sir Edorem? Que fais tu ici? (Le front de Saerileth se sillonne dans sa perplexité.)~ [SAERI152]
-@183  = ~N'es tu pas contente de me voir? (Edorem hésite soudainement.)~
-@184  = ~Non, mon seigneur! (Saerileth commence à se tourner vers lui involontairement.) Il ne pouvait pas y avoir un moment où je ne serais pas heureuse de te voir.~
-@185  = ~Je suis heureux de l'entendre. (Edorem s'approche de Saerileth et repose sa main sur son épaule.)~
+@182  = ~Sir Edorem? Que fais tu ici? (Le front de Saerileth se sillonne dans sa perplexitÃ©.)~ [SAERI152]
+@183  = ~N'es tu pas contente de me voir? (Edorem hÃ©site soudainement.)~
+@184  = ~Non, mon seigneur! (Saerileth commence Ã  se tourner vers lui involontairement.) Il ne pouvait pas y avoir un moment oÃ¹ je ne serais pas heureuse de te voir.~
+@185  = ~Je suis heureux de l'entendre. (Edorem s'approche de Saerileth et repose sa main sur son Ã©paule.)~
 @186  = ~Comme pour ma commission ici, je suis seulement venu voir comment tu vas.~
 @187  = ~Je vais bien, Sir Edorem. (Saerileth essaie de sourire, mais ses yeux soudainement humides contredisent ses mots.)~
 @188  = ~Il est gentil de ta part de venir de si loin pour me voir.~
 @189  = ~Je franchirais Baator pour toi.~
-@190  = ~Et tu l'a fait également.~
-@191  = ~(Ils s'éloignent à une distance courte, et vous ne pouvez assister au reste de la conversation.)~
+@190  = ~Et tu l'a fait Ã©galement.~
+@191  = ~(Ils s'Ã©loignent Ã  une distance courte, et vous ne pouvez assister au reste de la conversation.)~
 @192  = ~(C'est uniquement lorsque Edorem part qu'il vous le dit.)~
-@193  = ~Je vus remercie <CHARNAME>, pour prendre soin de Saerileth, et je vous la confie pour le temps à venir.~
+@193  = ~Je vus remercie <CHARNAME>, pour prendre soin de Saerileth, et je vous la confie pour le temps Ã  venir.~
 @194  = ~Je suis venu de nouveau pour voir, Saerileth.~ [SAERI153]
-@195  = ~Sir Edorem! Je n'avais pas pensé que tu reviendrais aussi vite. Je t'en suis très reconnaissante pour cela.~ [SAERI154]
+@195  = ~Sir Edorem! Je n'avais pas pensÃ© que tu reviendrais aussi vite. Je t'en suis trÃ¨s reconnaissante pour cela.~ [SAERI154]
 @196  = ~(Le chevalier place une main protectrice sur le bras de Saerileth.) C'est difficile pour toi sur le Plan primaire.~
-@197  = ~C'est la volonté de Tyr, Seigneur.~
+@197  = ~C'est la volontÃ© de Tyr, Seigneur.~
 @198  = ~Cela est vrai, mais nos devoirs ne sont pas toujours faciles. Je sais que tu manques aux plans.~
 @199  = ~Comment le savais tu? (Saerileth le regarde de ses yeux bleus, une couleur si proche des siens.)~
-@200  = ~C'est vrai, mais je ne t'en ai jamais parlé.~
-@201  = ~Tu n'as pas besoin de parler, Saerileth. Tes yeux m'en disent beaucoup. Ils me révèlent aussi, que la confusion est présente sur ton coeur, qui ne vient pas du Plan primaire.~
-@202  = ~J'avais pensé aimer, Sir Edorem. J'avais pensé que mon amour était retourné. Mais mon coeur a été refusé, et ma confiance brisée.~
-@203  = ~Ah. J'avais pensé ainsi. (Edorem vous jette un oeil, mais il continue de s'adresser à Saerileth.)~
-@204  = ~Saerileth, tu n'as rien fait qui mérite de te sentir honteuse.~
-@205  = ~Je ne suis pas honteuse; je suis attristée. (Des larmes se renversent des yeux de Saerileth et parcourent en vain sur ses joues.)~
+@200  = ~C'est vrai, mais je ne t'en ai jamais parlÃ©.~
+@201  = ~Tu n'as pas besoin de parler, Saerileth. Tes yeux m'en disent beaucoup. Ils me rÃ©vÃ¨lent aussi, que la confusion est prÃ©sente sur ton coeur, qui ne vient pas du Plan primaire.~
+@202  = ~J'avais pensÃ© aimer, Sir Edorem. J'avais pensÃ© que mon amour Ã©tait retournÃ©. Mais mon coeur a Ã©tÃ© refusÃ©, et ma confiance brisÃ©e.~
+@203  = ~Ah. J'avais pensÃ© ainsi. (Edorem vous jette un oeil, mais il continue de s'adresser Ã  Saerileth.)~
+@204  = ~Saerileth, tu n'as rien fait qui mÃ©rite de te sentir honteuse.~
+@205  = ~Je ne suis pas honteuse; je suis attristÃ©e. (Des larmes se renversent des yeux de Saerileth et parcourent en vain sur ses joues.)~
 @206  = ~Cette peine passera, Saerileth. Je te le promets.~
 @207  = ~Comment peux tu le savoir? (Les yeux de Saerileth reposent sur vous pendant un moment.)~
-@208  = ~Parce que ton coeur est seulement marqué, pas brisé. Ton amour n'était pas de l'amour mais une amourette.~
-@209  = ~Pourquoi le dis tu? Qu'en sais tu? (La colère n'est pas présente dans la voix de Saerileth; elle écoute dans l'attente.)~
-@210  = ~Je le sais car il n'y avait jamais de certitudes dans ton amour. Le doute y était toujours présent; l'amour n'a pas de doute.~
-@211  = ~J'espère que tes mots sont vrais, étant donné qu'ils essaient d'être réconfortants.~
-@212  = ~C'est plus que ce que j'avais espéré entendre de toi, et je suis heureux de te l'entendre dire. Je reviendrai, Saerileth. Pour l'heure, porte toi bien.~
+@208  = ~Parce que ton coeur est seulement marquÃ©, pas brisÃ©. Ton amour n'Ã©tait pas de l'amour mais une amourette.~
+@209  = ~Pourquoi le dis tu? Qu'en sais tu? (La colÃ¨re n'est pas prÃ©sente dans la voix de Saerileth; elle Ã©coute dans l'attente.)~
+@210  = ~Je le sais car il n'y avait jamais de certitudes dans ton amour. Le doute y Ã©tait toujours prÃ©sent; l'amour n'a pas de doute.~
+@211  = ~J'espÃ¨re que tes mots sont vrais, Ã©tant donnÃ© qu'ils essaient d'Ãªtre rÃ©confortants.~
+@212  = ~C'est plus que ce que j'avais espÃ©rÃ© entendre de toi, et je suis heureux de te l'entendre dire. Je reviendrai, Saerileth. Pour l'heure, porte toi bien.~
 @213  = ~Je ne savais pas que tu viendrais autant. (Saerileth soupire abondamment.)~
 @214  = ~Les cicatrices de Baator ne s'effacent pas rapidement, mais, Saerileth, tu n'es *pas* seule.~
-@215  = ~Pardonne moi, Sir Edorem. Je suis attristée. (Des larmes se renversent des yeux de Saerileth et parcourent en vain sur ses joues.)~
+@215  = ~Pardonne moi, Sir Edorem. Je suis attristÃ©e. (Des larmes se renversent des yeux de Saerileth et parcourent en vain sur ses joues.)~
 @216  = ~Comment peux tu le savoir? (Les yeux de Saerileth semblent perdre leur attention pendant un moment.)~
 @217  = ~Parce que je t'aiderai. Je ne te laisserai pas seule.~
 @218  = ~Tu--ne me quitteras pas?~
-@219  = ~Je ne suis pas autorisé à rester sur le Plan primaire, comme tu le sais. Mais je te reviendrai, même pendant que tu es ici.~
+@219  = ~Je ne suis pas autorisÃ© Ã  rester sur le Plan primaire, comme tu le sais. Mais je te reviendrai, mÃªme pendant que tu es ici.~
 @220  = ~Et quand tu partiras du Plan primaire, je t'attendrai.~
-@221  = ~Tes mots me réconfortent tellement.~
-@222  = ~C'est plus que ce que j'avais espéré entendre de toi. (Edorem salue courtoisement Saerileth.)~
+@221  = ~Tes mots me rÃ©confortent tellement.~
+@222  = ~C'est plus que ce que j'avais espÃ©rÃ© entendre de toi. (Edorem salue courtoisement Saerileth.)~
 @223  = ~Je reviendrai prochainement, Saerileth. Pour l'heure, porte toi bien.~
-@224  = ~(Alors que vous vous êtes installés pour la nuit , le crépitement d'un planaire vous réveille, et Sir Edorem s'approche.)~
-@225  = ~Sir Edorem! (Saerileth commence à se tourner vers le bruit.)~ [SAERI285]
+@224  = ~(Alors que vous vous Ãªtes installÃ©s pour la nuit , le crÃ©pitement d'un planaire vous rÃ©veille, et Sir Edorem s'approche.)~
+@225  = ~Sir Edorem! (Saerileth commence Ã  se tourner vers le bruit.)~ [SAERI285]
 @226  = ~Es tu satisfaite de me voir, Saerileth? (Edorem prend les deux mains de Saerileth dans les siennes.)~ [SAERI286]
 @227  = ~Oui, Sir Edorem. (Les yeux de Saerileth prennent une lueur que vous n'avez jamais vu avant.)~
 @228  = ~Mais pourquoi es tu venu?~
 @229  = ~Pour te voir, pas pour une autre occasion.~
-@230  = ~(Le chevalier n'a pas libéré les mains de Saerileth, et elle ne les retire pas de cette étreinte.)~
-@231  = ~Ta présence est un baume pour mon coeur blessé. Le Plan primaire me fatigue--pas au point de désirer me trouver ailleurs!~
-@232  = ~Ici, la volonté de Tyr me garde.~
-@233  = ~Ta dévotion-- (Il s'interrompt et prend Saerileth dans ses bras.)~
-@234  = ~Charmante Saerileth, j'ai perçu la gloire de Tyr dans tes yeux.~
-@235  = ~(Saerileth, son visage caché par la poitrine d'Edorem, ne se replie pas, mais ses épaules tremblent légèrement.)~
+@230  = ~(Le chevalier n'a pas libÃ©rÃ© les mains de Saerileth, et elle ne les retire pas de cette Ã©treinte.)~
+@231  = ~Ta prÃ©sence est un baume pour mon coeur blessÃ©. Le Plan primaire me fatigue--pas au point de dÃ©sirer me trouver ailleurs!~
+@232  = ~Ici, la volontÃ© de Tyr me garde.~
+@233  = ~Ta dÃ©votion-- (Il s'interrompt et prend Saerileth dans ses bras.)~
+@234  = ~Charmante Saerileth, j'ai perÃ§u la gloire de Tyr dans tes yeux.~
+@235  = ~(Saerileth, son visage cachÃ© par la poitrine d'Edorem, ne se replie pas, mais ses Ã©paules tremblent lÃ©gÃ¨rement.)~
 @236  = ~Je reviendrai pour toi encore, Saerileth.~
-@237  = ~(Saerileth lève les yeux.) Dois tu me quitter si rapidement?~
-@238  = ~Si tu le souhaites, je peux rester avec toi jusqu'à ce que tu t'endormes, pour parler avec toi.~
+@237  = ~(Saerileth lÃ¨ve les yeux.) Dois tu me quitter si rapidement?~
+@238  = ~Si tu le souhaites, je peux rester avec toi jusqu'Ã  ce que tu t'endormes, pour parler avec toi.~
 @239  = ~Tel est mon souhait.~
-@240  = ~(Le son d'un portail planaire qui s'ouvre ne vous effraie à peine, et la silhouette de Sir Edorem s'approchant de vous ne vous surprend pas du tout.)~
+@240  = ~(Le son d'un portail planaire qui s'ouvre ne vous effraie Ã  peine, et la silhouette de Sir Edorem s'approchant de vous ne vous surprend pas du tout.)~
 @241  = ~Saerileth!~ [SAERI287]
-@242  = ~Edorem. (Saerileth murmure le prénom.)~ [SAERI288]
-@243  = ~Je viens du temple et je ne peux pas rester longtemps. Nous irons à Acheron.~
-@244  = ~(Le visage de Saerileth se dégarnit de couleurs.) Mais, dois je y aller avec toi?~
-@245  = ~Non, belle Saerileth. Les pères saints ont décrété que tu restes sur le Plan Primaire pour l'heure.~
-@246  = ~(Saerileth tend sa main.) Que la volonté de Tyr soit accomplie.~
-@247  = ~(Sa voix s'affaiblit tandis qu'elle parle, et elle ne décolle pas ses yeux du sol.)~
-@248  = ~Tu es attristée de me voir partir! Je ne pouvais à peine l'espèrer!~
-@249  = ~Pourquoi devrais tu être étonné? Tu as toujours été cher pour moi.~
+@242  = ~Edorem. (Saerileth murmure le prÃ©nom.)~ [SAERI288]
+@243  = ~Je viens du temple et je ne peux pas rester longtemps. Nous irons Ã  Acheron.~
+@244  = ~(Le visage de Saerileth se dÃ©garnit de couleurs.) Mais, dois je y aller avec toi?~
+@245  = ~Non, belle Saerileth. Les pÃ¨res saints ont dÃ©crÃ©tÃ© que tu restes sur le Plan Primaire pour l'heure.~
+@246  = ~(Saerileth tend sa main.) Que la volontÃ© de Tyr soit accomplie.~
+@247  = ~(Sa voix s'affaiblit tandis qu'elle parle, et elle ne dÃ©colle pas ses yeux du sol.)~
+@248  = ~Tu es attristÃ©e de me voir partir! Je ne pouvais Ã  peine l'espÃ¨rer!~
+@249  = ~Pourquoi devrais tu Ãªtre Ã©tonnÃ©? Tu as toujours Ã©tÃ© cher pour moi.~
 @250  = ~Mais je le suis encore plus maintenant, n'est ce pas?~
 @251  = ~J'ai honte de penser que mon coeur est si variable.~
-@252  = ~Tu t'étais trompé, Saerileth. Tu ne connaissais pas l'amour. (Le chevalier aux cheveux blonds vous jette un bref coup d'oeil.)~
+@252  = ~Tu t'Ã©tais trompÃ©, Saerileth. Tu ne connaissais pas l'amour. (Le chevalier aux cheveux blonds vous jette un bref coup d'oeil.)~
 @253  = ~Il est vrai que ce n'est pas comme je l'avais senti avant.~
-@254  = ~Tu es une femme qui a mûrie, Saerileth. Ton coeur est--~
+@254  = ~Tu es une femme qui a mÃ»rie, Saerileth. Ton coeur est--~
 @255  = ~A toi?~
-@256  = ~Je ne dois pas encore te le demander. Pas jusqu'à ce que je sois revenu de cette bataille.~
+@256  = ~Je ne dois pas encore te le demander. Pas jusqu'Ã  ce que je sois revenu de cette bataille.~
 @257  = ~Alors je t'attendrai, Edorem, Elu de Tyr.~
 @258  = ~(Le chevalier se penche et embrasse le front de Saerileth. Puis il part.)~
 @259  = ~Edorem.~ [SAERI288]
 @260  = ~Je n'ai jamais ressenti une telle chose--Est ce l'amour, Sir Edorem?~
 @261  = ~Oui, Saerileth. Tu es une femme mure, et ton coeur est--~
-@262  = ~(Le visage brillant de sir Edorem marche du portail presque avant qu'il ne soit totalement apparu. Il court vers Saerileth, qui réalise un mouvement rapide aller vers lui.)~
+@262  = ~(Le visage brillant de sir Edorem marche du portail presque avant qu'il ne soit totalement apparu. Il court vers Saerileth, qui rÃ©alise un mouvement rapide aller vers lui.)~
 @263  = ~Ma dame! Ma Saerileth! Je suis venu pour toi!~ [SAERI289]
 @264  = ~(Saerileth noue ses mains sur celles d'Edorem, les couvrant de baisers.)~
 @265  = ~Puis je partir maintenant avec toi?~ [SAERI290]
-@266  = ~Non. (Edorem s'incline pour se retrouver face à Saerileth.) Ca ne peut pas être encore le cas.~
-@267  = ~La volonté du Dieu Manchot est mon désir, comme le tien. Je t'attendrai jusqu'à ce que le mulivers prenne fin--mon maître, mon seigneur!~
+@266  = ~Non. (Edorem s'incline pour se retrouver face Ã  Saerileth.) Ca ne peut pas Ãªtre encore le cas.~
+@267  = ~La volontÃ© du Dieu Manchot est mon dÃ©sir, comme le tien. Je t'attendrai jusqu'Ã  ce que le mulivers prenne fin--mon maÃ®tre, mon seigneur!~
 @268  = ~Ma Saerileth, ma femme. Je te fais mon engagement ici.~
-@269  = ~(Saerileth presse ses lèvres sur celles d'Edorem.) Et moi aussi, mon amour, mon mari.~
+@269  = ~(Saerileth presse ses lÃ¨vres sur celles d'Edorem.) Et moi aussi, mon amour, mon mari.~
 @270  = ~Je reviendrai quand je le peux.~
-@271  = ~Si c'est la volonté de Tyr, Je te trouverai dans Sigil. Si ça ne l'est pas, j'attendrai ton retour.~
-@272  = ~Je prie pour qu'il puisse être proche.~
-@273  = ~Mon âme est peinée pour toi quand tu pars loin de moi.~
-@274  = ~(Le chevalier embrasse Saerileth une fois de plus, puis disparaît, la quittant doucement et fondant en larmes dans les ténèbres.)~
-@275  = ~Sir Edorem! Que fais tu? Où est passée ta courtoisie? Comment *oses* tu lever une main sur <CHARNAME>?~
+@271  = ~Si c'est la volontÃ© de Tyr, Je te trouverai dans Sigil. Si Ã§a ne l'est pas, j'attendrai ton retour.~
+@272  = ~Je prie pour qu'il puisse Ãªtre proche.~
+@273  = ~Mon Ã¢me est peinÃ©e pour toi quand tu pars loin de moi.~
+@274  = ~(Le chevalier embrasse Saerileth une fois de plus, puis disparaÃ®t, la quittant doucement et fondant en larmes dans les tÃ©nÃ¨bres.)~
+@275  = ~Sir Edorem! Que fais tu? OÃ¹ est passÃ©e ta courtoisie? Comment *oses* tu lever une main sur <CHARNAME>?~
 @276  = ~Que ferais tu toi si <CHARNAME> serait mon amour? Tu ternirais ton honneur et ton travail? Pourquoi?~
-@277  = ~Toi qui était mon maître au service de Tyr l'Aveugle, toi qui m'avait enseigné--~
-@278  = ~Regarde, Saerileth, Regarde bien cet enfant de Bhaal qui a volé ton coeur!~
+@277  = ~Toi qui Ã©tait mon maÃ®tre au service de Tyr l'Aveugle, toi qui m'avait enseignÃ©--~
+@278  = ~Regarde, Saerileth, Regarde bien cet enfant de Bhaal qui a volÃ© ton coeur!~
 @279  = ~Que vois tu lorsque tu me regardes, ma Saerileth?~
 @280  = ~Je demande de savoir de quoi il s'agit!~
-@281  = ~Je vois mon amour, inchangé dans mes yeux, et j'embrasse sa main pour l'honorer.~
-@282  = ~(Saerileth se retourne brusquement vers Edorem.) Mais toi, toi sépulture pâle! Je t'aimais comme mes propres frères, et tu as déshonoré ma confiance!~
-@283  = ~Pourquoi as tu fais cette chose, cet acte de méchanceté déshonorable? Tu étais éduqué, même comme j'étais, je regarde le coeur, pas l'héritage!~
-@284  = ~Eloigne toi de moi, et ne nous dérange plus! Ton étrange préjudice fais de toi une compagnie inadéquate!~
-@285  = ~(Le visage de Sir Edorem est grisâtre, et il s'agenouille.)~
-@286  = ~Pardonnez moi, <CHARNAME>, je vous en supplie! Vous n'avez pas trompé Saerileth, et je ne peux rien dire pour défendre mes actions.~
-@287  = ~Je n'ose pas m'adresser à Saerileth, mais je l'aime. Il n'était pas de la volonté de Tyr qu'elle m'aime, et vous avez gagné son coeur.~
-@288  = ~De vous, dans votre bonheur de posséder le coeur de la créature la plus belle du multivers, je peux oser espérer le pardon.~
-@289  = ~Ce pardon n'est pas ce que je mérite, mais ma punition est déjà plus grande que ma faute.~
-@290  = ~Vous dites vrai, Edorem. Votre faute est immense, mais vous ne pouvez pas posséder Saerileth. C'est la punition en effet.~
+@281  = ~Je vois mon amour, inchangÃ© dans mes yeux, et j'embrasse sa main pour l'honorer.~
+@282  = ~(Saerileth se retourne brusquement vers Edorem.) Mais toi, toi sÃ©pulture pÃ¢le! Je t'aimais comme mes propres frÃ¨res, et tu as dÃ©shonorÃ© ma confiance!~
+@283  = ~Pourquoi as tu fais cette chose, cet acte de mÃ©chancetÃ© dÃ©shonorable? Tu Ã©tais Ã©duquÃ©, mÃªme comme j'Ã©tais, je regarde le coeur, pas l'hÃ©ritage!~
+@284  = ~Eloigne toi de moi, et ne nous dÃ©range plus! Ton Ã©trange prÃ©judice fais de toi une compagnie inadÃ©quate!~
+@285  = ~(Le visage de Sir Edorem est grisÃ¢tre, et il s'agenouille.)~
+@286  = ~Pardonnez moi, <CHARNAME>, je vous en supplie! Vous n'avez pas trompÃ© Saerileth, et je ne peux rien dire pour dÃ©fendre mes actions.~
+@287  = ~Je n'ose pas m'adresser Ã  Saerileth, mais je l'aime. Il n'Ã©tait pas de la volontÃ© de Tyr qu'elle m'aime, et vous avez gagnÃ© son coeur.~
+@288  = ~De vous, dans votre bonheur de possÃ©der le coeur de la crÃ©ature la plus belle du multivers, je peux oser espÃ©rer le pardon.~
+@289  = ~Ce pardon n'est pas ce que je mÃ©rite, mais ma punition est dÃ©jÃ  plus grande que ma faute.~
+@290  = ~Vous dites vrai, Edorem. Votre faute est immense, mais vous ne pouvez pas possÃ©der Saerileth. C'est la punition en effet.~
 @291  = ~Il ne peut exister de plus grande perte que de perdre Saerileth.~
-@292  = ~Cette insulte ne peut être essuyé que par votre sang!~
+@292  = ~Cette insulte ne peut Ãªtre essuyÃ© que par votre sang!~
 @293  = ~J'aurai votre coeur sur une pique pour cela!~
-@294  = ~Me perdre? Comment peux tu perdre ce que tu n'as jamais possédé? Pars, Sir Edorem, à Sigil!~
-@295  = ~(Saerileth se détourne du chevalier, qui salue tristement de sa main.)~
+@294  = ~Me perdre? Comment peux tu perdre ce que tu n'as jamais possÃ©dÃ©? Pars, Sir Edorem, Ã  Sigil!~
+@295  = ~(Saerileth se dÃ©tourne du chevalier, qui salue tristement de sa main.)~
 @296  = ~Adieu, <CHARNAME>. Soyez bon avec elle, je vous en conjure. Je ne vous ennuierai plus.~
-@297  = ~Non, mon amour. Ne souilles pas ton arme avec son sang. Il a beau être un goujat, il est encore un champion de Tyr.~
+@297  = ~Non, mon amour. Ne souilles pas ton arme avec son sang. Il a beau Ãªtre un goujat, il est encore un champion de Tyr.~
 @298  = ~Mon amour pour toi serait interdit par mon ordre si tu l'occis.~
-@299  = ~(Saerileth s'éloigne du chevalier, vous laissant seul avec Edorem.)~
-@300  = ~Si c'est seulement mon sang qui vous satisfait, <CHARNAME>, alors vous aurez mon sang. Je prendrai ma propre vie une fois que je serai retourné à Sigil.~
+@299  = ~(Saerileth s'Ã©loigne du chevalier, vous laissant seul avec Edorem.)~
+@300  = ~Si c'est seulement mon sang qui vous satisfait, <CHARNAME>, alors vous aurez mon sang. Je prendrai ma propre vie une fois que je serai retournÃ© Ã  Sigil.~
 @301  = ~(Sir Edorem place sa main sur son coeur, et il part.)~
-@302  = ~Qu'est ce que c'est? Toi, toi que j'ai aimé, m'as tu trompé? Pourquoi abuse tu de ma confiance?~
+@302  = ~Qu'est ce que c'est? Toi, toi que j'ai aimÃ©, m'as tu trompÃ©? Pourquoi abuse tu de ma confiance?~
 @303  = ~Je n'aurais jamais cru cela de toi! Que toi--toi! celui pour qui j'avais toute ma confiance--<CHARNAME>--tu--~
 @304  = ~(Les larmes de Saerileth surviennent, et pleure entre ses mains.)~
 @305  = ~(Voir Saerileth.) Qu'est ce qui ne va pas?~
-@306  = ~M'as tu seulement aimé pour mon apparence?~
+@306  = ~M'as tu seulement aimÃ© pour mon apparence?~
 @307  = ~(Se tourner vers Edorem.) Quand cesserez vous d'avoir l'impudence de vous interposer entre Saerileth et moi?!~
-@308  = ~Ne me touche pas! Tu n'es pas mon amour! Tu es un menteur. L'homme que j'aime est seulement un rêve.~
-@309  = ~Pourquoi, <CHARNAME>, pourquoi as tu envoûté mes yeux? Pensais tu que je ne t'aimerais pas autrement?~
-@310  = ~S'il en est ainsi, alors tu m'as trompé, pour que jamais, jamais je ne puisse t'aimer ni te faire confiance.~
+@308  = ~Ne me touche pas! Tu n'es pas mon amour! Tu es un menteur. L'homme que j'aime est seulement un rÃªve.~
+@309  = ~Pourquoi, <CHARNAME>, pourquoi as tu envoÃ»tÃ© mes yeux? Pensais tu que je ne t'aimerais pas autrement?~
+@310  = ~S'il en est ainsi, alors tu m'as trompÃ©, pour que jamais, jamais je ne puisse t'aimer ni te faire confiance.~
 @311  = ~Peux tu me pardonner?~
 @312  = ~Saerileth, je t'aime! Pourquoi fais tu cela?~
-@313  = ~ Alors nous en sommes arrivés là? Tu ne m'aimes plus?~
-@314  = ~Moi, <CHARNAME>? Je ne t'aime en rien. Toi qui m'a trompé! L'amour doit être basé sur la confiance. Comment puis je faire confiance à celui qui utilise des enchantements pour me duper?~
+@313  = ~ Alors nous en sommes arrivÃ©s lÃ ? Tu ne m'aimes plus?~
+@314  = ~Moi, <CHARNAME>? Je ne t'aime en rien. Toi qui m'a trompÃ©! L'amour doit Ãªtre basÃ© sur la confiance. Comment puis je faire confiance Ã  celui qui utilise des enchantements pour me duper?~
 @315  = ~Je ne peux plus te faire confiance, et donc mon amour pour toi mourra.~
-@316  = ~(Saerileth continue de pleurer d'une voix entrecoupée.) Est il de votre volonté que Saerileth quitte votre groupe? Ou souhaiteriez vous posséder Saerileth pour compagne même après cet évènement?~
-@317  = ~Saerileth, ne pars pas. Je veux tenter de regagner ta confiance à nouveau.~
-@318  = ~Oui, pars! Pars et bon débarras! Je ne veux plus te voir de nouveau.~
-@319  = ~Je comprends. Je serai à tes cotés, Saerileth, même après avoir pensé que notre amour ne pourra jamais être.~
-@320  = ~Ca ne peut pas se faire, <CHARNAME>, au moins pour que tu ne puisses l'espérer. Si j'apprends encore à te faire confiance, il sera déjà pour moi trop tard pour t'aimer.~
+@316  = ~(Saerileth continue de pleurer d'une voix entrecoupÃ©e.) Est il de votre volontÃ© que Saerileth quitte votre groupe? Ou souhaiteriez vous possÃ©der Saerileth pour compagne mÃªme aprÃ¨s cet Ã©vÃ¨nement?~
+@317  = ~Saerileth, ne pars pas. Je veux tenter de regagner ta confiance Ã  nouveau.~
+@318  = ~Oui, pars! Pars et bon dÃ©barras! Je ne veux plus te voir de nouveau.~
+@319  = ~Je comprends. Je serai Ã  tes cotÃ©s, Saerileth, mÃªme aprÃ¨s avoir pensÃ© que notre amour ne pourra jamais Ãªtre.~
+@320  = ~Ca ne peut pas se faire, <CHARNAME>, au moins pour que tu ne puisses l'espÃ©rer. Si j'apprends encore Ã  te faire confiance, il sera dÃ©jÃ  pour moi trop tard pour t'aimer.~
 @321  = ~Je n'en dirai pas plus. Souhaites tu que je parte?~
 @322  = ~Oui, pars! Je ne veux plus te voir de nouveau.~
-@323  = ~Comme tu le souhaites. (Saerileth s'apprête à partir, toujours en larmes.)~
+@323  = ~Comme tu le souhaites. (Saerileth s'apprÃªte Ã  partir, toujours en larmes.)~
 @324  = ~(Saerileth sanglote sans parler.)~
 @325  = ~Elle ne vous reverra plus. Saerileth retournera avec moi. (Le visage d'Edorem rougit de triomphe.)~
-@326  = ~Oui, Je retournerai au temple de Tyr, là où je me dévouerai totalement à sa volonté.~
+@326  = ~Oui, Je retournerai au temple de Tyr, lÃ  oÃ¹ je me dÃ©vouerai totalement Ã  sa volontÃ©.~
 @327  = ~(Saerileth ne prend pas conscience de la joie d'Edorem et lui prend sa main.) Adieu, <CHARNAME>. Nous ne nous reverrons plus.~
-@328  = ~Je ne me suis pas interposé entre vous! Vous avez trahi sa confiance! Demandez lui, enfant de Bhaal!~
+@328  = ~Je ne me suis pas interposÃ© entre vous! Vous avez trahi sa confiance! Demandez lui, enfant de Bhaal!~
 @329  = ~Est ce vrai, Saerileth, que tu ne m'aimes plus?~
-@330  = ~Je ne pensais pas que tu serais aussi superficielle, Saerileth. Tu me quittes à cause de cela?~
+@330  = ~Je ne pensais pas que tu serais aussi superficielle, Saerileth. Tu me quittes Ã  cause de cela?~
 @331  = ~Te pardonner? Oui, je peux te pardonner, <CHARNAME>, mais je ne t'aimerai plus.~
-@332  = ~T'aimer? Que peux tu savoir de l'amour? (Les yeux de Saerileth s'estompent avec des larmes, et sa voix est faible, brisée par les sanglots.)~
-@333  = ~L'amour doit être basé sur la confiance. Comment puis je faire confiance à celui qui utilise des enchantements pour me duper?~
-@334  = ~Mais que veux tu de moi? Est il de ta volonté que je quitte ton groupe?~
-@335  = ~Moi, <CHARNAME>? Je ne t'aime en rien. Toi qui m'a trompé! L'amour doit être basé sur la confiance. Comment puis je faire confiance à celui qui utilise des enchantements pour me duper?~
-@336  = ~(Saerileth s'agenouille devant le visage pâle du chevalier et prend sa main, l'amenant à ses lèvres.)~
-@337  = ~Par la volonté de <CHARNAME>, je suis tienne. Quand mon devoir envers le Dieu Mutilé sera fini, Je retournerai à Sigil et sera ton épouse.~
-@338  = ~Alors que Tyr me pardonne, pour que je crois en toi, et pour que ma pensée sur toi sois juste!~
-@339  = ~Cependant mon devoir envers le Dieu Mutilé est plus important que ma vie. Aussi longtemps que j'accomplis on devoir, je resterai à tes cotés.~
+@332  = ~T'aimer? Que peux tu savoir de l'amour? (Les yeux de Saerileth s'estompent avec des larmes, et sa voix est faible, brisÃ©e par les sanglots.)~
+@333  = ~L'amour doit Ãªtre basÃ© sur la confiance. Comment puis je faire confiance Ã  celui qui utilise des enchantements pour me duper?~
+@334  = ~Mais que veux tu de moi? Est il de ta volontÃ© que je quitte ton groupe?~
+@335  = ~Moi, <CHARNAME>? Je ne t'aime en rien. Toi qui m'a trompÃ©! L'amour doit Ãªtre basÃ© sur la confiance. Comment puis je faire confiance Ã  celui qui utilise des enchantements pour me duper?~
+@336  = ~(Saerileth s'agenouille devant le visage pÃ¢le du chevalier et prend sa main, l'amenant Ã  ses lÃ¨vres.)~
+@337  = ~Par la volontÃ© de <CHARNAME>, je suis tienne. Quand mon devoir envers le Dieu MutilÃ© sera fini, Je retournerai Ã  Sigil et sera ton Ã©pouse.~
+@338  = ~Alors que Tyr me pardonne, pour que je crois en toi, et pour que ma pensÃ©e sur toi sois juste!~
+@339  = ~Cependant mon devoir envers le Dieu MutilÃ© est plus important que ma vie. Aussi longtemps que j'accomplis on devoir, je resterai Ã  tes cotÃ©s.~
 @340  = ~Aussi longtemps, mais pas plus longtemps.~
 
 
@@ -346,122 +346,122 @@
 
 
 
-@5000 = ~Le Deva Déchu
+@5000 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5001 = ~Le Deva Déchu
+@5001 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle semble assez emballée avec moi. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle semble assez emballÃ©e avec moi. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5002 = ~Saerileth Enlevée
+@5002 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Premièrement nous devons chercher Jharak dans la cité de Sigil, de manière à obtenir de lui le sceptre de Tyr.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. PremiÃ¨rement nous devons chercher Jharak dans la citÃ© de Sigil, de maniÃ¨re Ã  obtenir de lui le sceptre de Tyr.~
 
-@5003 = ~Saerileth Enlevée
+@5003 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immédiatement.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immÃ©diatement.~
 
-@5004 = ~Saerileth Enlevée
+@5004 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissé à son sort.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissÃ© Ã  son sort.~
 
-@5005 = ~Saerileth Enlevée
+@5005 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé Jharak, mais il nous a envoyé rapporter une clé avant de nous dire la localisation du sceptre de Tyr.~
+Nous avons trouvÃ© Jharak, mais il nous a envoyÃ© rapporter une clÃ© avant de nous dire la localisation du sceptre de Tyr.~
 
-@5006 = ~Saerileth Enlevée
+@5006 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé la clé, et nous allons retourner voir Jharak avec elle de suite.~
+Nous avons trouvÃ© la clÃ©, et nous allons retourner voir Jharak avec elle de suite.~
 
-@5007 = ~Saerileth Enlevée
+@5007 = ~Saerileth EnlevÃ©e
 
-Jharak nous a envoyé parler avec le tavernier, qui possède le Sceptre.~
+Jharak nous a envoyÃ© parler avec le tavernier, qui possÃ¨de le Sceptre.~
 
-@5008 = ~Saerileth Enlevée
+@5008 = ~Saerileth EnlevÃ©e
 
-Nous avons obtenu le Sceptre de Tyr. L'âme de Saerileth est en danger, et nous devons nous dépêcher de rejoindre Edorem aussi vite que possible.~
+Nous avons obtenu le Sceptre de Tyr. L'Ã¢me de Saerileth est en danger, et nous devons nous dÃ©pÃªcher de rejoindre Edorem aussi vite que possible.~
 
 @5009 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
 @5010 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. J'ai sorti Saerileth de mon groupe, et elle est restée dans les Plans. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. J'ai sorti Saerileth de mon groupe, et elle est restÃ©e dans les Plans. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
-@5011 = ~Le Deva Déchu
+@5011 = ~Le Deva DÃ©chu
 
-Nous avons trouvé Kesevar le Déchu, mais il affirme que sa punition est imméritée. Il a été envoyé à la recherche de la seule personne qui peut témoigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
+Nous avons trouvÃ© Kesevar le DÃ©chu, mais il affirme que sa punition est immÃ©ritÃ©e. Il a Ã©tÃ© envoyÃ© Ã  la recherche de la seule personne qui peut tÃ©moigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
 
-@5012 = ~Le Deva Déchu
+@5012 = ~Le Deva DÃ©chu
 
-Gunshain, comme cela s'est produit, a révélé le nom de Kesevar, mais il a aussi tenté de nous tuer! Nous l'avons expédié, et nous devons retourner voir Kesevar rapidement.~
+Gunshain, comme cela s'est produit, a rÃ©vÃ©lÃ© le nom de Kesevar, mais il a aussi tentÃ© de nous tuer! Nous l'avons expÃ©diÃ©, et nous devons retourner voir Kesevar rapidement.~
 
-@5013 = ~Le Deva Déchu
+@5013 = ~Le Deva DÃ©chu
 
-Saerileth a déclaré Kesevar innocent, et sa proclamation a fait immédiatement effet. Le déva a repris sa splendeur, et Saerileth reste en ma compagnie.~
+Saerileth a dÃ©clarÃ© Kesevar innocent, et sa proclamation a fait immÃ©diatement effet. Le dÃ©va a repris sa splendeur, et Saerileth reste en ma compagnie.~
 
-@5014 = ~Le Deva Déchu
+@5014 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
-@5015 = ~Le Deva Déchu
+@5015 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
 @5016 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5017 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5018 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! Mon adultère a brisé le coeur de Saerileth, et elle est morte. La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! Mon adultÃ¨re a brisÃ© le coeur de Saerileth, et elle est morte. La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5019 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5020 = ~Delilah la Courtisane
 
-Saerileth m'a assuré que cette Delilah est un démon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple où nous pouvons être capable de trouver de l'aide pour dissiper les illusions démoniaques.~
+Saerileth m'a assurÃ© que cette Delilah est un dÃ©mon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple oÃ¹ nous pouvons Ãªtre capable de trouver de l'aide pour dissiper les illusions dÃ©moniaques.~
 
 @5021 = ~Delilah la Courtisane
 
-J'ai refusé de venir en aide à ceux qui se sont fait attrapé par l'étreinte du démon. Ils ont apporté leur destin sur eux mêmes. Saerileth est attristée, mais approuve que leur punition est juste.~
+J'ai refusÃ© de venir en aide Ã  ceux qui se sont fait attrapÃ© par l'Ã©treinte du dÃ©mon. Ils ont apportÃ© leur destin sur eux mÃªmes. Saerileth est attristÃ©e, mais approuve que leur punition est juste.~
 
 @5022 = ~Delilah la Courtisane
 
-J'ai reçu du prêtre de Waukyne un parchemin qui possède la capacité de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorénavant visible.~
+J'ai reÃ§u du prÃªtre de Waukyne un parchemin qui possÃ¨de la capacitÃ© de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorÃ©navant visible.~
 
 @5023 = ~Delilah la Courtisane
 
-La magie du parchemin a été un véritable succès. Qu'il s'agisse de la magie du parchemin ou des prières de Saerileth, je n'en suis pas certain. Cependant, cela a marché, et les démon a été forcé d'abandonner leur plan et de retourner aux Abysses.~
+La magie du parchemin a Ã©tÃ© un vÃ©ritable succÃ¨s. Qu'il s'agisse de la magie du parchemin ou des priÃ¨res de Saerileth, je n'en suis pas certain. Cependant, cela a marchÃ©, et les dÃ©mon a Ã©tÃ© forcÃ© d'abandonner leur plan et de retourner aux Abysses.~
 
 @5024 = ~Vaincre Khalabaxin
 
-J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+J'ai acceptÃ© la requÃªte de Sir Havun Clarenshide pour l'aider Ã  vaincre le dragon Khalabaxin. Je le trouverai prÃ©s de son nouveau repÃ¨re, la cave au delÃ  de la riviÃ¨re dans les collines d'Umar.~
 
 @5025 = ~Vaincre Khalabaxin
 
-J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner Ã  l'Ordre du Coeur Radieux et dire Ã  Sir Havun Clarenshide ce dont il s'agit.~
 
 @5026 = ~Vaincre Khalabaxin
 
-Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+Je suis retournÃ© Ã  l'Ordre du Coeur Radieux avec les nouvelles de ma dÃ©faite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais Ãªtre accompli.~
 
 @5027 = ~Vaincre les vampires
 
-Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+Sir Havun m'a informÃ© de l'existence d'un nid de vampires ici dans la citÃ©. Je suis de la partie pour les chercher et les dÃ©truire. Ils vivent dans les cryptes sous le cimetiÃ¨re. L'ordre enverra l'un de leur mage mercenaire pour m'aider Ã  percer la dÃ©fense du nid.~
 
 @5028 = ~Vaincre les vampires
 
-J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a Ã©chappÃ©. Elle possÃ¨de quelques informations intÃ©ressantes Ã  me communiquer... Elle savais que j'Ã©tais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires Ã  Sir Havun.~
 
 @5029 = ~Les vampires vaincus
 
-Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~
+Je suis retournÃ© Ã  l'Ordre du coeur Radieux avec les nouvelles de ma dÃ©faite des vampires. L'Ordre m'a offert le passage Ã  Spellhold comme rÃ©compense!~

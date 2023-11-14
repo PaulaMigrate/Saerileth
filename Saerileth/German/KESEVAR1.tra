@@ -1,85 +1,85 @@
-@0  = ~Ich bin froh, Euch wohlauf und beisammen zu sehen. Möge Tyr Euch reichlich segnen.~
+@0  = ~Ich bin froh, Euch wohlauf und beisammen zu sehen. MÃ¶ge Tyr Euch reichlich segnen.~
 @1  = ~Ich bin froh, Euch wohlauf zu sehen, doch was ist aus Saerileth geworden?~
-@2  = ~Ich werde mich aufmachen, nach der Auserwählten Tyrs, der ich meine Seele verdanke, zu suchen.~
-@3  = ~Ich grüße Euch, Gotteskind! Aber wo ist die Auserwählte Tyrs?~ [SAERI175]
-@4  = ~Wir benötigen dringend Eure Hilfe! Saerileth wurde in eine Untote verwandelt!~
-@5  = ~Vergebt mir das Überbringen solch schlechter Nachrichten, aber Saerileth ist verloren, wenn Ihr uns nicht helft!~
+@2  = ~Ich werde mich aufmachen, nach der AuserwÃ¤hlten Tyrs, der ich meine Seele verdanke, zu suchen.~
+@3  = ~Ich grÃ¼ÃŸe Euch, Gotteskind! Aber wo ist die AuserwÃ¤hlte Tyrs?~ [SAERI175]
+@4  = ~Wir benÃ¶tigen dringend Eure Hilfe! Saerileth wurde in eine Untote verwandelt!~
+@5  = ~Vergebt mir das Ãœberbringen solch schlechter Nachrichten, aber Saerileth ist verloren, wenn Ihr uns nicht helft!~
 @6  = ~Das darf nicht geschehen. Die Finsterniss soll sie nicht bekommen!~
-@7  = ~Dann helft mir! Kommt mit mir, zurück nach Athkatla!~
+@7  = ~Dann helft mir! Kommt mit mir, zurÃ¼ck nach Athkatla!~
 @8  = ~Worauf warten wir? Lasst uns aufbrechen!~
-@9  = ~Ihr sprecht in Rätseln. Drückt Euch klarer aus und sagt mir, was mit ihr passiert ist.~
+@9  = ~Ihr sprecht in RÃ¤tseln. DrÃ¼ckt Euch klarer aus und sagt mir, was mit ihr passiert ist.~
 @10 = ~Sie wurde in eine Untote verwandelt!~
 @11 = ~Sie wurde sowohl in einen Geist, als auch in einen Vampir verwandelt!~
-@12 = ~Bodhis Dunkelheit hat sie überwältigt, und sie lebt fortan weiter als Untote!~
-@13 = ~<CHARNAME>, glaubt Ihr, dass Tyr sie durch mich heilen kann? Dass Tyrs Macht ausreicht, um die Tore der Hölle zu stürzen und die Dunkelheit zu verbannen?~
-@14 = ~Ja, natürlich! Warum sonst sollte ich hier sein?~
+@12 = ~Bodhis Dunkelheit hat sie Ã¼berwÃ¤ltigt, und sie lebt fortan weiter als Untote!~
+@13 = ~<CHARNAME>, glaubt Ihr, dass Tyr sie durch mich heilen kann? Dass Tyrs Macht ausreicht, um die Tore der HÃ¶lle zu stÃ¼rzen und die Dunkelheit zu verbannen?~
+@14 = ~Ja, natÃ¼rlich! Warum sonst sollte ich hier sein?~
 @15 = ~Ja, das glaube ich.~
 @16 = ~Ich glaube, dass Tyr seine Dienerin heilen kann.~
 @17 = ~Obgleich ich einem anderen Gott diene, glaube ich, dass Tyr Saerileth heilen kann.~
-@18 = ~Ich habe Zweifel an der Fähigkeit Tyrs, Saerileth aus ihrem doppelten Tot zu befreien.~
-@19 = ~Ich habe auf meinen Reisen viele unmögliche Dinge geschehen sehen, aber diese Tat wäre wahrlich zu unglaubhaft.~
+@18 = ~Ich habe Zweifel an der FÃ¤higkeit Tyrs, Saerileth aus ihrem doppelten Tot zu befreien.~
+@19 = ~Ich habe auf meinen Reisen viele unmÃ¶gliche Dinge geschehen sehen, aber diese Tat wÃ¤re wahrlich zu unglaubhaft.~
 @20 = ~Nein, das glaube ich nicht.~
 @21 = ~Dann geht. Euer Glaube hat sie wiederhergestellt.~
-@22 = ~Was?! Ihr meint, Ihr werdet nicht mit uns zurückkommen?~
+@22 = ~Was?! Ihr meint, Ihr werdet nicht mit uns zurÃ¼ckkommen?~
 @23 = ~Das ist alles? Ist es so einfach?~
 @24 = ~(Nichts sagen.)~
-@25 = ~Ihr mögt zweifeln, Gotteskind, doch in Eurem Herzen wusstet Ihr, dass Tyrs Macht ausreichen würde. Warum sonst wäret Ihr zu mir gekommen?~
+@25 = ~Ihr mÃ¶gt zweifeln, Gotteskind, doch in Eurem Herzen wusstet Ihr, dass Tyrs Macht ausreichen wÃ¼rde. Warum sonst wÃ¤ret Ihr zu mir gekommen?~
 @26 = ~Nun gut, ich glaube.~
 @27 = ~Ich kam zu Euch, weil ich verzweifelt war, nicht, weil ich glaube. Das tue ich nicht.~
 @28 = ~Dann ist Saerileth verdammt.~ [SAERI440]
-@29 = ~Saerileth ist wiederhergestellt. Ich werde Euch zu ihr zurückbringen.~ [SAERI292]
-@30 = ~Warum steht Ihr da wie betäubt und wundert Euch? Ihr habt Tyrs göttliche Macht anerkannt. Warum seid Ihr jetzt, da sie sich offenbart, so erstaunt?~
-@31 = ~(Der Deva hebt seine Hände, wie zu einem Segen.) Lebt wohl, Gotteskind.~
-@32 = ~Ihr habt es geschafft, Auserwählte Tyrs! Und der Verwundete Gott zeigte Barmherzigkeit gegenüber seinem Diener!~ [SAERI176]
-@33 = ~Ich bin froh, Kesevar der Schöne, wirklich froh, dass Ihr seine Gunst wiedererlangt habt!~ [SAERI177]
-@34 = ~Auch Euch danke ich, Gotteskind, für Eure Gnade und Eure Hilfe.~
-@35 = ~Sollte es jemals etwas geben, das Kesevar für Euch tun kann, so fragt nur.~
-@36 = ~Ich kehre nun zum Tempel des Tyr in Tethyr zurück, um dort zu dem Verwundeten für seine Gerechtigkeit und Gnade zu beten.~
+@29 = ~Saerileth ist wiederhergestellt. Ich werde Euch zu ihr zurÃ¼ckbringen.~ [SAERI292]
+@30 = ~Warum steht Ihr da wie betÃ¤ubt und wundert Euch? Ihr habt Tyrs gÃ¶ttliche Macht anerkannt. Warum seid Ihr jetzt, da sie sich offenbart, so erstaunt?~
+@31 = ~(Der Deva hebt seine HÃ¤nde, wie zu einem Segen.) Lebt wohl, Gotteskind.~
+@32 = ~Ihr habt es geschafft, AuserwÃ¤hlte Tyrs! Und der Verwundete Gott zeigte Barmherzigkeit gegenÃ¼ber seinem Diener!~ [SAERI176]
+@33 = ~Ich bin froh, Kesevar der SchÃ¶ne, wirklich froh, dass Ihr seine Gunst wiedererlangt habt!~ [SAERI177]
+@34 = ~Auch Euch danke ich, Gotteskind, fÃ¼r Eure Gnade und Eure Hilfe.~
+@35 = ~Sollte es jemals etwas geben, das Kesevar fÃ¼r Euch tun kann, so fragt nur.~
+@36 = ~Ich kehre nun zum Tempel des Tyr in Tethyr zurÃ¼ck, um dort zu dem Verwundeten fÃ¼r seine Gerechtigkeit und Gnade zu beten.~
 
 
 @5000 = ~Der gefallene Deva
 
-Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heiÃŸt Saerileth und ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiÃŸ.~
 
 @5001 = ~Der gefallene Deva
 
-Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heißt Saerileth und scheint sehr angetan von mir zu sein. Sie ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiß.~
+Ich habe eine junge Paladin des Tyr in meine Gruppe aufgenommen. Sie heiÃŸt Saerileth und scheint sehr angetan von mir zu sein. Sie ist auf der Suche nach einem gefallenen Deva. Ihr wurde gesagt, dass sie ihn finden wird, wenn sie mit dem Bhaalkind reist. Das ist auch schon alles, was sie weiÃŸ.~
 
-@5002 = ~Saerileths Entführung
+@5002 = ~Saerileths EntfÃ¼hrung
 
-Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Zuerst müssen wir Jharak in Sigil finden, um von ihm das Zepter des Tyr zu erhalten.~
+Saerileth ist von einem mÃ¤chtigen DÃ¤monenfÃ¼rsten entfÃ¼hrt worden. Wir verbÃ¼ndeten uns mit einem Ritter Tyrs, um sie zu retten. Zuerst mÃ¼ssen wir Jharak in Sigil finden, um von ihm das Zepter des Tyr zu erhalten.~
 
-@5003 = ~Saerileths Entführung
+@5003 = ~Saerileths EntfÃ¼hrung
 
-Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Wir verbündeten uns mit einem Ritter Tyrs, um sie zu retten. Wir brechen sofort nach Baator auf.~
+Saerileth ist von einem mÃ¤chtigen DÃ¤monenfÃ¼rsten entfÃ¼hrt worden. Wir verbÃ¼ndeten uns mit einem Ritter Tyrs, um sie zu retten. Wir brechen sofort nach Baator auf.~
 
-@5004 = ~Saerileths Entführung
+@5004 = ~Saerileths EntfÃ¼hrung
 
-Saerileth ist von einem mächtigen Dämonenfürsten entführt worden. Da es zu gefährlich ist, sie zu retten, überließen wir sie ihrem Schicksal.~
+Saerileth ist von einem mÃ¤chtigen DÃ¤monenfÃ¼rsten entfÃ¼hrt worden. Da es zu gefÃ¤hrlich ist, sie zu retten, Ã¼berlieÃŸen wir sie ihrem Schicksal.~
 
-@5005 = ~Saerileths Entführung
+@5005 = ~Saerileths EntfÃ¼hrung
 
-Wir haben Jharak gefunden, aber er wies uns an, zuerst einen Portalschlüssel zu finden, bevor er uns verrät, wo sich das Zepter des Tyr befindet.~
+Wir haben Jharak gefunden, aber er wies uns an, zuerst einen PortalschlÃ¼ssel zu finden, bevor er uns verrÃ¤t, wo sich das Zepter des Tyr befindet.~
 
-@5006 = ~Saerileths Entführung
+@5006 = ~Saerileths EntfÃ¼hrung
 
-Wir haben den Schlüssel, eine Haarlocke, gefunden und sollten damit sofort zu Jharak zurückkehren.~
+Wir haben den SchlÃ¼ssel, eine Haarlocke, gefunden und sollten damit sofort zu Jharak zurÃ¼ckkehren.~
 
-@5007 = ~Saerileths Entführung
+@5007 = ~Saerileths EntfÃ¼hrung
 
 Jharak sandte uns zu dem Wirt, der angeblich das Zepter hat.~
 
-@5008 = ~Saerileths Entführung
+@5008 = ~Saerileths EntfÃ¼hrung
 
-Wir haben endlich das Zepter des Tyr bekommen. Saerileths Seele ist in Gefahr und wir müssen so schnell wie möglich zurück zu Edorem eilen.~
+Wir haben endlich das Zepter des Tyr bekommen. Saerileths Seele ist in Gefahr und wir mÃ¼ssen so schnell wie mÃ¶glich zurÃ¼ck zu Edorem eilen.~
 
 @5009 = ~Saerileths Rettung
 
-Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+Wir haben Saerileth aus den Klauen des DÃ¤monenfÃ¼rsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Der Paladin Edorem gab uns einen Hammer zum Dank dafÃ¼r, dass wir Saerileth gerettet haben.~
 
 @5010 = ~Saerileths Rettung
 
-Wir haben Saerileth aus den Klauen des Dämonenfürsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Ich stellte sie aus meinem Dienst frei, und sie blieb auf den Ebenen. Der Paladin Edorem gab uns einen Hammer zum Dank dafür, dass wir Saerileth gerettet haben.~
+Wir haben Saerileth aus den Klauen des DÃ¤monenfÃ¼rsten Glourkist befreit und sind wieder sicher auf Toril angekommen. Ich stellte sie aus meinem Dienst frei, und sie blieb auf den Ebenen. Der Paladin Edorem gab uns einen Hammer zum Dank dafÃ¼r, dass wir Saerileth gerettet haben.~
 
 @5011 = ~Der gefallene Deva
 
@@ -87,72 +87,72 @@ Wir fanden Kesevar den Gefallenen, aber er behauptet, dass seine Bestrafung unve
 
 @5012 = ~Der gefallene Deva
 
-Wie es aussieht, hat Gunshain Kesevars Namen wieder rein gewaschen, aber gleichzeitig versuchte er uns zu töten! Wir haben ihn besiegt und müssen jetzt schnell zu Kesevar zurückkehren.~
+Wie es aussieht, hat Gunshain Kesevars Namen wieder rein gewaschen, aber gleichzeitig versuchte er uns zu tÃ¶ten! Wir haben ihn besiegt und mÃ¼ssen jetzt schnell zu Kesevar zurÃ¼ckkehren.~
 
 @5013 = ~Der gefallene Deva
 
-Saerileth erklärte Kesevar für unschuldig, und dies zeigte sofort die gewünschte Wirkung. Der Deva erhielt seine frühere Herrlichkeit zurück. Saerileth wird in meiner Gruppe bleiben.~
+Saerileth erklÃ¤rte Kesevar fÃ¼r unschuldig, und dies zeigte sofort die gewÃ¼nschte Wirkung. Der Deva erhielt seine frÃ¼here Herrlichkeit zurÃ¼ck. Saerileth wird in meiner Gruppe bleiben.~
 
 @5014 = ~Der gefallene Deva
 
-Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Meine Geliebte ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+Es scheint, als wÃ¤re Kesevar doch nicht schuldig. Indem sie ihn getÃ¶tet hat, hat Saerileth die Gnade Tyrs verloren. Meine Geliebte ist zu den Ebenen zurÃ¼ckgekehrt, um fÃ¼r ihren Fehler BuÃŸe zu tun. Ich werde sie wohl nie wiedersehen.~
 
 @5015 = ~Der gefallene Deva
 
-Es scheint, als wäre Kesevar doch nicht schuldig. Indem sie ihn getötet hat, hat Saerileth die Gnade Tyrs verloren. Die junge Paladin ist zu den Ebenen zurückgekehrt, um für ihren Fehler Buße zu tun. Ich werde sie wohl nie wiedersehen.~
+Es scheint, als wÃ¤re Kesevar doch nicht schuldig. Indem sie ihn getÃ¶tet hat, hat Saerileth die Gnade Tyrs verloren. Die junge Paladin ist zu den Ebenen zurÃ¼ckgekehrt, um fÃ¼r ihren Fehler BuÃŸe zu tun. Ich werde sie wohl nie wiedersehen.~
 
 @5016 = ~Die Dirne Delilah
 
-Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Meine Frau Saerileth und ich haben schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+Ein Mann in Amkethran erzÃ¤hlt willigen ZuhÃ¶rern regelmÃ¤ÃŸig, dass Delilah, von welcher er sagt, dass sie die schÃ¶nste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Meine Frau Saerileth und ich haben schwere Bedenken Ã¼ber das Schicksal der MÃ¤nner, die ihre Dienste in Anspruch nehmen.~
 
 @5017 = ~Die Dirne Delilah
 
-Ein Mann in Amkethran erzählt willigen Zuhörern regelmäßig, dass Delilah, von welcher er sagt, dass sie die schönste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Ich habe schwere Bedenken über das Schicksal der Männer, die ihre Dienste in Anspruch nehmen.~
+Ein Mann in Amkethran erzÃ¤hlt willigen ZuhÃ¶rern regelmÃ¤ÃŸig, dass Delilah, von welcher er sagt, dass sie die schÃ¶nste Frau in diesen Landen sei, die Freuden ihres Bettes hier im Gasthaus anbietet. Ich habe schwere Bedenken Ã¼ber das Schicksal der MÃ¤nner, die ihre Dienste in Anspruch nehmen.~
 
 @5018 = ~Die Dirne Delilah
 
-Ich erlag dem Charme Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Mein Ehebruch brach Saerileths Herz, und nun ist sie tot. Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+Ich erlag dem Charme Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Mein Ehebruch brach Saerileths Herz, und nun ist sie tot. Der Sukkubus kehrte in den Abyss zurÃ¼ck, und ich bleibe als gebrochener Mann zurÃ¼ck.~
 
 @5019 = ~Die Dirne Delilah
 
-Ich erlag dem Charm Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Der Sukkubus kehrte in den Abyss zurück, und ich bleibe als gebrochener Mann zurück.~
+Ich erlag dem Charm Delilahs, nur um zu erkennen, dass sie ein Sukkubus ist! Der Sukkubus kehrte in den Abyss zurÃ¼ck, und ich bleibe als gebrochener Mann zurÃ¼ck.~
 
 @5020 = ~Die Dirne Delilah
 
-Saerileth versicherte mir, dass diese Delilah ein Dämon ist, aber wir können sie nicht vernichten, ohne dabei die Männer, die bei ihr sind, zu verdammen. Wir müssen einen Tempel finden, in welchem wir auf Unterstützung hoffen, um die dämonischen Illusionen durchdringen zu können.~
+Saerileth versicherte mir, dass diese Delilah ein DÃ¤mon ist, aber wir kÃ¶nnen sie nicht vernichten, ohne dabei die MÃ¤nner, die bei ihr sind, zu verdammen. Wir mÃ¼ssen einen Tempel finden, in welchem wir auf UnterstÃ¼tzung hoffen, um die dÃ¤monischen Illusionen durchdringen zu kÃ¶nnen.~
 
 @5021 = ~Die Dirne Delilah
 
-Ich werde diesen Wüstlingen, die in den Fängen des Dämons sind, nicht helfen. Sie sind für ihr Schicksal selbst verantwortlich. Saerileth ist betrübt darüber, aber sie stimmt zu, dass deren Bestrafung gerecht ist.~
+Ich werde diesen WÃ¼stlingen, die in den FÃ¤ngen des DÃ¤mons sind, nicht helfen. Sie sind fÃ¼r ihr Schicksal selbst verantwortlich. Saerileth ist betrÃ¼bt darÃ¼ber, aber sie stimmt zu, dass deren Bestrafung gerecht ist.~
 
 @5022 = ~Die Dirne Delilah
 
-Ich erhielt von den Priestern der Waukeen eine Spruchrolle, mit der man Illusionen aufheben kann. Ob ihre Kraft gegen die Magie der Hölle wirkt, wird sich noch herausstellen.~
+Ich erhielt von den Priestern der Waukeen eine Spruchrolle, mit der man Illusionen aufheben kann. Ob ihre Kraft gegen die Magie der HÃ¶lle wirkt, wird sich noch herausstellen.~
 
 @5023 = ~Die Dirne Delilah
 
-Die Magie der Spruchrolle hat gewirkt. Ob es nun die Kraft der Spruchrolle oder Saerileths Gebete waren, weiß ich nicht sicher. Immerhin hat es funktioniert und die Dämonen wurden gezwungen, ihre Pläne aufzugeben und in den Abyss zurückzukehren.~
+Die Magie der Spruchrolle hat gewirkt. Ob es nun die Kraft der Spruchrolle oder Saerileths Gebete waren, weiÃŸ ich nicht sicher. Immerhin hat es funktioniert und die DÃ¤monen wurden gezwungen, ihre PlÃ¤ne aufzugeben und in den Abyss zurÃ¼ckzukehren.~
 
 @5024 = ~Der Kampf gegen Khalabaxin
 
-Ich habe Sir Havun Clarenshide meine Hilfe im Kampf gegen den Drachen Khalabaxin zugesagt. Der Drache dürfte bei seinem neuen Hort zu finden sein, in der Höhle unter dem Fluss in den Umarhügeln.~
+Ich habe Sir Havun Clarenshide meine Hilfe im Kampf gegen den Drachen Khalabaxin zugesagt. Der Drache dÃ¼rfte bei seinem neuen Hort zu finden sein, in der HÃ¶hle unter dem Fluss in den UmarhÃ¼geln.~
 
 @5025 = ~Der Kampf gegen Khalabaxin
 
-Ich habe den Drachen Khalabaxin besiegt. Ich sollte nun zum Orden des Strahlenden Herzens zurückkehren und Sir Havun Clarenshide davon berichten.~
+Ich habe den Drachen Khalabaxin besiegt. Ich sollte nun zum Orden des Strahlenden Herzens zurÃ¼ckkehren und Sir Havun Clarenshide davon berichten.~
 
 @5026 = ~Der Kampf gegen Khalabaxin
 
-Ich kehrte mit der Nachricht von meinem Sieg über Khalabaxin zum Orden zurück. Es sieht so aus, als gäbe es noch mehr Arbeit, die ich für den Orden erledigen kann.~
+Ich kehrte mit der Nachricht von meinem Sieg Ã¼ber Khalabaxin zum Orden zurÃ¼ck. Es sieht so aus, als gÃ¤be es noch mehr Arbeit, die ich fÃ¼r den Orden erledigen kann.~
 
 @5027 = ~Das Nest der Vampire
 
-Sir Havun hat mich darüber informiert, dass es hier in der Stadt ein Vampirnest gibt. Ich wurde ausgesandt, um es zu finden und zu zerschlagen. Es soll sich irgendwo in den Krypten unter dem Friedhof befinden. Der Orden wird mir außerdem einen angeheuerten Zauberer schicken, der mich beim Angriff auf die Vampire unterstützen soll.~
+Sir Havun hat mich darÃ¼ber informiert, dass es hier in der Stadt ein Vampirnest gibt. Ich wurde ausgesandt, um es zu finden und zu zerschlagen. Es soll sich irgendwo in den Krypten unter dem Friedhof befinden. Der Orden wird mir auÃŸerdem einen angeheuerten Zauberer schicken, der mich beim Angriff auf die Vampire unterstÃ¼tzen soll.~
 
 @5028 = ~Das Nest der Vampire
 
-Ich habe das Vampirnest zerschlagen, doch ihre Anführerin, Bodhi, ist entkommen. Sie wusste einige interessante Dinge über mich... Sie wusste sogar, dass ich ein Bhaalkind bin! Ich sollte nun zu Sir Havun gehen und von der Vernichtung der Vampire berichten.~
+Ich habe das Vampirnest zerschlagen, doch ihre AnfÃ¼hrerin, Bodhi, ist entkommen. Sie wusste einige interessante Dinge Ã¼ber mich... Sie wusste sogar, dass ich ein Bhaalkind bin! Ich sollte nun zu Sir Havun gehen und von der Vernichtung der Vampire berichten.~
 
 @5029 = ~Das Nest der Vampire
 
-Ich kehrte mit der Nachricht von der Zerschlagung des Vampirnestes zum Orden zurück. Als Belohnung hat man mir die Überfahrt zur Zauberfeste angeboten!~
+Ich kehrte mit der Nachricht von der Zerschlagung des Vampirnestes zum Orden zurÃ¼ck. Als Belohnung hat man mir die Ãœberfahrt zur Zauberfeste angeboten!~

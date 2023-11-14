@@ -1,174 +1,174 @@
-@0    = ~Salutations, habitants du plan Primaire! Vos expressions perplexes sont assez amusantes. Vous êtes ici pour la bibine?~
+@0    = ~Salutations, habitants du plan Primaire! Vos expressions perplexes sont assez amusantes. Vous Ãªtes ici pour la bibine?~
 @1    = ~Non, nous sommes ici pour *vous* trouver.~
 @2    = ~Qu'est ce que la "bibine"?~
 @3    = ~Content que nous vous amusons, l'ami. Maintenant comment parlons nous affaires?~
 @4    = ~Moi? Et que voulez vous de moi?~
 @5    = ~Nous cherchons le Sceptre de Tyr.~
-@6    = ~Nous savons que vous avez connaissance de l'endroit où se trouve le Sceptre de Tyr. Donnez le moi!~
+@6    = ~Nous savons que vous avez connaissance de l'endroit oÃ¹ se trouve le Sceptre de Tyr. Donnez le moi!~
 @7    = ~Je veux vous acheter une boisson, ainsi nous pouvons discuter d'une proposition.~
-@8    = ~Boisson. Alcool. Grog. Ce genre de chose. (Il lève son mug vers vous.) Maintenant, foutez moi le camp!~
+@8    = ~Boisson. Alcool. Grog. Ce genre de chose. (Il lÃ¨ve son mug vers vous.) Maintenant, foutez moi le camp!~
 @9    = ~Nous devons discuter d'affaires avec vous, Jharak!~
-@10   = ~Si je n'avais pas besoin de vous, je vous étriperai ici pour votre insolence!~
+@10   = ~Si je n'avais pas besoin de vous, je vous Ã©triperai ici pour votre insolence!~
 @11   = ~De quelles affaires veulent avoir des ignares avec Jharak d'Ysgard?~
-@12   = ~Gardez votre voix en sourdine, imbécile! Vous voulez nous envoyer à la mort?~
-@13   = ~Vous n'imaginez même pas si *vous* y seriez envoyés, mais je tiens à moi. Maintenant, allez vous me dépanner ou pas?~
-@14   = ~Quel est le problème? Nous voulons seulement le sceptre, et nous partirons!~
-@15   = ~Idiot! Vous n'aurez aucune boisson de moi! Maintenant arrêtez de m'embêter et allez au diable!~
-@16   = ~Très bien! Nous cherchons le Sceptre de Tyr.~
-@17   = ~Hé bien, la vie est pleine d'inconvénients, n'est ce pas, imbécile? Allez vous arrêter de m'embêter, ou dois je vous fracasser?~
+@12   = ~Gardez votre voix en sourdine, imbÃ©cile! Vous voulez nous envoyer Ã  la mort?~
+@13   = ~Vous n'imaginez mÃªme pas si *vous* y seriez envoyÃ©s, mais je tiens Ã  moi. Maintenant, allez vous me dÃ©panner ou pas?~
+@14   = ~Quel est le problÃ¨me? Nous voulons seulement le sceptre, et nous partirons!~
+@15   = ~Idiot! Vous n'aurez aucune boisson de moi! Maintenant arrÃªtez de m'embÃªter et allez au diable!~
+@16   = ~TrÃ¨s bien! Nous cherchons le Sceptre de Tyr.~
+@17   = ~HÃ© bien, la vie est pleine d'inconvÃ©nients, n'est ce pas, imbÃ©cile? Allez vous arrÃªter de m'embÃªter, ou dois je vous fracasser?~
 @18   = ~Vous testez ma patience, idiot, mais nous cherchons le Sceptre de Tyr, et je ne peux pas me permettre un combat maintenant.~
-@19   = ~Les ignares qui recherchent le Sceptre deviennent dingues. A coté de cela, les hommes de Tyr le recherchent, et je ne suis pas concerné.~
+@19   = ~Les ignares qui recherchent le Sceptre deviennent dingues. A cotÃ© de cela, les hommes de Tyr le recherchent, et je ne suis pas concernÃ©.~
 @20   = ~Pourquoi avez vous peur des hommes de Tyr?~
 @21   = ~"Dingues"?~
-@22   = ~Quel serait votre prix pour y être impliqué?~
-@23   = ~Un camarade à moi l'a volé au temple il y a quelque temps. Mais il est devenu fou et est parti en courant après avoir caché le Sceptre. S'ils découvrent que je sais ou il se trouve, c'est ma fin.~
-@24   = ~Quel serait votre prix pour nous dire où il serait caché?~
-@25   = ~Et où se trouve t'il?~
-@26   = ~J'ai de mauvaises nouvelles pour vous, l'ami. Ils savent déjà que vous le savez, et si vous ne parlez pas, je leur dirai où vous trouver!~
-@27   = ~Espèce de fou, de dingue, de siphonné, d'insensé. Hors d'ici. Est ce assez clair pour vous, Ignare?~
-@28   = ~Partez de la Cage. Il existe un homme dans la ruche nommé Mon, et il connaît les ténèbres du portail que je prendrai pour rentrer chez moi. Il n'aime pas les habitants d'Ysgard.~
-@29   = ~Obtenez moi la clé de lui, et je vous dirai où mon camarade a caché le Sceptre.~
-@30   = ~Pas de marché. Les hommes de Tyr savent déjà que vous le savez, et si vous ne parlez pas, je leur dirai où vous trouver!~
-@31   = ~Bien, je parlerai à ce Mon.~
-@32   = ~Mes lèvres sont closes, imbécile? Pensez vous que je vais m'incriminer?~
-@33   = ~Vous devriez parler! Les hommes de Tyr savent déjà que vous le savez, et si vous ne parlez pas, je leur dirai où vous trouver!~
-@34   = ~Nous pouvons sûrement trouver quelques arrangements. Quel serait votre prix pour être impliqué?~
-@35   = ~Je ne suis pas intimidé par des habitants du Plan primaire! Vous n'avez pas de cartes au dessus de moi, imbécile!~
-@36   = ~Vous allez appeler vos camarades, et je disparaîtrai. Je connais toutes les ruelles de la Ruche, les coins aveugles--je ne serai jamais trouvé.~
-@37   = ~Bien, Bien! Nous pouvons sûrement trouver quelques arrangements. Quel serait votre prix pour être impliqué?~
-@38   = ~Très bien. Mais c'est un ogre avare. Surveillez votre arrière.~
-@39   = ~Hé bien?~
-@40   = ~Mon veut 2500 pièces d'or pour la clé, et je n'ai pas autant d'argent.~
-@41   = ~Si vous voulez cette clé, vous paierez une grosse somme. 2500! Pas moins!~
-@42   = ~Hé, l'argent n'est pas le problème. Il ne veut pas me vendre la clé, car il n'aime pas les gens de mon genre.~
-@43   = ~Vous avez l'argent. Maintenant, récupérez ma clé et ne pensez même pas à me trahir!~
-@44   = ~Hé bien? vous savez quoi faire! Maintenant, faîtes le!~
-@45   = ~Avez vous la clé?~
-@46   = ~Oui, la voici. Maintenant, dîtes nous où se trouve le Sceptre.~
-@47   = ~Je possède la clé, mais vous ne l'aurez pas avant que vous ne m'ayez dit où se trouve le Sceptre!~
+@22   = ~Quel serait votre prix pour y Ãªtre impliquÃ©?~
+@23   = ~Un camarade Ã  moi l'a volÃ© au temple il y a quelque temps. Mais il est devenu fou et est parti en courant aprÃ¨s avoir cachÃ© le Sceptre. S'ils dÃ©couvrent que je sais ou il se trouve, c'est ma fin.~
+@24   = ~Quel serait votre prix pour nous dire oÃ¹ il serait cachÃ©?~
+@25   = ~Et oÃ¹ se trouve t'il?~
+@26   = ~J'ai de mauvaises nouvelles pour vous, l'ami. Ils savent dÃ©jÃ  que vous le savez, et si vous ne parlez pas, je leur dirai oÃ¹ vous trouver!~
+@27   = ~EspÃ¨ce de fou, de dingue, de siphonnÃ©, d'insensÃ©. Hors d'ici. Est ce assez clair pour vous, Ignare?~
+@28   = ~Partez de la Cage. Il existe un homme dans la ruche nommÃ© Mon, et il connaÃ®t les tÃ©nÃ¨bres du portail que je prendrai pour rentrer chez moi. Il n'aime pas les habitants d'Ysgard.~
+@29   = ~Obtenez moi la clÃ© de lui, et je vous dirai oÃ¹ mon camarade a cachÃ© le Sceptre.~
+@30   = ~Pas de marchÃ©. Les hommes de Tyr savent dÃ©jÃ  que vous le savez, et si vous ne parlez pas, je leur dirai oÃ¹ vous trouver!~
+@31   = ~Bien, je parlerai Ã  ce Mon.~
+@32   = ~Mes lÃ¨vres sont closes, imbÃ©cile? Pensez vous que je vais m'incriminer?~
+@33   = ~Vous devriez parler! Les hommes de Tyr savent dÃ©jÃ  que vous le savez, et si vous ne parlez pas, je leur dirai oÃ¹ vous trouver!~
+@34   = ~Nous pouvons sÃ»rement trouver quelques arrangements. Quel serait votre prix pour Ãªtre impliquÃ©?~
+@35   = ~Je ne suis pas intimidÃ© par des habitants du Plan primaire! Vous n'avez pas de cartes au dessus de moi, imbÃ©cile!~
+@36   = ~Vous allez appeler vos camarades, et je disparaÃ®trai. Je connais toutes les ruelles de la Ruche, les coins aveugles--je ne serai jamais trouvÃ©.~
+@37   = ~Bien, Bien! Nous pouvons sÃ»rement trouver quelques arrangements. Quel serait votre prix pour Ãªtre impliquÃ©?~
+@38   = ~TrÃ¨s bien. Mais c'est un ogre avare. Surveillez votre arriÃ¨re.~
+@39   = ~HÃ© bien?~
+@40   = ~Mon veut 2500 piÃ¨ces d'or pour la clÃ©, et je n'ai pas autant d'argent.~
+@41   = ~Si vous voulez cette clÃ©, vous paierez une grosse somme. 2500! Pas moins!~
+@42   = ~HÃ©, l'argent n'est pas le problÃ¨me. Il ne veut pas me vendre la clÃ©, car il n'aime pas les gens de mon genre.~
+@43   = ~Vous avez l'argent. Maintenant, rÃ©cupÃ©rez ma clÃ© et ne pensez mÃªme pas Ã  me trahir!~
+@44   = ~HÃ© bien? vous savez quoi faire! Maintenant, faÃ®tes le!~
+@45   = ~Avez vous la clÃ©?~
+@46   = ~Oui, la voici. Maintenant, dÃ®tes nous oÃ¹ se trouve le Sceptre.~
+@47   = ~Je possÃ¨de la clÃ©, mais vous ne l'aurez pas avant que vous ne m'ayez dit oÃ¹ se trouve le Sceptre!~
 @48   = ~Excellent! Maintenant je peux quitter ce trou!~
-@49   = ~Mon camarade a passé le Sceptre au propriétaire du Bar. Vous savez, pour se préserver.~
+@49   = ~Mon camarade a passÃ© le Sceptre au propriÃ©taire du Bar. Vous savez, pour se prÃ©server.~
 @50   = ~Maintenant, je pars!~
-@51   = ~Bien. je jouerai à votre petit jeu.~
+@51   = ~Bien. je jouerai Ã  votre petit jeu.~
 
 
 
-@5000 = ~Le Deva Déchu
+@5000 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5001 = ~Le Deva Déchu
+@5001 = ~Le Deva DÃ©chu
 
-J'ai pris une jeune paladin de Tyr nommée Saerileth dans ma partie. Elle semble assez emballée avec moi. Elle cherche un deva déchu et il a été dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres détails sont disponibles.~
+J'ai pris une jeune paladin de Tyr nommÃ©e Saerileth dans ma partie. Elle semble assez emballÃ©e avec moi. Elle cherche un deva dÃ©chu et il a Ã©tÃ© dit qu'elle le trouvera en voyageant avec l'enfant de Bhaal. Pas d'autres dÃ©tails sont disponibles.~
 
-@5002 = ~Saerileth Enlevée
+@5002 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Premièrement nous devons chercher Jharak dans la cité de Sigil, de manière à obtenir de lui le sceptre de Tyr.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. PremiÃ¨rement nous devons chercher Jharak dans la citÃ© de Sigil, de maniÃ¨re Ã  obtenir de lui le sceptre de Tyr.~
 
-@5003 = ~Saerileth Enlevée
+@5003 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immédiatement.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Nous avons uni nos forces avec un chevalier de Tyr pour essayer de la secourir. Nous sommes partis pour Baator immÃ©diatement.~
 
-@5004 = ~Saerileth Enlevée
+@5004 = ~Saerileth EnlevÃ©e
 
-Saerileth a été enlevée par un puissant seigneur démon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissé à son sort.~
+Saerileth a Ã©tÃ© enlevÃ©e par un puissant seigneur dÃ©mon. Il est trop dangereux de d'essayer de la secourir. Nous l'avons laissÃ© Ã  son sort.~
 
-@5005 = ~Saerileth Enlevée
+@5005 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé Jharak, mais il nous a envoyé rapporter une clé avant de nous dire la localisation du sceptre de Tyr.~
+Nous avons trouvÃ© Jharak, mais il nous a envoyÃ© rapporter une clÃ© avant de nous dire la localisation du sceptre de Tyr.~
 
-@5006 = ~Saerileth Enlevée
+@5006 = ~Saerileth EnlevÃ©e
 
-Nous avons trouvé la clé, et nous allons retourner voir Jharak avec elle de suite.~
+Nous avons trouvÃ© la clÃ©, et nous allons retourner voir Jharak avec elle de suite.~
 
-@5007 = ~Saerileth Enlevée
+@5007 = ~Saerileth EnlevÃ©e
 
-Jharak nous a envoyé parler avec le tavernier, qui possède le Sceptre.~
+Jharak nous a envoyÃ© parler avec le tavernier, qui possÃ¨de le Sceptre.~
 
-@5008 = ~Saerileth Enlevée
+@5008 = ~Saerileth EnlevÃ©e
 
-Nous avons obtenu le Sceptre de Tyr. L'âme de Saerileth est en danger, et nous devons nous dépêcher de rejoindre Edorem aussi vite que possible.~
+Nous avons obtenu le Sceptre de Tyr. L'Ã¢me de Saerileth est en danger, et nous devons nous dÃ©pÃªcher de rejoindre Edorem aussi vite que possible.~
 
 @5009 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
 @5010 = ~Saerileth Secourue
 
-Nous avons secouru Saerileth du seigneur démon Glourkist, et nous sommes à nouveau dans Toril en sécurité. J'ai sorti Saerileth de mon groupe, et elle est restée dans les Plans. Sir Edorem, le paladin de Tyr, nous a donné un marteau en gratitude du sauvetage de Saerileth.~
+Nous avons secouru Saerileth du seigneur dÃ©mon Glourkist, et nous sommes Ã  nouveau dans Toril en sÃ©curitÃ©. J'ai sorti Saerileth de mon groupe, et elle est restÃ©e dans les Plans. Sir Edorem, le paladin de Tyr, nous a donnÃ© un marteau en gratitude du sauvetage de Saerileth.~
 
-@5011 = ~Le Deva Déchu
+@5011 = ~Le Deva DÃ©chu
 
-Nous avons trouvé Kesevar le Déchu, mais il affirme que sa punition est imméritée. Il a été envoyé à la recherche de la seule personne qui peut témoigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
+Nous avons trouvÃ© Kesevar le DÃ©chu, mais il affirme que sa punition est immÃ©ritÃ©e. Il a Ã©tÃ© envoyÃ© Ã  la recherche de la seule personne qui peut tÃ©moigner de son innocence: Un enfant de Bhaal du nom de Gunshain.~
 
-@5012 = ~Le Deva Déchu
+@5012 = ~Le Deva DÃ©chu
 
-Gunshain, comme cela s'est produit, a révélé le nom de Kesevar, mais il a aussi tenté de nous tuer! Nous l'avons expédié, et nous devons retourner voir Kesevar rapidement.~
+Gunshain, comme cela s'est produit, a rÃ©vÃ©lÃ© le nom de Kesevar, mais il a aussi tentÃ© de nous tuer! Nous l'avons expÃ©diÃ©, et nous devons retourner voir Kesevar rapidement.~
 
-@5013 = ~Le Deva Déchu
+@5013 = ~Le Deva DÃ©chu
 
-Saerileth a déclaré Kesevar innocent, et sa proclamation a fait immédiatement effet. Le déva a repris sa splendeur, et Saerileth reste en ma compagnie.~
+Saerileth a dÃ©clarÃ© Kesevar innocent, et sa proclamation a fait immÃ©diatement effet. Le dÃ©va a repris sa splendeur, et Saerileth reste en ma compagnie.~
 
-@5014 = ~Le Deva Déchu
+@5014 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. Mon amour est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
-@5015 = ~Le Deva Déchu
+@5015 = ~Le Deva DÃ©chu
 
-Il semble que Kesevar n'était pas coupable après tout. Pour l'avoir anéanti, Saerileth a perdu la grâce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
+Il semble que Kesevar n'Ã©tait pas coupable aprÃ¨s tout. Pour l'avoir anÃ©anti, Saerileth a perdu la grÃ¢ce de Tyr. La jeune paladin est parti dans les plans pour tenter d'expier sa faute. Je ne la reverrai plus jamais.~
 
 @5016 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. Ma femme, Saerileth, et moi avons de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5017 = ~Delilah la Courtisane
 
-Un homme dans Amkethran proclame que Delilah, duquel il déclare être la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sérieux scrupules à propos des hommes qui sont allés la voir.~
+Un homme dans Amkethran proclame que Delilah, duquel il dÃ©clare Ãªtre la plus belle femme dans ces lieux, damne les hommes par les plaisirs de son lit dans l'auberge ici. J'ai de sÃ©rieux scrupules Ã  propos des hommes qui sont allÃ©s la voir.~
 
 @5018 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! Mon adultère a brisé le coeur de Saerileth, et elle est morte. La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! Mon adultÃ¨re a brisÃ© le coeur de Saerileth, et elle est morte. La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5019 = ~Delilah la Courtisane
 
-J'ai succombé aux charmes de Delilah, uniquement pour découvrir qu'elle est une succube! La succube est retournée aux Abysses, et je suis moins que l'homme que j'étais avant.~
+J'ai succombÃ© aux charmes de Delilah, uniquement pour dÃ©couvrir qu'elle est une succube! La succube est retournÃ©e aux Abysses, et je suis moins que l'homme que j'Ã©tais avant.~
 
 @5020 = ~Delilah la Courtisane
 
-Saerileth m'a assuré que cette Delilah est un démon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple où nous pouvons être capable de trouver de l'aide pour dissiper les illusions démoniaques.~
+Saerileth m'a assurÃ© que cette Delilah est un dÃ©mon, mais nous ne pouvons l'occire sans damner les hommes qui sont avec elle. Nous devons trouver un temple oÃ¹ nous pouvons Ãªtre capable de trouver de l'aide pour dissiper les illusions dÃ©moniaques.~
 
 @5021 = ~Delilah la Courtisane
 
-J'ai refusé de venir en aide à ceux qui se sont fait attrapé par l'étreinte du démon. Ils ont apporté leur destin sur eux mêmes. Saerileth est attristée, mais approuve que leur punition est juste.~
+J'ai refusÃ© de venir en aide Ã  ceux qui se sont fait attrapÃ© par l'Ã©treinte du dÃ©mon. Ils ont apportÃ© leur destin sur eux mÃªmes. Saerileth est attristÃ©e, mais approuve que leur punition est juste.~
 
 @5022 = ~Delilah la Courtisane
 
-J'ai reçu du prêtre de Waukyne un parchemin qui possède la capacité de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorénavant visible.~
+J'ai reÃ§u du prÃªtre de Waukyne un parchemin qui possÃ¨de la capacitÃ© de dissiper les illusions. Ses pouvoirs fonctionneront contre la magie de l'enfer qui sera dorÃ©navant visible.~
 
 @5023 = ~Delilah la Courtisane
 
-La magie du parchemin a été un véritable succès. Qu'il s'agisse de la magie du parchemin ou des prières de Saerileth, je n'en suis pas certain. Cependant, cela a marché, et les démon a été forcé d'abandonner leur plan et de retourner aux Abysses.~
+La magie du parchemin a Ã©tÃ© un vÃ©ritable succÃ¨s. Qu'il s'agisse de la magie du parchemin ou des priÃ¨res de Saerileth, je n'en suis pas certain. Cependant, cela a marchÃ©, et les dÃ©mon a Ã©tÃ© forcÃ© d'abandonner leur plan et de retourner aux Abysses.~
 
 @5024 = ~Vaincre Khalabaxin
 
-J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+J'ai acceptÃ© la requÃªte de Sir Havun Clarenshide pour l'aider Ã  vaincre le dragon Khalabaxin. Je le trouverai prÃ©s de son nouveau repÃ¨re, la cave au delÃ  de la riviÃ¨re dans les collines d'Umar.~
 
 @5025 = ~Vaincre Khalabaxin
 
-J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner Ã  l'Ordre du Coeur Radieux et dire Ã  Sir Havun Clarenshide ce dont il s'agit.~
 
 @5026 = ~Vaincre Khalabaxin
 
-Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+Je suis retournÃ© Ã  l'Ordre du Coeur Radieux avec les nouvelles de ma dÃ©faite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais Ãªtre accompli.~
 
 @5027 = ~Vaincre les vampires
 
-Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+Sir Havun m'a informÃ© de l'existence d'un nid de vampires ici dans la citÃ©. Je suis de la partie pour les chercher et les dÃ©truire. Ils vivent dans les cryptes sous le cimetiÃ¨re. L'ordre enverra l'un de leur mage mercenaire pour m'aider Ã  percer la dÃ©fense du nid.~
 
 @5028 = ~Vaincre les vampires
 
-J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a Ã©chappÃ©. Elle possÃ¨de quelques informations intÃ©ressantes Ã  me communiquer... Elle savais que j'Ã©tais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires Ã  Sir Havun.~
 
 @5029 = ~Les Vampires vaincus
 
-Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~
+Je suis retournÃ© Ã  l'Ordre du coeur Radieux avec les nouvelles de ma dÃ©faite des vampires. L'Ordre m'a offert le passage Ã  Spellhold comme rÃ©compense!~

@@ -1,59 +1,59 @@
-@0 = ~Hmm... j'avais espéré que cela ne viendrait pas, mais vous êtes assigné à votre chemin, n'est ce pas?~ [BODHIX31]
-@1 = ~Vous êtes un pion, une marionnette pour un groupe d'officieux, des idiots vertueux. Ont ils daigné de vous informer qu'ils vous ont envoyé à la mort?~
-@2 = ~Mourrez, créature des ténèbres!~
+@0 = ~Hmm... j'avais espÃ©rÃ© que cela ne viendrait pas, mais vous Ãªtes assignÃ© Ã  votre chemin, n'est ce pas?~ [BODHIX31]
+@1 = ~Vous Ãªtes un pion, une marionnette pour un groupe d'officieux, des idiots vertueux. Ont ils daignÃ© de vous informer qu'ils vous ont envoyÃ© Ã  la mort?~
+@2 = ~Mourrez, crÃ©ature des tÃ©nÃ¨bres!~
 @3 = ~Si je suis un pion, alors le pion peut vaincre la reine. Regardez maintenant l'instrument de votre destruction!~
-@4 = ~Oh, Je suis persuadée que tout se terminera violemment. Vous êtes trop lunatique pour mes buts. Je me demandais juste si vous saviez à quel point on se servait de vous.~
+@4 = ~Oh, Je suis persuadÃ©e que tout se terminera violemment. Vous Ãªtes trop lunatique pour mes buts. Je me demandais juste si vous saviez Ã  quel point on se servait de vous.~
 @5 = ~Personne ne se sert de moi! Je travaille pour l'Ordre volontairement!~
 @6 = ~Pour l'instant, l'Ordre semble respecter son accord.~
-@7 = ~Vraiment? En êtes vous certain? Et si l'intérêt qu'il vous portent était bien plus que du simple mercenariat? Et s'ils savaient pertinemment qui vous êtes... et ce que vous êtes?~
-@8 = ~Vous semblez surpris. Je sais ce que vous êtes, enfant de Bhaal. Irenicus me l'a dit. Il aurait pu en apprendre plus, réveiller votre pouvoir, mais les paladins l'ont interrompu.~
-@9 = ~Que savez vous à propos d'Irenicus? Il a une dette envers moi pour ce qu'il a fait!~
+@7 = ~Vraiment? En Ãªtes vous certain? Et si l'intÃ©rÃªt qu'il vous portent Ã©tait bien plus que du simple mercenariat? Et s'ils savaient pertinemment qui vous Ãªtes... et ce que vous Ãªtes?~
+@8 = ~Vous semblez surpris. Je sais ce que vous Ãªtes, enfant de Bhaal. Irenicus me l'a dit. Il aurait pu en apprendre plus, rÃ©veiller votre pouvoir, mais les paladins l'ont interrompu.~
+@9 = ~Que savez vous Ã  propos d'Irenicus? Il a une dette envers moi pour ce qu'il a fait!~
 @10 = ~Que savez vous au sujet de ma capture?~
-@11 = ~Je veux savoir ce qu'il sait! Si vous détenez cette connaissance, j'exige que vous m'en fassiez part!~
-@12 = ~Il y a plus de choses que votre pauvre cerveau ne pourrait en assimiler dans toute une vie. Il y a tant de choses qui se passent sous votre nez; tant de choses que vous ne voyez pas. Même Imoen vous a échappé.~
-@13 = ~On a enlevé Imoen! Je la retrouverai! Et je trouverai cet Irenicus!~
-@14 = ~Irenicus ne semble pas le genre d'homme à tolérer des gens auprès de lui. Pourquoi étiez vous là bas?~
+@11 = ~Je veux savoir ce qu'il sait! Si vous dÃ©tenez cette connaissance, j'exige que vous m'en fassiez part!~
+@12 = ~Il y a plus de choses que votre pauvre cerveau ne pourrait en assimiler dans toute une vie. Il y a tant de choses qui se passent sous votre nez; tant de choses que vous ne voyez pas. MÃªme Imoen vous a Ã©chappÃ©.~
+@13 = ~On a enlevÃ© Imoen! Je la retrouverai! Et je trouverai cet Irenicus!~
+@14 = ~Irenicus ne semble pas le genre d'homme Ã  tolÃ©rer des gens auprÃ¨s de lui. Pourquoi Ã©tiez vous lÃ  bas?~
 @15 = ~Que nous voulait il? De quel pouvoir parlait il?!~
-@16 = ~Vous auriez pu réussir dans les deux cas si les circonstances avaient été différentes, mais maintenant je crains qu'il n'y ait qu'une seule issue à cette conversation.~
-@17 = ~Je suis lasse de cette conversation. Vous avez posé vos question et formulé vos menaces, et je m'y suis pliée mais maintenant c'est terminé.~
+@16 = ~Vous auriez pu rÃ©ussir dans les deux cas si les circonstances avaient Ã©tÃ© diffÃ©rentes, mais maintenant je crains qu'il n'y ait qu'une seule issue Ã  cette conversation.~
+@17 = ~Je suis lasse de cette conversation. Vous avez posÃ© vos question et formulÃ© vos menaces, et je m'y suis pliÃ©e mais maintenant c'est terminÃ©.~
 @18 = ~Parfait! Les adversaires qui parlent trop me rendent malade!~
-@19 = ~J'aimerais savoir d'autres choses. Vous pourriez m'éclairer sur ma situation.~
-@20 = ~Alors vous êtes ici pour me détruire? Je n'ai donc plus d'intérêt pour cet Irenicus?~
+@19 = ~J'aimerais savoir d'autres choses. Vous pourriez m'Ã©clairer sur ma situation.~
+@20 = ~Alors vous Ãªtes ici pour me dÃ©truire? Je n'ai donc plus d'intÃ©rÃªt pour cet Irenicus?~
 @21 = ~Cela me va! Que cela se termine par votre mort! Je m'occuperai alors d'Irenicus!~
-@22 = ~J'étais là bas car j'avais choisi d'y être. C'est le devoir de n'importe quelle soeur qui se respecte. Bien entendu, ce n'est pas le genre de choses que vous pouvez comprendre puisque ceux qui vous entourent en sont incapables.~
-@23 = ~Peut être ne posez vous pas ces questions à la bonne personne. Cela n'a aucune importance, maintenant, puisque vous ne sortirez pas d'ici vivant.~
-@24 = ~Il viendra une temps où vous apprendrez à évaluer vos mots. Bien entendu le combat peut nous apprendre aussi bien. Venez maintenant, essayons chacun d'apprendre une ou deux choses.~
-@25 = ~Je ne crois pas qu'on m'ait jamais accusé 'd'éclairer' qui que ce soit. Non, je ne suis pas ici pour enseigner, bien que l'on puisse apprendre beaucoup au combat. Venez maintenant, essayons chacun d'apprendre une ou deux choses.~
-@26 = ~Il y a beaucoup à apprendre dans l'épreuve. Vous êtes tellement curieux. Venez maintenant, essayons chacun d'apprendre une ou deux choses.~
-@27 = ~Hé bien, cela a plutôt été... enrichissant. J'en ai vu assez, et je n'ai plus besoin de vous... pour l'instant.~ [BODHIX32]
-@28 = ~Vous ne m'échapperez pas aussi facilement!~
-@29 = ~Quelle sorte de créature êtes vous? Est ce que tout cela n'est qu'un jeu pour vous?~
-@30 = ~Hé bien retournez ramper aux pieds de votre maître. Je le verrai bien assez tôt.~
-@31 = ~Oh que si! Il n'y a aucune raison d'en finir ici. Vous pouvez encore être utile à Irenicus là où il se trouve.~
-@32 = ~Peut être, mais les jeux peuvent être terriblement sérieux, surtout quand je suis la seule à en connaître les règles. Persévérez, et recherchez votre Imoen perdue; J'ai vu ce que j'étais venue voir.~
-@33 = ~Oh, je ne fuis pas par crainte de votre colère. Nourrissez la par tous les moyens, et sachez l'utiliser à bon escient. Persévérez, et recherchez votre Imoen perdue; J'ai vu ce que j'étais venue voir.~
+@22 = ~J'Ã©tais lÃ  bas car j'avais choisi d'y Ãªtre. C'est le devoir de n'importe quelle soeur qui se respecte. Bien entendu, ce n'est pas le genre de choses que vous pouvez comprendre puisque ceux qui vous entourent en sont incapables.~
+@23 = ~Peut Ãªtre ne posez vous pas ces questions Ã  la bonne personne. Cela n'a aucune importance, maintenant, puisque vous ne sortirez pas d'ici vivant.~
+@24 = ~Il viendra une temps oÃ¹ vous apprendrez Ã  Ã©valuer vos mots. Bien entendu le combat peut nous apprendre aussi bien. Venez maintenant, essayons chacun d'apprendre une ou deux choses.~
+@25 = ~Je ne crois pas qu'on m'ait jamais accusÃ© 'd'Ã©clairer' qui que ce soit. Non, je ne suis pas ici pour enseigner, bien que l'on puisse apprendre beaucoup au combat. Venez maintenant, essayons chacun d'apprendre une ou deux choses.~
+@26 = ~Il y a beaucoup Ã  apprendre dans l'Ã©preuve. Vous Ãªtes tellement curieux. Venez maintenant, essayons chacun d'apprendre une ou deux choses.~
+@27 = ~HÃ© bien, cela a plutÃ´t Ã©tÃ©... enrichissant. J'en ai vu assez, et je n'ai plus besoin de vous... pour l'instant.~ [BODHIX32]
+@28 = ~Vous ne m'Ã©chapperez pas aussi facilement!~
+@29 = ~Quelle sorte de crÃ©ature Ãªtes vous? Est ce que tout cela n'est qu'un jeu pour vous?~
+@30 = ~HÃ© bien retournez ramper aux pieds de votre maÃ®tre. Je le verrai bien assez tÃ´t.~
+@31 = ~Oh que si! Il n'y a aucune raison d'en finir ici. Vous pouvez encore Ãªtre utile Ã  Irenicus lÃ  oÃ¹ il se trouve.~
+@32 = ~Peut Ãªtre, mais les jeux peuvent Ãªtre terriblement sÃ©rieux, surtout quand je suis la seule Ã  en connaÃ®tre les rÃ¨gles. PersÃ©vÃ©rez, et recherchez votre Imoen perdue; J'ai vu ce que j'Ã©tais venue voir.~
+@33 = ~Oh, je ne fuis pas par crainte de votre colÃ¨re. Nourrissez la par tous les moyens, et sachez l'utiliser Ã  bon escient. PersÃ©vÃ©rez, et recherchez votre Imoen perdue; J'ai vu ce que j'Ã©tais venue voir.~
 
 
 @5024 = ~Vaincre Khalabaxin
 
-J'ai accepté la requête de Sir Havun Clarenshide pour l'aider à vaincre le dragon Khalabaxin. Je le trouverai prés de son nouveau repère, la cave au delà de la rivière dans les collines d'Umar.~
+J'ai acceptÃ© la requÃªte de Sir Havun Clarenshide pour l'aider Ã  vaincre le dragon Khalabaxin. Je le trouverai prÃ©s de son nouveau repÃ¨re, la cave au delÃ  de la riviÃ¨re dans les collines d'Umar.~
 
 @5025 = ~Vaincre Khalabaxin
 
-J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner à l'Ordre du Coeur Radieux et dire à Sir Havun Clarenshide ce dont il s'agit.~
+J'ai vaincu le dragon Khalabaxin. Je vais maintenant retourner Ã  l'Ordre du Coeur Radieux et dire Ã  Sir Havun Clarenshide ce dont il s'agit.~
 
 @5026 = ~Vaincre Khalabaxin
 
-Je suis retourné à l'Ordre du Coeur Radieux avec les nouvelles de ma défaite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais être accompli.~
+Je suis retournÃ© Ã  l'Ordre du Coeur Radieux avec les nouvelles de ma dÃ©faite du dragon Khalabaxin. Le travail de l'Ordre ne semble jamais Ãªtre accompli.~
 
 @5027 = ~Vaincre les vampires
 
-Sir Havun m'a informé de l'existence d'un nid de vampires ici dans la cité. Je suis de la partie pour les chercher et les détruire. Ils vivent dans les cryptes sous le cimetière. L'ordre enverra l'un de leur mage mercenaire pour m'aider à percer la défense du nid.~
+Sir Havun m'a informÃ© de l'existence d'un nid de vampires ici dans la citÃ©. Je suis de la partie pour les chercher et les dÃ©truire. Ils vivent dans les cryptes sous le cimetiÃ¨re. L'ordre enverra l'un de leur mage mercenaire pour m'aider Ã  percer la dÃ©fense du nid.~
 
 @5028 = ~Vaincre les vampires
 
-J'ai vaincu les vampires, mais la leader, Bodhi, m'a échappé. Elle possède quelques informations intéressantes à me communiquer... Elle savais que j'étais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires à Sir Havun.~
+J'ai vaincu les vampires, mais la leader, Bodhi, m'a Ã©chappÃ©. Elle possÃ¨de quelques informations intÃ©ressantes Ã  me communiquer... Elle savais que j'Ã©tais un enfant de Bhaal! Je vais maintenant rapporter la destruction des vampires Ã  Sir Havun.~
 
 @5029 = ~Les vampires vaincus
 
-Je suis retourné à l'Ordre du coeur Radieux avec les nouvelles de ma défaite des vampires. L'Ordre m'a offert le passage à Spellhold comme récompense!~
+Je suis retournÃ© Ã  l'Ordre du coeur Radieux avec les nouvelles de ma dÃ©faite des vampires. L'Ordre m'a offert le passage Ã  Spellhold comme rÃ©compense!~
